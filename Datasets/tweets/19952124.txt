@@ -1,0 +1,152 @@
+RT @wesbury: Im seriously confused...if you’re President, a Supreme Court Justice, or Senator; showing anger is a sign of ill-tempermant.…
+RT @AriFleischer: “Here, ladies and gentleman, is your real election interference and collusion: between the massive, all-powerful and unac…
+@sap_aws @applebyj for when to automatically push data from one tier to the next.  DLM can work with data in HANA, HANA Dynamic Tiering, HANA Extension Node, IQ, Hadoop, Data Hub Vora, or SCP BDS. 		Dynamic Tiering – https://t.co/zrfSA1ceCh 	HANA SQL Data Warehousing – https://t.co/BEAwL3kq3k
+@sap_aws @applebyj and should not be confused with the HANA native SQL big data warehousing tiering strategy, which does include native IQ as an option.  The HANA Data Warehousing Foundation’s DLM tool is very easy to use to create rules
+@sap_aws @applebyj where we have another HANA instance.  Advantages of the Extension Node are that the HANA application does not need any changes and all the analytical engines are built directly into the HANA server.  NLS with IQ (or Hadoop although slower query speeds) is a BW implementation
+@sap_aws @applebyj so there is no need for a separate compression license or any compression process.  Dynamic Tiering is already certified on AWS, which makes HANA agile data marts and data warehousing simpler on AWS.  A separate warm tier option to Dynamic Tiering is an Extension Node
+@sap_aws @applebyj across both HANA in-memory hot tier and dynamic tiering disk warm tier, making it transparent to query across both hot and warm tiers.  Both HANA (hot) and Dynamic Tiering (warm) have high compression natively built-in from the ground up
+@sap_aws @applebyj Part of the confusion comes in that the DTO strategy is focused on BW/4HANA in general rather than on native SQL HANA data warehousing, so some of the emphasis is slightly different.  Dynamic Tiering is integrated inside HANA and includes Multistore tables for partitioning data
+RT @Interior: This stunning #sunrise of Reflection Canyon by Yang Lu is the winner of the Share The Experience photo contest #Utah https://…
+@johnsbarton Love the view!  Hope you get some down time and enjoy the links...
+RT @tomcbs4: Awesome picture of #IndependencePass courtesy of #LarsLeber  @BarbaraCarol #Colorado https://t.co/0DsWWuUn4w
+RT @Interior: Absolutely unreal! Vermillion Cliffs National Monument by Scotty Perkins #Arizona https://t.co/yPR0GncYQ7
+@JRubinBlogger 10 Anti-Cruz tweets in the last several minutes.  Are you ok or just biased?
+What the Constitution Really Says About Race and Slavery https://t.co/xBulKenwsr @DailySignal
+RT @RealJamesWoods: So who in Obama admin. gets charged for the betrayal of Seal Team 6? Criminal charges recommended against Petraeus http…
+RT @CSLewisDaily: The Past is frozen and no longer flows, and the Present is all lit up with eternal rays. #CSLewis | #HappyNewYear | http:…
+RT @creepingsharia: Muslim scholars agree: Saying Merry Christmas is the Worst Sin Ever (VIDEO) http://t.co/gBkVvIDLe5 #tcot #a4a #lnyhbt
+RT @VRWCTexan: 25 Dec 1776 	In Freezing sleet: 2,400 troops, 18 cannon, 50 horses cross the Delaware.	The Password: #VictoryOrDeath	 http:/…
+RT @BobG231: Sheryl Attkisson reveals CBS Intentionally Held Obama Incriminating Soundbite to Help Him Win Reelection - Breitbart http://t.…
+RT @OnlyInBoulder: Probably my most favorite pic of  #Colorado	https://t.co/iO4KOlE9ES	(Mt @AlpenLux #Boulder #Colorado #ColorfulColorado #…
+RT @IBDeditorials: Obama Didn't Spread the Wealth, He Concentrated It, Pew Study Finds  http://t.co/Su3ZCRo3bw #tlot #tcot
+RT @jstines3: Matters not what Al Gore and Global Warming Nazis choose to call it...	#PJNET 	#TCOT 	#LNYHBT 	#RedNationRising http://t.co/7…
+RT @billpostmus: FBI Report Confirms Crime Fell While Gun Purchases Soared in 2013 - http://t.co/fQiqQ8ibTK #NRA #2A (via @BreitbartNews)
+RT @LindaSuhler: Poll: Nearly Two-Thirds of Americans Agree a Gun Makes the Home Safer #2A #SisterPatriots  http://t.co/H1q7ft9eO2
+RT @Gooms: @DLoesch O-Care pays for free birth control (it's a "right") but paid nothing towards my MRI. Just got my $1,200 BILL http://t.c…
+RT @brithume: For the record, I said this in October, 2013. It is still ricocheting around on Twitter but note the words "to date." http://…
+RT @mikandynothem: There is a reason why...we have the Statue of Liberty, not the Statute of Equality. ~@krauthammer #tcot #pjnet http://t.…
+RT @foxandfriends: 98-yr-old WWII veteran Justus Belfield before he passed away yesterday - the way he wanted, dressed in his uniform. http…
+RT @elderofziyon: The Flag of Palestine, 1939	http://t.co/HH4S3ErRHH http://t.co/BkTdnFBh6e
+RT @ReaganCoalition: Former FBI Official Unloads on Obama and Holder Over Ferguson http://t.co/RP9OAGNL00
+RT @EBrownISU: Couldn't be more proud #9-1 This team is special y'all 😏 @ISURedbirds http://t.co/9fvIZL59YR
+RT @SteveForbesCEO: #Obamacare architect: "Stupidity of the American voter" why we hid program's true cost. http://t.co/GAVMcyczPL
+RT @WashTimes: Joseph Smith wed 40 wives, #Mormon church says - http://t.co/NVpqeFjnBO http://t.co/WKckjfdNKO
+RT @DRUDGE_REPORT: Dem candidates spent $700k flying in the Clintons... http://t.co/VYoxGh8p5l
+RT @TPNNtweets: The ‘Gun Control Debate’ is Over: 90% of #NRA-Backed Candidates Won Election http://t.co/NEiJJAOGqh #2A #Midterms2014
+RT @marklevinshow: Bill Whittle: Now that the GOP won the Senate, give it back to the state legislatures... http://t.co/QShlbxf0Et
+RT @haaretzcom: Neanderthal DNA reveals ancestral link with modern Europeans http://t.co/qfHiC1lLo7 http://t.co/PoTpWiJdin
+RT @TeaPartyNevada: Here's What a Republican Takeover Looks Like http://t.co/q1AADxZ5UY http://t.co/2eqYq5NcR5
+RT @philipaklein: Updated to reflect Udall’s loss: 26 senators who voted for Obamacare won't be part of new Senate http://t.co/T3Cg77Dba3
+RT @Reince: Historic win for @votetimscott! The first African American EVER voted to both the House &amp; Senate. #SCSen http://t.co/r2xT6uiNMs
+RT @standdown1976: Attkisson: Obama Personally Stepped in to Hide Docs on My Fast &amp; Furious Investigation http://t.co/ni04LPzhx2 via @Breit…
+RT @marklevinshow: This is appalling http://t.co/eiofTmUhg2
+RT @JessicaChasmar: Pro-gun author Dana Loesch cancels book signing at #gun-free campus citing safety concerns http://t.co/UN5ilfKLkA http:…
+NOVEMBER 3RD PM BALLOT RETURNS: Republicans Expand Vote Lead to 120K http://t.co/3voEdssPWA via @@COpeakpolitics
+RT @BreitbartNews: Attkisson Releases Video of Alleged Computer Hacking: On Friday, former CBS Investigative Correspondent Sharyl... http:/…
+OCTOBER 31 BALLOT RETURNS: Things Are Getting Scary for Democrats http://t.co/fg0Vp2up3L via @@COpeakpolitics
+OCTOBER 29 BALLOT RETURNS: Republicans Maintain Ballot Return Leads http://t.co/xDMMHO014L via @@COpeakpolitics
+RT @jjauthor: Americans hurt by #Obamacare? Oops! Harry @SenatorReid says you’re a liar. Shame on him – again! #tcot #FlipTheSenate http://…
+RT @philipaklein: Reagan on 10/27/64: "a government bureau is the nearest thing to eternal life we'll ever see on this earth” http://t.co/i…
+RT @BillKristol: Federalist #1 published 227 years ago today: America as experiment. Mankind capable of good govt from reflection and choic…
+RT @JosephMRyan1: RT @jjauthor: Unfounded name calling is the perfect refuge of trolls with no argument!	@ZKotek @GreyCanon http://t.co/iiO…
+RT @SenRandPaul: Small IA biz violated by #IRS. Even @NYTimes sees the inhumanity in it. 4th Amendment needs a rebirth. http://t.co/EFIJmYU…
+John Ransom - Greenpeace Founder: No Risk in Global Warming http://t.co/tzto79HeUe
+At airport and ran into Congressman Cory Gardner who got my aisle seat when I was upgraded
+RT @irritatedwoman: Amazing Device Could Detect Cancer in Just One Drop of Blood http://t.co/9Wojjskywk
+RT @FoxNews: #FA18 Super Hornet jet approaches #speedofsound, producing a transonic vapor cone at the Oceana Naval Air Station http://t.co/…
+RT @mashable: I am an astronaut. Here's the world as I see it http://t.co/JH3J0Io8vM by @Cmdr_Hadfield http://t.co/HR395enbts
+RT @CoryGardner: NEW video: I’ve been honored to receive the endorsements of some of CO's largest newspapers. http://t.co/LdpiygLu8e #copol…
+RT @jjauthor: An old West Virginia Hillbilly saying: You cannot get the water to clear up, until you get the pigs out of the creek. http://…
+RT @GDBlackmon: Yeah, but there was no politics involved, right?  Sure, you bet.:  Perry Grand Juror Was An Active Dem Party Delegate http:…
+RT @GenOpp: Fun facts: Founding Fathers were young when they created America? Check it out! --&gt; http://t.co/OjMcj621PQ http://t.co/BnpVktqE…
+RT @AHMalcolm: Thank goodness for global warming or this winters snows would have been unbelievable http://t.co/ySvaQWDnJO  http://t.co/oTB…
+RT @foxandfriends: What was your favorite #Oscar moment? http://t.co/bCmBqHVYwA
+I think the Broncos will be Super Bowl champs. Get ready to light up the Empire State Building orange, @VerizonWireless! #WhosGonnaWin
+RT @MeredithFrost: Very cool long exposure shot of a Boeing 757 taking off at night (Image/Kris Klop) http://t.co/IefC4kurre http://t.co/vU…
+@jfrank79 How was the snow and traction?
+RT @michelekirkBPR: Trey Gowdy’s 5-minute takedown of The NY Times http://t.co/WFuGvkFzCz Via @BizPacReview
+RT @stephenfhayes: Is a Congress that passes fewer laws really "worse?"
+RT @TheFakeESPN: Top 5 things Alabama hates:	5. LSU 	4. Auburn	3. Life	2. Backup Kickers	1. Starting Kickers
+Health Care Plans: http://t.co/aUKTbC3NeE via @youtube
+RT @burgessev: .@SenatorDurbin on this fall: "The strategic helium reserve bill is really the centerpiece of what we’ve done" http://t.co/V…
+RT @DougCOGOP: Colo. man signs up for his insurance, his dog gets covered instead http://t.co/6vOwTy589L via @kdvr #FullRepeal #copolitics …
+RT @SashTam: .@jjauthor Could we please stop calling these "reporters" "journalists" - they are the Palace Guard! #tcot http://t.co/MV1L70W…
+@Cyclingnewsfeed m#9NEWSHeadlines
+WAKE-UP CALL: Morse, Bloomberg Defeated, Colorado Democrats Not Invincible After All - http://t.co/zYvQ2CbDgG
+I got a free Twitboat in Ninja Fishing and I still can't stop playing! http://t.co/70yqkZVGCF #addicted #dontbotherme #ninjafishing
+RT @politico: Poll: 71 percent of Americans think the founding fathers would be disappointed with how the U.S. turned out -- http://t.co/Zc…
+RT @brithume: When I was young, America had freedom of speech. Not now. An obviously sarcastic comment on Facebook leads to jail. http://t.…
+@jfrank79 Wow, that is intense!  I played basketball for 90 minutes this morning and am trashed!
+RT @johnsbarton: #SAP announces #SybaseIQ 16 the for extreme-scale DW and #BigData analytics with dramatic affordability and efficiency  ...
+@markdmumy Back on the approved travel list?
+@adventuregirl Colorado sunsets - https://t.co/LtKbenOr
+@PastorGaryByers We are ready for your Ravens, Gary!
+RT @SenRandPaul: The Senate just rejected 4th Amendment protections for your e-mails and texts. http://t.co/hqRrR5V2
+RT @jaketapper: .@adamsbaldwin More soldier suicides than combat deaths in 2012&gt; http://t.co/0vY6Feat
+@jfrank79 Conquer that pain!!
+@breeves2000 Sorry was not wondering ;)
+@DanaPerino I've seen this when other email addresses got added to that contact. Check you husbands contact info.
+@breeves2000 let me know when you figure it out!
+@PastorGaryByers Need that fixed for Hammam excavation!
+@jfrank79 Why was Wildcat Mountain closed? Another eagle nest?
+@tomcbs4 Got to love Peanuts!
+@jfrank79 Cool. I'm headed to answer questions for WaterWorld for some $.
+@jfrank79 Map looks fine now. You have stop signs and lights with routes through town like that?
+Fun sitting on the ground in a packed auditorium learning about son's ACT and SAT
+@jfrank79 @equinoxbrewing Is that gluten-free?
+@coloradorex1 @jfrank79 I see the elevation profile now but the map says "This activity's map is private."
+@jfrank79 How do I see your map? Am I not a friend?
+RT @SenatorGrantham: Thanksgiving Proclamation - Issued by President George Washington, at the request of Congress, on (more.. https://t ...
+@johnsbarton Way to go John!
+@PastorGaryByers Gary, it's been great to hear about all of the wonderful life changes going on in your ministry and work. Keep it up!
+@davidefish Michele and our son Jonah are in the line somewhere...
+@jfrank79 staying for the hurricane?
+@jfrank79 congrats Jeremy!
+@jfrank79 Keep it up Jeremy! You are awesome and we believe in you!
+@coloradorex1 @jfrank79 No way but I'll try to cheer you on! Go Jeremy!
+@jfrank79 Running the HR Backcountry Marathon?
+RT @lancearmstrong: My official statement re: @usantidoping's pitiful charade http://t.co/sSRadWD0
+@breeves2000 Getting your artistic side going?
+@jfrank79 Not enough heat here?
+RT @RepMcNulty: Pres Obama-your statement that the private sector is doing fine = definition of being out of touch! #coleg #copolitics h ...
+RT @libertarianism: Perhaps one of the most important accomplishments of my administration has been minding my own business. – Calvin Co ...
+RT @RepMcNulty: For my take on @hickforco special session read here: http://t.co/H6iepYmd #coleg
+RT @RepMcNulty: House is in for Hickenlooper's Special Session-will @hickforco push same sex marriage or join @COHouseGOP priority of cr ...
+RT @SenatorBrophy: I have to show 2 forms of ID to keep my PO Box. Why no picture ID to vote? Why do Dems support voter fraud? Steal ele ...
+@lynn_bartels only the Ron Paul people who previously cheered Suthers
+@lynn_bartels you want us to die waiting on 850 fifteen-second speeches before voting on a slate?
+@BlueCarp we are voting now
+RT @ByronYork: MT @MartiMcKenna: Amazing HD images from 1940s USA. http://t.co/BC3uBUvo
+RT @ShannonBream: SCOTUS heathcare tidbit:  Justices appointed two OUTSIDE attorneys to also argue portions of the case that neither sid ...
+RT @ColoSecofState: Denver Post Editorial: Want to vote? Show your ID http://t.co/dSBvMSws
+RT @lynn_bartels: Good story by Karen Crummy on how Dem $ paid off in Colorado's 2010 election.  #copolitics #coleg http://t.co/9sCWMkev
+RT @stephenfhayes: And yet Romney has won 8 states (NH, FL, NV, ME, WA, ID, MA, VA) by more than the combined total of Gingrich/Santorum ...
+RT @michellemalkin: State-level bloggers/think tank-ers are ripping the lid off Colorado's Solyndra http://t.co/qJevEO04 @completecolora ...
+RT @hughhewitt: The significance of the Gospel of Mark discovery: An interview with Dr. Daniel Wallace: http://t.co/OuY6xEqr #tcot #hhrs
+RT @JRubinBlogger: http://t.co/YWD0yYKN debate roundup.. . romney brings the heat
+@TrailBlazeNow Way to go, Holt!
+@EWErickson @POLITICO Why do we need dems when we have people like you on our side? Can't wait to see you wrong regardless of the economy.
+RT @marthamaccallum: To whom much is given much is expected.... does that include the Government? Just asking...
+Must see Judge Naplitano speech - http://t.co/kj8C4XbV
+@EWErickson Why didn't Rick Santorum win then?
+RT @Chris_Holbert: Colorado sets standard for unsustainable pension payouts: http://nyti.ms/dZEnvk
+Accidentally saw Janet Napolitano with her entourage drive by in New York City yesterday. Lucky me...
+@CristaHuff Why is the Colorado Caucus in March and the Primary is not until August, only 2.5 months before General Election?
+Douglas County Republican Party Picnic Photos at Wien Ranch - http://picasaweb.google.com/rexgeissler
+Enjoying new Highlands Ranch HRCA Back Country trails with photos and maps following - http://www.greatcommission.com/trails/
+Photos of Highlands Ranch Veterans Memorial Dedication - http://picasaweb.google.com/rexgeissler
+33% of Denver's annual average precipitation in one spring snowstorm, nice!
+Colorado Spring Snowstorm Photos - http://picasaweb.google.com/rexgeissler
+Denver Tax Day Tea Party Photos - http://tinyurl.com/cgx8nq
+http://twitpic.com/2mmgy - Aurora City Councilman Ryan Frazier speaks at Lincoln Day Dinner, Douglas County Republicans, Colorado
+http://twitpic.com/2mme1 - Colorado State Senator Tom Wiens expresses interest in running for Governor at Lincoln Day Dinner, Douglas Co ...
+http://twitpic.com/2mmbx - Congressman Mike Coffman speaks at Lincoln Day Dinner, Douglas County Republicans, Colorado
+http://twitpic.com/2mm2z - President Abraham Lincoln and Mary Todd Lincoln attend Lincoln Day Dinner, Douglas County Republicans, Colorado
+http://twitpic.com/2mm2i - President Abraham Lincoln and Mary Todd Lincoln attend Lincoln Day Dinner, Douglas County Republicans, Colorado
+http://twitpic.com/2mlpy - Drum & Fife Core at Lincoln Day Dinner, Douglas County Republicans, Colorado
+http://twitpic.com/2mlmt - Drum & Fife Core at Lincoln Day Dinner, Douglas County Republicans, Colorado
+http://twitpic.com/2mlf6 - Presentation of the Colors at Lincoln Day Dinner, Douglas County Republicans, Colorado
+http://twitpic.com/2mkrh - Mount Ararat Shepherd with Goats and Sheep
+Photos from the Denver Tea Party - http://tinyurl.com/c9zbax
+Enjoying the Denver Tea Party
+Specter says that something must be done. But why do the wrong thing? And to be 3 out of 219 republicans to vote for it is upsetting...

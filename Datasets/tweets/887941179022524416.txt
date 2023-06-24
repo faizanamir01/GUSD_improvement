@@ -1,0 +1,852 @@
+RT @newsyc300: Books I Recommend https://t.co/h9GfTPTGkD (https://t.co/Ihg41YORKh)
+RT @newsyc300: Linux Desktop Setup https://t.co/nc4FB6Ums2 (https://t.co/grhl0aS4Ai)
+RT @newsyc300: Pi-Hole  A black hole for Internet advertisements https://t.co/FlL4v0fAqH (https://t.co/CQNTwZu5om)
+RT @newsyc300: Redis Turns 10  How it started with a single post on Hacker News https://t.co/bP82paGrIi (https://t.co/xOLdCDhcrc)
+RT @newsyc300: WireGuard for MacOS https://t.co/eqWILgD5hB (https://t.co/VyItgiLOJy)
+RT @newsyc300: I took 50,000 images of the night sky to make an 81 Megapixel image of the https://t.co/Nzn0kSonwg (https://t.co/YCjuNqiJ2G)
+RT @newsyc300: A faster, more efficient cryptocurrency https://t.co/k5g3D7lOIi (https://t.co/H4bxwHwDm1)
+RT @devonzuegel: What is a book that was so good that after reading it, you went and bought everything published by the author?
+RT @infoqchina: 谷歌NLP深度学习模型BERT特征的可解释性表现怎么样？  https://t.co/b15YTtJ6rw https://t.co/BeZZRkX7Mv
+RT @newsyc300: Google terminated our business via our Google Play Developer Account https://t.co/fqdmSkuMRY (https://t.co/DZE9u0wJHj)
+RT @newsyc300: Modern Robotics: Mechanics, Planning, and Control  Free Textbook (2017) https://t.co/AjkUe4aQVH (https://t.co/WhDAeV8Pdb)
+RT @newsyc300: A 26,000-Year Astronomical Monument Hidden in Plain Sight https://t.co/VQpzYEt8XR (https://t.co/0qZqC1C95T)
+RT @newsyc300: FindChips  Get instant insight into any electronic component https://t.co/WtrBuONiLn (https://t.co/Hqp1wQGHqk)
+RT @wanquribao: 【LLCs vs C Corporations】由 side projects 演化成的小打小闹的公司一般用LLC，LLC在IP/资产的分配上更自由，交税方面也更友好。 https://t.co/MMJ0QBI4ox
+RT @newsyc300: Bye, Bye, Google https://t.co/6GGlRdKEuR (https://t.co/VWNtrosnDT)
+RT @newsyc300: Lambda and serverless is one of the worst forms of proprietary lock-in (20 https://t.co/DvX7iVKERz (https://t.co/6drE3M7gV0)
+RT @newsyc300: A Humility Training Exercise for Technical Interviewers https://t.co/Ik12vQlnTa (https://t.co/6wUt25huKb)
+RT @newsyc300: MIT Hacker Tools: a lecture series on programmer tools https://t.co/jJAz0P6Xd8 (https://t.co/iNaLCuNhxA)
+RT @Leaskh: 求教安卓的冰箱应用哪个好？主要是用来关住国产app。最好有假gps，假相册，假摄像头mock up之类的。
+RT @newsycbot: WTF is image classification? (Conquering neural networks for the curious) https://t.co/zvO5JrYcre (cmts https://t.co/MlA4TA4…
+RT @newsyc300: Browse State-of-the-Art Machine Learning Papers with Code https://t.co/sgu2a7t0tK (https://t.co/p5TiLVaZYc)
+RT @newsyc300: More Google Employees Are Losing Faith in Their CEO's Vision https://t.co/tEVoWRrJv2 (https://t.co/7ISW31mSYf)
+RT @infoqchina: 华泰证券：如何自研高效可靠的交易系统通信框架？  https://t.co/JdANg5vyTj https://t.co/2LjkrjVy6j
+RT @infoqchina: 才云开源 Nirvana：Golang REST API框架  https://t.co/eYhNBhkqGx https://t.co/MfkE5aIdbr
+RT @wanquribao: 【让我爸妈使用Linux，大大减小了我进行技术支持的时间】所以，对老年人来说，Win 10 比 Ubuntu 难用？多数人对桌面电脑的需求只是一个大屏幕的浏览器而已。 https://t.co/FvJy6D9sG8
+RT @newsyc300: Dropgangs, or the future of darknet markets https://t.co/TaQKYQ5ZyM (https://t.co/WGs5fgCwYl)
+RT @newsyc300: Google Earth Reverse Engineering https://t.co/Ifk0KW8bsA (https://t.co/IIv61vNIcl)
+RT @newsyc300: Notion  All-in-one workspace for notes, tasks, wikis, and databases https://t.co/dI11SnNWZa (https://t.co/Vd3Ou74gdF)
+RT @newsyc300: A three-page paper that shook philosophy, with lessons for software engine https://t.co/gnSXQr7htF (https://t.co/Z0EWZvoFKC)
+RT @newsyc300: An Almost-Secret Algorithm Researchers Used to Break Thousands of RSA Keys https://t.co/4yPbSuz8sa (https://t.co/MGsHhGJYrB)
+RT @newsyc300: How to teach Git https://t.co/eJjWeZWhIc (https://t.co/ycvOQsTLse)
+RT @wanquribao: 【写给自己的软件工程笔记】Keras 的开发者 François Chollet 整理的笔记，金句不少。关于软件开发流程、API 设计、职场等方面的思考。 https://t.co/iuXgDAjYCL
+RT @wanquribao: 【沉默的会议】Square公司里一些人的开会方式：每人打开Google Docs文档静静地阅读，可在文档上评论以及回复评论；30分钟后，有的放矢地说话、讨论。如此，内向、不自信的人的声音能在文档上被“听”到 https://t.co/waojyF…
+RT @wanquribao: 【Notebook Innovation at Netflix】介绍了 Netflix 公司内部搞的 Jupyter Notebook 的 infrastructure，方便公司内的员工使用 Jupyter Notebook 进行数据分析相关的操…
+RT @yousuck2020: ZOZOTOWN新春セールが史上最速で取扱高100億円を先ほど突破！！日頃の感謝を込め、僕個人から100名様に100万円【総額1億円のお年玉】を現金でプレゼントします。応募方法は、僕をフォローいただいた上、このツイートをRTするだけ。受付は1/…
+RT @wanquribao: 【在算法横行的时代，如何发现好听的新歌】采访了一帮在媒体圈子里工作的人。基本上最有效的办法仍是口碑传播，靠朋友推荐、浏览一些网站的（人类手动挑选的）推荐、电视广播，一小部分靠音乐播放平台算法推荐，但很少有真正让人喜欢的、持久听下去的 https:…
+RT @newsyc300: Start with a Website, Not a Mobile App https://t.co/Vvnsmb84Kp (https://t.co/QT6670BMWi)
+RT @newsyc300: Ask HN: Go-to web stack today? https://t.co/K7XeBpJUgm
+RT @wanquribao: 【Bye bye Mongo, Hello Postgres】这是一篇写得相当好的文章。The Guardian 放弃使用 MongoDB（不稳定、咨询费太贵又没用），迁移到 Postgres。本文记录了为什么启用 MongoDB，以及详尽的迁移…
+RT @newsyc300: AT&amp;T; will put a fake 5G logo on its 4G LTE phones https://t.co/0JXpKNltHQ (https://t.co/SFulevEECG)
+RT @YuHelenYu: Ex-Google engineer claims first driverless trip across US. #AutonomousVehicles no longer #sciencefiction. @ipfconline1 @sall…
+RT @GreatFireChina: The Chinese authorities are hacking into Chinese Twitter accounts by intercepting two-factor authentication SMS message…
+RT @historylvrsclub: Breakfast at Tiffany's (1961) https://t.co/hNi6FcL0aS
+RT @wanquribao: 【A Bitter Guide To Open Source】搞一个开源项目就像搞一家创业公司，你花最多时间做的大部分的事情都不是那么酷：写自然语言（而不是写代码）、经营社区、营销、与网络暴力做斗争（如果你红了的话）、很琐碎的维护工作等。 htt…
+RT @karpathy: Chrome: Cmd+w: closes current tab. Empirical usage: 100 times / day. Cmd+q (1cm to the left): nuke every single one of your 2…
+RT @newsyc300: Stop Learning Frameworks https://t.co/50Q4AF4mRq (https://t.co/9a50qYcyUz)
+RT @nixcraft: Old computer cemetery? https://t.co/NffhtPP0Eq
+RT @newsyc300: How the 0.001% invest https://t.co/vtpXwbpZwI (https://t.co/cfDwtxUBpO)
+RT @newsyc300: MIPS Goes Open Source https://t.co/lFY4txQBTf (https://t.co/VjZam00Pmx)
+RT @newsyc300: Googles Secret China Project Effectively Ended After Internal Confrontation https://t.co/wEsejEV5r9 (https://t.co/OspWiLBrW6)
+RT @newsyc300: I need to copy 2000+ DVDs in 3 days. What are my options? https://t.co/gFsoogYxZ8 (https://t.co/9r8eEB5cma)
+RT @newsyc300: Ant Colonies Retain Memories That Outlast the Lifespans of Individuals https://t.co/2Wbfu6V8GR (https://t.co/oAQsuAn6F7)
+RT @realDonaldTrump: Very productive conversations going on with China! Watch for some important announcements!
+RT @PeterMartin_PCM: Huawei's revenue versus Cisco's since 2012		https://t.co/UmcQEbufec https://t.co/jSpRUs2iqT
+RT @ruanyf: Puppeteer 现在不仅封装 Chrome，还开始封装 Firefox 了，API 完全一样。		以后，浏览器自动化可能只用它就可以了，其他库都要被干掉了。https://t.co/lahxG54vaS https://t.co/l6NIMUxBz3
+RT @realDonaldTrump: China talks are going very well!
+RT @nytimes: Breaking News: A top executive at China’s Huawei Technologies was arrested in Canada at the request of the U.S., a move likely…
+RT @wanquribao: 【这个文档会大大提高你招人的效率】旧金山的小公司Highrise招人非常高效。他们对每个职位都有一个文档，让经理和组员罗列出好的求职者的特点与差的求职者的特点；每来一人应聘就按这个文档面试，干脆利落又有的放矢。 https://t.co/1PGr…
+RT @verge: Project Fi is now Google Fi, and it will work with iPhones and most Android devices https://t.co/XJsRBqvKCJ https://t.co/cycUCB9…
+RT @wanquribao: 【创业初期获得前 1000 个用户的方法】在线表单 JotForm 的创始人分享的经验：提供免费版让用户试用、写博客 build audience、写博客谈技术吸引媒体报道、参与论坛讨论、SEO、便于分享链接、收集邮件。 https://t.co…
+RT @newsyc100: Richard Feynman Computer Heuristics Lecture (1985) [video] https://t.co/lFKlMtv92J (https://t.co/3VQfW11s5R)
+RT @newsyc100: If it's not fun anymore, you get nothing from maintaining a popular package https://t.co/egrUXdxeE2 (https://t.co/miNsL4of3R)
+RT @newsyc100: Firecracker  Lightweight Virtualization for Serverless Computing https://t.co/E6KFXJTuYU (https://t.co/W9ZaAB6ZvS)
+RT @newsyc100: We are Google employees. Google must drop Dragonfly https://t.co/D5mvjR5IaF (https://t.co/rYHRkfjhgm)
+RT @realDonaldTrump: Very disappointed with General Motors and their CEO, Mary Barra, for closing plants in Ohio, Michigan and Maryland. No…
+RT @newsyc100: Farm bankruptcies on the rise according to new Fed report https://t.co/LfcpZ1AzE7 (https://t.co/1v9GUzxecg)
+RT @newsyc300: Lessons Learned from Writing Over 300k Lines of Infrastructure Code https://t.co/TagEpddcdZ (https://t.co/93xscvfLz9)
+RT @LiYuan6: AI doesn’t become intelligent on its own. It takes a lot of human labor to tag everything we human want it to learn. “I used t…
+RT @newsyc100: Texas Is About to Create OPECs Worst Nightmare https://t.co/DdRCLMdT0k (https://t.co/xWluoYKYGV)
+RT @newsyc250: Some Amazon employees bought NYC condos before news of HQ2 location emerged https://t.co/sNyXhKICPE (https://t.co/HmKayFw6RK)
+RT @newsyc100: Learn Git Branching https://t.co/gpOHSmWrve (https://t.co/GV5sLbSMir)
+RT @wanquribao: 【我是一个创业者，但我不在乎我做的东西】从Google离职后，与朋友全职做了一个在线编辑视频、gif、照片的网站。不是什么改变世界的 idea，也不是像其他创业者硬生生地编一个激动人心的创业故事，反正就是做东西、经营小公司、打怪练级 https:…
+RT @newsycbot: End-to-end encryption does not prevent Facebook from accessing WhatsApp chats https://t.co/k0gA1K7PGX (cmts https://t.co/ll7…
+RT @newsycbot: China’s Orwellian Social Credit Score Isn’t Real https://t.co/ylDkRp7cea (cmts https://t.co/3KTS2EXG8C)
+RT @newsyc300: How to Acquire Your First 100 Customers https://t.co/Xl9dWrpuvl (https://t.co/LgdxFEu34Y)
+RT @wanquribao: 【七个实用的网页 UI 设计小技巧】非常适合（像我这样的）非设计师使用。字体、颜色搭配、阴影、边框、图标、按钮背景色等的建议，应用起来超简单，假装是 UI 设计师：） https://t.co/ly4QmL3Y0Z
+RT @wanquribao: 【让 Facebook 颤抖的两年】“新闻偏见门”内幕长文。事件起源于，两年前 Facebook 的合同工爆料公司内部有强烈政治偏见，Trending Topics 人为打压保守倾向的媒体报道。 https://t.co/3TeEyooHOT
+RT @kanyewest: We sang Backstreet Boys I want it that way https://t.co/IzGHk7i7OP
+RT @historylvrsclub: Masturbating man, Pompeii, 79 CE https://t.co/hENzxS28V8
+RT @zackvoell: "Ramen" just became more popular than "Bitcoin". https://t.co/T16VHJj20Q
+RT @cnnbrk: The US Postal Service reports a loss of $3.9 billion for fiscal year 2018, despite growth in its shipping and packaging busines…
+RT @wanquribao: 【Case Study: The NFX of Trulia】作者是 Trulia 的创始人 CEO。创立于 2004 年，2015 年与最大的竞争对手 Zillow 合并成为全美最大的房地产在线网站。作者在这里介绍了 Trulia 建立双边市场…
+RT @sagacity: 算法和数据库专栏是广大技术人员一直和我要求必须出的产品，我们先做了两个算法，然后又找了数据库专家 丁奇 来打造这个基于 MqSQL 的数据库专栏。https://t.co/1wdWyLjasJ	所有图例手绘，精讲从数据库小工到专家的知识点。一次搞懂…
+RT @newsyc300: YouTube CEO calls EUs proposed copyright regulation financially impossible https://t.co/GjSlUVvoiB (https://t.co/2QTdKMcwll)
+RT @newsyc100: Pseudonyms to protect authors of controversial articles https://t.co/SkWZIRcxNT (https://t.co/gPoIKRYVSg)
+RT @newsycbot: IP Geolocation Through Reverse DNS https://t.co/Jfqxgr0pt2 (cmts https://t.co/S8ya3WUw7h)
+RT @newsyc100: Linux apps running on iOS via userspace x86 emulation and syscall translation https://t.co/odVm6rtYJB (https://t.co/GhG2AcFu…
+RT @wanquribao: 【Why is data hard】Slack 员工谈公司里怎么搞数据（从收集数据、定义 metrics、到用数据讲故事）、以及难处（数据不新、缺失、错误、赶不上产品的变化等）。 https://t.co/CDlBmDYTTA
+RT @newsyc100: Badger: A fast key-value store written purely in Golang (2017) https://t.co/LWOgO2k5y7 (https://t.co/DBLZ3mOemg)
+RT @newsyc100: HTTP-over-QUIC will officially become HTTP/3 https://t.co/sj9rjmb1re (https://t.co/HinFnX3KLX)
+RT @newsyc100: Beating hash tables with trees? The ART-ful radix trie https://t.co/ke0Xx7mW4s (https://t.co/5AJhYTEky6)
+RT @newsyc250: The History of Unix, by Rob Pike [video] https://t.co/otjLUCMGkl (https://t.co/84Jyn88sd9)
+RT @wanquribao: 【Blockchains 与 DApps 的真好处与假好处】来自 Snapchat 早期投资人 Jeremy Liew 的科普文章。避免单点失败、避免中央集权监管、毫无信任的陌生人之间可以放心交易、单向开启 network effect（钱） h…
+RT @wanquribao: 【拥有独立域名的 RSS】文中讲的是做podcast的，但也适用于开博客等有提供RSS链接的情况：最好自己去注册一个独立域名、RSS的链接永久不变，订阅这个RSS的客户端会记下这个链接，如果链接改变了，怎么通知到他们？ https://t.co/…
+RT @newsycbot: San Fran couple illegally rented 14 units on Airbnb, hit with $2.25M fine https://t.co/9kxNRTCWwR (cmts https://t.co/CzRgVPQ…
+RT @newsyc100: Dank-selfhosted: automated deployment of email, web, DNS, XMPP, ZNC on Ope https://t.co/9PyCqGeaP5 (https://t.co/thSzBEBMvV)
+RT @newsyc100: Why I'm Ditching Android https://t.co/apysnhi4Yx (https://t.co/vJxaebem3c)
+RT @newsyc100: Creating a QR Code step by step https://t.co/3X64MuIPZy (https://t.co/bIWLCKzzi7)
+RT @newsyc300: Housing cant both be a good investment and be affordab https://t.co/gCboPa2tA5 (https://t.co/njG6TdS7fW) via @doreen_michele
+RT @wanquribao: 【上了 Hacker News 的首页对 app 下载量的影响】给做side project的人提供一个数据点。很多人都希望做了个东西后，能推上Hacker News或Product Hunt首页。帮助大吗？有点帮助，但整体来讲，昙花一现。做好持…
+RT @WIRED: New iPads, a new MacBook, and possibly a mention of AirPower, the wireless charging pad that Apple announced over a year ago. Ap…
+RT @wanquribao: 【在 Reddit 上抢先爆料 NBA 动态的匿名用户】Reddit 用户 SEAinLA 多次独家披露球星们的转会、去留消息，比正规媒体要提前很多。他30多岁、在加州做律师，有一些在 NBA 各队工作的朋友，所以常第一时间得到独家内幕。 htt…
+RT @newsyc100: Web Performance 101: how to optimize your JS, CSS, HTTP stuff, images, and https://t.co/zNCfFVg0F0 (https://t.co/oxkmxnwkYP)
+RT @wanquribao: 【Web Architecture 101】比较正规的线上服务的后台架构的基本元素。一般是一个分布式系统、一堆机器，可以 horizontal scaling。 https://t.co/iHgqLeUETB
+RT @wanquribao: 【Amazon 计划在 2020 年以前彻底不用 Oracle 的数据库】Amazon 从成立之初就一直用 Oracle 的数据库，现在的主网站仍在用；累计付给 Oracle 好几个亿了。迁移工作在四五年前就开始了，争取在2020年以前彻底摆脱…
+RT @wanquribao: 【量化 Twitter 清除僵死粉所带来的影响】跟踪分析了粉丝数前 1 万 6000 多名的账号，在这次大清洗中，每个账号平均损失 2.9% 的粉丝。其中，Twitter 官方账号损失了 12%。 https://t.co/aRzx4qjo8N
+RT @wanquribao: 【Gusto 种子轮融资的幻灯片模板】Gusto 一开始的时候叫 ZenPayroll；创始团队斯坦福毕业、有创业经验、Y Combinator，2星期内融资 $610 万，投资人多是明星级别的创业者。融资成功关键不是靠幻灯片。 https://…
+RT @wanquribao: 【Aggregators and trust】聚合信息的 aggregator 都是加了一层 trust。比如你敢住进陌生人家里，因为你相信 Airbnb；你敢坐陌生人的车，因为你相信 Uber。 https://t.co/3y7HPr5JoB
+RT @wanquribao: 【IBM’s Old Playbook】IBM上世纪九十年代的伟大复兴：我们的产品很一般，但提供服务可以赚钱。这启发了Red Hat：软件开源、免费用，但我们可以是服务公司。IBM 大价钱收购Red Hat，为了OpenShift？ https:…
+RT @kuriko_c: Jonathan Swan在Axios上这篇关于川普当局对贸易战观点的报道信息量很大。值得参考。几个关键点：1. 川普不准备放松关税要求，而希望通过持续关税给中方造成更多痛苦；2. 不要对川习G20会面抱太大希望，只是首脑碰头，不会涉及具体交易；（接…
+RT @wanquribao: 【Pseudo Localization @ Netflix】问题：设计、开发 app 时，默认语言是英文；若翻译成其他语言，字符串有可能变长，UI 就一团糟了。解决办法：开发的时候可以很方便地将英文替换成一串比较长的字符串，读起来像英文，假装已…
+RT @SenatorHeitkamp: .@JohnDeere CEO: “Once someone like China says we’re not going to buy U.S. soybeans, they’re going to come from somewh…
+RT @wanquribao: 【Paul Buchheit 访谈】Google 第23号员工。从小开始编程，读大学前就超喜欢 Linux；在网上看到小公司Google用Linux做服务器，很酷，就去应聘了。24岁开始写邮件系统，成为了后来的Gmail。 https://t.c…
+RT @letsencrypt: Encrypted SNI will be a big privacy win for the Web! https://t.co/tWw3OezoKg
+RT @thehill: Evangelical leader: Going after Saudi Arabia for journalist's disappearance not worth risking "$100 billion worth of arms sale…
+RT @newsyc100: Dropbox traffic infrastructure: Edge network https://t.co/8CMknjQULp (https://t.co/yQSD3aLZ7j)
+RT @wanquribao: 【僵尸网络的商业模式】一个大规模（连接1千万台设备）的botnet需要 $1600万的成本。3万台僵尸搞DDoS月入$2.6万；1万台僵尸轰炸广告月入$30万；3万台僵尸搞银行诈骗月入$1800万 https://t.co/Jc5J8S2kga
+RT @newsyc100: Computer Networking: Principles, Protocols and Practice https://t.co/XOIsFY66Fh (https://t.co/V0NfGvPEXQ)
+RT @newsycbot: Using machine learning to index text from billions of images https://t.co/3IOi3W9ro6 (cmts https://t.co/EybLuFnuCR)
+RT @madebygoogle: So you think you know… Tune in tomorrow to see for yourself. https://t.co/4zTwRXcn1x #madebygoogle https://t.co/3IO3xaMaP8
+RT @senatemajldr: When we vote later this morning, we will not only be deciding whether to elevate a stunningly-qualified judge to our high…
+RT @TwitterMoments: Maine Senator Susan Collins addressed the sexual assault allegations against Brett Kavanaugh and his judicial record in…
+RT @newsyc100: SQL as an API language https://t.co/k2SxZNjawl (https://t.co/RC53ZADex9)
+RT @newsyc300: The Big Hack: Amazon, Apple, Supermicro, and Beijing Respond https://t.co/ZxtYdrMPsn (https://t.co/DpiXd7lwIs)
+RT @wanquribao: 【该如何给早期员工分配股份】创始人以及创始团队的员工股份是按百分比给的。之后的员工算早期员工，不要按百分比给，要按“价值”给（如基本工资乘以一个系数），要强调四年下来“价值”会不断增长。 https://t.co/TLnxIOBZiD
+RT @realDonaldTrump: China is actually placing propaganda ads in the Des Moines Register and other papers, made to look like news. That’s b…
+RT @wanquribao: 【Building your own CDN for Fun and Profit】商用的CDN缓存文件、一段时间后会过期，冷加载很慢。本文方案（适合side project练练手）：用Amazon的Route53给静态网页做一个快糙猛的CDN，…
+RT @wanquribao: 【Choosing a (Language) Stack】WeWork 要选一个语言来做 microservice，从 Go、Kotlin、Ruby 里选择了 Go。他们分别用这三个语言实现了一个相同的 service，然后进行很详尽的评估。 h…
+RT @wanquribao: 【用 Python 做 Blockchain 的实用入门教程】本文先简单介绍了一些 blockchain、bitcoin 的基本概念与工作原理，然后用 Python 做了简单的 blockchain、再用 Flask 做了个 web 客户端。 h…
+RT @ruanyf: Cloudflare 推出域名注册服务，声明不赚取利润，只收取成本价。也就是说，理论上不可能有比它更便宜的价格。		考虑到它的技术实力和全球网络，实在没理由去别人家注册域名。其他域名注册商都要哭死了吧。	https://t.co/bXkcQ3lYBc h…
+RT @newsyc100: How to Build a Low-Tech Website? https://t.co/dYNwz48NnF (https://t.co/FsvHjqwUrH)
+RT @wanquribao: 【你应该忽略所有成功公司的起源故事】本文用沃尔玛创始人 Sam Walton 的故事告诉大家，打怪练级十几年之后，你就能一夜成功。Sam Walton 在 44 岁时开了第一家沃尔玛，在此之前已有 15 年的开店经历。 https://t.co/…
+RT @newsyc100: Chrome 69 will keep Google Cookies when you tell it to delete all cookies https://t.co/VmbkvgPKYl (https://t.co/XHSUblj6qu)
+RT @newsyc300: Building your own deep learning computer is cheaper than AWS https://t.co/TCsehvu0J7 (https://t.co/w2V76N2KlM)
+RT @newsyc100: Wasmjit: Kernel Mode WebAssembly Runtime for Linux https://t.co/0tJBmPCEPE (https://t.co/DIFr7lIeHv)
+RT @newsyc300: Google Maps won't let you save home address without allowing all Google tr https://t.co/wVucNycxk5 (https://t.co/9ZUkiFKoz9)
+RT @newsyc250: Gut directly connected to brain, by a newly discovered neuron circuit https://t.co/rlK0qUe1jd (https://t.co/zanyoJ9SCW)
+RT @NinEverything: Nintendo Switch unplayable in China due to Google connection https://t.co/bK6amlsEv5 https://t.co/NYCJG13qoR
+RT @torproject: We’re happy to see @Cloudflare enact a solution that not only will make the browsing experience smoother for our users but…
+RT @wanquribao: 【Web 3.0 时代】Web 3.0是对1.0的回归，推崇私密、反对垄断，以去中心化为思想，以区块链为手段。应该没有权力中心；用户拥有自己的数据而不是被大公司高额出售；网络攻击和数据泄露大量减少；应用可在各平台通用 https://t.co/L…
+RT @newsyc100: The Evolution of Reddits Architecture (2017) https://t.co/w8c5J5ebLz (https://t.co/bhzRk7HJSU)
+RT @historylvrsclub: Civil Rights Movement. Check out for more: https://t.co/LeOj4hfBGh https://t.co/jxZw3xnLhe
+RT @newsyc100: The Rise and Contentious Fork of RSS https://t.co/rFWH2G7pxJ (https://t.co/TCd8KGoFyq)
+RT @newsyc100: Cloudflare Goes InterPlanetary  Introducing Cloudflares IPFS Gateway https://t.co/el0wgaqwZS (https://t.co/i972jj3iLx)
+RT @newsyc100: Apple, Firefox tools aim to thwart Facebook, Google tracking https://t.co/fkEaJ6vntA (https://t.co/3qswwAZaX2)
+RT @wanquribao: 【RSS 的兴衰】RSS始于上个世纪末，在本世纪第一个十年的Web 2.0潮流下使用率还不错；社交网络兴起后，分享链接变得方便了，而且还能评论。RSS就只用于podcast、少数科技博客以及略懂技术的媒体网站 https://t.co/1s4YZ…
+RT @wanquribao: 上网的人越来越多，但 RSS 对于最近几年刚用上互联网的人来说是很难以理解的一种东西。如何生成一个 RSS？如何往 RSS 里加东西？谁能订阅 RSS？用什么软件来订阅？如何设置权限只能某几个朋友看到特定的某几篇文章？如何打赏？
+RT @wanquribao: Infinite Loop 见证了 Apple 从跌入低谷，到 Steve Jobs 回归、精简产品线、推出 iPod、iPhone，再到他人生的最后时光。文章最后写到，他们买下惠普的地来盖宇宙飞船，Jobs望着惠普的老建筑，意味深长地说：“Ev…
+RT @lukew: iPhone: 153,600 pixels	iPhone XS Max: 3,338,496 pixels https://t.co/JuGuaczMLE
+RT @newsyc100: Research shows that nearly every U.S. cell provider is doing throttling https://t.co/M3kyaz89mX (https://t.co/QbvrlPDFG2)
+RT @newsyc100: Self-Driving Cars Can Handle Neither Rain nor Sleet nor Snow https://t.co/YmOxnsysMn (https://t.co/pJr4DqbDpq)
+RT @newsyc100: Google throws away 12 years of work by investors (Portfolios in Google Fin https://t.co/eQxMaG092u (https://t.co/UARYQFUfbY)
+RT @wanquribao: 【我是如何做 code review 的】他在 Tumblr 做工程师。在一定规模的正规公司里，code review 是工程师的重要工作职责，认真做的话是很花时间的。全文核心思想：以人为本的 code review：） https://t.co…
+RT @JeffBezos: https://t.co/2GlgjztK1u
+RT @newsyc100: Making Music: When Simple Probabilities Outperform Deep Learning https://t.co/Qw4nibtdig (https://t.co/rKOVvpLaYp)
+RT @wanquribao: 【Amazon 的金融产品】如果亚马逊提供了传统银行所提供的各种金融产品的话（小额贷款，房贷，信用卡，存折，保险等），用户就进一步被锁进了亚马逊生态系统，会在亚马逊上买卖更多东西。本文列出了已上线的金融产品以及各种谣言 https://t.co/…
+RT @newsyc100: Google can track surfing habits without need for HTTP cookies https://t.co/6RMpFKJYNL (https://t.co/BdvmefzdfH)
+RT @wanquribao: 【The Servers Are Burning】作者记述了当年自己刚到约会网站 OkCupid 工作时弄垮整个网站的经历：全公司8个工程师，他写了几个小函数，全公司最好的工程师CEO本人读了代码，上线，然后网站挂了。 https://t.co/…
+RT @newsyc100: How we fit an NES game into 40 Kilobytes [video] https://t.co/LrCXF22VBY (https://t.co/BRgESGf6oe)
+RT @wanquribao: 【现代浏览器的工作原理】来自 Google 官方博客。图文并茂地很 high level 地解释了 Chrome 的多进程架构。 https://t.co/UHo82JKk62 https://t.co/nGnUzVRcrF
+RT @wanquribao: 【我们公司应该用 React Native 吗】1，如果你开始做全新app并打算几乎100%用JS，用RN；2，如果你已有一个原生app，但有几个简单的用webview也能做的页面，用RN；3，如果你想在原生app里加复杂的页面或重写，别用 ht…
+RT @wanquribao: 【做了大型支付系统后学到的分布式系统概念】不错的温故而知新类型的分布式系统个人笔记。作者在 Uber 上班，加入 Uber 时是做 app 的工程师，有计算机学位，能在白板画图解释分布式系统，但之前从没做过真的分布式系统。 https://t.c…
+RT @newsyc300: YouTube and Netflix Throttled by Carriers https://t.co/fxy08vDgre (https://t.co/uN9RAvCg7U)
+RT @wanquribao: 【AirPods 对未来的影响】AirPods会改变人机互动的方式：与人融为一体，离开手机也能接受咨讯，发送指令。也会改变人与人交流的方式：iOS 12将推出“助听器”功能，听障人士也可以时髦有型，普通人在喧闹的餐厅也能畅谈 https://t.…
+RT @wanquribao: 【在 Amazon 上做广告】70% 的 Amazon 用户不会去看搜索结果第一页之后的页面；30% 用户会直接购买第一个搜索结果的商品；搜索结果前三的商品点击率高达 65%。 https://t.co/pQMj3LT04n
+RT @wanquribao: 【Spotify 的音乐帝国之路】2006年，Sean Parker的P2P音乐分享服务Napster早已被告倒但开创了听音乐的新方式；在线广播还未兴起，而传统唱片行业越来越不景气，听众的需求急需被满足 https://t.co/HXbbVAFW…
+RT @newsycbot: Awesome Tmux https://t.co/P8RA78nPrD (cmts https://t.co/dywyvivcRL)
+RT @mfm_0624: ［Hongkong］Nathan Road Kowloon 1987 https://t.co/9zaiGTAVvP
+RT @wanquribao: 【在 Facebook 投放 $100 万的广告卖袜子，ROI 4 倍】测试几套广告文案、图片，$50、$50 地测试，观察点赞、评论、转载等数据，选出优胜的广告、加大力度烧钱。 https://t.co/EEEs3UcRw5
+RT @kuriko_c: 8月30日彭博文《中国有实力成为超级大国吗》，从经济、军事、软实力等各方面对比了中美两国的数据。	文章本身无甚稀奇，但在数据可视化方面做的非常好。如下图是美中军事实力细项对比部分的配图。红色代表中国，白色代表美国，方块尺寸代表对应数字。各项实力差异，…
+RT @wanquribao: 【Go YouTube-first】近期FB算法改动，贬低了媒体内容，这对那些有自己平台的大媒体影响不大，但小媒体深受其害。各小媒体逐渐投向YouTube：不仅视频观看完成度大幅提高；各种规范不会朝令夕改；过很久还有人看 https://t.co…
+RT @wanquribao: 【房贷的问题与机遇】房贷复杂繁琐又落后的系统，给创业公司提供了很大的机遇，每个环节都急需“被颠覆”，本文提供了几个思路。创业公司提供最终房价和时间的预测；还可以跟银行等现有放款机构合作 https://t.co/PzvlTBbLhS
+RT @newsyc100: Q3VM  Lightweight, embeddable Quake III Interpreter/Virtual Machine https://t.co/4vRP8OLaF3 (https://t.co/frJ6OfQyaK)
+RT @newsyc100: FCC can define markets with only one ISP as competitive, court rules https://t.co/HBjfvChR8Z (https://t.co/jiCOFYMtj9)
+RT @newsyc100: Open source RISC-V implemented from scratch in one night https://t.co/uA7CoZzzDd (https://t.co/yvvBKSDjE4)
+RT @newsyc100: WireGuard VPN review: A new type of VPN offers serious advantages https://t.co/BDva5biZri (https://t.co/YzMze2fk4U)
+RT @wanquribao: 【PagerDuty 如何对内部员工进行信息安全的培训】堡垒最容易从内部攻破，一个普通员工被钓鱼、账号密码外泄，就可能对公司带来毁灭性的破坏；对全体员工进行信息安全的教育是很有必要的。 https://t.co/kgzOcj806j
+RT @wanquribao: 【Zillow, Aggregation, and Integration】Zillow 以前以“房地产媒体”公司自居，聚合买房、卖方的各方，主要收入是房产中介在他们网站做广告；最近 Zillow 宣布他们要“炒房”了，介入整个买卖房子的流程，直…
+RT @wanquribao: 【Twitter 早期工程师分享当年的救火经验】2009年，上线3年了的 Twitter 的代码依然是胶水浆糊做的，当年只要粉丝数超多的明星一发推，基本就算是一次运维事故。 https://t.co/1K0owZQQ0c
+RT @wanquribao: 【Tips for High Availability】线上服务出故障，往往是因为自己人擦枪走火，而且经常发生在部署新代码的时候。Netflix 在本文介绍了他们部署代码的经验、最佳实践。不要感到自卑，这是一家成立了21年、市值上千亿的公司的经验…
+RT @wanquribao: 【科技圈里大公司内部的等级晋升】科普了一下在 Google、Facebook 等大公司里的工程师等级制度；本科毕业生一般3级开始，PhD毕业生4级开始，升到5级就能混吃等死、不会赶你走了。还解释了啥是 PIP。 https://t.co/ry7R…
+RT @medialab: This is what filter bubbles actually look like: Maps of Twitter activity show how political polarization manifests online and…
+RT @newsyc100: Introduction to Data Mining  Second Edition https://t.co/CqA0WW1E4U (https://t.co/u6AhOPlNta)
+RT @wanquribao: 【Unethical growth hacks】抓取BBC、ABC、Reuters的新闻，附上图片，加上机器人配音，制成Youtube视频，自动化24小时不停的发布新的“即时新闻”，每个月一个频道就能赚$3千，开一堆频道。这赚钱套路水平如何 ht…
+RT @wanquribao: 【高等教育黄金年代的终结】这是在线教育兴起的很大原因。美国经历了高等教育黄金30年（1945-1975）后，经济大不如前，政府补贴大额减少，学校只能不断长学费、雇佣便宜的教师（非终身教授或者临时工），教育的价值逐年减少 https://t.co/…
+RT @newsyc300: A visualization of the prime factors of the first million integers https://t.co/qIIbqpEsZN (https://t.co/yUyI9dDkgC)
+RT @wanquribao: 【为何 SQLite 不用 Git 做源代码版本控制】SQLite以前是用CVS做版本控制的；SQLite主力开发者D. Richard Hipp专门写了个版本控制工具Fossil，代替CVS。为啥不用Git？他不喜欢Git；Git太难用了 ht…
+RT @newsyc300: Show HN: Um  Create your own man pages so you can remember how to do stuff https://t.co/GuMDQVwj7Q (https://t.co/JYeHBUsMag)
+RT @wanquribao: 【花钱请了个编辑，我的博客访问量增加了450倍】他在UpWork上招了个编辑来读他写的博文，并给出修改意见。共花了$385，修改了几篇博文。分享到Reddit与Hacker News，被顶上了首页。他在博文里也贴出了修改意见的PDF链接 http…
+RT @newsyc100: Netflix Has Deleted Every User Review Ever Posted to Its Website https://t.co/yYZfNSQE0p (https://t.co/OkqWoOcHnr)
+RT @wanquribao: 【Spotify 播放列表的黑市】音乐人在把歌放到Spotify上，按播放次数赚钱。如何增长播放次数？用户可关注播放列表，关注人越多，播放列表里的歌播放次数理论上越多。于是就有黑市：热门播放列表拥有者收钱，把音乐人的歌加入列表 https://t…
+RT @wanquribao: 【How to build a SaaS with $0】现在创业的创本真的很低了，很多 cloud 服务、api 的 free tier 就足够支撑到盈利。本文给出了一堆常用的服务，方便搭积木一般地做线上服务；或许这些“积木”能给大家一些创业灵…
+RT @wanquribao: 【开始创业的路径】Y Combinator CEO 指明一条创业之路：根据自己的生活、工作经历，找一个你特想解决的问题；找一些朋友头脑风暴；上线一个快糙猛的 MVP；然后就能找到很多攻略、将创业游戏进行下去了~ https://t.co/ubcL…
+RT @newsyc300: Faster  Fast key-value store from Microsoft Research https://t.co/1Y1GahzIXH (https://t.co/zvN7ZERHzn)
+RT @newsyc100: Python Fire  automatically generates CLIs from any Python object https://t.co/9H45QAhfRA (https://t.co/pL8P0zCEIM)
+RT @wanquribao: 【用 Python 做 Blockchain 的实用入门教程】本文先简单介绍了一些 blockchain、bitcoin 的基本概念与工作原理，然后用 Python 做了简单的 blockchain、再用 Flask 做了个 web 客户端。 h…
+RT @newsyc100: Faster  Fast key-value store from Microsoft Research https://t.co/KVPqqSgY45 (https://t.co/WTVJmCRZKa)
+RT @wanquribao: 【Spotify 早期投资人：2007年时我们赌对了与赌错了的事】十一年前投资 Spotify 时赌对的事：1，比听盗版音乐方便多了；2，坚持正版准没错；3，牛逼团队是保障。当年猜错的事：1，手机平台不重要；2，某样技术是关键；3，太注重广播的广…
+RT @newsyc300: Arm Announces Client CPU Roadmap For Laptops https://t.co/9JZpC2sbo0 (https://t.co/k5Ygip8c4H)
+RT @newsyc300: Introduction to A* (1997) https://t.co/F52JFPZKl4 (https://t.co/mR1LR8Hzq0)
+RT @wanquribao: 【Apple's Growth Story】Apple收入增长主要来自三方面：iPhone、线上服务、手表与AirPods。最近主要的增长来自iPhone，平均每台手机多卖$100；以后主要看线上服务、手表与AirPods了，手机够贵了 http…
+RT @newsyc100: Traveling the World on a Third World Passport https://t.co/BDx7u7Rc3a (https://t.co/QTzgsSyPEr)
+RT @wanquribao: 【亿万个不要买IBM服务的理由】加拿大政府$7.8亿跟IBM买了个工资系统，没法用；澳洲昆士兰州政府也跟IBM买了个类似的报废系统，最后另外花了$7.72亿修复；IBM对员工苛刻抠门。你的小公司能指望它对你比对政府跟员工好？ https://t.…
+RT @letsencrypt: 现在是时间了, 捐赠“Let’s Encrypt”以获得珍贵的礼物，和你的捐赠一起，表达你对更安全的网络的支持。#SecureTheWeb https://t.co/swycXbtpSz https://t.co/SGqQ1V3yTi
+RT @wanquribao: 【BitTorrent 漫长又缓慢地衰落】2006年BT下载占了整个互联网的流量的70%，而到了2015年就只占3%。现在人们有既便宜又合法的看视频的渠道了，一顿午餐钱就能包月看电影；年轻人也有比BT更好的看片的选择，没必要知道BT了 https…
+RT @wanquribao: 【要注意对技术的包装】数次大的技术浪潮（手机、个人电脑等）都在成为主流以前沉寂了许多年，直到有了合适的“包装”、把易用性提升到普通人能接受的程度。现在的VR/AR、Crypto就差一个好的包装了。 https://t.co/9UY2JK0CPR
+@wanquribao Moviepass都要挂了…
+RT @Gizmodo: It's time to let MoviePass die	https://t.co/4V4jNVg4X6 https://t.co/XQ5rUIJNHv
+RT @wanquribao: 【将客户端们聚合成一台超级计算机】想必大家都听说了浏览器挖矿的事了。本文给出了一个用 WebSocket 实现的原型，将客户端（app、浏览器等）的计算资源整合在一起，就是超级计算机了。不止是用来挖矿，还可以用来破解密码：） https://t.…
+RT @wanquribao: 【向企业兜售软件 / SaaS 其实是在兜售一个升职的愿景】卖软件给其他公司，公司出面的是与你接洽的人，人做决定，搞定了人，就能卖出东西。怎么搞定人？要让这个人相信：买了你的软件后，贵公司的工作效率能提高、能省钱，然后他这个人可以因此而升职。 h…
+RT @newsyc300: AMD Threadripper 2990WX 32-Core and 2950X 16-Core Review https://t.co/ZDqebK2VYx (https://t.co/4ZhGKtAjHB)
+RT @wanquribao: 【为什么我要离开 Google 单干】作者在 Google 待了 4 年，为能升职费劲心思，工作中所做的一切都是为了能过晋升委员会这关。好好修 bug、帮同事、写高质量代码等，不能在与晋升无关的事上浪费时间。觉得没劲，就离职了。 https://…
+RT @newsyc100: What Does Immersing Yourself in a Book Do to Your Brain? https://t.co/6m62BfbgqY (https://t.co/Xu2r4mhEOo)
+RT @newsyc300: Using FOIA Data and Unix to halve major source of parking tickets https://t.co/4Q78K2X9iP (https://t.co/RKZ2u8pzEe)
+RT @newsyc100: Mkcert is a simple tool for making locally-trusted development certificates https://t.co/2eNV5a8V77 (https://t.co/lUJtXy7gjX)
+RT @newsyc250: Dear customers of Cloudflare: an appeal regarding Tor https://t.co/mB3MC7h75L (https://t.co/IwR5rF1RQc)
+RT @wanquribao: 【在 YouTube 做广告，烧了 $13,867 的经验教训】Candy Japan 创始人的总结报告。用了4个月、花了$3千多请人做视频广告的动画；摸索了 YouTube 复杂的、自助的广告投放系统；投放近 $1.4 万，整体还是亏钱。 ht…
+RT @wanquribao: 【给高冷的风投发邮件的正确姿势】手把手教你怎么给风投发cold email。邮件标题控制在50字符内（手机屏上显示不出多余字符）；Pre-header 或邮件正文的前90个字符言简意赅、不要废话地表明你很牛逼、你有啥请求 https://t.co…
+拉屎拉不出来怪马桶 https://t.co/9MCje5y2dA
+RT @newsyc100: MacOS System 6, Version 6.0.8: run in browser https://t.co/O5GWV2Skdb (https://t.co/fo8Zu1Z8o4)
+RT @wanquribao: 【Startup Ideas We'd Like to Fund】Paul Graham 发表于 2008 年的一个清单，他希望看到这些创业 idea 能有人来做。十年过去了，这个清单里有些 idea 确实有人做了，而且做大了；但还有一些大家仍有…
+RT @bchesky: Of course, we launched a couple of times before this, and no one noticed, so this was the beginning of it all.
+RT @newsyc100: The Xi Text Engine CRDT https://t.co/OV4gQfdele (https://t.co/dr3s07AJ3z)
+RT @wanquribao: 【记录生活中的一切所付出的代价】Instagram Stories 上线2周年了，走势不错。这种发帖24小时后就会消失的媒体格式也对年轻人心理健康带来很大冲击：逼着你无时无刻记录生活中的一切，压力很大。 https://t.co/otOQ6ar2…
+RT @bchesky: If you launch and no one notices, launch again. We launched 3 times.
+RT @wanquribao: 【Double Shipping】你付出了辛勤劳动做出东西后，一定要不断宣传、反复宣传，不然别人看不到。作者是 GitHub 早期员工，举了一些早年 GitHub 上线新功能后、多次宣传的套路。 https://t.co/RGtukLQgns
+RT @jackyleewoo: @yegle 因为这个词是拉丁语直接泊过来的。defraudare的are结尾代表是动词，de代表这个东西与什么相关。拉丁语的诈骗的名词是fraus。所以是“与诈骗相关的一个动作”，叫defraudare。英语直接把拉丁语的动词后缀删了，因为英…
+RT @newsyc100: Introducing Electron Fiddle https://t.co/bUyshimLCe (https://t.co/cQfi9vH4Xr)
+RT @newsyc100: Practical Web Cache Poisoning https://t.co/JTTYnCqHxQ (https://t.co/3bKS6r1GXa)
+RT @wanquribao: 【Web 3.0 时代】Web 3.0是对1.0的回归，推崇私密、反对垄断，以去中心化为思想，以区块链为手段。应该没有权力中心；用户拥有自己的数据而不是被大公司高额出售；网络攻击和数据泄露大量减少；应用可在各平台通用 https://t.co/L…
+RT @newsyc300: New York Times Co. Reports $24M Profit, Thanks to Digital Subscribers https://t.co/Aqxs3KMUrv (https://t.co/aDvEdWWdkV)
+RT @wanquribao: 【Case Study: The NFX of Trulia】作者是 Trulia 的创始人 CEO。创立于 2004 年，2015 年与最大的竞争对手 Zillow 合并成为全美最大的房地产在线网站。作者在这里介绍了 Trulia 建立双边市场…
+RT @wanquribao: 中学生在Instagram会写自己的学校；tbh就创建一堆Ins账号，每账号针对一所中学，然后关注该校一堆学生；学生回粉；然后隔天下午4点学校放学时放上app下载链接，批量批准回粉的学生的好友请求；此刻同一学校大批学生同时收到消息推送，同时下载a…
+RT @wanquribao: 【学术论文的盗版女皇】关于可免费下载6千多万篇学术论文的Sci-Hub及其创始人的长篇报道。2011年开始这个side project，与各出版商玩猫捉老鼠的游戏，利用各学校、其他个人的账号下载论文。 https://t.co/x3R46mwC7x
+RT @newsyc100: Why You Should Build a Hackintosh https://t.co/z3i921a0cS (https://t.co/gGOzf8MAT9)
+RT @newsyc100: Facebook Field Guide to Machine Learning  video series https://t.co/JZovUGUnJt (https://t.co/VEAnApBv6M)
+RT @newsyc100: Pi-Hole: Why You Need a Network-Wide Ad-Blocker https://t.co/OrzCfT8Lsm (https://t.co/hLL7YeWKmp)
+RT @newsyc300: FCC admits it was never actually hacked https://t.co/Q98GZjrjGE (https://t.co/UvYzSfMMeh)
+RT @newsyc100: Decentralized Identifiers  DIDs https://t.co/NyVl6qGopj (https://t.co/HsV79BDsQD)
+RT @newsyc100: Cracking WPA-2 Just Got a Whole Lot Easier https://t.co/CGClnJT6MM (https://t.co/bbIzbjPEMQ)
+RT @wanquribao: 【What Is It About Costco】以Costco连锁超市为线索，写一篇不少于800字的作文，体裁不限：）作者用细腻的文笔展现了这二十年来美国中西部和谐家庭的生活，回忆与父亲相处的点点滴滴。美国的知音体或许就是这样的吧。 https…
+RT @wanquribao: 【在产品上线以前如何融资】有一些创业idea真的是必须先融到一大笔钱才能开始做的：房地产、医疗、保险等。本文以Opendoor、Wanderjaunt, Even三家公司的融资幻灯片为例，剖析怎样的幻灯片能打动投资人 https://t.co/b…
+RT @newsyc250: The Structure of Stand-Up Comedy https://t.co/8XInzeF4jM (https://t.co/zGmzo4SX0m)
+RT @newsyc100: One-Process Programming Notes https://t.co/pQMJiF72pP (https://t.co/hkmT03v9vt)
+RT @newsyc100: Speech-to-Text Benchmark: Framework for benchmarking speech-to-text engines https://t.co/LJDjCbQnrt (https://t.co/2x9j8jSaA7)
+RT @wanquribao: 【理解你产品的核心用户】所谓The Power User Curve：画出曲线，每个月活跃 1 天的用户数，活跃 2 天的用户数，...，活跃 30 天的用户数，若是笑脸形状，则核心用户不少，反复回来用，适合投喂广告 https://t.co/o…
+RT @wanquribao: 【Mastodon 是如何运作的】Mastodon 是类似 Twitter 的服务，开源，而且是分布式的。有一堆的节点，不同节点之间互相通信，用户时间轴是按时间排序的。有点类似电子邮件：一堆的邮件服务器，不同服务器间互相转信。 https://t…
+RT @wanquribao: 【拥有独立域名的 RSS】文中讲的是做podcast的，但也适用于开博客等有提供RSS链接的情况：最好自己去注册一个独立域名、RSS的链接永久不变，订阅这个RSS的客户端会记下这个链接，如果链接改变了，怎么通知到他们？ https://t.co/…
+RT @wanquribao: 【Blockchains 与 DApps 的真好处与假好处】来自 Snapchat 早期投资人 Jeremy Liew 的科普文章。避免单点失败、避免中央集权监管、毫无信任的陌生人之间可以放心交易、单向开启 network effect（钱） h…
+RT @wanquribao: 【Web Architecture 101】比较正规的线上服务的后台架构的基本元素。一般是一个分布式系统、一堆机器，可以 horizontal scaling。 https://t.co/iHgqLeUETB https://t.co/dHu36…
+买买买！！ https://t.co/mA41Cp8YCw
+RT @newsyc100: Introduction to Computer Organization with X86-64 Assembly Language and Li https://t.co/09keSg7wFV (https://t.co/8xwzJD111d)
+RT @newsyc250: Sci-Hub Proves That Piracy Can Be Dangerously Useful https://t.co/R5TcN8Iedx (https://t.co/rQlB7ZNUTm)
+RT @newsyc100: Firefox removes RSS support https://t.co/0ypRoXWees (https://t.co/jbMpI6P2Li)
+RT @newsyc250: FCC sides with Google Fiber over Comcast with new pro-competition rule https://t.co/82meDEPYS1 (https://t.co/VOyErfbvEl)
+RT @wanquribao: 【在 Netflix 按下播放按钮后都发生了什么】用十分通俗易懂的语言、非常全面地描述了 Netflix 使用 cloud 的历史，以及 Netflix 的运作原理。不需要技术背景也能看得懂，因为文中连很基本的术语都用平实的语言解释了 https…
+RT @newsyc100: A friendly guide to colours in data visualisation https://t.co/n7dgwZjqCe (https://t.co/CHR5z7XzKA)
+RT @wanquribao: 【Google Maps 究竟比 Apple Maps 领先多少】领先了好几年呢。Google Maps标注出的建筑非常全面，连楼的窗台突出的部分都有所表示；连人口极少的小城镇的建筑都标注得一清二楚。本文十分考究，作者跟踪研究了Google Ma…
+RT @wanquribao: 【Facebook 有专门的团队帮助政府、政客做宣传】每个大型的社交平台都应该有这种团队的：选举的时候，教各候选人的竞选团队购买广告；当选了，帮胜出的人利用直播等工具与民众们交流。政客们能自带粉丝到社交平台；大家容易撕逼创造活跃度。 https:…
+RT @newsyc100: CS Unplugged: Computer Science Without a Computer https://t.co/u7WK6Vd0dI (https://t.co/vDoV8xdHjk)
+RT @newsyc300: How we scaled Nginx https://t.co/92ifJN9kHb (https://t.co/1ZNryMnbd7)
+RT @wanquribao: 【用番茄工作法提高工作效率】果然是读 PhD 的：作者没找到合适的 app，就自己写了命令行脚本 + 做图工具；命令行计时搞番茄工作法，导出数据到 csv 文件，然后做图统计、分析每天的工作时长 https://t.co/boe7V1ntZr
+RT @wanquribao: 【Facebook Lenses】Facebook后劲其实还很足。提升广告收入靠三招：增长用户数、对同一用户显示更多广告、提高广告价格。要注意区分FB公司与FB这个产品；FB公司旗下所有app的很多用户还没见过广告呢 https://t.co/R…
+RT @newsyc100: Introducing the Dweb https://t.co/HVjcQdLIVw (https://t.co/9tDhBKiTZi)
+RT @newsyc100: Reddit Security Incident https://t.co/JBiWX7pGth (https://t.co/7nsFCXH8C4)
+RT @newsyc100: Cherry MX History https://t.co/ZLEWVFBYou (https://t.co/PCh6ApGm4M)
+RT @newsycbot: Learning Math for Machine Learning https://t.co/AS7AWB2WLU (cmts https://t.co/vKeHarTUn3)
+RT @wanquribao: 【The Decade of Display That Wasn’t 2007】07年微软、Google、Yahoo各花大价钱收购了做display ads的公司。本文概述了从07到17十年间display ads的发展。在2013年随着Rock…
+RT @wanquribao: 【Artwork Personalization at Netflix】问题：Netflix 该如何将电影、电视剧推荐、展示到用户面前，让用户愿意点击、观看？电影、电视剧的预览图（Artwork）是让用户做决策是否观看的重要元素，得个性化定制 h…
+RT @wanquribao: 【Accounting for User Growth】风投进城防骗指南之“用户增长”：不要简单地看 MAU 的增长，让他们将每月用户数进一步细分成 new、retained、resurrected、churned，然后画出文章最后的那张图 ht…
+RT @newsyc300: Some Amazon Reviews Are Too Good to Be Believed  They're Paid For https://t.co/TW0bSoIAgs (https://t.co/CYQGOZC5av)
+RT @wanquribao: 【追踪收件人是否打开了你发的邮件】每天全世界发送2690亿封邮件，40%的邮件是有追踪的：只要在邮件里加上一个像素的&lt;img&gt;，从服务器请求的log就能知道邮件是否被打开、什么设备打开的、邮件客户端、IP地址等 https://t.co/Skjx…
+RT @AndreiAndrei63: Vietnam. https://t.co/vDOCR7Yyx3
+RT @kuriko_c: 南早30日文章认为对待贸易战北京犯了两个错误：一是错判川普，认为他只是个商人、贸易战是恐吓（其实早在之前国防战略报告中华盛顿已明确指出不能容忍北京方面的经济贸易行径）；二是错判美欧关系，误认为可与欧盟联手抗美（其实西方民主各国虽有嫌隙，核心价值仍一致…
+RT @newsyc250: Why the New V8 Is So Damn Fast https://t.co/kNbo9MI3Ud (https://t.co/5QRIrtwFFD)
+RT @wanquribao: 【退休后有100万美金能在美国生存多久】11年（夏威夷）到26年（密西西比州），取决于你在哪个州生活。 https://t.co/ETVPxLPQTh
+RT @linuxtoy: termgraph：可在终端绘图的命令行工具，支持条状图、颜色、甚至 emoji。(https://t.co/ynmyByQbGl) https://t.co/OmcQzcEYTa
+RT @newsyc300: India's first RISC-V based Chip is Here: Linux boots on Shakti processor https://t.co/AGz4I9U714 (https://t.co/rdXiQFEbBq)
+RT @newsyc300: Tom Tryniski digitized nearly 50M pages of newspapers in his living room https://t.co/ccjw4liddp (https://t.co/0FDCbY2zhH)
+RT @wanquribao: 【Stripe 如何设计出漂亮的网站的】Stripe 做的是面向开发者的支付 API，（对非技术人员而言）听起来不酷，但网站却做得很漂亮。作者逆向工程了 Stripe 的网站：字体的使用、按钮视觉效果、svg、配色、动画 https://t.co…
+RT @wanquribao: 【The Right to Stay Offline】有同感：在飞机上工作效率最高，因为连不上网（除非交钱），没有人发消息、没有社交网络、刷不了Google Analytics，只能专心工作了 -- 当然，写代码时没法用Google也会影响效率…
+RT @newsyc250: The Best Textbooks on Every Subject https://t.co/EZ2F4zgkDF (https://t.co/8EPNaiNhMW)
+RT @newsyc250: Google Unveils Titan Security Key, a Yubico-Like Phishing Resistant 2FA Device https://t.co/plmfZQ4QM8 (https://t.co/jHIReZd…
+RT @wanquribao: 【10 years to $3bn】Zoopla 最近以$30亿被收购了。它相当于英国的 Zillow，但市场单一（只有英国），也只关注一个垂直领域（房地产），当时做得比它好的也有。怎么看它都不是投资人看得上的项目。 https://t.co/h…
+RT @wanquribao: 【用 DAU/MAU 来衡量用户活跃度，这并不适用于所有线上服务】用 DAU 除以 MAU，这是 Facebook 推广开的指标；但并不适用于所有产品。不是所有产品都需要人们每天用的，如旅游类、约会类、LinkedIn、买房子等。 https:/…
+RT @realDonaldTrump: To Iranian President Rouhani: NEVER, EVER THREATEN THE UNITED STATES AGAIN OR YOU WILL SUFFER CONSEQUENCES THE LIKES O…
+RT @wanquribao: 【In UNIX Everything is a File】常用的、开放性面试题：如何理解 “Unix 里任何东西都是文件” 这句话？/proc、/dev、/tmp、socket、directory 等。 https://t.co/8Reuzih…
+RT @wanquribao: 【Optimistic UI in React】何为Optimistic UI？比如用户在微博上点赞，先不等服务器返回结果、在UI上瞬间赞了，这样能造成一种你家的服务很快的错觉。如果服务器返回错误，就undo。有一些edge case要考虑 ht…
+RT @wanquribao: 【De-Googling my phone】生活在西方世界，猛然发现一堆的 app 与常用线上服务都来自同一家一贯作恶的公司，这该如何是好？这些常用 app 与线上服务都有（比较差）的免费替代品，开始去 Google 化吧。 https://t.…
+RT @wanquribao: 【The Everything Store 的一个不同寻常的一星差评】这本书是当今世界首富Jeff Bezos及其公司Amazon的传记。该一星差评写得很不错，有理有据，内容丰富。留此差评的人能精确指出书中的错误，为啥？因为她与Jeff Bezo…
+RT @newsyc100: A new Darpa program to develop insect-scale robots https://t.co/CHs52layo4 (https://t.co/103Em9cwRS)
+RT @wanquribao: 【Tips for High Availability】线上服务出故障，往往是因为自己人擦枪走火，而且经常发生在部署新代码的时候。Netflix 在本文介绍了他们部署代码的经验、最佳实践。不要感到自卑，这是一家成立了21年、市值上千亿的公司的经验…
+RT @wanquribao: 【The More of Everything Problem】吐槽欧盟打造欧洲硅谷这件事：startup community发展不起来是因为风投不够、研究专利不够、大学不够、加速器孵化器不够、政府补助不够？ https://t.co/N0bqD…
+RT @newsyc100: Building Protocols with HTTP https://t.co/DnTlYUgyIz (https://t.co/g75NoMVryo)
+RT @realDonaldTrump: I told you so! The European Union just slapped a Five Billion Dollar fine on one of our great companies, Google. They…
+RT @markets: How Best Buy found a way to win in the age of Amazon https://t.co/pfR5Cm9xjL https://t.co/UDCMjAFosK
+RT @lopp: A plethora of Lightning Network visualizations: https://t.co/6hm2V9jOu0
+RT @DuckDuckGo: We welcome the EU cracking down on Google's anti-competitive search behavior. We have felt its effects first hand for many…
+RT @wanquribao: 【Writing is Thinking】公司要灵活，要有周全计划，切合实际预估好各项目的难易程度。不是ppt等形式的罗列要点，而是深入思考、咨询各方后完整的写下来。完整的写作可准确表达你的思想、在传阅过程不被曲解，还可记录下公司历史 https…
+RT @newsyc100: YC Startup School 2018: a free, 10-week, online course https://t.co/U0oHkrGpMM (https://t.co/4UMiaPjols)
+RT @wanquribao: 【Ring 以 $10 亿被亚马逊收购的成功经验】创始人多次创业，有无论如何都要赢的性格；只把一个功能做到极致，如门铃摄像头；云储存、回顾的订阅服务，既增值，又降低摄像头售价；软硬件相结合；重视品牌建设，如奥尼尔代言等；邻里间病毒性采用的模式 h…
+RT @wanquribao: 【Zillow, Aggregation, and Integration】Zillow 以前以“房地产媒体”公司自居，聚合买房、卖方的各方，主要收入是房产中介在他们网站做广告；最近 Zillow 宣布他们要“炒房”了，介入整个买卖房子的流程，直…
+RT @newsyc300: Stripe Press https://t.co/NyMNZZ8TZ2 (https://t.co/3DYZsVlb6r)
+RT @wanquribao: 【一个内容营销的案例】一步一步做内容营销：做搜索引擎关键词研究、到Quora以及各论坛验证idea、写内容大纲、招便宜的大学生做研究与写作、到UpWork花钱请人做插图、发布、联系各媒体转发、以及到各论坛宣传。 https://t.co/EPbU…
+RT @newsyc100: Prose: a Golang library for text processing https://t.co/Uw0hGeMPIF (https://t.co/h79hxcU9HI)
+RT @wanquribao: 【Unethical growth hacks】抓取BBC、ABC、Reuters的新闻，附上图片，加上机器人配音，制成Youtube视频，自动化24小时不停的发布新的“即时新闻”，每个月一个频道就能赚$3千，开一堆频道。这赚钱套路水平如何 ht…
+RT @wanquribao: 【散播假新闻的绝佳媒体格式：语音消息】在即时聊天 app 里转发语音消息、散播谣言，平台很难监管。语音的内容不容易精确搜索。如果是视频、图片的话，还能从背景、周遭环境初步判断真伪，声音的话压根就听不出是在哪里录制的。 https://t.co/U…
+RT @wanquribao: 【第三方数据中介商是时候浮出台面了】个人数据是现代“新石油”，而这些数据中介商就是闷声发财的采油工，第三方数据公司Acxiom今年的预期收入就超过$9亿 https://t.co/F8PzhDaXQO
+RT @wanquribao: 【有必要花钱找 SEO 专家吗】这是Google的官方文档，属于SEO防骗指南。很多小公司病急乱投医，花钱找SEO顾问；花钱事小，这些SEO顾问往往会用些歪魔邪道的伎俩、反而让你的网站被Google惩罚了、从搜索结果彻底消失 https://t.…
+RT @wanquribao: 【CEO of the Product】PM的工作就像很早期创业公司的合伙人/CEO，虽然不需要每个领域都精专，但是预先考虑问题要面面俱到，如，隐私、定价、竞争、销售、税收、成本、用户行为等等 https://t.co/S2Y9w13WIV
+RT @newsyc100: Cloudflare, Mozilla, Fastly, and Apple Working on Encrypted SNI https://t.co/ZgNlf8K6XP (https://t.co/Y9F9hUBb2D)
+RT @newsycbot: Show HN: Simple Email Sending Service (SESS) https://t.co/lXIwmOUvhW (cmts https://t.co/wmJO0Ht3fW)
+RT @wanquribao: 【难道 RSS 要复活了】不靠算法、不靠信息流，怎么阅读？从前有个叫RSS的东西，最近几年开始上网的人可能没听过，去了解一下吧。最大的RSS阅读app Feedly有1400万用户，从08年做到现在 https://t.co/mTby14auyF
+RT @conradhackett: Trickle down: Income growth in America from 1980 to 2014		Top .001%: 616% growth	Top .01%:  423% growth	Top .1%:   298%…
+RT @newsyc300: Learn how to design large-scale systems https://t.co/fgvUE0Db7Y (https://t.co/DCr5hK33v8)
+RT @newsyc100: Foundations Machine Learning https://t.co/cb4WKrJRB4 (https://t.co/zUPDFKXRro)
+RT @christinawilkie: Photo of the day from NATO &gt;&gt;&gt; https://t.co/wpJjIIZisB
+RT @newsyc100: Google Cloud Platform  The Good, Bad, and Ugly https://t.co/40nAn0hjzM (https://t.co/ifXFLZcFIU) via @danielwithmusic
+RT @wanquribao: 【Spotify 播放列表的黑市】音乐人在把歌放到Spotify上，按播放次数赚钱。如何增长播放次数？用户可关注播放列表，关注人越多，播放列表里的歌播放次数理论上越多。于是就有黑市：热门播放列表拥有者收钱，把音乐人的歌加入列表 https://t…
+RT @wanquribao: 【如何影响工程师的思想，以及工程师防骗指南】控制了工程师们接收信息的源头，就能影响他们的思想，从而利用他们。各种营销、软文、线下讲座、论坛造势，很容易让没经验的工程师选错了技术（MongoDB之流）、在职业生涯走了弯路。 https://t.co…
+RT @wanquribao: 【The Glory That Was Yahoo】回顾了 Yahoo 光辉的历史。现在著名的 consumer facing 的各种线上服务，很多 Yahoo 都有做过：建网站、听歌、看视频、云存储、相册。啥都有，啥都做不好。 https://…
+RT @Gizmodo: Ajit Pai's FCC doesn't want to hear your complaints unless you pay them $225 https://t.co/ybJeou2nh1 https://t.co/g0XE7gTONT
+RT @patrickwardle: Apple added code to iOS to appease the Chinese 🇨🇳🤑 ...it contained a remote 'emoji-related' flaw (CVE-2018-4290).		Read…
+RT @wanquribao: 【爬取一千亿个网页的经验之谈】Python 爬虫框架 Scrapy 的开发者、以写爬虫帮别人抓数据为生的 scrapinghub 的经验分享。爬虫要做到高性能、爬取的数据又要干净、还要对付被爬取的网站的反爬虫技术，困难重重 https://t.c…
+RT @newsyc100: Nearly 1,000 Paintings and Drawings by Vincent van Gogh Digitized and Put https://t.co/vkJMSieOYl (https://t.co/asUs5ITGbw)
+RT @wanquribao: 【Netflix 成功的秘诀】所以本文是以文科生的视角看科技公司的技术？这点还是挺牛的：Netflix 能让各电视、机顶盒厂商在他们的遥控器上放一个“Netflix”的按钮，一键进入Netflix。 https://t.co/oKA6a3WsgO
+RT @newsyc100: Researchers Unmask Anonymous Twitter Accounts With 97% Accuracy Using ML https://t.co/EqIGlPBecr (https://t.co/gE1YvA2r2n)
+RT @newsyc100: Goodbye Microservices: From 100s of problem children to 1 superstar https://t.co/J2jmNEobOz (https://t.co/LygwdA20nm)
+RT @newsyc100: Fedora CoreOS, Red Hat CoreOS, and the future of Container Linux https://t.co/FbCVBzIoZ8 (https://t.co/WG2djQYy4i)
+RT @newsyc100: What do Stanford CS PhD students think of their PhD program? [pdf] https://t.co/einwc53C3x (https://t.co/iPCBkqr9dM)
+RT @wanquribao: 【如何成为获取用户的专家】Growth专家Brian Balfour的视频。没有一站式成为专家的网站/大学，亲自动手做才是可行之道；各种认证没用，只有实践才有用；拓宽知识面，但是只要深耕几个领域（如SEO）就好。 https://t.co/QeY…
+RT @dpkingma: Check out https://t.co/cBigTutSGn, my work with @prafdhar on improving flow-based generative models with invertible 1x1 convo…
+RT @wanquribao: 【亿万个不要买IBM服务的理由】加拿大政府$7.8亿跟IBM买了个工资系统，没法用；澳洲昆士兰州政府也跟IBM买了个类似的报废系统，最后另外花了$7.72亿修复；IBM对员工苛刻抠门。你的小公司能指望它对你比对政府跟员工好？ https://t.…
+RT @newsyc100: How to Analyze Billions of Records per Second on a Single Desktop PC https://t.co/VjbNRYWevN (https://t.co/2wxWEA4BnQ)
+RT @newsyc100: Towards an optical FPGA  Programmable silicon photonic circuits [pdf] https://t.co/4pe0iWYX67 (https://t.co/FpNgj01RJN)
+RT @newsyc100: DigitalOceans quarterly report on developer trends in the cloud https://t.co/YoAAKm7k4O (https://t.co/O976Q9oLxB)
+RT @newsyc100: Chrome developer tools to master https://t.co/MYbPfS5H2w (https://t.co/YbAxMdyu7t)
+RT @newsyc300: Half of ICOs Die Within Four Months After Token Sales Finalized https://t.co/u33ug4LFtS (https://t.co/tjNBYUppkE)
+RT @newsyc100: NLP's ImageNet moment has arrived https://t.co/8y7ozC2nCK (https://t.co/fFZSmBBCQe)
+RT @newsyc100: Improving the fast inverse square root (2010) https://t.co/U8upZdv7f3 (https://t.co/NDMoElSC8s)
+RT @newsyc250: China Begins Production Of x86 Processors Based On AMD's IP https://t.co/zTMOoWEJns (https://t.co/FUZp0clRTW)
+RT @wanquribao: 【The YC Seed Deck Template】YC 提供的种子轮融资幻灯片模板：啥问题、你的解决方案、增长、为啥你的方案牛逼、如何赚钱、未来发展、介绍创始团队成员、你想要融多少钱。 https://t.co/LApkYWK7s5
+RT @wanquribao: 【硅谷完蛋了】硅谷的风投们组团前往中西部考察，大开眼界，纷纷表示很想立刻搬离硅谷。越来越多的人搬离硅谷，高房价、意识形态越来越左、越来越不能包容不同意见。 https://t.co/lcTXymjX5M
+RT @wanquribao: 【职场冷启动算法】刚加入新团队，采用如下算法：找个同事聊30分钟；25分钟让他说说你应知道的事，你记笔记；3分钟让他说出本组最大的挑战；2分钟让他推荐几个你应该去聊的人，然后逐个重复以上算法，直到没有新名字出现 https://t.co/I2tY…
+RT @newsyc100: The rise of 'pseudo-AI': how tech firms quietly use humans to do bots' work https://t.co/SqayQcxYaP (https://t.co/GGmsTN7ntQ)
+RT @conradhackett: Watch the income distribution in America change https://t.co/lwTe1sd8gU
+RT @newsyc250: Yes, Amazon Is Tracking People https://t.co/H1RKZWbkjT (https://t.co/K5KPxYleiw)
+RT @newsyc100: MacOS Mojave removes subpixel anti-aliasing, making non-retina displays bl https://t.co/ZmUrRAbk6P (https://t.co/MQYzJM7sUH)
+RT @wanquribao: 【在 Amazon 上洗钱】“还有这种操作”：偷来信用卡，怎么提现？在 Amazon 上用盗来的身份出版书，书的内容都是随机字符串，每本书卖几百块钱；一手用信用卡买书，另一手从书的“作者”的角度取现金。 https://t.co/b1sc0b6d…
+RT @wanquribao: 【将客户端们聚合成一台超级计算机】想必大家都听说了浏览器挖矿的事了。本文给出了一个用 WebSocket 实现的原型，将客户端（app、浏览器等）的计算资源整合在一起，就是超级计算机了。不止是用来挖矿，还可以用来破解密码：） https://t.…
+RT @wanquribao: 【这七种电子邮件的写作指南】职场上、创投圈里会用到的7种电子邮件，收藏起来，要用的时候就像调用 api 一样。。。如何征求反馈、如何请求见面、如何介绍两人认识、如何有礼貌地持续骚扰别人、如何有礼貌地拒绝别人等。 https://t.co/RM5p…
+RT @newsyc100: Codius  Open Hosting Protocol https://t.co/ke93vgCxc0 (https://t.co/LakNmDRaQY)
+RT @newsyc100: Sex and Sexuality https://t.co/G7AQ0Uv8YR (https://t.co/hYG8qW7Lts)
+RT @newsyc100: Things That Happen in Silicon Valley and Also the Soviet Union https://t.co/wW5zAS0okM (https://t.co/9KvA9pBFZI)
+RT @newsyc100: A graph of programming languages connected through compilers https://t.co/insiWKuq4m (https://t.co/4uvSzcypgh)
+RT @paulkrugman: Maybe worth laying out incoherence of Trump's trade war a bit more, um, coherently. There are three issues that seem to be…
+RT @MittRomney: My thoughts on the trade war. https://t.co/uegY4eUGjR
+RT @wanquribao: 【从 Spotify 的上市可以看出流媒体赚钱有多难】2017年付费订阅总收入$45亿、广告收入$5.1亿，但版权费就付了$98亿。7100万付费订阅用户，算上免费用户的话、月活1.59亿。注意：竞争对手谷歌、亚马逊、苹果都有智能音箱，该如何是好…
+RT @jimmy_wales: We did it.  You did it.  Thank you.
+RT @Sankei_news: 中国新華社「巨大空母を転覆寸前に」　中国版ツイッターは「アジアの光」と日本代表を絶賛		→中国版ツイッター「新浪微博」では、日本対ベルギー戦のニュースに２万件以上のコメントが寄せられ、大半は日本代表をたたえる声だった	https://t.co/…
+RT @AbeShinzo: 最後まで全力を尽くし、たくさんの感動を与えてくれたサッカー日本代表の皆さんに、心から感謝します。毎日がわくわくで、夢のような２週間をありがとう！
+RT @kskgroup2017: Thank you guys! https://t.co/GfDa4uoIAb
+RT @newsyc250: How to crawl a quarter billion webpages in 40 hours (2012) https://t.co/6LopWTawxs (https://t.co/Jj1gDbbKlg)
+RT @newsyc300: WebSub: Open protocol for distributed pubsub communication on the internet https://t.co/Tt645rIeST (https://t.co/u3PUAayiEk)
+RT @newsyc100: How Netflix became a billion-dollar titan https://t.co/Ch5kIbQIQL (https://t.co/3alTk6Yemy) via @abhiminator
+RT @newsyc300: EU copyright law proposal rejected https://t.co/CUfzhrT3h4 (https://t.co/uPmE55OuPm)
+RT @newsyc300: Youtube-dl: Command-line program to download videos https://t.co/l74HrBuMMO (https://t.co/3mByYMKSGc)
+RT @newsyc100: GitHub mirror compromise incident report https://t.co/j9FVICxYXG (https://t.co/6tZPvh5kP5)
+RT @newsyc100: The Surprising Power of Virtue Labeling https://t.co/G5rYmuR8lQ (https://t.co/gx6N5kznY7)
+RT @wanquribao: 【软件是终极商业模式】加拿大的Constellation，20几年来，通过不断收购小软件公司，用这些软件公司产生的现金流再去收购其它小软件公司，不参与运营，不融资，不负债，从$2500万做到$150亿。 https://t.co/0U6Wo2Uu…
+RT @newsyc100: Average annual hours worked per country https://t.co/hPw4BFE7JJ (https://t.co/AmsD4bA2jA)
+RT @newsyc100: Google to developers: We take down your extension because we can https://t.co/vm1AYfazBv (https://t.co/9a4xBcgrdP)
+RT @yegle: 索尼本来准备上传trailer，结果把完整电影上传到YouTube了 Sony posted a whole movie to YouTube instead of the trailer - https://t.co/NZ9AGAXXGa
+RT @newsyc100: How Property Taxes Shape Our Cities https://t.co/pNcf2YvN2F (https://t.co/EKqHEowvsR)
+RT @newsyc100: Italy Wikipedia shuts down in protest at EU copyright law https://t.co/wOdMT7w1eM (https://t.co/VQzpjeczNT)
+RT @newsyc300: Stylish browser extension steals all your internet history https://t.co/9Sz1UXQoPz (https://t.co/kTeLW2nJzO)
+RT @newsyc100: Tim Berners-Lees Solid is a platform designed to re-decentralize the web https://t.co/YYUPSx0UWt (https://t.co/q0oDrexGxW)
+RT @Uptgyal: This is the cutest shit ever. https://t.co/ZgdmQgKW1p
+RT @newsyc100: Pointers Are More Abstract Than You Might Expect in C https://t.co/DPU8m6S6kj (https://t.co/y7XAEKGNYw)
+RT @newsyc300: Show HN: Google Drive as a file system https://t.co/aTIUquzeHk (https://t.co/LtWypDxjIx)
+RT @wanquribao: 【学术论文的盗版女皇】关于可免费下载6千多万篇学术论文的Sci-Hub及其创始人的长篇报道。2011年开始这个side project，与各出版商玩猫捉老鼠的游戏，利用各学校、其他个人的账号下载论文。 https://t.co/x3R46mwC7x
+RT @wanquribao: 【Duolingo 提高用户留存率的6个手段】这六个手段都是围绕着“签到”而展开的：进度条、显著的视觉效果、email与消息推送将用户拉回来使用 app、允许用虚拟货币贿赂系统保持签到记录、给用户颁发奖章。 https://t.co/B1kDYj…
+RT @newsyc250: Microsoft Releases 125M Building Footprints in the US as Open Data https://t.co/6AB57VyCIJ (https://t.co/KuEpLQ0KhF)
+RT @newsyc100: No, you don't need ML/AI. You need SQL https://t.co/VaiLr1O9wJ (https://t.co/fkPd2QaWoL)
+RT @newsyc100: Leslie Lamport Tells Mathematicians How to Write Proofs (2014) https://t.co/dpqFFVVeGt (https://t.co/A33oV3Nq3b)
+RT @newsyc100: Google Downranks 65,000 Pirate Sites in Search Results https://t.co/XmhrEHq1QW (https://t.co/Iy6YPP029N)
+RT @newsyc250: Why you should not use Google Cloud https://t.co/NMfTOCSc24 (https://t.co/zG2s6r1BSQ)
+RT @paulkrugman: From March. When I say these guys had no idea what they were getting into, I wasn't kidding. https://t.co/xOi7pUxsfx
+RT @newsyc100: How a Chinese businessman became the largest supplier of pyrotechnics in https://t.co/OR6O1lAkvw (https://t.co/rBol0Eyj3d)
+RT @FoxNews: Canada vows to impose tariffs on U.S. goods https://t.co/sq25ZjKAAH
+RT @StatMLPapers: Learning Implicit Generative Models with the Method of Learned Moments. (arXiv:1806.11006v1 [cs.LG]) https://t.co/P8eDr8m…
+RT @newsyc250: Massive Comcast Outage Hits the US https://t.co/Dg1worjB57 (https://t.co/uFrzmL2CNl)
+美国内部的反对声音还是很大呐看来 https://t.co/J0jbSHG6Ka
+RT @fangshimin: 美国住房部新发布的报告，旧金山四口之家年收入$117400属于“低收入”家庭，年收入$73300属于“很低收入”家庭。目前旧金山湾区房价中位值达到$935000。 https://t.co/CtqLRpBADz
+RT @wanquribao: 【Why is data hard】Slack 员工谈公司里怎么搞数据（从收集数据、定义 metrics、到用数据讲故事）、以及难处（数据不新、缺失、错误、赶不上产品的变化等）。 https://t.co/CDlBmDYTTA
+RT @newsyc100: Reverse Engineering for Beginners https://t.co/kh2VT6NRgx (https://t.co/xJnVTJlXSb)
+RT @newsyc100: Darpa invests $100M in a silicon compiler https://t.co/ZDA1O7rvqm (https://t.co/n3NfWL8nsW)
+RT @newsyc100: TCP small queues and WiFi aggregation  a war story https://t.co/B7L6PsQCLu (https://t.co/n5xqhc0I1A)
+RT @astaribe: https://t.co/13AQVPKqeL
+RT @newsyc100: Apple is rebuilding Maps from the ground up https://t.co/hly9pxLGjX (https://t.co/JmRV7fMEFT)
+RT @newsyc300: The Matrix Calculus You Need for Deep Learning https://t.co/dqizupjg10 (https://t.co/XRDy7pYuDu)
+RT @newsyc100: Internet is losing its memory: Cerf https://t.co/wX1zPIqK9r (https://t.co/EBheMraS65)
+RT @newsyc300: Marketing Firm Exactis Leaked a Personal Info Database with 340M Records https://t.co/yrxiTXPNbi (https://t.co/dO2rzVqzJA)
+@williamlong 贬值显然是好事，有利于出口；完全没必要维持汇率，何必呢
+RT @axios: President Trump has repeatedly told top White House officials he wants to withdraw the United States from the World Trade Organi…
+RT @QiZHAI: Mattis’ Beijing banquet https://t.co/frC4xpK8OB
+RT @newsyc100: Test-Driven Web Development with Python  The Book https://t.co/eOMNxgo0Jg (https://t.co/n3kIO94vuq)
+RT @newsyc100: IEEE Position Statement in Support of Strong Encryption [pdf] https://t.co/0MzFHMzrvd (https://t.co/tGcQJx7lTs)
+RT @newsyc300: Backpropagation algorithm visual explanation https://t.co/rWNkSqRe9T (https://t.co/PDJx8GRVj3)
+RT @kaylatausche: Off-camera, Sec. Mnuchin declines to comment on whether the July 6 tariffs on China - targeting $34b in imports - would g…
+RT @newsyc100: Families earning $117,000 now qualify as low income in California's Bay https://t.co/eWI4W7pbS6 (https://t.co/cf5fQ2IW9P)
+RT @wanquribao: 【The Thrill of Uncertainty】频繁刷手机（查邮件、社交网络等）、炒股上瘾、炒币上瘾、各种上瘾的原因：Variable interval rewards。偶尔让你尝到甜头，再无趣或亏再多钱也有个盼头：或许下次还能再尝到甜头？…
+RT @fravel: China ‘fooling itself’ in thinking it leads on science and tech https://t.co/eYx4JfOU1b describes  comments made by Liu Yadong,…
+RT @newsyc100: Effectively using AWS Reserved Instances https://t.co/fvxOZ99Rll (https://t.co/ceV8lfDr2X) via @mglukhovsky
+RT @newsycbot: Wi-Fi Alliance Introduces Wi-Fi Certified WPA3 Security https://t.co/Ve5oCxt9hg (cmts https://t.co/Z1V2cFV3Sk)
+RT @engadget: macOS Mojave first look: Minor but welcome additions https://t.co/eGpNMZ2Wtu
+RT @newsycbot: Verilog 6502 (2016) https://t.co/YeX15eRas9 (cmts https://t.co/s62y3KpX8L)
+RT @newsyc100: FDA approves first marijuana-derived drug and it may spark DEA rescheduling https://t.co/P340qNQHIw (https://t.co/FdvKuzNOrZ)
+RT @DuckDuckGo: We are proud to have a profitable business model that doesn't rely on collecting personal data. 		Our Founder &amp; CEO explain…
+RT @JollaHQ: #SailfishOS is now available to download on @planetcom2017	#GeminiPDA as a community edition! Follow our blog to read about ou…
+RT @engadget: Firefox and 1Password now bring data breach notifications to you https://t.co/PFSmdlg8r4
+RT @hardmaru: In case you were wondering how much it would cost to rent 128,000 CPU cores: https://t.co/HwPsyHvdjE
+RT @newsyc250: The NSA’s Hidden Spy Hubs in Eight U.S. Cities https://t.co/ZpNjtYO3Lc (https://t.co/Gk6etk9dtF)
+RT @historylvrsclub: The evolution of the Coca Cola bottle https://t.co/paLcgY2spb
+RT @C_Barraud: #FRANCE AND #CHINA AGREE TO PURSUE TRADE LIBERALIZATION: LI - BBG	*CHINA AGREES TO BUY MORE FRENCH AGRI PRODUCTS LIKE BEEF:…
+@billbarn2017 @jerrylin75 这个是以色列盖的隔离墙，隔的巴勒斯坦的。 https://t.co/HTIgcv7GJU
+RT @AnaSwanson: Harley-Davidson to move some production from US  because of EU tariffs https://t.co/1ixPcrDAw0
+RT @engadget: Microsoft is testing AdBlock Plus on the Edge mobile browser https://t.co/0PCTvFpmEW
+RT @newsyc100: Firefox Developer Tools: Accessibility inspector https://t.co/1EWdaDphXq (https://t.co/U2Dj8YWkxu)
+RT @newsyc300: How SQL Database Engines Work, by the Creator of SQLite (2008) [video] https://t.co/6nUZBErMNc (https://t.co/CGw2j6N5CC)
+RT @newsyc100: Notes on Discrete Mathematics (2017) [pdf] https://t.co/G17OltuiXP (https://t.co/yeUyZieqKk)
+RT @newsyc100: Losing 100 pounds in 276 days https://t.co/J2IHlmuZJq (https://t.co/GplC9ooKT1)
+RT @newsyc100: Attacking Private Networks from the Internet with DNS Rebinding https://t.co/Z6jLr24QTS (https://t.co/Cclrr252ct)
+RT @TechyanWP: 找到了前几天海南要开辟租界免墙区的政府文件原文。目前已经被删，Google还有缓存。		这个文件要比先前网络上流传的大多数新闻截图全面得多。租界免墙这事基本能确定是真的了。文件中，除了提及免墙区之外，还有提到使用Twitter、Whatsapp（什…
+RT @newsyc100: OpenBSD chief de Raadt says no easy fix for new Intel CPU bug https://t.co/sT3YIds3Zg (https://t.co/lsR94Cun0L)
+RT @newsyc100: Migrating from Jekyll to Hugo https://t.co/gLiZCCK3nA (https://t.co/aZacN0P3Sz)
+RT @HBO: We. Are. All. Just. Algorithms.
+RT @newsycbot: The Legend of Nintendo https://t.co/0FFNZH80oL (cmts https://t.co/T7dy7nFcrh)
+RT @newsyc300: Dealing with Hard Problems (2015) https://t.co/mOv2qYfhfo (https://t.co/7at5trQ2ok)
+RT @newsyc100: PeerTube: A Censorship Resistent YouTube Alternative https://t.co/48vl0FemGJ (https://t.co/gSBAmtS3iV)
+RT @ForbesTech: AMD Threadripper 2990X Revealed: Leaked Benchmarks Show 32-Core Shockingly Fast Performance	https://t.co/upnZ53RpYU
+RT @newsyc100: AMD Tackles Coming Chiplet Revolution With New Chip Network Scheme https://t.co/kFSB6HL5QB (https://t.co/V4Cdgh2G88)
+RT @AbeShinzo: 最後まで手に汗握る大接戦で、強豪セネガル相手に勝ち点ゲット。この勢いで、ポーランド戦では予選突破を期待しています。
+RT @wanquribao: 【Chrome 是新的 IE 6.0】这又是一个“作为英雄的时候不死，最后必将成为坏蛋”的故事。Google 的一些网站（Earth、Meet 等）只能在 Chrome 上才能跑，这不是明摆着垄断、排挤其他浏览器吗？ https://t.co/k…
+RT @newsycbot: Show HN: Instagram-scraper: Scrape instagram photos by tags, without API https://t.co/NtzbS8P73C (cmts https://t.co/1Ktlqkl9…
+RT @newsyc100: Web Assembly and Go: A look to the future https://t.co/RfePWNMxxR (https://t.co/YJGcHjmGJV)
+RT @wanquribao: 【Amazon 的营销战术】这篇超长文分析了 Amazon 使用的一些营销战术，他们买了近600万个搜索关键词，他们的产品页面的每个元素都优化得没法再优化了。看完之后有一种“最可怕的事情是比你优秀的人比你更努力”的感觉 https://t.co/…
+RT @newsyc300: Filezilla installer is suspicious again https://t.co/8Zl3a31kTu (https://t.co/KsLJf6v1LT)
+RT @paulkrugman: Good article. Also illustrates point I've been making: most value-added in many "Chinese" imports, like smartphones and fl…
+RT @newsyc100: Ask HN: Have you shipped anything serious with a serverless architecture? https://t.co/oLA5qqaip2
+RT @newsyc100: MtGox: Announcement of Commencement of Civil Rehabilitation Proceedings [p https://t.co/mGIBiodX1A (https://t.co/cWzzyTr90r)
+RT @newsyc100: Using the Chrome OS Graphics Stack on Intel-Based Linux Desktops https://t.co/8cZlbGW1D2 (https://t.co/1qzcqZy0lI)
+RT @realDonaldTrump: Based on the Tariffs and Trade Barriers long placed on the U.S. &amp; its great companies and workers by the European Unio…
+RT @newsyc300: Supreme Court Rules Police Need Warrant to Track Your Cellphone https://t.co/DVhmKi1Rdr (https://t.co/XKWEpoI577)
+RT @PIIE: China has more ammo than tariffs in a trade war. It could:	-Tell Chinese consumers to shun US goods	-Create regulatory nightmares…
+RT @DeepLearn007: MIT Neural Network Accelerates MRI Image Processing by 1,000 Times - May Save Lives During Surgery	#AI #MachineLearning #…
+RT @newsyc100: YouTube introduces channel memberships, merchandise and premieres https://t.co/9cgdoNUMaB (https://t.co/ekx1ZSM9Dv)
+不愧是世界最大法务公司，佩服佩服 https://t.co/kJeg2vrRd8
+RT @linuxtoy: Logstalgia：网站流量可视化，不断来回飞跃的小球非常形象的展示了客户端与 Web 服务器的交互过程。(https://t.co/rgsMrnuFs7) https://t.co/bMV0PRwvbk
+RT @newsyc100: Generalized data structure synthesis https://t.co/pck2TwwrGV (https://t.co/PXs1ZveviM)
+RT @PDChina: #China and #Nepal will build a cross-border railway connecting the Tibet autonomous region with Kathmandu, according to agreem…
+RT @newsyc300: I discovered a browser bug https://t.co/3SfIIER3IF (https://t.co/Ak47SlgQPd)
+RT @wanquribao: 【Making Peace with Personal Branding】来自 https://t.co/ncn4QCSsiO 的联合创始人的建议，尤其适合有点学术背景、但很清高、看不起那种自我宣传的行为、而又在现实社会中处处吃亏的、自以为很牛逼…
+RT @BMarcusMcCann: @RichardSocher All the code has been open sourced at https://t.co/KSp2pOdQNv
+RT @RichardSocher: https://t.co/5OkCitJr1I
+RT @engadget: Lobbyists helped gut California’s net neutrality bill https://t.co/AzbKiHy6sV
+RT @newsyc100: In a world of digital nomads, we will all be made homeless https://t.co/zhabMFJ0aB (https://t.co/h8bsj78H2x)
+RT @RichardSocher: Very excited to announce the natural language decathlon benchmark and the first single joint deep learning model to do w…
+RT @bbaschuk: Trade War Score: At this moment American farmers and manufacturers are subject to $1.12 billion worth of tariffs on $5.75 bil…
+RT @newsyc100: Synergy-core: Open source core of Synergy, the keyboard and mouse sharing https://t.co/FZQyRJqMVc (https://t.co/QT9IeESDSa)
+RT @wanquribao: 【Facebook 有专门的团队帮助政府、政客做宣传】每个大型的社交平台都应该有这种团队的：选举的时候，教各候选人的竞选团队购买广告；当选了，帮胜出的人利用直播等工具与民众们交流。政客们能自带粉丝到社交平台；大家容易撕逼创造活跃度。 https:…
+RT @newsyc100: Kazuo Kashio, a Founder of Casio Computer, Has Died https://t.co/kLXYxba6mW (https://t.co/oBZGrf2eGh)
+傲慢的蠢货 https://t.co/Lx4uDKicYH
+RT @FTChinese: 【美国对华关税：师出有名但非上策】马格努斯：特朗普的目标是惩罚中国不好的知识产权和技术转让行为，但关税这件工具并不好用，还有损自身利益。https://t.co/FhkruJ61RS https://t.co/9StdjJFo4t
+RT @newsyc250: Certificates for localhost https://t.co/8XkKDbNiIo (https://t.co/h4JBdWFzjJ)
+RT @wanquribao: 【做了大型支付系统后学到的分布式系统概念】不错的温故而知新类型的分布式系统个人笔记。作者在 Uber 上班，加入 Uber 时是做 app 的工程师，有计算机学位，能在白板画图解释分布式系统，但之前从没做过真的分布式系统。 https://t.c…
+RT @WSJ: A consumer guide to how Verizon, AT&amp;T and other carriers share your data https://t.co/RMEQnv3Byz
+RT @newsyc250: New US Tariffs are Anti-Maker and Will Encourage Offshoring https://t.co/FmZHANVSR5 (https://t.co/yHAwTRRqjU)
+RT @fangshimin: 一个危地马拉妈妈被遣送回去了，她8岁的儿子还被关在美国的笼子里，不知道什么时候遣送。另一个危地马拉妈妈被释放等着避难申请审理，她和7岁的儿子一个月前被拆散，只通过一次电话，不知儿子被关在哪里的笼子里，今天起诉美国政府。得州建了3处收留中心专门关押…
+@kuriko_c 关于房价，湾区能保持还算不那么夸张的房价收入比正是因为房产税制度，收入跟不上地区经济发展的本地人慢慢的因为支付不起本地的开销/房产税就被驱赶出当地了，mountain view好多次Google被本地人抗议也是这原因。
+@kuriko_c 嘴炮在台湾
+@kuriko_c 只能嘴炮一下的权力，真想独立是不行的。
+@kuriko_c 1. 德州自己想独立是不行的(Texas v. White)；2. 中位数毫无意义，看看湾区与北京比何如？且房产税制度基本上等于得每五十到七十年就再买一次房子，交不起房产税就对不起咯。本质上房产税就是租金，付不起房租就走人。
+RT @wanquribao: 【旧金山的粪便危机】相比美国其他地方，旧金山气候不错，常年住在户外完全没问题，将近1%的人口是流浪汉。现在旧金山城里走，很难有一段路是看不到粪便的，情况一年比一年糟糕了。在旧金山最好别穿露脚趾的鞋。 https://t.co/rnA52US1Zp
+RT @newsyc100: Accelerate large-scale applications with BOLT https://t.co/qVORkS5pWA (https://t.co/hn3kKhN8wo) via @ot_y
+RT @GoogleAI: Googlers Rahul Garg, Anelia Angelova and Qifei Wang are on hand to talk about the Google AI Residency (https://t.co/rOGrcuwER…
+RT @newsyc250: Behind the Tech with John Carmack: 5k Immersive Video https://t.co/ubrjSCwFUI (https://t.co/r1gexl55Kh)
+RT @newsyc250: Blender is testing PeerTube after YouTube blocks their videos worldwide https://t.co/nxWDxkqh10 (https://t.co/9u31VWlLe5)
+RT @WSJ: GameStop has faced declining sales as more people download games directly to consoles, computers and mobile devices https://t.co/I…
+RT @newsycbot: BitTorrent has been sold to blockchain startup for an alleged $140M https://t.co/pq9312CUSf (cmts https://t.co/jjATJdLtpf)
+RT @newsyc100: How I use Wireshark https://t.co/bvodsTsKAZ (https://t.co/ELTkj0CT0D)
+RT @r2d3us: A Visual Introduction to Machine learning — Part II is finally here! Hope you enjoy learning about Bias and Variance. 		https:/…
+RT @ABC: NEW: U.S. stock markets open sharply lower as tensions over trade between the U.S. and China increase. https://t.co/ahfwSs0n7J htt…
+RT @newsyc300: Show HN: Open Logos  Free logos for open source projects https://t.co/nbXSRbDZPR (https://t.co/IVziNgxbVC)
+RT @newsyc100: New tariffs will push US manufacturing offshore https://t.co/o9LEpP6VgK (https://t.co/RUP3qFERkY)
+RT @newsyc250: How modern Linux systems boot https://t.co/ihIpxrwrD4? (https://t.co/qWuhbV74dT)
+RT @newsyc250: X86 assembly doesn’t have to be scary https://t.co/LmXHplNwgg (https://t.co/Nv907UU1CP)
+RT @newsyc100: A Performance Cheat Sheet for PostgreSQL https://t.co/VMk7ihCyHF (https://t.co/L9IP3T8C7u)
+@lifetimeusa 太多可以对等的了，比如说对美方货物征收更高比例的税最后保持税额相等；让人民币对美元贬值，保持tariff之后仍然保持价格一致。
+RT @historylvrsclub: Taking a screenshot in 1983 https://t.co/8EsemkImhh
+RT @newsyc100: YouTubes Piracy Filter Blocks MIT Courses, Blender Videos, and More https://t.co/M4Nt4oS73y (https://t.co/tFNfZfiXBw)
+RT @newsyc100: Diablo devolved  magic behind the 1996 computer game https://t.co/j8sSIWtSPg (https://t.co/e8CyV2VUt3)
+RT @newsyc250: The SEC Will Leave Good ICOs Alone https://t.co/k2ZxAz0rVJ (https://t.co/gsgUSiK8wA)
+RT @wanquribao: 【为何我们从 MongoDB 迁移到 PostgreSQL】使用 MongoDB 的话，基本上你要在 application 层面模拟出一个关系数据库，比如做 join、一堆 if 语句对不同数据类型的处理。还不如一开始就用关系数据库。 http…
+RT @newsyc100: Obfuscated Tiny C Compiler (2002) https://t.co/2QyjpYmxWq (https://t.co/cXMWkRXDej)
+RT @newsycbot: Mozilla grant for machine learning projects [pdf] https://t.co/R9uJAsiw4q (cmts https://t.co/gf8jhr8ji4)
+RT @newsycbot: Inside the facility where Kodak brings film back to life https://t.co/hatDBHZlZW (cmts https://t.co/O30i5NpM40)
+RT @newsyc250: We Should Teach Music History Backwards https://t.co/etCU3nG7tH (https://t.co/xkotepzVGr)
+RT @wanquribao: 【写程序找出连环杀手】现在你手上有1976年以来75万起美国凶杀案的数据（如死者特征、作案手法、地点等），每年有5千个杀人犯逍遥法外。如何写程序检测出有关联的命案、以帮助警方揪出连环杀手？ https://t.co/czmFOm4Imz
+RT @TIME: 'Incredibles 2' breaks record for best animated movie opening ever https://t.co/0Cui63ST5q
+RT @newsyc250: ActorDB – Distributed SQL database https://t.co/YIp4N7drRt (https://t.co/rKM9PtLie8)
+RT @newsyc100: The Math of Card Shuffling https://t.co/fN4yrZ77BI (https://t.co/i79QUdIViO)
+RT @darrenxyli: 这个关于golang的gc的issue。issue本身就挺有意思的，同时整个讨论也挺有意思。 https://t.co/8zIEPjeyjF
+RT @SenatorHeitkamp: #NorthDakota is the 9th largest #agriculture exporting state in the US w/ $5.3 billion in commodities exported in 2017…
+RT @paulkrugman: I got carried away and wrote this monster piece. https://t.co/JEivIJcNAd
+RT @GTAP_Purdue: ‘We feel like we’re a bargaining chip’: N.D. soybean farmers... https://t.co/xUyI17JPVM
+RT @WSJ: Republican lawmakers from agricultural states have warned President Trump of potential repercussions in the 2018 midterms if he le…
+RT @thehill: Major Iowa newspaper uses front page to warn Trump tariffs could cost state $624 million https://t.co/HV8tkyx9ul https://t.co/…
+RT @newsycbot: Web Player for Apple Music (using MusicKit JS) https://t.co/HgeeKElndr (cmts https://t.co/JMpvPlgfSR)
+RT @Gizmodo: Researchers reach obvious conclusion that Bitcoin's price was artificially inflated https://t.co/CIdPQNOCHN https://t.co/gXJWf…
+RT @golang_news: Desktop Application UI? https://t.co/kLk7yOOsu2 #reddit
+RT @gabewildau: This is an incredibly explosive claim backed by paper-thin sourcing and not even a request for Tencent response. My persona…
+@gabewildau Facebook/Google/Tencent are all spying on people with no doubt. Nowadays all phones have backdoors. If you live in U.S. then Chinese will never share your information to US gov. Pick your spies wisely.
+@HillmanJE @sdonnan Colonialism? Chinese didn’t trade slave, never treat black people as slave. https://t.co/ekQI3Fcl4L
+RT @Scholten4Iowa: “It will be difficult not just for farmers, but ag lenders, equipment manufacturers, seed companies. It impacts everybod…
+@dandrezner @sdonnan US is hurting globalization but China is the one who defending it. US vs the World. Good job!
+时光飞逝 https://t.co/ojRWtOEe6V
+@mranti 说白了其实就是雇主没有给员工支付足够的薪资，然后把这部分薪资转嫁到消费者头上。这本身就是一种非常无耻的道德绑架，说什么文化的都是扯淡，之前在纽约吃了家店人家receipt上写“我们已经付给员工足够多的工资所以你没有必要再付小费了”看的人一阵舒爽
+RT @JeffFlake: Nobody wins trade wars. https://t.co/ZQtrHdqHmH
+很好的想法！但是ff还是先把现在这几个开了多进程模型的cache数据一致性和内存泄露问题解决了才是正事。希望不要步Netscape的后尘… https://t.co/Sxg0gcmIMl
+要能到真的能用还是有一段距离。说真的现在的这些summarization算法做的大多数效果不一定比得上取每段第一句话。 https://t.co/bx08LYdvli
+RT @newsyc100: The Transistor, Part 3: Endless Reinvention https://t.co/vng6xDHIdO (https://t.co/5JHtGEsF8w)
+RT @newsyc100: Nations top three most expensive places for renters: all in Bay Area https://t.co/laoN4XoiWQ (https://t.co/RHQFq1Jg75)
+RT @newsyc100: Blooming Password  A banned password check using a bloom filter https://t.co/k2eMBMaY6v (https://t.co/J4iY7aPpKC)
+RT @newsyc100: Why you should learn just a little Awk (2010) https://t.co/SnYp4864Jl (https://t.co/nAxKusgYL2)
+RT @newsyc100: Strapdown.js  Instant and elegant Markdown documents https://t.co/GslseyURSs (https://t.co/LKBsKErom9)
+思阙先祖父，暴霜露，斩荆棘，以有尺寸之地，子孙视之不甚惜，举以予人，如弃草芥，今日割五城，明日割十城，然后得一夕之安寝，起视四境，而秦兵又至矣。
+以地事秦犹抱薪救火，薪不尽火不灭。 https://t.co/UBSTLMlA6i
+RT @mxlearn: Tensorflow seq2seq Text Summarization. https://t.co/lbp5B025GV
+@kuriko_c 不仅仅是国际贸易规则在美国眼里是华丽的外衣，国际规则在美国眼里都是华丽的外衣，拥有最强大的武力美国一直都是这样肆意妄为。国际规则在美国的强权眼里只有粉饰太平的意义。
+@BBCWorld “A very low IQ individual”
+RT @newsyc100: What do Unix command names stand for? https://t.co/mf88xkHczX (https://t.co/9KAJC9oCeB)
+iowa第四选区民主党候选人@Scholten4Iowa ，今年挑战共和党议员@SteveKingIA 中美贸易战让iowa的农民成为牺牲品 https://t.co/v9rPYu3Wvx
+RT @RepDavidYoung: Last year, the U.S. exported $14B worth of soybeans and $1.1B worth of pork to China. At a time when farmers are experie…
+RT @DemWrite: Soybeans.		One of America’s biggest crops. And China is the biggest consumer. Trump’s tariffs price US soybean farmers out of…
+@SenateMajLdr While the trade war is hurting US farmers. What will you do to protect them?
+RT @GOPSenFinance: NEWS: Chairman @senorrinhatch on 301 tariffs, “Tariffs will harm American and Chinese businesses and consumers, and will…
+RT @SheryAhnNews: Congress reacts to US tariffs on China: Rep. Paulsen tells us tariffs aren't a "Smart Approach" #Trade #China @markets @B…
+因为这事并不是trump愿意的，而是别的利益集团在推进；说要到下月才生效本身也就留了沟通与利益分割的时间。 https://t.co/4wJQ3EsqGz
+RT @gitlab: 👋 Meet the GitLab Web IDE!	https://t.co/vhx2RR1uU6
+RT @newsyc250: Let's code a TCP/IP stack, 1: Ethernet &amp; ARP (2016) https://t.co/8EuagzhN0M (https://t.co/owETWJt42b)
+RT @newsyc300: Blot  a blogging platform with no interface https://t.co/0qSzYCU35h (https://t.co/hK6NSTfFxT)
+RT @ChineseWSJ: 测一测你的薪资在美国属于什么水平？数据显示，年薪中位数最高的公司集中在金融和医疗保健行，能源和科技业紧随其后，而消费品行业则位于下游。https://t.co/7QvpZvfGVb
+RT @newsyc250: Backdoored images downloaded 5M times removed from Docker Hub https://t.co/GSoMbUY66j (https://t.co/9ybwzvGVrw)
+RT @MSNBC: JUST IN: In response to new US tariffs on China, China calls “on all countries to take joint action, resolutely put an end to th…
+让子弹飞 https://t.co/QiG6lz2T32
+RT @newsyc300: Not Only Is the Mac Mini Outdated, It's No Longer Mini https://t.co/6hvUye0tfe (https://t.co/LGenvHMcoR)
+RT @PDChina: Existing trade agreements will be void if US imposes tariffs on  Chinese goods, a spokesman of Ministry of Foreign Affairs rei…
+RT @wanquribao: 【Safe Operations For High Volume PostgreSQL】对巨大的数据库table进行改动都得十分谨慎，一不小心可能就锁死了整个table、前端的网站/app也跟着挂了。本文针对Postgres总结了一些基本注意事项…
+RT @newsyc250: Long-term health risks after having adenoids or tonsils removed in childhood https://t.co/QmBfwJw8bv (https://t.co/4RDnzTCyJ…
+RT @newsyc100: Blot  a blogging platform with no interface https://t.co/eNXntPwcKT (https://t.co/3RNZnRlEdQ)
+RT @newsyc300: Neural scene representation and rendering https://t.co/AtBwcnyAfB (https://t.co/LgBL7FJUTe)
+RT @engadget: 'Cyberpunk 2077' offers a fantastic and fresh kind of sci-fi dystopia: https://t.co/aqJHOdXyqX https://t.co/WeaBbwEs8K
+RT @2x2sometimes5: Anti-electricity cartoon from 1900. https://t.co/Uqf27zu5Je
+RT @SecPompeo: Thanks to President Xi for hosting me. U.S. and #China are firmly committed to the complete denuclearization of the Korean P…
+RT @SenateMajLdr: In #Kentucky, agriculture is part of who we are. Our farm families produce everything from poultry to soybeans. The farm…
+amazon hq2正在选中，西雅图这么搞当然害怕人家整个走了；贝索斯这么吊的人当然不会妥协；hq2的竞争免税条款可是相当的激烈… https://t.co/YaiE1m9XC6
+RT @SecPompeo: I enjoyed speaking with the Chinese and American press, and answering questions along with State Councilor and Foreign Minis…
+RT @USATODAY: #FlagDay https://t.co/ZTRIlkggVx
+RT @TechCrunch: Microsoft is developing its own cashierless store technology, says report https://t.co/WX4cl8Hjyv by @sarahintampa https://…
+@kuriko_c 听其言观其行，不愿意为美国打仗的美国人民却输出了冷战之后影响力最大的几场的战争，造成多少人流离失所多少家破人亡妻离子散。不愿意打仗的国民却拥有比军事实力排在美国之后十名的总和还要强的军事力量，真是好一个世界和平捍卫者了。
+@kuriko_c 这个数据显示了虽然没有多少人愿意为美国而战，但是美国依然在过去的二三十年内打了好几场战争。然而中国人虽然愿意为中国而战，却仍然奉行和平崛起的路线，充分显示了中国人民是热爱和平的与美国这个世界和平的威胁有180度的不同。
+@kuriko_c 不可能进行的，给美国农业钢铁能源谈好的利益还要不要了，断人财路事可不好做；朝鲜半岛无核化还要不要推进了，trump差不多都要到手的和平奖还要不要了？也就这几天了，走着瞧吧，笑看美国内部激烈的政治斗争
+@kuriko_c 美国也是有的：United States Flag Code
+@kuriko_c 真是感谢你的数据了，挂国旗比例如此之高，居然说低…在中国一整个小区走过去能看得到一副吗？
+@kuriko_c 六成挂国旗可一点都不低；这些年在美国本土这些州基本都转遍了，美国的爱国主义之强根本是中国无法比较的。中国很多人还停留在“中国不行，还是美国强；国产的东西质量不好，要买进口的；中国落后，还是外国是天堂”的阶段。推上多少中国人的言论，恨不得中国跪下来给美国做奴隶
+@kuriko_c 随便开车逛一逛，多少院子里插着国旗；随便找个集会，USAUSA的喊着；“我们就是全世界最强大的国家”；为了自己的霸权地位向全球输出战争；斯诺登这种坚持捍卫美国人民自由的代表给算成叛国分子，好一个爱国主义大棒
+RT @SenateMajLdr: Unemployment is lower today than at any time since 2000. Last week, the House Democratic leader responded: “Hip-hip hoora…
+RT @newsyc250: Dragonfly: Alibaba P2P file distribution system https://t.co/oMVjgE1DCv (https://t.co/N8wogxBg9p)
+RT @newsyc250: Console.table() https://t.co/bCbjX3CpEy (https://t.co/y91OXYgudf)
+RT @newsycbot: Translating SQL Queries using map, reduce, and filter in JavaScript https://t.co/5N70wNRwqS (cmts https://t.co/NThQDjUB68)
+RT @newsyc300: Bitcoins Price Was Artificially Inflated Last Year, Researchers Say https://t.co/VOUkLkhuAR (https://t.co/3npQltPm1G)
+RT @newsyc300: Polly.js  Record, replay, and stub HTTP interactions https://t.co/7aDqMcYK1I (https://t.co/XV4WsxYNQ1)
+RT @newsyc300: Netflix and Alphabet will need to become ISPs, fast https://t.co/2Idcv0bPcZ (https://t.co/zKcT16AlTv)
+@kuriko_c 据我所知，美国是全世界爱国主义最强的国家，没有之一。
+RT @newsyc300: Datasets for Machine Learning https://t.co/G75Gxvm03z (https://t.co/S4PSbjzug4)
+RT @newsycbot: Office 365, Skype, MS Teams, and VS Code Are All Being Rewritten in React Native https://t.co/QJC30RfWJg (cmts https://t.co/…
+RT @Reuters: White House seeks to block Congress from killing ZTE deal: report https://t.co/E2BKfe2TxW
+RT @newsycbot: Ask HN: What comes after BitTorrent? https://t.co/nmLQXboexY (cmts https://t.co/nmLQXboexY)
+RT @davegray: Google discovered that giving every employee a credit card and trusting them to follow policy on expenses, even with some bad…
+RT @realDonaldTrump: The U.S., together with Mexico and Canada, just got the World Cup. Congratulations - a great deal of hard work!
+RT @newsyc100: RemoteStorage  An open protocol for per-user storage on the Web https://t.co/Ob7ORMPFQB (https://t.co/gZOL25mBJr)
+RT @realDonaldTrump: Oil prices are too high, OPEC is at it again. Not good!
+RT @newsyc100: Facebook confirms that it tracks mouse movements https://t.co/5vVdNgHxUa (https://t.co/cHwn5ZyrfH)
+RT @awkwardgoogle: Gorgeous ebru flowers bloom before your eyes	By Firdevs Çalkanoğlu https://t.co/GHsDiF5tHL
+RT @newsycbot: (1992) Torvalds and Tannenbaum on Linux's Design https://t.co/33jkNazq5t (cmts https://t.co/0TfcgzehHK)
+RT @newsyc100: Are real numbers really real? https://t.co/Oo3GoGZlIv (https://t.co/RorbZiayGn)
+RT @newsyc100: AT&amp;T; Cleared by Judge to Buy Time Warner https://t.co/DLy6DQGKiK (https://t.co/eATzW8mFVx)
+RT @Protohedgehog: DO NOT add this as the URL for a bookmark:		javascript:location.hostname += '.sci-hub.tw'		Which when you click on a pay…
+RT @newsyc100: Back to the Future of Handwriting Recognition https://t.co/zLYhpnYv27 (https://t.co/dhNc7gAShF)
+RT @BBCJonSopel: Latest from @realDonaldTrump on walk in garden with #KimJongUn - “it’s going great we had a really fantastic meeting a lot…
+RT @ahejlsberg: Fun with functions! Strong typing of variadic higher order functions coming to TypeScript. https://t.co/2hNbTYfJ0I
+RT @newsyc100: Birth Rates Dropped Most in Counties Where Home Values Grew Most https://t.co/OlMPrYYU6s (https://t.co/v948zULNky)
+@kuriko_c @brother_chui 美国内部政治斗争之惨烈可见一斑，只要这事还需要过两院就肯定过不了，那么多农业钢铁能源金融行业嗷嗷待哺，过了能对的起自己的选票吗，还想不想连任了
+RT @newsyc100: Architect  A Serverless Framework https://t.co/mE30eXdEf1 (https://t.co/gFlDzTCAYP)
+RT @gitlab: How &amp; why to keep your Git commit history clean 💻✨ via @Kushal_Pandya https://t.co/HbYv2KsyGQ
+RT @newsycbot: The Repeal of Net Neutrality Is Official https://t.co/rZcZsW1kk7 (cmts https://t.co/0Lh1bMmP2X)
+RT @newsyc100: Amazon2csv: Amazon products scraper to CSV (no API token required) https://t.co/kvylX6bAFo (https://t.co/foxxuGNiMQ)
+RT @newsyc300: Intel 28-core fantasy vs. AMD 32-core reality https://t.co/TvysTsEPcm (https://t.co/qYwT7Fq8gH)
+RT @newsyc100: Near-Collapse of ZTE May Be Chinas Sputnik Moment https://t.co/uBPTNRyOIC (https://t.co/bmTTzc7HaA)
+RT @Fisher85M: How does end-to-end encryption work? {Infographic}		#CyberSecurity #infosec #PKI #blockchain #Security #education @Fisher85M…
+RT @newsyc100: Anders Hejlsberg on Modern Compiler Construction (2016) [video] https://t.co/iIYIdcfAOR (https://t.co/Jqid60W0Bx)
+RT @newsyc100: Attacks against machine learning  an overview https://t.co/nmDp9yZBSL (https://t.co/6daYchylCz)
+RT @newsyc100: Lost Japanese Video Games Discovered in a Folder on a Private Forum https://t.co/aQYeBrHFWY (https://t.co/umT9Oxi5Dk)
+@kuriko_c 美国人民的选择！
+RT @newsyc100: OpenBSD, C, httpd and SQLite  Web App stack https://t.co/mAOqLWAREq (https://t.co/3O6nEe1g56)
+RT @newsyc100: The Game Theory of Anonymous Donations https://t.co/N29IWuS3po (https://t.co/FH5LvHS4lG)
+RT @newsyc100: Predicting Price Changes in Ethereum (2017) [pdf] https://t.co/yENHE1YmBz (https://t.co/gQG1fu1iy3)
+RT @newsyc250: Introducing DNS Resolver for Tor https://t.co/szznIGt4u4 (https://t.co/VxH8xTfuD9)
+RT @newsyc300: JVM Internals (2013) https://t.co/DAsK2OMoG1 (https://t.co/9kRp6QbDFH)
+RT @newsyc250: DeepMind: First major AI patent filings revealed https://t.co/HZMMRgpOmC (https://t.co/U5cgSWO1Jy)
+RT @sciam: The 25% revolution—how big does a minority have to be to reshape society? https://t.co/MzSseiSQHq https://t.co/ZAR9qxAxeQ
+RT @ComiskeyNathan: The Brexit story thus far. https://t.co/KJG2OQ25bn
+RT @kcimc: i wrote a short post "neural nets for generating music": a very brief history + survey of the last few years https://t.co/HXiejY…
+RT @nicolapezzotti: Check out my work at @GoogleAI on a linear complexity tSNE implementation for TensorFlow.js on the web! https://t.co/uX…
+RT @newsyc250: The Biggest and Weirdest Commits in Linux Kernel Git History (2017) https://t.co/WDZGzToQwJ (https://t.co/tpMrF28o1p)
+RT @newsyc100: How to Find Your Earliest Users https://t.co/BbK2ls1ndp (https://t.co/pDFLg4XvJ0)
+RT @newsyc100: Hacker News Highlights: April and May 2018 https://t.co/lL54rfn1Zl (https://t.co/sFR5KTzv3y)
+RT @ruanyf: 如果你想把一个文件放到网上，从此任何人无法删除和屏蔽，别人只要想看就能看到，你可以使用 IPFS。		它是一个分布式网络，采用点对点通信。内部是一个区块链，文件写入以后就没法删除了，然后通过哈希可以读出文件。缺点是本地需要架设一个客户端，资源开销有点大。…
+RT @IBMResearch: The US Again Has World’s Most Powerful Supercomputer https://t.co/F6ZQJdKLiI via @WIRED
+RT @FT: Argentine investors welcome $50bn IMF rescue deal https://t.co/7kBUhXf0g1
+RT @newsyc300: Justice Dept. Seizes Times Reporters Email/Phone Records in Leak Investi https://t.co/cqNKZRypPj (https://t.co/UyDLUlwsSE)
+RT @NVIDIADC: .@ORNL has announced #Summit, the world's most powerful #supercomputer, powered by over 27,000 NVIDIA #Volta Tensor Core GPUs…
+RT @newsyc100: Serverless WebRTC Chat on IPFS https://t.co/h3EXWjXbJ7 (https://t.co/v5rgWzNoKo)
+RT @AdamMGrant: The suicides of Anthony Bourdain and Kate Spade are chilling reminders of the stigma that still surrounds mental illness.…
+RT @newsyc100: Intel: We 'Forgot' to Mention 28-Core, 5-GHz CPU Demo Was Overclocked https://t.co/C3ipYFf3lT (https://t.co/LaYa7uNQdF)
+RT @newsyc100: Reinforcement Learning: From Zero to State of the Art with Pytorch 4 https://t.co/Q1PEi6rns3 (https://t.co/b1lyffE2Nc)
+RT @realDonaldTrump: Why isn’t the European Union and Canada informing the public that for years they have used massive Trade Tariffs and n…
+RT @bobdavis187: An inside look at the Trump's trade  war -- within the Trump administration. How U.S-China relations went from peaceful ba…
+RT @newsycbot: A Friendly Introduction to Cross-Entropy Loss https://t.co/hetohwuwS5 (cmts https://t.co/ZWOYDa2ggw)
+RT @TIME: "U.S. Allies are ready to turn their backs on Trump at the G-7 summit" https://t.co/sQOCSNsh88
+RT @engadget: Atlanta ransomware attack may cost another $9.5 million to fix https://t.co/FQgBV8M0sh
+美国本来就是一个权力松散的集合体，各自有各自的利益，肯塔基作为农业大州当然有自己的反对贸易战妥协的驱动力。也就rubio这种佛罗里达来的极端保守才会站着说话不嫌腰疼表现的看上去很有情怀的样子，真的给他好处他也一样是“真香”。 https://t.co/KS5ohCkN6g
+RT @golang_news: HTTP client for Go with asynchronous support https://t.co/PsT5tuMtYy #reddit
+RT @golang_news: Go Memory Management https://t.co/uuAeqIn3Gp #reddit
+RT @golang_news: Can someone, once and for all, point out how to write REST APIs in Go? https://t.co/Dvhup0xpSN #reddit
+去年组的1950X，等更新换U了！ https://t.co/QTE360WX6H
+RT @ruanyf: Gource 是一个很好玩的可视化工具，可以将代码仓库的历史变成视频，支持 Git 和 SVN 等多种格式。		只要在仓库目录执行 gource 命令，就能看到提交历史的视频。https://t.co/yot5XsS4Zt https://t.co/Cc…
+RT @engadget: A closer look at Sony's RX100 VI https://t.co/iWknYVVkC6
+RT @gitlab: Apple just announced Xcode 10 is now integrated with GitLab https://t.co/eQbtiY4IYm
+RT @newsyc300: GitTorrent: A Decentralized GitHub https://t.co/117hDXW8y8 (https://t.co/5wKJlIcng4)
+RT @mckonomy: I’ve covered G7 meetings since 1995. I’ve never seen a country, let alone a G7 member, singled out like this:	https://t.co/E2…
+RT @newsyc300: GitLab sees huge spike in project imports https://t.co/ssUBLzG92x (https://t.co/rBTAFuAfcs)
+RT @newsyc100: How Apple Programmer Sal Soghoian Got Apps Talking to Each Other https://t.co/GB4u5RtwyF (https://t.co/cQRsgdevkY)
+RT @newsyc100: The Psychology of Money https://t.co/9beQqiWjYp (https://t.co/t0Y6nCLPCZ)
+RT @newsyc300: Ted Dabney, a Founder of Atari and a Creator of Pong, Has Died https://t.co/xzg3D5ZcR3 (https://t.co/M7jqPWkrpn)
+RT @newsyc300: MIT 9.11: The Human Brain (Spring 2018) https://t.co/5EfdHSZC4Z (https://t.co/UyoIWtACiq)
+RT @newsyc250: Mozilla Project Fusion: Tor Integration into Firefox https://t.co/h4LxPvnkdd (https://t.co/Rcg8fSFkra)
+RT @newsyc300: Microsoft and GitHub have held acquisition talks https://t.co/8bC72BrObR (https://t.co/5bJ0IgRK5J)
+RT @newsyc100: Reddit just passed Facebook as #3 most popular website in US https://t.co/pmaREYfLdZ (https://t.co/xXh8Uif2nK)
+RT @realDonaldTrump: Our United States team has arrived in North Korea to make arrangements for the Summit between Kim Jong Un and myself.…
+RT @newsyc300: How to write efficient matrix multiplication https://t.co/yGfTOU1L7c (https://t.co/BxpP5zd2Mb)
+RT @b0rk: awk https://t.co/eNEtB3KueU
+RT @b0rk: sed https://t.co/KYATAkrb7z
+RT @newsyc100: Parallel Index Scans in PostgreSQL https://t.co/QkMEwmwTzj (https://t.co/8j7Cu9PO1Y)
+RT @newsyc300: GDPR for lazy people: Block all European users with Cloudflare Workers https://t.co/NzdpUMYF1V (https://t.co/ahqmk1HCui)
+RT @newsyc300: GDPR: Programmatic ad buying plummets in Europe https://t.co/LKUJ5d26cM (https://t.co/XL5ilMMClJ)
+RT @newsycbot: How big is China’s digital economy? [pdf] https://t.co/kudL9Qkblk (cmts https://t.co/cpA4WF3uyu)
+RT @newsyc100: Netflix is now worth more than Comcast https://t.co/xFS5MWWylG (https://t.co/iUetTiH5pt)
+RT @newsyc100: Pornhub launches VPNhub, its own virtual private network app https://t.co/UUoGgQsPVf (https://t.co/LaA1XVPWZq)
+RT @newsyc100: Uber Self-Driving Car That Struck Pedestrian Wasnt Set to Stop in an Emerg https://t.co/v303RS36NU (https://t.co/RRRFvrQnkl)
+RT @newsyc100: My First Year of Freelancing https://t.co/3e2rF7utVj (https://t.co/OjpM73BUnR)
+RT @newsyc300: The Bill Gates Line https://t.co/BXJWcaYB2P (https://t.co/xucXg9HwGh)
+RT @newsyc300: Bitcoin Gold Hit by Double Spend Attack, Exchanges Lose Millions https://t.co/eWdFbNBQdC (https://t.co/LvWOKE17rg)
+RT @newsycbot: Why China’s Payment Apps Give U.S. Bankers Nightmares https://t.co/vYodYF1YPv (cmts https://t.co/8kSBTIiYwL)
+RT @newsyc300: Winds 2.0: Its Time to Revive RSS https://t.co/X6YAjwt3nR (https://t.co/XTSzBvlouZ)
+RT @newsyc100: $36k Google App Engine RCE https://t.co/cgQR6AdS3U (https://t.co/YjtL2nvkL8)
+RT @kuriko_c: 又有新动态。5月21日纽时文章称引述知情人称中方非常明白美方贸易团队内部存在分歧，并有意利用了这种分歧。几个月来中方通过多方面合力培养了努姆钦，让他成为美方主要对话人。让努姆钦的同事失望的是，他欣然接受了这一角色。https://t.co/mVHsp…
+RT @newsyc300: Getting Google to ban our entire company https://t.co/PKjtJgHBT2 (https://t.co/lsxiMZnjtz)
+RT @newsyc100: Japan's secret spy agency https://t.co/WeX2QJ8Vqn (https://t.co/ADxKMrVDOR)
+RT @newsyc100: Gojay  Highly performant JSON encoder/decoder for Golang https://t.co/hStX72Gwz3 (https://t.co/cmgI3K2bbr)
+RT @newsyc300: How to disappear from the internet https://t.co/3qbQl5TA8t (https://t.co/U9sQF5pfg8)
+RT @WHPublicPool: Joint Statement of the United States and China Regarding Trade Consultations https://t.co/9QiFTtF1P5
+RT @newsyc100: The Stuxnet worm would have to be the most sophisticated software ever wri https://t.co/eA74W8UEzm (https://t.co/ATW28YJM2L)
+RT @newsyc100: Introducing Git protocol version 2 https://t.co/JWj6iLrVTC (https://t.co/TrKfqxxsXJ)
+RT @newsyc100: Google Removes 'Don't Be Evil' Clause from Its Code of Conduct https://t.co/CRPYEFL5Oa (https://t.co/SkthRq9IDy)
+RT @realDonaldTrump: Talking trade with the Vice Premier of the People’s Republic of China, Liu He. https://t.co/9T7Iq6F3Xe
+RT @newsyc100: Hardcoded Password Found in Cisco Enterprise Software Again https://t.co/POkmWZVBhn (https://t.co/GTCQaUR2fd)
+RT @williamlong: 网站被DDOS攻击的防御方法 https://t.co/vyxzjxriTC https://t.co/eZ7J7j4Gz6
+RT @yegle: https://t.co/1z3xegjksa 之前推荐过的Altair这个做图library在PyCon上有视频
+RT @newsyc100: State-of-the-art text classification with universal language models https://t.co/1vb1UwZHCm (https://t.co/XFIDpQJX1i)
+RT @ruanyf: 网友告知，华为云可以申请免费的DDoS防护，每月30个名额。这条不是广告，转给需要的朋友。https://t.co/lakoUofnta
+RT @newsyc100: Archive of Operating Systems https://t.co/02LYh7T7r9 (https://t.co/dDMyehbmY2)
+RT @ruanyf: 腾讯云高防 IP 的价格，你用的起吗？虽然听说后面会对个人站长打折，但真是舍不得这些钱啊。		日进斗金的游戏公司才敢用吧，小型的个人网站面对 DDoS 攻击，除了投降搬家装死，还能有什么办法呢……https://t.co/jHRbfv2rp6 https…
+RT @newsyc100: EFail https://t.co/c7ClrqiJ4q (https://t.co/rAagzuyVbR)
+RT @newsyc300: Shell Style Guide https://t.co/QlEp0exfB8 (https://t.co/opNFun7sUA)
+RT @newsyc100: Google under investigation for using Android phone data to secretly track https://t.co/CriYVF2Ctg (https://t.co/QZJdmz9Odo)
+RT @Independent: This is how much baggage you're allowed to take on all major airlines https://t.co/NgpwPf7PcO https://t.co/BhXGrui0HI
+RT @newsyc250: Progress – A Tool to Monitor Progress for Commands in Linux (2016) https://t.co/jbpgqomUaZ (https://t.co/i38PQ2DUXa)
+RT @newsycbot: John Carmack: My Steve Jobs Stories https://t.co/2IGfOLYGEw (cmts https://t.co/gTKbXPEAZ1)
+RT @newsyc300: Docker is a dangerous gamble https://t.co/t6hwvqiMhA (https://t.co/VfjrEfNt9b)
+RT @newsyc100: The State of Cryptocurrency Mining https://t.co/0gadj4gj0V (https://t.co/jSeOQzP6Sr)
+RT @newsyc100: German online bank uses Bitcoins to transfer loans https://t.co/lkXK8QTWBP (https://t.co/1bKOzzJBOz)
+RT @realDonaldTrump: President Xi of China, and I, are working together to give massive Chinese phone company, ZTE, a way to get back into…
+RT @newsyc100: Is K8s Too Complicated?  https://t.co/F741AHk4g9 (https://t.co/xIaVd2RBnM)
+RT @newsyc300: Build your own X: project-based programming tutorials https://t.co/d4hWZop7Jo (https://t.co/LyzbrgWYt0)
+RT @newsyc300: Pyre: Fast Type Checking for Python https://t.co/yZZpg2FhQi (https://t.co/ZsJOo3V2yl)
+它不仅依附于外国人，同时又与本国行政官员、富农及其他旧势力相勾结，损害国家和民族利益，压榨本国人民，是发展中国家中落后生产关系的代表，严重阻碍生产力的发展和社会的进步，在民族民主革命中是极端的保守主义者，是革命的主要对象之一。
+买办资产阶级：一般指发展中国家中，依附于外国势力并直接为其服务的阶层。买办资产阶级适应外国侵略的需要，为外国人服务，是外国侵略势力压迫本国人民的帮助者，外国势力在发展中国家的重要社会支柱。
+RT @newsyc300: ISPs Lying That They Dont Make Enough Money https://t.co/82HyT58Bth (https://t.co/XBRnFP5YUM)
+RT @newsyc300: Ubuntu 18.04: Unity is gone, Gnome is back, and Ubuntu has never been bett https://t.co/9CwPd6fqtU (https://t.co/OJ3drVQuM3)
+RT @newsyc300: Apple cracking down on applications that send location data to third-parti https://t.co/Sm1lXTqU9s (https://t.co/if0t1dMjbW)
+RT @newsyc100: Amazons Fake Review Economy https://t.co/H0DcLCJKS0 (https://t.co/r7QfBp9Exe)
+RT @realDonaldTrump: Statement on the Iran Nuclear Deal: https://t.co/O3SpryCKkc
+RT @Waymo: Today’s @Google #io18 keynote takes place in the very same spot Waymo ran some of our earliest self-driving tests. Nearly 10 yea…
+RT @newsyc100: ZSH, tmux, Emacs and SSH: A copy-paste story https://t.co/V1eKdNKHtK (https://t.co/7lY2qZdawf)
+RT @newsyc100: Letting go of the GPS to learn the art of natural navigation https://t.co/wnxnTpvWz6 (https://t.co/FOw2H2Pz0b)
+RT @newsyc100: Ask HN: What are your favorite terminal programs? https://t.co/qKaEt9BCNt
+RT @ruanyf: 下面17个数学公式据说改变了世界。数了一下，我知道9个。https://t.co/yn25oLxuKr https://t.co/a5tCStI3D5
+RT @ABC: "Houston, we have a problem!" A beekeeper takes a dangerous drive home when some 3,000 bees broke free from their containers in hi…
+RT @MothershipSG: Next level Japanese ad https://t.co/uZZoe9WNqD
+RT @PDChina: Chinese Premier Li Keqiang left Beijing Sunday for official visits to #Indonesia and #Japan, and the 7th China-Japan-ROK leade…
+RT @newsyc100: https://t.co/TETuGnQHc6 to close to EU users saying it cant comply with GDPR https://t.co/g684tTnHoN (https://t.co/Pp7VIfELK…
+RT @newsyc250: The United States of Japan https://t.co/rsZElWjV17 (https://t.co/Bb688AqYD9)
+RT @newsyc100: What SSH Hacking Attempts Look Like https://t.co/P64lIllhKd (https://t.co/O5DE5ceujT)
+RT @newsyc300: Never Write Your Own Database (2017) https://t.co/bb8l1TyfeJ (https://t.co/DBPYt6vzwU)
+RT @newsyc100: Please Stop Using Adblock (But Not Why You Think) https://t.co/w7x5ACxBB5 (https://t.co/DxUHDFU8TJ)
+RT @newsyc100: Twitter urges users to change passwords after computer 'glitch' https://t.co/y7zHUiXYMo (https://t.co/Ai5z2TEPpE)
+RT @newsyc300: High Speed Networking: Open Sourcing our Kernel Bypass Work https://t.co/2X89dSM9Lx (https://t.co/ksneVIENfl)
+RT @newsyc100: The Kruskal Count Card Trick https://t.co/SlKBAvwPA6 (https://t.co/JxyO7cLKbe)
+RT @newsyc300: De-Googling my phone https://t.co/WAGAj9q5Db (https://t.co/oy02FjVsrG)
+RT @newsyc300: Twitter urges users to change passwords after computer 'glitch' https://t.co/z8Tr6AiNKG (https://t.co/YbSAvQWogd)
+RT @newsyc100: AT&amp;T; updates firmware to block access to 1.1.1.1 https://t.co/mJxUzipaSL (https://t.co/mRTZ53LV1n)
+RT @newsyc100: EEG Accurately Predicts Autism as Early as 3 Months of Age https://t.co/4IpSt5KNBm (https://t.co/KXOUtpVQ9L)
+RT @newsyc100: The Internals of Postgres  Concurrency Control https://t.co/1RLUBzpQMg (https://t.co/dJVqbODLlj)
+RT @Leaskh: Chrome OS 使用内置容器环境直接运行 Linux 镜像，完美使用 Linux 原生的 CLI 和 GUI 应用。过程相当简单，十个命令不到完成配置，比 Windows 10 的子系统方便多了。比之前各种折腾的方案都要彻底，方便，高效。感觉可以把…
+RT @newsyc300: Show HN: ReLaXed  High-quality PDFs using web technologies https://t.co/HE2IgOAl98 (https://t.co/jvPUO9PBhb)
+RT @newsyc300: Salsify  A New Architecture for Real-time Internet Video https://t.co/FyOjFrYPfn (https://t.co/ePL4VRSfH6)
+RT @newsyc250: “https://t.co/ssXQO0FgZI makes faking perfection easy” https://t.co/gXLes2EIni (https://t.co/k326QE7hCa)
+RT @newsyc100: Show HN: Create your own crapcoin in 3 minutes https://t.co/Thkv7nxIFX (https://t.co/w4zA4ZncRj)
+RT @newsyc100: Twitter also sold data access to Cambridge Analytica researcher https://t.co/GjaB3bIWq9 (https://t.co/VfT7Cjw8tf)
+RT @newsyc100: Structured Concurrency in High-Level Languages https://t.co/opvIrutXa4 (https://t.co/9U4uec0fMC)
+RT @newsyc100: Kasparov versus the World https://t.co/UJykB4pvaU (https://t.co/a8liHOGtkX)
+RT @newsyc100: Fake books sold on Amazon could be used for money laundering https://t.co/x3kk3Jl6fa (https://t.co/VuMHk7k0sk)
+RT @newsyc100: Show HN: A fast, hopefully accurate, fuzzy matching library written in Go https://t.co/yHKpQ1jEfY (https://t.co/FljQP1Svp7)
+RT @newsyc100: A Cartography Nerd's Guide to Custom Map-Making https://t.co/DIFl0WDKka (https://t.co/vCX3p4yHub)
+RT @newsycbot: HyperTools: A Python toolbox for gaining insights into high-dimensional data https://t.co/EmvwE1q4RX (cmts https://t.co/awl8…
+RT @newsyc100: A History of APL in 50 Functions https://t.co/HebnZY1NQT (https://t.co/pFR1qsx6To)
+RT @newsyc100: Context Is Everything: Finding Meaning Statistically in Semantic Spaces https://t.co/hP66XzzrhK (https://t.co/rYfrrWULI8)
+RT @newsyc300: Impersonators who are paid to flirt on dating apps https://t.co/TmfF5htnoG (https://t.co/iAe8P3zI4v)
+RT @CompSciFact: How to test a random number generator	https://t.co/Vz1Y7cSdzk https://t.co/pY11v2ENjU
+RT @newsyc100: Selected Essays of Richard M. Stallman [pdf] https://t.co/NdgFIoh7co (https://t.co/EuqFpNqE3A)
+RT @newsyc100: Managed Redis on Google Cloud Platform https://t.co/AWu7AxRate (https://t.co/1edCoy87vj)
+RT @newsyc100: Why I've lost faith in p values https://t.co/S05d74mQYu (https://t.co/BQtVXtRoXM)
+RT @newsyc300: How to write a spelling corrector (2016) https://t.co/rt3wKatAHo (https://t.co/xINgytkwTm)
+RT @newsyc100: Bank of England presentation on how to become a bank https://t.co/4pwZzUj3Lc (https://t.co/t9awicnm1t)
+RT @newsyc100: BGP leaks and cryptocurrencies https://t.co/3lcTDFaH9Q (https://t.co/K69i19iib8)
+RT @newsyc100: Lessons from My First Two Years of AI Research https://t.co/YFLCEfhNTF (https://t.co/48eF5kwjAk)
+RT @newsyc100: Chart of the Milky Way Includes More Than 1B Stars https://t.co/cpEtnNbaT7 (https://t.co/GAGxm8VaPO)
+RT @newsyc100: Hijack of Amazons domain service used to reroute web traffic for two hours https://t.co/2ZWiq5Rd0c (https://t.co/cUN1XAw7mB)
+RT @newsyc300: Show HN: Intuitive Linear Algebra and 3D Geometry https://t.co/LQxO4JX7zn (https://t.co/zmcZ4JNIOy)
+RT @newsyc300: MIT Researchers Have Developed a System for Dream Control https://t.co/yK5NhgKhHk (https://t.co/6Sd1BlqLWm)
+RT @newsyc100: Renting Is Throwing Money Away  Right? https://t.co/LnB9uiXlpA (https://t.co/92umrZEf4I) via @vinnyglennon
+RT @newsyc300: Now Is the Perfect Time for an RSS Renaissance https://t.co/N1ar856xNA (https://t.co/w2dh670DWE)
+RT @TwitterMoments: If the #Westworld Season 2 opener left you scratching your head, rest assured that you aren't alone. https://t.co/IveuZ…
+RT @newsyc100: My account is sending spam emails https://t.co/D20ZaCtRBr (https://t.co/Ipsxp2EeHU)
+RT @newsyc100: How to scrape anything on the web and not get caught https://t.co/Ar5HRniReK (https://t.co/fixQiQeRr7)
+RT @newsyc100: VS Code can do that? https://t.co/g6ioIkg7ya (https://t.co/c6odSp5Z5n)
+RT @newsyc100: Heart surgeons refuse difficult operations to avoid poor mortality ratings https://t.co/yFfnIuNACF (https://t.co/IqXgZWfSmI)
+RT @newsyc100: Rethinking GPS: Engineering Next-Gen Location at Uber https://t.co/oOoVpQiPcm (https://t.co/obIiYcKzd2)
+RT @newsyc300: How to build a house alone [video] https://t.co/dkQsXmDvPq (https://t.co/AlcQie6PhN)
+RT @ChineseWSJ: 调查显示，朝鲜黑客的技术和实力已不再是二流水平，他们正成长为全世界最具危险性的攻击机器之一。https://t.co/OtXK4WOke5
+RT @newsyc250: Machine Learning’s ‘Amazing’ Ability to Predict Chaos https://t.co/L9d8cEg7TK (https://t.co/5iU11Irsta)
+RT @b0rk: shared libraries and dynamic linking https://t.co/40ePpdeKbn
+RT @yegle: https://t.co/GO9Oz7PruE 这个新的Python visualization lib比matplotlib好用多了
+RT @newsyc300: Palantir is using War on Terror tools to track American citizens https://t.co/aerjFRpqMl (https://t.co/fn2gYVrtJk)
+RT @newsyc300: List of places to find remote jobs and freelancing projects https://t.co/bqBp9YagaF (https://t.co/WFhl01VC9k)
+RT @newsyc300: Scuttlebutt, a Decentralized Alternative to Facebook https://t.co/uroj6dupUP (https://t.co/tcIxozQixc) via @bpierre
+RT @newsyc300: Apple open sources FoundationDB https://t.co/dSFYH8NA8N (https://t.co/Xx9Ko52n23)
+RT @newsyc100: Rich Hickey on becoming a better developer https://t.co/6GqsltOpVe (https://t.co/zdBOzy7lOB)
+RT @newsyc100: Titus, the Netflix container management platform, is now open source https://t.co/8t09tMN9EQ (https://t.co/KFYM9INCb1)
+RT @newsyc300: Oracle owns JavaScript, so Apple is taking down my app https://t.co/C3mXcaAaH3 (https://t.co/Kw1pObtc4d)
+RT @newsyc250: Distributed architecture concepts I learned when building a large payment system https://t.co/vi95IkvVO8 (https://t.co/lm2uc…
+RT @williamlong: 由于美国商务部禁止本国企业向中国电信设备制造商中兴公司销售零部件，美国光学设备制造商的股价集体跳水暴跌。Acacia Communications的股价狂跌36%，Oclaro股价暴跌15.2%，Inphi下跌6%，lumentum控股下跌9.…
+RT @newsyc100: Probability Theory for Scientists and Engineers https://t.co/wxP6QckzGU (https://t.co/zEHUqgDvDO)
+RT @newsyc300: Probability Theory for Scientists and Engineers https://t.co/ubCB90PCkd (https://t.co/bWNWAIPvpj)
+RT @pierrepinna: #QuantumComputing Explained In Only 2 Minutes [Video]		https://t.co/g0IoXo9cyY v/ @USC	#AI	Cc @DeepLearn007 @evankirstel @…
+RT @kdnuggets: Understanding What is Behind Sentiment Analysis – Part 1 https://t.co/01k00CsMxp https://t.co/FNsduLqi0M
+RT @newsycbot: 7% of the 62,763 emergency calls came from the same 100 people https://t.co/aeVzAVdjNX (cmts https://t.co/U0UzUIPjA0)
+RT @newsycbot: The story of Chinese characters begins with, of all things, turtle bellies https://t.co/BD4HbL0JRN (cmts https://t.co/lHI1VC…
+RT @newsyc300: Ask HN: What is your favourite tech talk? https://t.co/jpGwupNP8R
+RT @newsyc100: Jupyter, Mathematica, and the Future of the Research Paper https://t.co/v90e3GsXD0 (https://t.co/HGQadVSMgS)
+RT @newsyc100: H&amp;R; Block and Intuit Lobbying Against Simpler Tax Filing (2017) https://t.co/vALgbXeZZV (https://t.co/7fHwA4ZATZ)
+RT @newsyc300: My Favorite PostgreSQL Queries and Why They Matter https://t.co/9VPXSKgI8f (https://t.co/O2d50DyVsL)
+RT @newsyc100: How to write Mathematics (1970) [pdf] https://t.co/NhWWKHjoE0 (https://t.co/V1I0fWhf6D)
+RT @newsyc100: In a Leaked Memo, Apple Warns Employees to Stop Leaking Information https://t.co/BzTUlQxWnV (https://t.co/kloljcEwR8)
+https://t.co/Ps2eKGill9
+RT @evankirstel: Sweden just built the world's first electric road https://t.co/BEPfZuilQF
+RT @bbcchinese: 【如何教会一条鱼数数？ 】刚生下来的鱼不仅会数数，还能学会数的更好。这似乎令人匪夷所思，甚至有些无聊，但却引发了一个有趣而深奥的问题。	https://t.co/6d9FvM81Tc
+RT @newsyc300: Google loses right to be forgotten case https://t.co/oWYvuZF6Tv (https://t.co/zcm9Il2lEd)
+RT @newsycbot: FCC declines to punish Sinclair for its ‘must-run’ segments and scripts https://t.co/5jX9KVJK24 (cmts https://t.co/RVlopvG5G…
+RT @newsyc300: Birds can see Earth's magnetic fields because of cryptochromes in their ey https://t.co/oHlTq4cujj (https://t.co/krDLwtVRDn)
+RT @newsyc300: Duolingo Suddenly Has Over Twice as Much Language Learning Material https://t.co/nkAOrboB7P (https://t.co/IBNGYwAJuw)
+RT @pierrepinna: Scientists from @Columbia Create Self-Replicating #NeuralNetwork		👉A Step in The Future Where #AI Will Create and Advance…
+RT @newsyc100: The Crazy Coverage of Facebook's Unremarkable 'AI Invented Language' https://t.co/PBhFe5n5v3 (https://t.co/WBD0nszfgU)
+RT @newsyc300: The Moon in 4k resolution [video] https://t.co/WJdpvkhIbP (https://t.co/0DWnSQPrJT) via @wgl8
+RT @newsyc300: Building a Text Editor for a Digital-First Newsroom https://t.co/BoeAeSMmEH (https://t.co/BKoxkcx7NZ)
+RT @newsyc100: The Moon in 4k resolution [video] https://t.co/NwI3Bho5LX (https://t.co/KaUyYWaaJv) via @wgl8
+RT @quintabrunson: The Social Network 2 (2018) https://t.co/GLFBd4V4BG
+RT @newsyc100: Web Authentication: Proposed API for accessing Public Key Credentials https://t.co/M66Q5SZvCV (https://t.co/6PktCuKLgw)
+RT @newsyc300: Mark Zuckerberg testifies before Congress https://t.co/dk1QsOElYc (https://t.co/UKq8169BZt)
+RT @newsyc300: Reverse Engineering WhatsApp Web https://t.co/1s52WAa8mY (https://t.co/5MAH5j4MtQ)
+RT @newsyc300: ZFS on Linux: Unlistable and disappearing files https://t.co/u5jouen49E (https://t.co/75BcsXleQr) via @HeinrichHartman
+RT @newsyc250: Testimony of Mark Zuckerberg – Hearing Before US House of Representatives [pdf] https://t.co/pJCom0Q8zr (https://t.co/nunwgT…
+RT @newsyc300: RSS is undead https://t.co/WP2KL1uYrE (https://t.co/0Cnwl5cgoA)
+RT @werfb: Amazing. Evolution of the alphabet. https://t.co/KvJ11k4foY
+RT @newsyc100: Haxing Minesweeper https://t.co/WXm7gGNMgx (https://t.co/PQ8iT7H0gs)
+RT @newsyc300: The dots do matter: how to scam a Gmail user https://t.co/ISq2EbXaPz (https://t.co/FrJoXhXp06)
+RT @SteveCase: How biased is your news source? https://t.co/5zxvgywb25 “Are we even aware of our biases anymore?” https://t.co/RnWYudmKsw
+RT @ruanyf: 新的博客文章《彩票的数学知识》：2005年2月，美国的一个彩票品种出现了漏洞，被麻省理工学院的学生发现了。随后的七年，这个学生反复购买这个品种，一共赚到了300万美元。本文介绍他怎么做的，以及其中的数学原理。https://t.co/VyOt35oPgX…
+@PDChina 之前克鲁格曼在nytimes上发了篇文也表达了相同的观点，大概是说在现在各国经济都深度绑定的情况下，美国对中国的制裁会伤害到许多美国盟友的利益。https://t.co/jwczshe39z
+RT @newsyc100: Richest 1% on target to own two-thirds of all wealth by 2030 https://t.co/43EY01mEmE (https://t.co/wesUI5ePlu)
+RT @PDChina: Norwegian prime minister @erna_solberg says she is concerned by the trend of increasing protectionism, calling US "the biggest…
+RT @PDChina: A total of 361 Chinese police officers have died at work in 2017, with an average age of 43.5, the Ministry of Public Security…
+@PDChina 胜利必将属于中国人民！
+RT @PDChina: #BREAKING: China will fight unilateral U.S. protectionism "at any cost," the Ministry of Commerce said Friday. https://t.co/nF…
+RT @newsyc300: Netflix FlameScope https://t.co/xzsnMXPcb4 (https://t.co/ZleYpedboS)
+RT @AndrewYNg: Get a free draft copy of my book on how to structure Machine Learning projects: https://t.co/TgvKPa033r I’d started this bef…
+@realDonaldTrump 不打得你满脸桃花开，你就不知道花儿为什么这样红。尔要战，便战！胜利必将属于中国人民！
+RT @newsyc300: Book: Mathematics for Machine Learning https://t.co/8X2xTb5YDv (https://t.co/ILXygUoNDw)
+RT @newsyc100: Be careful what you copy: Invisibly inserting usernames into text https://t.co/KVWQmPy2lR (https://t.co/l3ARDNJXnI)
+RT @newsyc300: Ask HN: What are the best MOOCs you've taken? https://t.co/xoc1f8a9Zp
+RT @newsyc300: We might be swinging away from the newsfeed https://t.co/51cQUdPDrT (https://t.co/CXgpYkFrxV)
+RT @newsyc300: https://t.co/mOSwIhKYzv leaks millions of customer records https://t.co/0zS9YCIzu5 (https://t.co/nENWT8i3Z5)
+RT @opensourceway: Understanding #Linux filesystems: ext4 and beyond. https://t.co/YryrW2x8MT https://t.co/2PeX6m2elT
+RT @WIRED: Here's how to fold a plane that flies back to you. Yes, you heard that right https://t.co/wvVp6tQ4B2
+RT @PDChina: China imposes tariffs on 128 items of imports from the U.S. including pork and fruit products starting Monday as a countermeas…
+RT @newsyc250: A Workshop on Linux Containers: Rebuild Docker from Scratch https://t.co/7IBFL8HFN0 (https://t.co/RMm5ZBBrvx)
+RT @newsyc300: Apple Plans to Use Its Own Chips in Macs from 2020, Replacing Intel https://t.co/fSJNVf9H65 (https://t.co/jNbBbcWwrI)
+RT @newsyc300: Sinclair Made Dozens of Local News Anchors Recite the Same Script https://t.co/LcKI9hO86Q (https://t.co/dOTWgb7dd4)
+https://t.co/kXJHMm4p8F
+RT @yaringal: Who knew Power Point was Turing complete? 	https://t.co/6FHEVygLHS
+RT @newsyc100: 1.1.1.1: Fast, privacy-first consumer DNS service https://t.co/yAkdNS7ZfE (https://t.co/g4Lx8KUlkR)
+RT @DrBeef_: Here are some AI generated nude portraits I've been working on🍑		Usually the machine just paints people as blobs of flesh with…
+RT @statsepi: The main reason for the plethora of statistical errors is that the majority of statistical analyses are performed by people w…
+RT @newsyc300: How Cambridge Analyticas Facebook targeting model really worked https://t.co/V4TKJEtHU7 (https://t.co/LYADAKBg9D)
+RT @newsyc300: It's time to head back to RSS? https://t.co/eavSuoWhxH (https://t.co/2xIAxzDAao)
+RT @googlereader: We're retiring Reader on July 1. We know many of you will be sad to see it go. Thanks for 8 great years! http://t.co/0jtS…
+RT @mozilla: We have a vision for a better, healthier internet. Along the way we've learned we should more explicitly set out our aspiratio…
+上海外滩的夜晚 https://t.co/y735UWzma1
+成都的晚上，夜景不错 https://t.co/ZBqxlP6YoU
+今天是个好天气 https://t.co/HsOvAK95Fh

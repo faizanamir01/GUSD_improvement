@@ -1,0 +1,695 @@
+RT @LorenAdler: In response to Chairman Alexander's request, Brookings &amp; AEI scholars combine forces to recommend a series of health care c…
+RT @AEIecon: Is bipartisan healthcare reform possible? At @SenAlexander's request, scholars from @AEI and @BrookingsInst produced a list of…
+RT @LorenAdler: New paper on solutions to surprise out-of-network billing out this morning, w/ @MattAFiedler, @clinkeyoung, &amp; others not on…
+@ben_ippolito I agree this is anomalous. 		That said, if this was the only issue, it would not trouble me much.	The subgroup trends are noisy enough that this could just be a fluke (and the 65+ increase is small enough in absolute terms that removing it would not much change the topline).
+And upward pressure from federal policy changes may be offset in part by other factors, including a strengthening labor market and various state efforts to expand insurance coverage.
+To be clear, I do expect recent policy changes will put significant upward pressure on the uninsured rate over time. But I think those effects will appear only gradually and are largely still to come.
+(Sidenote: The upward drift in Gallup’s estimates has implications for other time periods too. In particular, Gallup’s data appear to *understate* the 2013-2016 decline in the uninsured rate.)
+Together, these factors make me discount Gallup’s estimate of the increase in uninsured rate since 2016. Indeed, the ACS and NHIS showed much smaller upticks for the same age group in 2017. I would bet on that happening again in 2018.
+Additionally, Gallup made a major change to its survey methodology from 2017 to 2018. They report having made adjustments for that change, but this can be hard to do perfectly. https://t.co/S8wBkjBnUz
+Who’s right? My money is on the ACS and NHIS. Notably, the federal surveys have much higher response rates, which makes them much less vulnerable to changes in what types of people opt to participate.
+In 2008, Gallup’s estimate of the uninsured rate was about 2 p.p. lower than the corresponding estimates in the ACS and the NHIS. By 2017, Gallup’s estimate was approaching 2 p.p. higher.
+Notably, Gallup’s estimate of the uninsured rate has been drifting upward relative to estimates from the ACS and NHIS, the two most comparable federal surveys, for about 10 years now. https://t.co/rsMlkMQC9E
+A quick thread on yesterday’s Gallup data: I would caution against concluding that there has already been a large increase in the uninsured rate under the Trump Administration on the basis of these data.
+@HealthEconTX That's correct. I thought that's what I wrote, but maybe there's another parsing of my tweet that I'm not seeing (and didn't intend!).
+@Meadors68 The statute specifies the amount subsidy recipients must contribute and the formula for updating those amounts over time. But the Administration has some discretion to choose the data that feed into that formula. It is using that discretion to reduce the value of the tax credit.
+@Meadors68 @LorenAdler @larry_levitt @sangerkatz See this thread:	https://t.co/pTWWCKjiJQ	1086027059070160896
+Change in index also increases employer mandate collections ~$100m in OACT estimates. In long-run, some modest impacts on the (currently suspended) health insurer tax as well.
+The same index also controls required out-of-pocket maximum in group and nongroup coverage. Single person out-of-pocket maximums  could go up to $8,200 for 2020, rather than $8,000. Family out-of-pocket maximums could go up to $16,400, rather than $16,000.
+In the aggregate, CMS Actuary estimates proposed change would result in $900m less in tax credit payments and 100,000 fewer Marketplace enrollees in 2020. https://t.co/EMdMaOKdJC
+In dollar terms, single person at 300% of FPL would lose $92/year in PTC; family of four at 300% of FPL would lose $189/year in PTC. Smaller effects at lower income levels and larger effects at higher income levels.
+Specifically, HHS wants to use private premiums per enrollee rather than employer-sponsored premiums per enrollee for “premium growth.” 		Result: The indexing factor for 2020 would rise ~2.5%, so tax credit recipients will pay a larger share of income toward coverage.
+Statute directs that these income percentages change over time based on how much “premium growth” exceeds “income growth.” HHS is proposing to change how it (and Treasury) measure “premium growth.”
+Starting with premium tax credit, a refresher: people eligible for the PTC pay a sliding-scale percentage of their income toward the second-lowest-cost silver plan. Fed gov’t pays the rest.
+The indexing provisions of the new payment notice are technical, but important. They would reduce the premium tax credit for all who receive it. Would also increase allowable out-of-pocket maximum (incl. in group coverage) and increase the employer mandate penalty. More below.
+*Addendum -- Correct link for analysis in second tweet of thread: https://t.co/8xMlpA748v
+@tcovert @clinkeyoung @jasonlevitis Ugh. Correct link here: https://t.co/8xMlpA748v
+I am skeptical of the Administration’s HRA proposal even as is, as piece w/ @clinkeyoung and @jasonlevitis explains, but removing/weakening safeguards against worker-level shifting would make it much worse.
+It's hard to argue that allowing worker-level shifting is a good idea. Creates large federal costs plus burdens on unsubsidized in individual market. Benefits mainly accrue at firms already offering coverage, many with pretty healthy workforces.
+I also find that employers could realize big savings through this strategy, so it is quite plausible that many would take this path if they were allowed to: https://t.co/mVXRUkAKxf
+Under a range of assumptions, I find very large increases in individual market premiums, with precise magnitude depending on how many employers adopt this strategy &amp; the precision of sorting by health risk: https://t.co/Mgn7iKdQGG
+But the proposed rule solicits comment on relaxing or eliminating these restrictions in a final rule. The new piece takes a look at the effects of the HRA proposal absent one or more of these restrictions.
+Wisely, Admin tried to make this hard by saying this type of HRA: (1) must be offered on same terms to all similarly situated workers; (2) must not be offered alongside a traditional plan; and (3) must not be used to pay premiums for short-term coverage.
+One concern with the proposal is that employers would use HRAs to shift their sicker workers (and only their sicker workers) to the individual market since individual market premiums are community rated.
+Background: the HRA proposal allows firms to subsidize workers’ purchase of individual market coverage, which is (mostly) not allowed today. Much more background on the proposal is in this piece w/ @clinkeyoung and @jasonlevitis : https://t.co/ksyFqETLRx.
+Without safeguards against selective shifting of sicker workers to the individual market, the Administration's HRA proposal would likely drive large increases in individual market premiums. More here (and below): https://t.co/jIr9eEUkwL
+Good thread on why time series research designs can be informative in some settings but not others (and how to decide what type of setting you're in), through the lens of recent work on HRRP. https://t.co/rf9D3h7UeQ
+RT @clinkeyoung: The administration’s recent rule on HRAs: probably a bad idea, probably illegal.  More from me, @jasonlevitis, and @MattAF…
+RT @jasonlevitis: With federal mandate repeal looming, here's my paper on why states are considering their own mandates and how to do it. I…
+RT @cynthiaccox: Hot off the presses: 2019 #ACA silver plans will be *16%* higher than they would otherwise be if not for: 		- Individual m…
+@ben_ippolito Likewise! I suppose we've figured out some way to capture similar things domestically for Medicaid best price calculations (though I'm honestly not sure how well we do). Still does seem harder internationally.
+@ben_ippolito Isn't the right response of other countries to allow manufacturers to raise list prices in exchange for some sort of side payment? It seems like those types of games would be nearly impossible to police in practice. (Shades of the US rebate debate!)
+@bjdickmayhew Possibly the early versions of the proposal. Later versions of the proposal had big budget neutrality problems.
+At a high level, the new 1332 guidance seems designed to allow states to shift federal dollars from lower income/sicker people to higher income/healthier people. Last year's repeal debate in microcosm...
+The link to my MSSP comment letter in this thread was broken. You can get the full letter here: https://t.co/hvk2we6zsb https://t.co/bEcjTqrPys
+For those interested in other analyses of the proposed rule, I recommend the  comment letter by @jmichaelmcw, @michael_chernew, and @bruce_landon.  Some overlap in our perspectives, but some differences too: https://t.co/LqWVnLbQua.
+Comments on revised methods for measuring ACOs' total revenue: https://t.co/9kPtOdYYY7
+Comments on the shift to five-year agreement periods: https://t.co/m4MoUvw13M
+Comments on changes to risk adjustment: https://t.co/CzUVtctoQO
+Comments on various changes to the benchmark methodology: https://t.co/8pMEWFo3MQ
+Comments on curtailing one-sided participation options: https://t.co/I6tnXUKuOF
+My comments on CMS’ Medicare Shared Savings Program proposed rule are here: https://t.co/4zOJqW3y4Y. 		Short version: the rule contains some good, some that needs tweaking, some bad, and some that's hard to judge. Key excerpts follow.
+RT @larry_levitt: New analysis lost in the blizzard of news Friday: Insurer profits are high in the ACA marketplace. That's why average ben…
+RT @cynthiaccox: New/updated analysis of high #prescription drug costs in ESI		-Rx spending UP	-Rx OOP DOWN (insurance covers more)		So why…
+RT @LorenAdler: A look at CMS' positive step on site-neutral payments and where they can go further, w/ Paul Ginsburg, @MattAFiedler, @fwpa…
+RT @Farzad_MD: Praise for @SeemaCMS efforts on site neutral payments, and a push to go further, from @BrookingsInst @MattAFiedler	@LorenAdl…
+RT @gregleiserson: The Treasury/OMB MOA subjects many more tax regs to OIRA review and will increase the role of formal cost benefit analys…
+@LorenAdler @cynthiaccox @jmbarkett @charles_gaba @bjdickmayhew @LouiseNorris Agree that path dependence from early pricing may be important.		I also wonder about the role of political attitudes. The Marketplaces in particular are coded as an "Obama thing." I wonder to what extent that weighs on enrollment in areas where President Obama was unpopular.
+For those interested in more on this topic, suggest:		(1) @cynthiaccox, @larry_levitt, and @AshleySemanskee on issuer financials in full nongroup mkt thru 2018Q1: https://t.co/eKcoxWkGV2		(2) Another effort to gauge the '19 counterfactual by @charles_gaba: https://t.co/NCADwlHoZa
+Policy environment is clearly not stable. Will be a while before it’s possible to compute an actual average premium change exactly comparable to my estimate. But scanning the excellent @KaiserFamFound tracker suggests a meaningful increase is very likely: https://t.co/eJB8Wi8Njg.
+Given reasons for high 2018 margins and historical experience, very unlikely margins will stay this high. In a stable policy environment, claims would grow moderately in 2019, so a return to lower margins would likely translate into premium declines, on average nationwide. https://t.co/7T3bBg14jM
+High margins in 2018 reflect the fact that premium increases in 2018 were more than enough to cover the CSR cutoff and moderate growth in claims. This is likely because many insurers priced in mandate repeal/non-enforcement and other policy risks for 2018. https://t.co/5BHufl5Dt6
+To get there, I first estimate insurers’ revenues and costs in the ACA-compliant individual market in 2018. It looks like 2018 will be a VERY profitable year. Data still incomplete, but I estimate insurers are on track for margins of ~10% of premiums. https://t.co/g1XjwQpMJN
+With 2019 individual market premiums rolling in, worth asking what wld happen w/o the big policy changes on tap for 2019 (e.g., no more mandate, short-term plan expansion). My estimate: average premiums in the ACA-compliant market wld FALL ~4%. 		https://t.co/kSBMtJdA6R
+@charles_gaba Thanks. Good to see that two different approaches (you mostly working "backward" from actual filings, me working "forward" from financial data) get to pretty similar answers.
+RT @Altarum_SHSS: Full 7/12/18 video HC spending symposium https://t.co/DM3kJNIGvL AMAZING speakers @khemp64 @CeciConnolly Alice Rivlin, Do…
+@greg_fann (New HRAs could also differ along other dimensions, including contribution limits, interactions with the premium tax credit, certain nondiscrimination rules, etc. But employer size is the fundamental reason there was no risk from QSEHRAs, but could be here.)
+@greg_fann Yes. QSEHRAs were limited to employers with &lt;= 50 employees. Small employers have no incentive to play these games because the small group market is community rated. Concern is that new HRAs would be open to large employers, though we won't know for sure until we see rules.
+RT @SabrinaCorlette: Can't wait to join @cynthiaccox @jasonlevitis @MattAFiedler &amp; tom miller @BrookingsInst to discuss future of the ACA &amp;…
+RT @Chrissyeibner: How will eliminating the individual mandate penalty affect enrollment and premiums? We reviewed the literature and simul…
+RT @Altarum: There is still time left to register for @Altarum_CVHC’s 8th sustainable health spending event in DC on July 12th! Hear from d…
+@tarasbernard (On income-based nondiscrimination, just want to clarify that the health and retirement rules are not identical. Notably, self-insured and insured plans are treated differently on the health benefits side. But they're at least thematically similar.)
+@tarasbernard There are income-based nondiscrimination rules for health benefits akin to those for retirement plans. But what would matter here are separate rules on health status discrimination, and it's not obvious how the Admin would propose to apply those rules to this type of HRA.
+@LorenAdler @sangerkatz @TopherSpiro @larry_levitt @PeterSullivan4 For the full market, if you forced me to guess, I'd bet on roughly half and half premium and non-premium factors from 2016 to 2017. Hard to provide full parsing of non-premium factors were, though SEP changes and expectations of repeal would likely top my list of candidates.
+@sangerkatz @LorenAdler @onceuponA All the data systems live at CMS. CMS has always handled the effectuated/risk adjustment reporting. Plan selections reporting was the only thing ASPE handled and that ended w/ OE2017.
+@LouiseNorris @amitabhchandra2 Another key feature of QSEHRAs is that they are only available to small employers. Since the small group market is community rated, there's no benefit to dropping your sick workers in particular (unless you're in a level funded or similar arrangement).
+@KShoieb @amitabhchandra2 Requiring the same decision firm wide does not eliminate the selection problem, but it does ameliorate it. Better not to go down this road in my view, but if/when Admin does go forward under the 2017 EO, it will matter a lot if Admin draws a hard line on this question.
+@amitabhchandra2 And even if Treasury/HHS/Labor required employers to offer only an HRA or only a traditional plan firm wide, it's only the "sick firms" for whom doing so is financially attractive.
+@amitabhchandra2 Depends a lot on how Treasury/HHS/Labor write the rules here. The sick leave if employers can either: (a) offer a (generous enough) HRA only to the sick; or (b) offer an HRA next to a traditional plan that's unattractive to the sick.
+@amitabhchandra2 I actually expect employers to configure things so the sick go and the healthy stay. That's why I think this could be v. bad for the individual market.		If the sick stay and the healthy go, then, to your point, this is super-expensive for the employer and no one should do it.
+@greg_fann And doesn't have to be many people. Probably only talking about several % of enrollment from all non-premium factors combined. 		To be clear, I'm by no means certain this played a role. That would require more analysis. But it's on my list of candidate explanations.
+@greg_fann The scenario I have in mind is that some expected the ACA to be imminently repealed. If you get PTC and expect not to be able to afford coverage in a few months, you might not bother. Similar if you're motivated by the mandate and expect it to go away.
+@tdgor How various nondiscrimination rules apply to these arrangements is a big question Treasury/HHS/Labor would need to resolve if/when they move ahead here. But quite clear there would be no barrier to an employer with above average claims risk putting all its employees in an HRA.
+@MartinSGaynor Did not mean to put words in your mouth. Sorry if I did! Just thought you gave a good rundown of why it's non-obvious that shifting the locus of decision making from firms to workers would generate big net benefits (selection concerns aside).
+Also interesting that the effect of higher premiums on unsubsidized enrollment implied by the adjusted difference in APTC/non-APTC trend (~10%) is in the ballpark of what you'd expect based on the observed premium change (~12%, as I estimated last fall: https://t.co/FETQEbH8Fa).
+Hard to definitively parse causes, but a smaller difference between APTC and non-APTC trends tends to suggest a smaller role for premium changes and a larger role for non-premium factors (e.g., confusion about the ACA’s future, SEP changes, etc) in driving enrollment changes.
+Using 300k as the estimate of the recategorization effect (likely low given similar effects in SBMs and off-Marketplace), enrollment changes from 2016 to 2017 adjusted for categorization changes look roughly as follows:		APTC: -6% (vs. -3% raw)		Non-APTC: -16% (vs. -20% raw)
+Heading into 2017 open enrollment, HHS estimated that ~300k unsubsidized Marketplace enrollees would become newly eligible for the PTC in the https://t.co/QfS4D97rpu states due to higher premiums: https://t.co/Bb4E48JzHY.
+Per @sangerkatz's tweet, just a little more color on why part of the decline in unsubsidized enrollment from 2016 to 2017 is a data quirk caused by higher premiums making more people tax-credit-eligible. https://t.co/yEPH26gqHu
+@sangerkatz @ReedAbelson Can’t speak to what CMS told you, but one theory: risk adjustment data arrive annually ~6m after plan year, whereas CMS used to report effectuated Marketplace enrollment quarterly ~3m after quarter end. Now that effectuated enrollment is coming later, timelines now align.
+@sangerkatz @ReedAbelson Re: the Obama Admin, FWIW, I actually published estimates using these data while still at CEA: https://t.co/LMTP2lhFop.
+@sangerkatz @ReedAbelson I think these data are reliable and use them frequently to track ACA-compliant market enrollment.
+If you're interested in HRAs, this thread is also worth reading.		I focused on adverse selection concerns earlier, but there's also a more fundamental (and, in my view, harder) question re: whether firms or individual workers are best positioned to shop for insurance. https://t.co/OQtEAd38mb
+@KShoieb Also, if an employer did offer an HRA alongside a traditional plan and healthy workers deferentially took the HRA, it would be *far* more expensive for the employer than offering just the traditional plan. That scenario is simply a non-starter.
+@KShoieb Employers can induce their sicker workers to select the HRA by making the traditional plan unattractive to them. And employers (or business units) w/ sicker workforces would be far more likely to find it attractive to offer an HRA and no traditional plan.
+@KShoieb As I discussed in the thread, even if IRS required an employer offering an HRA to offer it to all workers, the opportunities for selection against the individual market would still be very significant.
+@PeterSullivan4 I'm not optimistic on the Cadillac tax's near-term prospects either. My point was just that there are sensible ways to change the employer exclusion, even if expanding HRAs aren't it.
+But even if you wanted to curtail the employer role, you’d need to do so in a way that pulled in healthy workers along with the sick. I have yet to see an administratively feasible and politically plausible proposal to do that. Certainly, this op-ed does not offer one. /end
+Some people, including the authors, argue that the mere fact that employers are involved in delivering health benefits creates big inefficiencies. I’m frankly a bit skeptical, as employers have strong incentives to be good “agents” for their employees.
+The open-ended nature of the ESI exclusion drives employers to offer inefficiently costly coverage. Maintaining the Cadillac tax or directly capping the exclusion is thus a very good idea. (Sidenote: Expanding HRAs does nothing to address this problem.)
+To be clear, there IS a strong case for changing the current tax treatment of employer coverage, just not in this way.
+The bottom line under any of these scenarios is that individual market premiums would rise, potentially dramatically, while the large majority of workers would remain in traditional employer plans. Whatever you think about employer coverage, this is not a good outcome.
+At a bare minimum, any proposal like this would presumably allow employers that have a much sicker-than-average workforce to shift all their workers into the individual market.
+How would employers achieve this sorting in practice? It would depend on how IRS regulated, but employers might be able to offer HRAs solely to sicker workers. Alternatively, they might offer an HRA alongside a traditional plan designed to be unattractive to their sicker workers.
+So employers should want to “dump” their sicker workers on the individual market, but hold onto their healthier workers. Today, employers have no way of doing that, but allowing these types of HRAs would provide just such a pathway.
+By contrast, it will typically be cheaper for employers to cover their healthier workers directly since their expected claims spending will generally be lower than the relevant individual market premium.
+That makes shifting sicker workers into the individual market very lucrative for an employer. The employer pays a community rated premium, but avoids paying the sick worker's high claims costs. For a seriously ill worker, the net savings can be in the tens of thousands of $/year.
+Here’s the rub: self-insured and experience-rated plans account for most of the employer market, so each employer typically directly or indirectly bears the claims costs of the workers in its plan.
+Letting employers create HRAs that can be used to buy individual coverage, as floated in this op-ed and in the Trump Admin’s EO last fall, could seriously damage the individual market, likely without addressing the real problems in the employer market. https://t.co/JgRYQW7Vdt
+RT @cynthiaccox: Really looking forward to speaking @BrookingsInst event, (De)stabilizing the #ACA Individual Market, with @SabrinaCorlette…
+RT @larry_levitt: New analysis: Insurers did very well in Q1 of 2018 in the individual market under the ACA. If not for looming repeal of t…
+@jdmatsudaira Congratulations!
+@asacarny Just think what it would feel like if you were the person who coded "regress" in Stata.
+@JaminSpeer @kevinrinz @causalinf @JayCShambaugh @jdmatsudaira My sense is that the role has varied a lot over time. In my case, my primary role was leading CEA's health care work and contributing to broader organizational management was a secondary role. Other Chief Economists have functioned more as @JaminSpeer describes.
+@MikeBertaut I think we are talking about different quantities. What matters for my calculation is what premium change corresponds to a flat uninsured rate in NY/VT. I'm confident that number is not +15% and, in fact, something in the realm of a 0% (real) change.
+@xpostfactoid Second, reinsurance reduced 2014 premiums a lot. About two-thirds of the reinsurance effect had faded by 2016, which is the year that I primarily focus on.
+@xpostfactoid At least two things going on.		First, MLR data show smaller reductions in actual average PMPM premiums in NY of ~10% in 2014. I have never been able to find enough detail on the state's ex ante calculation to bridge the difference, but view the MLR actuals as the better measure.
+@MikeBertaut MLR data show +2-3%/year real premium growth 2011-2013, with uninsured rate flat. So seems implausible that +15%/year is what would generate flat coverage. Redoing my calculation with +2-3%/year as what corresponds to flat coverage leaves qualitative conclusion unchanged.
+@GlobeHorowitz I would bet it's symmetric in the long run. But it may take a while. Many reasons: (1) data from @AshleyKirzinger and colleagues show awareness of repeal still incomplete; (2) people may be "sticky" in current plans; and (3) if mandate shaped norms, may take time to switch back.
+@KrampusSnail @charles_gaba A worse risk pool does slightly benefit subsidized enrollees who buy plans with premiums below the benchmark, as many do. But that effect is small relative to the mandate's direct effect. Even for a person paying the minimum penalty, the penalty amounted to $58/month.
+@KrampusSnail @charles_gaba That's right. But I expect a decent chunk of the leavers to be below 400% of FPL. Even if you're subsidized, the mandate still directly changes the net price of coverage. (Situation is different for short-term, where I expect few &lt; 400% of FPL leavers.)
+@JonWalkerDC This all comes back to our core disagreement. I believe your preferred policy paradigm is likely neither on offer nor "optimal." If that's right, then the comparison I am making is highly relevant. You disagree with my premise, so you disagree with my conclusion.
+@charles_gaba Strongly agree. This is one big reason I think it may be a while before we see the full effect of mandate repeal on coverage.
+@charles_gaba Key question, as you know, is how expensive the "marginal" enrollees are. I'm v uncertain in the short-term plans context, although I'd probably take the over on your estimate. In the mandate context, other data lead me to believe the marginal enrollees ~70% as costly as average.
+@JonWalkerDC I judge the mandate relative to a world without a mandate. That is a relevant comparison. Comparing single payer to alternative policy paths that include a mandate is also an interesting comparison, just not the question I am trying to answer here.
+@MikeBertaut MLR data suggest by 2016 average real individual market premiums in NY/VT were down ~3% relative to 2013. With any remotely plausible price elasticity, that premium change is not enough to generate a change of this magnitude. (Dashed line in graph shows for a -0.5 elasticity.)
+@charles_gaba If only 7-11% of individual market enrollees leave, I'd expect somewhat smaller premium effects since they won't all have literally zero claims costs. But I'd tend to expect somewhat larger enrollment reductions, so I view high single digit/low teens impacts as plausible.
+@JonWalkerDC Absolutely true single payer, if implemented, could achieve very high coverage levels. But I'd argue we likely  will not (and should not) take that path, in which case an individual mandate or something like it is an important tool.
+@MikeBertaut I consider this possibility at length in the paper, but find little evidence to support it Notably, v. hard to reconcile with large coverage gains in this income group in NY/VT. See here for the key graph: https://t.co/Dcg50DY1Lv
+@CPopeHC Looked at movements in ESI elsewhere in the paper (see below). No real movement there. More generally, lack of run-up in uninsured rate for &gt; 400% of FPL during recession hard to square with post-2013 decline being a business cycle phenomenon. https://t.co/d09CBLpa5E
+And while near term action at the federal level is unlikely, yesterday’s news from New Jersey shows that an individual mandate is very much a live option for states that want to maintain ACA coverage levels. /end
+My policy takeaway is that it will be challenging to get match or surpass ACA coverage levels without a mandate. If that’s the goal, an individual mandate should remain part of the policy conversation going forward.
+Estimates suggest repeal will substantially increase uninsured rate. Effect of repeal could differ from effect of implementing mandate and take time to appear, but notable base estimate of 2016 effect (8 million people) similar to CBO’s revised estimate of long-run repeal effect.
+While it seems likely the mandate also affected behavior &lt; 400% of FPL, the relative magnitude of those effects is uncertain. Thus, I present estimates under a range of assumptions about the mandate’s relative effectiveness &lt; 400% of the FPL. https://t.co/4eVpsrwImY
+So the best explanation for increases in coverage &gt; 400% of FPL seems to be the mandate. What do these trends &gt; 400% of the FPL imply about the effect of the mandate in the population as a whole?
+The paper argues that none of these other explanations are likely a big part of the story, although there’s some evidence ACA-related outreach &amp; advertising made a modest contribution (e.g. https://t.co/lkLrP0EagZ).
+So it’s not changes in the price/availability of coverage. What about other non-mandate explanations like greater public attention to coverage, the employer mandate, or lower hassle costs?
+Third, the uninsured rate &gt;400% of FPL fell about as much in New York/Vermont as in the nation as a whole, despite the fact price/availability changed little in these states, presumably because they already barred denials/rate-ups based on health status. https://t.co/fzN4galLCe
+Second, the uninsured rate fell sharply for young adults in this income range, despite the fact that they also generally faced higher premiums. https://t.co/2nyHue8nNI
+And there’s three pieces of direct evidence that changes in the price/availability of coverage cannot be the main explanation. First, the uninsured rate held steady or fell among healthy people in this income range, despite the fact they generally faced higher premiums. https://t.co/ZBHcKsRNgb
+But it’s unclear that these changes in the price/availability of coverage should have increased coverage on net. While prices fell/availability improved for sicker people, prices generally rose for healthier people in this income range.
+But was it caused by the mandate or other ACA provisions? One alternative explanation: the broader suite of ACA reforms, notably the ban on varying premiums/denying coverage based on health status, changed the price/availability of nongroup plans in ways that increased coverage.
+Given the magnitude, timing, and abruptness of the decline in the uninsured rate for this group, it was likely entirely or almost entirely a result of the ACA, just like the decline for the full population. https://t.co/6Bk6rC7z8y
+The paper aims to get around that problem by focusing on people with family incomes &gt; 400% of FPL. They don’t qualify for the ACA’s subsidies, so it’s easier to isolate the mandate’s effect. This income group saw a large decline in its uninsured rate after 2013. https://t.co/aYQ1BnycUE
+There is little doubt the ACA as a whole sharply reduced the uninsured rate. But since the mandate was implemented at the same time as the ACA’s other major coverage provisions, isolating the mandate’s contribution is hard. https://t.co/DXHOZRbdW2
+New paper looks at what coverage trends &gt; 400% of the FPL can tell us about the effectiveness of the ACA’s individual mandate. Short version: The mandate seems to have been pretty effective. Thread follows.		Summary: https://t.co/rmEVvfEiXK		Full report: https://t.co/wEnYUFV5Ex
+@amitabhchandra2 CMS should also reconsider whether CPCI's successor (CPC+) merits the 5% advanced APM bonus.
+@KaJo503 @larry_levitt CBO has not published new year-by-year estimates, but I suspect such estimates would show almost all of the effect appearing by 2021 or so.		I would expect the other recent tax changes to have a limited effect on insurance coverage, both in CBO's model and the real world.
+On premiums, CBO says on p. 7 that premiums will be "about 10 percent higher in 2019" because of mandate repeal. CBO does not give an estimate for later years, but it is likely CBO’s model would generate similar estimates for those years. https://t.co/maD1pntS6o
+Some reports cite a 5 million figure, which is the overall change in the projected number of uninsured in 2027 since CBO’s Sept 2017 projections. But this captures ALL changes from Sept to now, incl. technical changes to CBO’s model and other policy changes, not just the mandate.
+On coverage, CBO says on p. 20 that it now believes the effect of mandate repeal is "about one-third smaller" than before. CBO previously estimated that repealing the mandate will reduce coverage by 13 million in 2027, so the new estimate is around 8.7 million (= [2/3] * 13m). https://t.co/iisOju5cP3
+There seems to be some confusion about how CBO revised its estimate of the effect of the individual mandate in yesterday's report (https://t.co/UUcz5AkCvJ). Here’s a quick rundown of what CBO said.
+@sangerkatz Correct. If these rules are finalized exactly as proposed, then today's baseline incorporates exactly half the rules' effects. (But just to make this extra confusing, note that Box 2 reports the FULL effect of the rules, even though the actual baseline only incorporates half.)
+@sangerkatz That's right. Once a rule is finalized, CBO's baseline fully reflects the final rule and so it shifts accordingly.
+@larry_levitt @LorenAdler I think the 6 million is the time series change in the number of uninsured from 2018 to 2021 (which lines up with Table 2). As I read it, the references to the mandate and AHP/STLDI are to give a sense of the forces driving that time series change, not the effect of each policy. https://t.co/DY8J85Yi7D
+@larry_levitt @LorenAdler That's not the effect of the mandate, though; it's the time series change in coverage, which reflects the mandate net of other factors. Page 20 is clear that the total long-run coverage effect of the mandate is ~2/3 the old estimate.
+@PatVinkenes Indeed. Complicated to behold something that is so destructive, yet also beautiful and awe-inspiring.
+Pardon the non-health-care tweet, but this is just unreal.		(Think the live feed may now be on a different fissure than list night. Not sure.) https://t.co/Se7cCEFrzE
+@onceuponA @bd_highsmith @jasonfurman Report discussed both coverage and cost/quality, so you could start on page 49!
+@bd_highsmith @onceuponA @jasonfurman Short version: (1) ACA Medicare rate/MA benchmark changes generated substantial savings, plausibly w/ private sector spillovers; (2) direct effects of APMs limited so far, but likely to grow; and (3) conceivable APM efforts had larger indirect effects, but hard to know.
+@bd_highsmith @onceuponA @jasonfurman This was the final Obama-CEA take: https://t.co/7H69iDM1Ts. Our view was that the ACA as a whole was a non-trivial part of the post-2010 story, although there were many other things going on too.
+Good thread. https://t.co/SwlICvEcAU
+@C_Garthwaite Absolutely. That's why I said at the outset that take-up &gt; 400% is lower than it should be. Still strikes me as a different question than whether people in this income range are "effectively shut out," but I think we are now disagreeing about semantics, not economics.
+@C_Garthwaite It's certainly an interesting question. Not one I think we know the answer to, though HHS could find out using EDGE data.		That said, for the conversation I thought we were having, which is whether people &gt; 400% of FPL can access the market, enrollment data seem sufficient.
+@C_Garthwaite Sidenote: Not clear exactly how many unsubsidized enrollees we should expect given high prevalence of ESI offers at higher incomes (presumably due to exclusion). Currently doing some work to try to pin that down a bit better.
+@C_Garthwaite Agree take-up &gt; 400% of FPL is lower than it could or should be, but this is easy to overstate. Preliminary data imply one-third of the ACA-compliant market was unsubsidized in 2017. Less than 15% unsubsidized in only 4 states.
+RT @cynthiaccox: As claims grew slowly in 2017 and hospitalization rates stayed relatively steady, it does not appear that the enrollees we…
+RT @larry_levitt: New analysis: Insurer finances in the ACA-regulated individual insurance market improved dramatically in 2017. If not for…
+@rebeccastob It's currently quite a ways from being triggered. Aggregate PTC is on track to be roughly on the order of $60b for 2018. That's about 0.3% of GDP, much less than the failsafe threshold of 0.504%.
+@C_Garthwaite @nicholas_bagley @SecAzar We definitely agree that tradeoff exists and would not be surprised if we agree in whole or part on a concrete proposal. My point is just that political communication can involve tradeoffs between completeness &amp; comprehensibility. To me, this quote strikes a reasonable balance.
+@C_Garthwaite @SecAzar That I agree with (although it's not the only way to read it and there likely exist bundles of policies that would get us to better place on both dimensions).
+@C_Garthwaite @SecAzar I certainly hope I am not in the habit of declaring true sentences "just wrong" solely because the sentence on its own does not tell the whole story. 		Anyway, I suspect neither of us will persuade the other here, but FWIW, here's the full context:	https://t.co/leMy7ilIK7 https://t.co/RkMzwPT5uq
+@C_Garthwaite @SecAzar Including every possible caveat in every individual sentence (and, to be clear, this is one sentence pulled by a reporter from longer remarks) is a recipe for ensuring no information is conveyed. Be clear about tradeoffs, absolutely. But the standard you're setting is absurd.
+@C_Garthwaite @SecAzar More generally, his basic point—that the patent system, virtues aside, can create access issues—is correct. It’s a lot to ask of someone trying to communicate with a lay audience that each sentence making this point also include your caveat on the post-patient regime.
+@C_Garthwaite @SecAzar This strikes me as unnecessarily uncharitable. In his hypothetical, the patient is "sick" now. Future prices may not be relevant to THIS patient and/or waiting for lower prices may entail suffering for longer.
+RT @zackcooperYale: After 2 years of work, @stuartcraig, @MartinSGaynor, @johnvanreenen, and I finally finished the updates of our 'Price A…
+@YFeyman @zackcooperYale @ashishkjha @JonSkinner17 If it is quantity, interesting question is what direction the causal arrow goes.		Higher prices could reflect demand for higher intensity in US. But I'd bet it's prices driving intensity. With so many non-profits, I'd bet rents often beget greater input intensity.
+@xpostfactoid If you're talking about rate increases '16-19 + the direct effect of mandate repeal, that seems in the ballpark to me. Caveat is that I have not done this out carefully and what '19 rates will look like remains pretty uncertain.
+@bjdickmayhew I rolled my ankle last weekend doing work around the house. I was surprised to learn how weak the evidence for RICE's effectiveness is. Found these guidelines an interesting read: https://t.co/3AFpCwMmYU.
+@consultbenefits @sangerkatz Also, RA will sometimes drive out low cost plans IF the reason they are low cost is risk selection. That’s not a problem; it’s RA working as intended. Goal is competition on efficiency of care delivery, not risk selection.
+@consultbenefits @sangerkatz No doubt that RA creates incentives to invest in coding. That’s largely appropriate, as RA depends on good data to work. Incentives to code can be excessive, but haircutting transfers reduces incentives to the code at the cost of creating large selection incentives. Bad tradeoff.
+@sangerkatz Allowing states to impose a 50 percent haircut on risk adjustment transfers, including in the individual market, could be a very big deal. Will cause plants to raise premiums for plan types that appeal to sicker enrollees or drop those plan types entirely.
+RT @JMichaelMcW: Right - we need to do a better job in the discourse of separating the purpose of the benchmarks (to set incentives) and th…
+With all the attention this AM to Avalere's ACO analysis, go read @JMichaelMcW and @Michael_Chernew on why methodologies like Avalere's that gauge savings using programmatic benchmarks get the wrong answer: https://t.co/rbcT93Ycre.
+In honor of the ACA’s 8th anniversary, a graph putting recent years’ coverage trends in historical context. Policy changes will likely drive some erosion in the coming years, but coverage is likely to remain well above pre-ACA levels. https://t.co/k84J174QD0
+* Addendum: First tweet should have tagged @WhiteHouseCEA, not @CEA.
+@KatieMHill @benwakana @chiglinsky @MK_Connolly @AaronKAlbright @AislingMcDL Glad to know that needling for overuse of the word orthogonal is another thing that, like most of the ACA, has survived past the Obama Administration.
+@Altarum_SHSS Yep: https://t.co/stjtVAbD1X.		Doubtful we get much info on effect of ACA on stock prices from the time series trends here. Lots going on.
+But the case for reinsurance centers on: (1) reducing premiums for unsubsidized enrollees; (2) diminishing selection incentives; and (3) insulating insurers from tail risk. Those arguments are basically orthogonal to what insurers’ current margins are.
+To be clear, I do not love the idea of a large reinsurance program. A small reinsurance program + enrollee-side subsidies &gt; 400% of FPL is a better way to help unsubsidized enrollees. And the CSR provisions of the current bill wipe out the good from reinsurance.
+Also, I’m not sure if the Administration intends to use the report to argue against reinsurance funding, which it has opposed in the past. If so, it’s worth noting that current individual market profitability is basically irrelevant to whether reinsurance is a good idea.
+One analytic quibble with the new report: I doubt much of the change in insurer stock prices since 2010 is due to the ACA. Looking at stock price changes around key moments in repeal debate makes it hard to believe the ACA mattered much one way or the other.
+Remain proud of this January 2017 report from the Obama CEA that predicted exactly this outcome when it was far from conventional wisdom: https://t.co/LMTP2lhFop. https://t.co/hz32zX1Jl3
+Good to see this new @CEA report acknowledging that the 2017 individual market premium increases were a transitional phenomenon, particularly after a year of WH claims that the individual market was in a “death spiral”: https://t.co/WJGZXFTVuD. https://t.co/Fjfu5AEej0
+@MarcGoldwein Strongly agree that the Hyde issues here are first order.
+@MarcGoldwein People also sometimes seem to mean the absolute quality of the risk pool, although why that matters for “stability” is unclear since we can have better and worse “stable” equilibria. But reduction in coverage likely worsens the risk pool at the margin.
+@MarcGoldwein Predictability of the market risk profile could also matter. But I cannot see a meaningful effect there, particularly since this package leaves two main sources of uncertainty (mandate repeal and short-term plans) hanging out there.
+@MarcGoldwein On “stability,” always very hazy what that means. Often people seem to mean likelihood of exits. For that, most important thing is insurer margins, which appear to be back in a sustainable place (and this package should not much affect).
+@MarcGoldwein On distribution, I view the effective shift of subsidy dollars from &lt; 400% FPL to &gt; 400% FPL as a net negative. I support subsidizing the &gt; 400% FPL in some way, particularly post-mandate, but do not like this funding it this way (and don’t love reinsurance as the tool).
+@MarcGoldwein Again, agree it's worth thinking about other dimensions of the policy (certainly it's better than a semantic debate over what counts as "small"). On those other dimensions...
+@MarcGoldwein That's the stronger argument, although I think you'd have to have a fairly implausible pattern of elasticities by income to get an increase.		Your first argument would imply that TCJA was "small" since the baseline revenue forecast error is likely to swamp the policy effect.
+@MarcGoldwein “Small” obviously depends on your comparison point. Clearly small relative to 2017 repeal bills, but not sure I’d call it “small”  in absolute terms. 		Regardless, agree worth thinking about other dimensions as well. Generally think they weigh against the package.
+Putting the estimates together, CBO expects the package to reduce coverage, but also reduce the deficit. That’s the same basic tradeoff that often arises: we can spend less on coverage programs if we’d like, but typically at the cost of more uninsured.
+The cost estimate shows the effect of the rest of the package. CBO estimates that the rest of the package (largely the funding for reinsurance) would increase coverage by &lt;500k in 2021, at a cost of $19 billion during the budget window.
+In the companion letter, CBO finds that funding CSRs would reduce coverage by 500k-1m people by 2021. That’s because funding CSRs would effectively cut subsidies for many subsidized enrollees. That in turn would reduce the deficit by $29 billion during the budget window.
+Fortunately, CBO has released a companion letter (see https://t.co/EVDRvadwMm) analyzing the effect of funding CSRs against a baseline where CSRs are NOT being paid. Together, the two analyses can be used to paint a more relevant picture.
+CBO’s cost estimate (see https://t.co/HpLogubplf) measures the package against a baseline where CSR payments are still be made. CBO does this because it’s required to, but it’s not the world we’re living in!
+It’s important to read CBO’s new analyses of the “stabilization” package JOINTLY. Reading just the official cost estimate suggests the package would increase coverage (&amp; the deficit). Reading it with the companion letter shows the package would REDUCE coverage (&amp; the deficit).
+@xpostfactoid @LorenAdler @FamiliesUSA @standorn @FishmanEliot No, they strike me as reasonable. I have not done detailed modeling of my own but, if you pressed me, I would probably take the "over" on their estimates, at least for short-term plans.
+@xpostfactoid @LorenAdler @FamiliesUSA @standorn @FishmanEliot Agree there has been significant unsubsidized attrition, though not sure 2018 will be quite that bad. Just saying that while bad for the people involved, it's quite survivable for the market.
+RT @LorenAdler: The chorus and evidence keeps growing. MIPS is a mess, expensive, and does not promote quality. I know the ink's barely dry…
+@xpostfactoid @charles_gaba @bjdickmayhew @LorenAdler @FamiliesUSA @standorn @FishmanEliot @Fusa Building @SabrinaCorlette cited earlier, I estimated about 90% of enrollment in silver loading states of any type. About 70% of enrollment in QHP-only silver loading states. Again, based on data on state decisions, not examination of actual plans, but assume those match.
+@xpostfactoid @charles_gaba @bjdickmayhew @LorenAdler @FamiliesUSA @standorn @FishmanEliot @Fusa Note that NJ was one of the states known to silver load but do on/off-exchange. Minority among silver loading states.
+@xpostfactoid @charles_gaba @bjdickmayhew @LorenAdler @FamiliesUSA @standorn @FishmanEliot @Fusa Will say that not sure outcomes in 2018 are fully dispositive about long run. With more time, expect more states will silver load off-exchange only, insurers will price better, and enrollees will sort better.
+@xpostfactoid @charles_gaba @bjdickmayhew @LorenAdler @FamiliesUSA @standorn @FishmanEliot @Fusa Have looked at shares of enrollment in states with different silver loading strategies following https://t.co/M4g8cZdyu2. Have not looked directly at what plan offerings and enrollment patterns.
+@charles_gaba @bjdickmayhew @xpostfactoid @LorenAdler @FamiliesUSA @standorn @FishmanEliot @Fusa Yes, compliant only. And should emphasize numbers are rough. But something like ballpark 55% in 2016 to ballpark 60% in 2017 is my read of where we are.
+@xpostfactoid @LorenAdler @FamiliesUSA @standorn @FishmanEliot @Fusa My best guess is that we were at about 60 percent subsidized in 2017, up from about 57 percent in 2016.
+@xpostfactoid @LorenAdler @FamiliesUSA @standorn @FishmanEliot Pre-ACA evidence would have suggested that price increases in 2017 would have pushed 10-15 percent of unsubsidized out of the market. Data to date broadly consistent with that. Meaningful, but also not catastrophic.
+RT @amitabhchandra2: Kate Baicker and I explain the challenges behind price vs. quantity decompositions in healthcare-- illustrated by the…
+RT @ashishkjha: Key findings from our @JAMA_current paper: 		Compared to others, the U.S.: 		1 Looks about the same on utilization	2 Has si…
+This paragraph from the introduction is particularly interesting. Lots to chew on: https://t.co/bHqX49x3Zq
+Very interesting read. https://t.co/cfKy3DcDyK
+RT @C_Garthwaite: This is the right question to ask. If cost sharing isn't about moral hazard, then it is just unwinding the benefits of th…
+@MarcGoldwein To that point, I was actually on the other side of this question before the CSR cutoff. I always saw real advantages to the silver loading equilibrium, but thought the transition would be MUCH messier (exits, fewer states silver loading, etc.) than it actually was.
+@caitlinnowens Also important to note that OMB's metric of success--unsubsidized premiums--is quite misleading.		Funding CSRs does reduce unsubsidized silver plan premiums. But it increases many consumers' actual costs by reducing tax credits. That's why it's a saver!
+@TimGDC @amitabhchandra2 Hard data on those type of systemic effects is often not available at the time decisions are needed and potentially ever. How to weigh those types of effects in decision making without succumbing to wishful thinking is a hard problem.
+@TimGDC @amitabhchandra2 I'm more optimistic about the role of evidence here. But true that part of the case for many reforms, including APMs, is that they will spur long-run, systemic changes in the evolution of practice norms/technology/etc.
+@amitabhchandra2 But for which of the concrete policies on your list actually have that feature? Changes to FFS rates/structure? Changes to Medicare benefit design? Changes to MA? All seem to exercise fairly different muscles.		(Sidenote: If we can only fix one problem at a time, we're screwed.)
+@amitabhchandra2 @Farzad_MD @JMichaelMcW @nick_c_bluhm @porszag Agree we should not see APMs as THE path forward to the exclusion of all else. But I think this is mostly a false choice. Many of these other ideas can and should be implemented at the same time we pursue APMs. Don't think policy bandwidth is so constrained as to preclude that.
+@statesdj @Farzad_MD @HarrySCooke1 @amitabhchandra2 @JMichaelMcW Interesting. Still a little skeptical that this can be done at scale with a level of effort that makes it worth it, but you've moved my priors.
+@Farzad_MD @HarrySCooke1 @statesdj @amitabhchandra2 @JMichaelMcW Doable in a way that does not involve substantial incremental effort at the practice level you think?		Separate question is how much of this info would both: (a) add predictive power over HCCs; and (b) not create  perverse incentives if in RA (per @JMichaelMcW comment earlier).
+@HarrySCooke1 @statesdj @amitabhchandra2 @JMichaelMcW @Farzad_MD To be clear, clearly achievable with enough resources. But doubtful it will be achieved. Also not confident that the juice would be worth the squeeze.
+@HarrySCooke1 @statesdj @amitabhchandra2 @JMichaelMcW @Farzad_MD That was a bit tongue in cheek.		But for EHR data to be useful in risk adjustment, need to be capturing the same data elements, coded the same way, from all practices.		Given diffs across EHRs and in how diff practices use the same EHRs, strikes me as hard. Wld love to be wrong.
+@JMichaelMcW @amitabhchandra2 @statesdj @Farzad_MD Harder to figure out how to make lump sums work for non-participants. But could certainly do PMPM bonuses for participants, with "stick" for non-participants being lower rates. Agree that would be better than all fee diffs.
+@JMichaelMcW @amitabhchandra2 @statesdj @Farzad_MD This is on my list to think about more. Certainly plausible that some sort of tiered participation incentive linked to level of risk is optimal.		Also strongly agree bonuses above existing payment rates should not do all the work. For fiscal reasons, need a role for sticks too.
+@JMichaelMcW @amitabhchandra2 @statesdj @Farzad_MD Certainly not definitional. But fundamental tradeoff still there in one-sided models, though less acute.
+@amitabhchandra2 @statesdj @JMichaelMcW @Farzad_MD This participation incentives/marginal incentives tradeoff exists in all voluntary APMs to at least some degree. This is why I would increase the APM bonus/introduce non-participation penalties. Relaxes the participation constraint and allows CMS to be more aggressive elsewhere.
+@statesdj @amitabhchandra2 @JMichaelMcW @Farzad_MD As practical matter, skeptical we can get everyone on sufficiently comparable EHRs in my lifetime...
+@statesdj @amitabhchandra2 @JMichaelMcW @Farzad_MD Also part of selection problem is not about patient X's, but actual provider efficiency. Question is how long/how much to accommodate inefficient types in benchmark to encourage participation (and what cost that has for marginal incentives). Risk adj not relevant to that problem.
+@JMichaelMcW @Farzad_MD And, to be clear, I'm definitely not arguing that we should get rid of Track 1, certainly not in near term. Question is just what should be required for the APM bonus.
+@amitabhchandra2 @JMichaelMcW @Farzad_MD Risk adjustment will become a bigger issue as benchmarks are based less on organization's own historical spending over time (under current rules, from year 4 on). That decoupling strengthens marginal incentives, but puts real strain on risk adjustment.
+@JMichaelMcW @Farzad_MD Agree there's a balance to be be struck.  Just skeptical that no downside risk at all, which allows these organizations to collect the APM bonus while experiencing no change in incentives at the margin is the right balance.
+@JMichaelMcW @Farzad_MD But with APM bonus, program becomes effectively "a little bit mandatory." So should take at least a step toward approach appropriate in mandatory world.
+@JMichaelMcW @Farzad_MD I think including downside risk in the bonus criteria becomes more important as benchmarks delink from historical average spending. Will increasingly have ACOs with E(spending) &gt; benchmark. With only one-sided risk, those organizations' marginal incentives can be quite weak.
+@JMichaelMcW Over the long run, also some reasons to dislike trending historical benchmark forward. Reduces incentives for low-cost ACOs to expand market share. Also unclear how much info historical benchmark really has by second half of decade. But agree this approach has real virtues.
+@JMichaelMcW Agree this approach is appealing. Obama Admin seriously considered it when revising the MSSP benchmarking methodology. We ultimately decided against it largely because the "adjusting for changes in providers" part proved operationally challenging. 		FWIW, CMS on this point: https://t.co/avpSYLD76E
+Second, fully fixing rebasing is challenging given voluntary nature of ACO program, as many natural approaches invite selection against the Medicare program. Relaxing this constraint is one reason to strengthen financial incentives for ACO participation: https://t.co/oyaZ3hGzDp.
+This point is particularly important and underappreciated. Two related thoughts.		First, many providers are only in an ACO-like contract for part of their business. If not viable to tailor care based on payer, further dilutes incentives (&amp; creates collective action problem). https://t.co/N7RhdOEmtT
+Good thread making the case for pressing ahead with ACOs, even though evidence shows modest savings to date. https://t.co/grL3N2GwVf
+RT @Health_Affairs: The case for why Congress should repeal #MIPS - and what they should replace it with @MattAFiedler @TimGDC @LorenAdler…
+Congress should abandon MIPS and double-down on advanced APMs: https://t.co/oyaZ3hGzDp. With @TimGDC, Paul Ginsburg, @kavitapmd, @LorenAdler, &amp; @MagieDarling
+@JonWalkerDC @larry_levitt This is true. But the employer's not better off, which seems like a minimal requirement to call something a "shift" from employers to workers.
+@larry_levitt I'd ague cost shifting is a misnomer in this setting since, at least in the long run, employees pay for benefits w/ lower wages. Higher OOP offset by lower premiums/higher wages might be a bad trade in some cases, but it's not a net shift in costs to employees.
+@PeterSullivan4 One other downside of delivering this much money via reinsurance is that it requires applying reinsurance to a relatively large share of claims. At some point, that weakens insurers' incentives to manage costs.		But agree politics tricky and reinsurance $ better than nothing.
+@PeterSullivan4 I would prefer a small reinsurance program + increases in consumer-side subsidies (i.e., tax credits) for people &gt; 400% FPL.		Delivering subsidies directly to consumers, rather than indirectly through insurers, allows somewhat better targeting.
+Looked at using better metrics, there is a case for providing some reinsurance funding, although there are likely better ways of reducing premiums for consumers &gt; 400% of FPL. But funding CSRs looks pretty unattractive unless paired with increased subsidies.
+Unsubsidized consumers would end up better off, but this analysis overstates how much. These consumers can generally avoid CSR-related premium increases by buying silver plans off-Marketplace or buying non-silver plans. So they benefit little from funding CSRs.
+That’s because tax credits fall dollar for dollar when silver premiums fall. As a result, for subsidized consumers, silver would be no cheaper and bronze/gold/platinum would become MORE expensive (after subsidies) since funding CSRs does not reduce non-silver premiums.
+Others noted this too, but the metric BCBSA highlights—unsubsidized on-Marketplace silver plan premiums—is a uniquely bad metric for gauging effects on consumers. In fact, many consumers would actually be worse off, not better off. https://t.co/xZkZupYTGJ
+One takeaway is that the Cadillac tax is somewhat less aggressive (on average) than a comparable cap on the income/payroll tax exclusion for employer-provided coverage. https://t.co/tbEzKG1ROI
+To compare the Cadillac tax rate to tax rates on wages and salaries, they must be on a common footing. The “tax inclusive” form of the Cadillac tax rate is ~29% [=40/(100+40)].
+By contrast, tax rates on wages and salaries are typically quoted in “tax inclusive” form, meaning the rate applies to a base that INCLUDES amounts paid in tax.
+Short version: the Cadillac tax rate is typically quoted in “tax exclusive” form, meaning the rate applies to a base that EXCLUDES amounts paid in tax.
+Inspired by the Cadillac tax’s brief return to the news, some technical Cadillac tax tweeting: For many purposes, the Cadillac tax rate is best thought of as being ~29%, not the 40% typically quoted. Full explanation here: https://t.co/kCSTZVFL12
+@khemp64 And, interestingly, explicitly broached the possibility of re-entering markets for 2019 on yesterday's call....
+Not much of a surprise given their 2016 results and 2017 rate increases, which makes their withdrawals even harder to explain.		Conceivable they were trying to pressure policymakers in some way. Would not be without precedent (see Aetna in 2016). https://t.co/36tZtu13ia
+@C_Garthwaite @amitabhchandra2 But deeper point is this: We have GOOD evidence on this question from MA v. FFS research. Often does indeed point to lower util in MA. Shld grapple with that evidence. But this crude time series fact should move our priors little, if at all.
+@C_Garthwaite @amitabhchandra2 In any case, all of this somewhat hard to interpret given different populations, potentially different effects of econ conditions. Could believe intensity adjustment wld change picture too.
+@C_Garthwaite @amitabhchandra2 Various outpatient categories harder to compare using data in MedPAC report given different bucketing. Bet Medicare modestly worse overall, though not dramatically so.
+@C_Garthwaite @amitabhchandra2 Striking private decline in HCCI data was inpatient. Medicare also saw a big, though admittedly not as big, decline over this period of 6-7% (see https://t.co/2bvaxtriOE)
+@amitabhchandra2 Sympathetic to the general point that private insurers better at managing utilization, at least along some dimensions. But utilization growth also slow in Medicare during this period.
+RT @LorenAdler: Brookings Center for Health Policy is hiring a new Fellow		Ideally looking for a PhD or JD interested in health policy, wit…
+New piece with Jeanne Lambrew, @AvivaAronDine, @SamBerger_DC, and @jasonlevitis describes 5 ways states can protect their health insurance markets from recent and pending federal policy changes: https://t.co/vfJYoCqMud
+RT @NYTHealth: When states make it harder to enroll, even eligible people drop Medicaid https://t.co/gPAkMGzGM1
+RT @jasonfurman: Emphatically agree—the Cadillac tax is a really important health policy and fiscal policy. Could be reformed or replaced w…
+Quite unfortunate to see the House poised to vote to delay the Cadillac Tax (again). Re-upping this piece w/ @JasonFurman on how the Cadillac Tax would improve the health care system: https://t.co/V8GKIobBxW.
+@YFeyman @MartinSGaynor But optimal mandate to address selection will typically bring you back to universal coverage or v.	 close (depending on size of moral hazard/admin loads/etc.)
+RT @DavidLauter: For a lot of Medicaid patients, work requirements really mean paperwork requirements -- many will lose coverage for failur…
+RT @cynthiaccox: New analysis of insurer margins: As of late 2017 (before Trump Admin halted cost-sharing subsidy payments and before manda…
+@EGolberstein @bjdickmayhew Absolutely. The picture for the market as a whole will almost certainly be worse than for the Marketplace alone.		That said, a decent Marketplace number bounds how bad things can be, given that it's about 2/3 of the total compliant market.
+@bjdickmayhew has the right way of thinking about the Marketplace sign-ups number in my view. 		CSR ended up being a positive due to silver loading, but many other Admin actions were negatives. https://t.co/T8xmlXSM0T
+@BorisDirnbach @paulkrugman A similar point, yes. Health spending as a share of GDP was steady in the early 2010s, then rose as coverage expanded. More recently, that increase has slowed. See Exhibit 8 here for an updated version: https://t.co/Hh54GW5eSs
+But the phenomenon the op-ed purports to explain—that growth in health cost burdens didn't decline post-ACA—just doesn’t exist when cost trends are properly measured. /end
+Nor is this to say that the ACA was last word on making the health system more efficient. The ACA included many positive steps, but policymakers have a long road ahead of them. /15
+To be clear, WHY growth slowed post-ACA is a hard question. I believe the ACA played a role, but it was clearly not the only factor. (This, from my time at CEA, provides a reasonable summary of my views: https://t.co/7H69iDM1Ts.) /14
+So what happens if you look at spending per covered person and use a general price index? Real per enrollee spending growth has been slower after the ACA across the board. /13 https://t.co/d0UclqyEY4
+The authors’ choice of price index would be reasonable if the goal is understanding trends in health care utilization, but given that they frame their piece around cost burdens for “voters,” it’s the wrong measure. /12
+If the price of a hospital admission falls, but the prices of other goods stay the same, the authors’ metric of "real" costs is unchanged. But health care consumers are clearly better off! /11
+Using a health care price index is the wrong approach if the goal is to understand how consumers’ health care cost burdens are changing over time. /10
+(Details: I can match the authors' results exactly when using CMS’ NHE deflator. But when using the GDP deflator, I get 2.4% for ‘03-‘10 vs. 1.9% for ‘10-‘16. With the PCE deflator, it’s 2.5% vs. 2.1%.) /9
+Issue #2: Price indices. Notwithstanding the reference to “general inflation” in the article’s subhead, it appears that the authors adjust for inflation using a health care price index, not a general price index. /8
+A better approach (which the authors have taken elsewhere: https://t.co/fKlvZB5ybS) is to look at trends in health spending per person enrolled in coverage, not per person in the population. /7
+But higher per person spending doesn’t mean that people who were covered before are paying more, and it’s not a good indicator of whether the health care system is delivering more affordable care. /6
+When people become insured, they use more care, so health spending per person in the population rises. That’s a good thing (and a major goal of expanding coverage)! /5
+Issue #1: Expanding coverage. The authors look at health spending per person in the population. But that gives a skewed picture of underlying cost trends when coverage is rising, as it did between ’10 and ’16. /4
+Given the overall framing of the piece, one might think this means the amount a typical buyer has to pay for health care grew faster after the ACA than before.  For two reasons, that’s wrong. /3
+The authors’ main proof point is the following: “Real national health spending per person rose on average 1.7% a year from 2003-10, compared with 1.9% from 2010-16.” /2
+A note on @joeantos and James Capretta’s claim in yesterday's WSJ that health care “costs are rising faster than before” the ACA. This claim is seriously misleading. Here’s why. /1	https://t.co/wt4wsvRvim
+@Henry_Curr But "collapsing" implies that the market is at risk of ceasing to function entirely, which it is not. 		And the viable options for making the market function better involve higher gov't outlays or a stronger mandate. This is pretty clearly not what the Speaker has in mind.
+@Henry_Curr There is no doubt that there are places where the individual market is serving some enrollees poorly and could function better with better policy.
+This claim is wrong on two counts: 		1)The individual market is not collapsing, and while mandate repeal and Admin actions will do real damage, they will not cause market collapse.		2) The Speaker's proposals would compound the damage, not offset it. Inaction would be far better. https://t.co/O1fulIxXpP
+Unfortunate. The Cadillac Tax is an important tool for making the health care system more efficient. It should be retained and improved, not repealed or delayed. See my piece w/ @jasonfurman from our CEA days: https://t.co/V8GKIobBxW. https://t.co/eQmqspZmWU
+@xpostfactoid @larry_levitt @JeffYoung Exception to that is if a 1 pct rate increase causes claims costs to rise more than 1 pct. But that's a world where rate increases can kick off a "death spiral," which is not, empirically, the world we live in.
+@xpostfactoid @larry_levitt @JeffYoung Yes, but that doesn't matter in the long run. If insurers raise rates too much, pool initially deteriorates more than it "needed" to. But that excess damage to pool unwinds as rates come back down.
+@larry_levitt @JeffYoung A caveat: This is true in the short run, but not the long run. After a year or two, insurers will know how the risk pool actually changed and price accordingly. So insurer beliefs matter for initial pricing responses, but only actual consumer behavior matters in the long run.
+@TopherSpiro @charles_gaba @ASlavitt @typeting @sarahkliff @LorenAdler @StephArmour1 @davidsgamage @IndivisibleTeam @IndivisibleLNH I agree this is the strongest case for A-M. In a world with mandate repeal, I think this benefit is small, but reasonable people can disagree.		(Another reasonable argument for A-M is that gov't should pay its bills, period, whatever the health policy effects.)
+@charles_gaba Agree. Major argument was avoiding potentially messy transition to silver loading. Transition appears to have been less messy than feared (tho ask me again in several months); regardless, now a sunk cost.
+Persuasive. I disagreed w/ David on Alexander-Murray back in September, but my case rested on: (1) A-M could pass in time for 2018 pricing; and (2) A-M could signal bipartisan willingness to check Admin sabotage. Time has overtaken #1 and mandate repeal undermines #2. https://t.co/n2jvfRTiWz
+RT @HMSHCP: Richard Frank explains why #healthcare cuts in the #GOPTaxBill bill will cost people and states more in the long-term https://t…
+@chmtp On my list to look at. One challenge is that sources of coverage often reported less well than whether people have any coverage in surveys, so would want to be cautious in interpretation.
+@jmbarkett I have not looked carefully at this, I would bet some is ESI take-up. Obviously, no effect on individual market per se in that case.
+@hyperplanes @C_Garthwaite A good suggestion. Will take a look....
+@johngraves9 If the mandate survives, I would not be surprised to see this type of behavior appear over time as people become more familiar with the exemption threshold....
+@C_Garthwaite Not really. 		My views on causal effects of combinations of policies on coverage &gt; 400% of FPL:		CR/GI + subsidies: net negative	CR/GI + subsidies + mandate: net positive
+@johngraves9 It's a good thought. 		At least in principle, this is where a lot of the Frean/Gruber/Sommers variation comes from, yes? 		Challenge, as they note, is if people are responding to the mere existence of the mandate, but don't know its specific rules, then this won't pick it up.
+@C_Garthwaite CI/GR on its own reduces coverage. Presence of subsidized enrollees should damp that dynamic here, but skeptical that's enough to flip the sign. Probably worth a calibration exercise.
+Hope to write this up in more detail soon, but sharing these graphs for now. /end
+Hard to translate coverage effects above 400% of FPL into an estimate for the full population, but magnitude consistent with substantial coverage effects overall. /6
+Of course, cannot definitively rule out alternative explanations, but this evidence is certainly consistent with the view the mandate had significant effects on coverage. /5
+Also notable that Massachusetts, which already had a mandate, saw a much smaller recent decline in the uninsured rate above 400% of the FPL. /4 https://t.co/fcX5ouyY8Q
+Using the NHIS to look at a longer time period shows current coverage levels above 400% of the FPL have no recent precedent. /3 https://t.co/ttF1MjGosT
+The main policy changes at this income level were the mandate and community rating. Unlikely that community rating increased coverage on net, so the mandate is the most likely explanation for gains. /2
+In assessing the individual mandate's effect on coverage, recent sharp decline in uninsured rate above 400% of the FPL is an important data point. /1 https://t.co/pJbxMT0fIX
+@kelleher_ @LorenAdler Happy Thanksgiving to you as well.
+@kelleher_ @LorenAdler Really my argument is just the standard efficiency case for mandates/subsidies under adverse selection. Here, the selection problem arises because CR bars insurers from pricing on health status. But the same logic would apply if insurers simply could not observe health status.
+@kelleher_ @LorenAdler But it's the existence of CR that matters, not whether one views CR as moral. That is, if you objected to CR, but were forced to have it, your optimal policy would be a mandate to create the right marginal incentives + background lump-sum transfers from sick to healthy.
+@kelleher_ @LorenAdler This particular efficiency argument for a mandate depends on the existence of community rating (CR). Without CR, t healthy types would be charged premiums that (roughly) reflect their costs, so there would be (limited or) no inefficiency in take-up decisions.
+@kelleher_ @LorenAdler Rather, I’m arguing that w/ community rating, but w/o a mandate, A will make inefficient coverage decisions. Specifically, because of the cross-subsidy, the premium A pays will exceed the social cost of insuring A, so A may turn down coverage that generate net (social) benefits.
+@kelleher_ @LorenAdler Completely agree that the effect of A on B’s premiums is an outgrowth of community rating (see below from later in the piece). But the case I’m making for a mandate is not an equity argument (i.e., we need to compel A to buy insurance to keep B's premiums low). https://t.co/2nMUPmLa9V
+@stuart_zechman But we're talking here about the insured population....
+@stuart_zechman Income mix and other factors relevant for insurance demand just do not vary enough market to market to cause the qualitative effect of this type of policy to differ radically. What factors do you believe would cause differences by mkt?
+@stuart_zechman Again, I'm not saying there will be no cross-state variation in impacts. But direction of impact and its general magnitude likely similar across states.
+@stuart_zechman Premium increases ultimately depend on how the risk pool changes in response to the mandate.		That, in turn, depends on how consumers respond. So question is really whether consumers are different in CA/MI/KY/MA/etc. No strong reason to believe it will.
+@stuart_zechman In theory, yes. 		In practice, there is no reason to expect the impacts of mandate repeal to be concentrated in any particular set of states, except insofar as some states take mitigating steps in response (e.g., creating their own mandates).
+@stuart_zechman The 10% is a nationwide average. The impact will be directionally the same everywhere, although the precise impact may differ a bit from state to state based on market characteristics.
+@stuart_zechman To your specific point, not all people are eligible for subsidies. More generally, my take on why mandate repeal would do substantial harm is here: https://t.co/ztDws3z2ov
+RT @StevenTDennis: FLASHBACK: Mitt Romney explaining the individual mandate https://t.co/8O46VfZMy5
+Particularly since, while undoing the damage of mandate repeal would be hard regardless, it's even harder having devoted the $318b 	in Medicaid/subsidy savings to tax cuts. https://t.co/ZQ7RBvnDi3
+@Drderuelle Frean, Gruber, and Sommers note that their method will miss much/all of mandate's effect if people just know there's a requirement, but not precise details of  formula and exemption. Suspect that's the world we live in.
+@Drderuelle I disagree with your premise. Hard to disentangle mandate from other drivers of coverage gains under ACA, but my read of evidence is the mandate played a meaningful role.
+@jkellyfinwriter @charles_gaba But lots of people also pass up free/near free coverage. In any case, not claiming that ALL decisions to go without coverage are mistakes, just that SOME are. 		(Also important to remember the person you are talking about would be exempt from the mandate.)
+@JonWalkerDC Not claiming the current system of mandate and subsidies is optimal. Given my druthers, both would be larger.		I agree that direct public provision of insurance would likely get close to the optimal amount of insurance, though it would have other downsides in my view.
+And striking that Senate bill does not even try to deal with the problem, instead just using savings from mandate repeal to finance regressive tax cuts: https://t.co/TBoA8V9flB. /end https://t.co/z6vXw2evus
+Policymakers could want to shift balance to rely more on subsidies relative to mandate, but achieving same coverage outcomes would be very expensive and likely use up savings from mandate repeal multiple times over. /6
+This means there's a strong economic justification for encouraging coverage via subsidies and a mandate penalty. To justify mandate repeal, would have to believe we’ve “overshot” and gotten too many insured. Little reason to believe that’s the case. /5
+Second, there is strong reason to believe that many decisions to drop coverage would not reflect a fully rational weighing of costs and benefits. Many who drop coverage would end up worse off themselves. /4
+First, individual decisions to drop coverage shift costs onto others via higher premiums and more uncompensated care. Thus, dropping coverage can be attractive to an individual even if the total benefits of coverage exceed the total costs. /3
+There are two fundamental flaws in the argument that, by virtue of being voluntary, reductions in insurance coverage due to mandate repeal cannot do harm. /2
+Even if reductions in coverage from repeal of the individual mandate are “voluntary,” they would still do considerable harm: https://t.co/izQ7u7lpbL /1
+@SaraCollins_ It's a level shift. That is, the difference between the level of premiums with the mandate repealed and the level of premiums in the baseline is 10% of baseline premiums ("in most years of the decade").
+RT @LorenAdler: Re: S&amp;P on the mandate, "the mandate is ineffective" &amp; 3-5 million more uninsured if it's repealed *do not* belong in the s…
+@Pete_Hero ACA added mandate AND subsidies. Subsidies are powerful stabilizing force, particularly since linked to premiums.		(To be clear, repealing mandate very bad, just not death knell for market.)
+Important thing to keep in mind when looking at data to try to tease out the effect of the mandate on coverage decisions. /end
+Easy to forget, but spring 2017 was the first tax season with the mandate penalty fully-phased-in, so people likely still gaining experience/familiarity.
+#2: CBO also right, in my view, to believe effect of mandate repeal would grow over time. Corollary is mandate may not yet be having full effects on coverage.
+For example, without holding age mix constant it looked like the AHCA cut premiums, even though premiums actually rose for current enrollees: https://t.co/BAiB1f6NVe https://t.co/X2WyniswsE
+#1: Good to see CBO reporting premium effect of mandate repeal holding age mix constant. It’s a MUCH better way of looking at premium effects.
+A couple technical thoughts on CBO’s new estimates of repealing the individual mandate: https://t.co/1yDy29M0GY
+RT @AislingMcDL: Today, @SeemaCMS referred to ACA Medicaid expansion as a "hollow victory of numbers covered." Let's talk about that hollow…
+RT @jasonfurman: You can't understand the impact of tax cuts without understand how they're paid for, w/ @gregleiserson https://t.co/pracEB…
+@greg_fann @LorenAdler @BurntOutCase Declining non-compliant share causes trends to differ sharply between two. For questions I was trying to answer, compliant mkt most relevant
+@greg_fann @LorenAdler @BurntOutCase KFF Is full non-group market. My estimates are compliant-market only.
+@onceuponA @johngraves9 @C_Garthwaite Also real risks to ending ESI. If retain self-insured/experience rating option for big employers, cld get serious selection against nongroup
+RT @SabrinaCorlette: Drum roll please #GtownCHIR definitive 50-state guide to insurers' actions in response to CSR cuts https://t.co/QF072d…
+@JonWalkerDC So think this is part of the story, but can't be the whole picture.
+@JonWalkerDC Agree strategic underpricing part of story. But why underprice more in 2015/2016 than 2014? And why react so negatively to 2016 losses?
+RT @annawmathews: More evidence ACA markets were starting to stabilize in many places....until https://t.co/Nkbxx9H1Qx via @BrookingsInst
+Piece discusses some theories—insurers tried to buy share or expected even slower claims growth, regulatory barriers—but puzzle remains /end
+But the reinsurance phasedown was fully expected and, by 2016, the extent of 2014 losses were known, so why not price up more? /8
+It wasn’t rapid claims growth. Rather, premium increases were too low to offset phasedown of reinsurance program plus SLOW claims growth /7 https://t.co/RV5mAxv07J
+Finally, one lingering puzzle: losses in 2014 easy to explain given lack of claims experience, but why did they deepen in 2015/2016? /6 https://t.co/SvaHE2bQL1
+Progress in 2017 should have meant mid-to-high single digit premium increases for 2018. Worse reality reflects hostile policy environment /5
+Paper estimates that risk pool effects of 2017 premium increases should only have been expected to add ~1.6 p.p. to claims costs /4
+Given “death spiral” fears, slow claims growth in '17 might seem surprising, shouldn’t be. Consistent with ACA design + pre-ACA evidence /3
+Premium increases for 2017 more than offset continued slow claims growth &amp; final step in reinsurance phasedown, so margins much improved /2 https://t.co/6LVqn5pjW6
+New piece finds insurers were set to break even (or better) on ACA-compliant plans in 2017 before CSR cutoff https://t.co/EG0RhUDPVS /1 https://t.co/KV1AafSjG2
+RT @TimGDC: It's not too late for hhs to build on the success of early bundled payments. No path to national scale without mandatory tests…
+RT @SabrinaCorlette: United tells investors: we'll make bank on assoc health, short-term plans, thanks to executive order https://t.co/nfb1…
+@sangerkatz Nice to know that I'm not the only person enraptured by both health policy and obscure weather phenomena.
+RT @nicholas_bagley: This is very troubling. https://t.co/c1OVsRwYUy
+@johngraves9 @bjdickmayhew @larry_levitt There were also indications short-term market was ramping up before reg change. So wouldn't count on enrollment staying at 2016 levels.
+Very much worth a read. The federal statistical system is a crucial tool for decisionmakers in the private sector and all levels of gov't. https://t.co/iZcsyOslwS
+RT @larry_levitt: You know the whole thing about the ACA marketplaces collapsing? Someone forgot to tell the data.	https://t.co/c6Xg4p5Xwn…
+@JudyCBPP @CitizenCohn Completely agree. Just important mourn the right things!
+Among other issues, IA waiver would make health care much less affordable for low-income Iowans, making it both bad policy &amp; likely illegal
+Admin's broader approach to ACA quite problematic and process described is troubling, but blocking Iowa's waiver actually right on substance https://t.co/7lBV2tyGOA
+@mishasegaldc Not sure. Introduction of MOOP could have reduced OOP share a bit in 2014. Could also be noise, as HCCI data show smaller post-2013 fall.
+@awgaffney Agree there are instances where cost-sharing causes harm, but also can play a useful role. Need to get better at targeting to latter cases.
+@hlthcaremike Absolutely. Reducing share of budget taken by health care and increasing total size of workers' budgets both important.
+@awgaffney Yeah, sorry, my graph was just an alternative presentation of the data in the piece, but not sufficiently clearly labeled!
+@awgaffney Data in these piece and my tweets are only about employer coverage. Economy-wide OOP share has fallen as coverage expanded.
+To be clear, many good policies do target OOP costs directly, particularly for specific populations/services. But only a partial answer /end
+On the overall cost front, recent trends have been better than the past, with policy playing a role, but still lots more to do /6 https://t.co/poJfNeYOPo
+Adequately addressing medical cost burdens will therefore require policies targeted at overall cost of care, not just out-of-pocket costs /5
+Moreover, even when workers don’t pay for care out of pocket, they pay for it in other ways: higher premiums and lower wages /4
+That means rising out-of-pocket burdens primarily reflect the rising underlying cost of medical care, not lower plan generosity /3
+As a share of total medical spending, total out-of-pocket costs have risen only very slightly over the last decade /2 https://t.co/xb4HP26bwA
+Lots of great data here. One comment: when it comes to policy, I would caution against focusing too much on out-of-pocket costs per se /1 https://t.co/RTG2iJkyOt
+RT @gregleiserson: All policy has trade-offs; deficit-financing obscures them. @dashching and @Brendan_Duke make them explicit https://t.co…
+@timothyjlayton Fair enough. In any case, very nice piece! Will be a very useful resource.
+@timothyjlayton Worth noting fairness &amp; reclass risk often related. Rawlsian argument for rating rules is about reclass risk behind veil of ignorance.
+@bjdickmayhew @nicholas_bagley Fair. In any case, stepping back, this makes no approp + litigation scenario worse. No reason effect of lower competition loads on silver.
+@bjdickmayhew @nicholas_bagley How different in magnitude/nature from uncertainty around, say, expected RA receivables though?  Agree not perfect but seems not THAT bad.
+@nicholas_bagley @C_Garthwaite Other question: after first round, any way for courts to bundle/streamline the various suits and set up more permanent mechanism?
+@wcsanders @bjdickmayhew Agree that there's near-term mess either way. But think mess from approp smaller, more confined. Would have been nice to do months ago...
+@nicholas_bagley That was inartfully phrased. But confidently expecting a payment probably 95% as a timely payment. (Liquidity not a huge issue for most.)
+@bjdickmayhew Definitely agree that it's not worth paying an unlimited price for a CSR appropriation. But wld take a clean appropriation. Hard tradeoffs!
+And even if CBO treated this unusually, depending on timing, paying CSR could be a saver, not a coster since PTC savings &gt; CSR cost /end
+But obviously Congress does not have to offset the entirety of the Medicaid program each fall! /13
+For example, Medicaid is appropriated entitlement, handled in each year’s Labor-HHS appropriations bill /12
+In fact, there are lots of so-called “appropriated entitlements” in the federal budget /11
+Even with an temporary appropriation, CSRs would remain an entitlement, so CSR payments would remain in the baseline  /10
+Finally, a procedural note: as David noted in a follow-up tweet, a temporary CSR approp would not create a need for offsets in the future /9
+Specifically, would show Congress will not let Admin. sabotage proceed completely unchecked, partially mitigating broader uncertainty /8
+Also important to note that a CSR appropriation would send a valuable signal, beyond its direct impact /7
+@nicholas_bagley Thus, effect of stopping CSR payments is period of market disruption &amp; legal mess/uncertainty, followed by return to the status quo ante /6
+@nicholas_bagley That means that, if CSRs stop, insurers can sue the feds for their money. When they win, and they likely would, CSRs resume /5
+As @nicholas_bagley and others have noted, insurers have a legal entitlement to CSR payments: https://t.co/O46j9fGyXx /4
+But simply stopping CSR payments is not the same thing. It would create significant short-run disruption without long-run benefits /3
+David’s right that permanently, irrevocably terminating CSR payments would have some long-run benefits: https://t.co/pNbcWgFojc /2
+Worth reading this provocative thread by David Anderson arguing against a CSR appropriation, but I think he gets this wrong. Here’s why. /1 https://t.co/wJyUyXvdVT
+@amitabhchandra2 @afrakt @YFeyman The "symmetry" system does not accomodate people who eat odd numbers of eggs at a sitting...
+RT @gregleiserson: Fun pivot-to-tax-reform activity: imagine spending $1.5T on a marketplace stabilization bill.
+@LorenAdler If you missed our piece the first time around, see full piece here: https://t.co/Zx2Qnrf9PL /end
+@LorenAdler But topline estimate for ’20-’26 wld remain in vicinity of 20m. Estimates for 2018/2019 and after 2026 basically unaffected. /3
+@LorenAdler New provisions (formula changes + language aimed at limiting diversion to other uses) may slightly mitigate ‘20-‘26 coverage reduction. /2
+Some asked how new G-C draft affects estimates w/ @LorenAdler from Friday (see table). Upshot: still analyzing, but big picture unchanged /1 https://t.co/movXLVpCfd
+@nicholas_bagley @SabrinaCorlette @aaronecarroll Plus Rs remain trapped between their repeal promise and the reality of repeal. We could easily end up back here in the future...
+…and (3) make assumptions re: share of ppl in each group informed by prior state behavior. Full details here: https://t.co/Zx2Qnrf9PL /END
+Short version of methodology: (1) identify 4 broad state approaches; (2) use prior CBO estimates to gauge outcomes for each approach…  /4 https://t.co/3uarC9XPer
+Estimates also subject to big uncertainty, esp. given unpredictability of state decisions. More time for analysis would be welcome! /3
+Estimates likely conservative since they ignore serious implementation challenges &amp; legislation’s non-expansion Medicaid provisions /2
+New piece w/ @LorenAdler estimates large reductions in insurance coverage under Graham-Cassidy proposal. Key table: /1 https://t.co/G67jB1FoC9
+@caitlinnowens @xpostfactoid @nicholas_bagley @dylanlscott And I strongly suspect that they are right about the power of the default.
+@caitlinnowens @xpostfactoid @nicholas_bagley @dylanlscott My guess: drafters think a default of zero spending maximizes their leverage to get a smaller (or even non-existent) block grant in '27
+@caitlinnowens @xpostfactoid @nicholas_bagley @dylanlscott Thank you.
+@caitlinnowens @xpostfactoid @nicholas_bagley @dylanlscott Health cost growth + population growth means there wld still be a v large budget hole to fill. And need for legislation may be biggest prob
+@caitlinnowens @xpostfactoid @nicholas_bagley @dylanlscott Important to note that even if treated as permanent, only *nominal* amount of block grant is projected forward: https://t.co/7dyaWuiMKf
+RT @jbarro: I don't understand how you could produce the budget analysis without a coverage analysis, even in a pure block grant program. h…
+@LorenAdler @PeterSullivan4 If Admin insists on stopping CSRs, that is clearly states’ best option for coping with fallout, so good Admin at least not getting in way.
+@LorenAdler @PeterSullivan4 Interestingly, the FAQ implicitly blesses this approach, which would be the most protective for consumers if CSRs were not paid.
+@LorenAdler @PeterSullivan4 Sidenote: CA &amp; some other states have encouraged/directed insurers to address CSR shortfall by increasing on-exchange silver premiums only.
+@LorenAdler @PeterSullivan4 However, RA is budget neutral overall, so change does nothing to mitigate overall CSR shortfall. Thus, still imperative that CSRs paid.
+@LorenAdler @PeterSullivan4 The RA change rearranges money so losses on sick CSR enrollees aren’t worse than losses on healthy, mitigating incentive to avoid sick.
+@LorenAdler @PeterSullivan4 It turns out these shortfalls are bigger for sicker enrollees; the sick use more care, so loss of CSR payments hits their insurers harder.
+@LorenAdler @PeterSullivan4 As has been widely noted, the main problem created by ending CSRs is that insurers face a big revenue shortfall for CSR enrollees.
+@LorenAdler @PeterSullivan4 The RA change in the new CCIIO Q&amp;A seems aimed at mitigating one of the subtler problems created by stopping CSRs
+@C_Garthwaite @LorenAdler Given the degree of income variability in these income ranges, lots of people will meet that description.
+@C_Garthwaite @LorenAdler Even with retro in place, if I decline to sign up in January, but income rises above 138% of FPL by June when I get sick, I have a problem.
+@jasonfurman Related, ECI health benefits up just 1.2% yoy. Together w/ recent Medicare data, BEA price data, health cost trends remain remarkably low
+@christina_s_ho Yes, that's absolutely right. Baseline is now worse. But what you can do with 1332 still constrained by guardrails.
+@dwebbKHN But admin would have to under this language since waiver increases coverage does not violate other guardrails.
+In near term, has interesting effect of making blue-state waivers easier (eg CA proposal to let undocumented immigrants onto Covered CA) /3
+Interestingly, though, the new language still eliminates Secretaries’ discretion wrt whether to approve waivers that meet guardrails /2
+As others have noted, new 1332 language maintains guardrails, so scope of permissible waivers now basically same as current law /1
+@sangerkatz Cruz plans still subject to "single risk pool" on paper. But also still meaningless in practice! https://t.co/YDKo8zowTX
+@LorenAdler Important to note that long-run premium increases would be larger due to disappearance of Senate bill’s “stability” funding after 2026. https://t.co/DEDXFei2PS
+@LorenAdler Premiums rise for both bronze and silver plans in 2026. And EHB changes and subsidy cuts mean these understate increase in enrollee costs. https://t.co/AQ7m1dzLwc
+New piece with @LorenAdler finds that revised Senate bill still increases premiums on an apples-to-apples basis: https://t.co/XvM9hdRhPb
+RT @JocelynGuyer: Seema's pitch to senators and the challenges with it are really well explained here by @Tierney_Megan. https://t.co/vLVtF…
+RT @kelleher_: @onceuponA GOP: "What's to stop us from allowing 58% AV plans?" 		Wonks: https://t.co/ioeiLnVkXP
+@johngraves9 @onceuponA I think that's a more generally important point. CBO's process and culture is at least an important reason to trust results as transparency.
+RT @sarahkliff: What can possibly be the rationale for producing a report about attaching the Cruz amendment to ACA? 	https://t.co/dUU6TqdL…
+Bottom line: Even if single risk pool constrains premiums on paper (uncertain), insurers have incentive &amp; ability to circumvent in practice https://t.co/NBGlSLju4S
+Retaining “single risk pool” requirement wld not mitigate increases in ACA-compliant premiums under Cruz amendment: https://t.co/YDKo8z6Vvn
+@gregleiserson Another possibility: this is trying to say everyone knows the current law individual market is "dead," but we decided to be "generous."
+@gregleiserson Presumably that means they're not assuming any effect on ESI?  Because the size of the non-group mkt definitely changes across scenarios....
+RT @EmilyG_DC: Even the "single risk pool" variant shows stark risk segregation. Young,  rich &amp; healthy in one type of coverage; sick and o…
+RT @gregleiserson: Assumption two really seems like something you should conclude, not assume. By analogy to guaranteed issue, maybe call t…
+Another oddity in HHS report: 1 vs. 2 risk pool scenarios have identical compliant premiums in 2020, but different in 2024. Can't be right.
+Thus, w/ BCRA subsidies, the Cruz proposal wld likely cause significantly greater unraveling of ACA-compliant market.
+With BCRA’s smaller tax credits and repeal of CSRs, fewer healthy enrollees wld want to stay in the compliant mkt than w/ ACA subsidies.
+Far from the only issue, but HHS’s assumption that ACA subsidies stay in place in all scenarios likely has significant effect on results.
+@Vegastenold Seems like your inquiry got mis-routed on our end. Can you follow me, and I'll DM my email/phone #?
+@Vegastenold Happy to. Please shoot me an email through the form at https://t.co/MU2SC6O1Mz, and we'll find a time.
+@bjdickmayhew Who am I not following that I'm missing it?
+States would face plenty of barriers to restoring a better market structure, but this financial penalty adds to the list
+Interestingly, if states try to restore regulations removed by Cruz amendment, they lose some/all of the $70 billion attached to it
+@onceuponA Tax credits should be enough to prevent an actual death spiral in the compliant market, just not a very ugly equilibrium.
+@johngraves9 I think it's possible this is just referring to eliminating the age limit on catastrophic plans. If not, the effects could be wide-ranging.
+RT @C_Garthwaite: In which @amitabhchandra2 and I discuss how arming pharma firms with profit maximization tools might backfire (1/3) https…
+@misplacedsox @LorenAdler Have not actually heard rumors that HIT wld be retained. Rumors I heard had only included high-income taxes.
+New piece examines Sen Cruz’s proposed change to the BCRA, finds it wld shift costs to the sick &amp; the federal gov’t: https://t.co/lCcm89h5YF
+@bjdickmayhew @C_Garthwaite @johngraves9 Agree with that as well. Transition/tax filing wld be my bigger concerns.
+@C_Garthwaite @LorenAdler Right, but question is where $ have highest marginal return. Uninsured rate still higher for lower income. Distributive prefs also matter...
+@C_Garthwaite @bjdickmayhew @johngraves9 Strongly doubt that we would see mass shift of employer OE dates if non-group OE moved.
+@johngraves9 @C_Garthwaite Agree worth considering, but some tradeoffs: complex transition; tax filing harder if tax/plan year do not align; won't match employer OEs.
+@LorenAdler @onceuponA @TopherSpiro @sangerkatz But if that’s the goal, why not just impose community rating at the outset? Much, much more robust in the real world where RA is imperfect
+@LorenAdler @onceuponA @TopherSpiro @sangerkatz Perfect risk adjustment could, in theory, get insurers to voluntarily set community-rated premiums
+@LorenAdler @onceuponA @TopherSpiro @sangerkatz Diff benefits raises big technical issues, but there’s a deeper incoherence in proposals to allow underwriting and “fix it” with risk adj
+RT @cynthiaccox: We find no evidence of the individual market collapsing. Rather, insurers on track to have best year since ACA began https…
+@andersen_hecon CMS "discourages" insurers from accepting payment from providers. (Stayed) dialysis rule has summary at p.90213/7: https://t.co/WLWzpAkTAD
+@andersen_hecon Not sure of full history, but current policy is issuer not required to accept 3rd party premium payments outside of a few instances.
+If policymakers want to improve individual mkt, this &amp; related issues w/ dialysis merit attn. Opportunities to reduce costs w/o doing harm. https://t.co/8JmeSP879z
+@asacarny @C_Garthwaite @ddiamond @xpostfactoid @zackcooperYale Since Medicare and private have different service mixes, overall Q correlation &lt;&lt; 1 even if correlation for every service = 1.
+@asacarny @C_Garthwaite @ddiamond @xpostfactoid @zackcooperYale On Medicare/private Q correlations, 0.4 may be an understatement. Q for different service types vary (within payer) fairly independently.
+RT @larry_levitt: There's a change in the Senate bill that could disrupt insurance markets and hike premiums for people who are sick.	https…
+RT @CitizenCohn: What Loren is saying here is that the GOP bill doesn't lower premiums.		It *raises* them.		(Read the paper, which @MattAFi…
+Our piece is pre-subsidy. Great piece by @larry_levitt and @cynthiaccox et al shows v large post-subsidy increases: https://t.co/ZLP1tVHDYo
+Our estimates actually *understate* premium increases since we cld not adjust for narrowing of covered services due to EHB waivers /4
+CBO finding that “benchmark” premium falls reflects reduction in generosity of benchmark &amp; compositional shift, not true cost reduction /3
+BCRA increases premiums for a 58% AV (bronze-like) plan by 5%, on average. Premiums for a 70% AV (silver) plan up 9%. /2 https://t.co/tulN6O9XIn
+New piece with @LorenAdler shows that, on an apples-to-apples basis, BCRA increases pre-subsidy ind mkt premiums: https://t.co/EiWyLyRc0t /1
+@PrestonLewis8 @YFeyman @LorenAdler @anish_koka @amitabhchandra2 That's right, which is generally what we would expect for the marginal enrollee since the sickest sign up first.
+@YFeyman @LorenAdler @anish_koka @amitabhchandra2 Since the older person pays so much more, if both are, say 20% cheaper than avg for their age, the older person is much more profitable.
+@YFeyman @LorenAdler @anish_koka @amitabhchandra2 Fun addendum to this.  Quite plausible that the *marginal* older person reduces premiums more than the *marginal* younger person.
+@JeffYoung @mattyglesias Actually, CBO scored it at $62b over 10 years: https://t.co/rnbiC9aFWp
+RT @gregleiserson: CBO: Legislation designed to impose harsh Medicaid cuts does so. https://t.co/CXgnzPZCsQ
+@C_Garthwaite @johngraves9 @amitabhchandra2 @MccabeCJM @moneyball4sci Though we already have a variant: 12 months between open enrollments. Still lots and lots of gaps. Hard to believe 18 months is magical.
+@johngraves9 @C_Garthwaite @amitabhchandra2 @MccabeCJM @moneyball4sci Another issue is documentation burden for ppl w/o gaps who are transitioning among coverage types. Deterred enrollees probably healthy.
+@MarcGoldwein @SethHanlon Agree on coverage. On pool, suspect worse than 6-month, but could be better than 30%, though unclear.
+@MarcGoldwein @SethHanlon Unclear on coverage. Prob better on risk pool, but because it locks out ppl who really need coverage, so prefer 30% if forced to choose
+On net, wld bet that risk pool gets worse &amp; coverage falls. Certainly doubt gains big enough to justify losses to sick ppl locked out /5
+Worse, adds new documentation burdens for enrollees w/o coverage gaps, which likely disproportionately deter the healthy from enrolling /4
+But damages pool on back end. Ppl locked out due to coverage gaps probably healthier than average since sick motivated to avoid gaps /3
+Likely induces some healthy to enroll up front (tho effect limited if ppl expect to get ESI/not need coverage in future or are myopic) /2
+Far from clear that a 6-month lockout for people w/ coverage gaps, a rumored addition to the BCRA, benefits the individual mkt risk pool /1
+@jasonlevitis And if you want still more on state innovation waivers in the Senate bill, @nicholas_bagley‘s piece is a great read: https://t.co/O8par9hrKJ
+The Senate’s changes to “state innovation waivers” also have many other important implications per @JasonLevitis: https://t.co/1uDjoYASiw
+Like the AHCA, the Senate health care bill could undermine ACA protections against catastrophic costs: https://t.co/FihJrqR6dt
+RT @sarahkliff: Read @nicholas_bagley on how the Senate bill invites states to gut key health insurance regulations. https://t.co/K8g7vTtch4
+@dylanlscott @sarahkliff Waiting period might have different effects, but I am dubious that anything in this space is a big net plus.
+@dylanlscott @sarahkliff Not at all clear it's a net positive. CBO concluded House provision reduced coverage and worsened pool.
+@xpostfactoid The CSRs are repealed starting in 2020, so the question does not arise.
+@sangerkatz @jkornack @TopherSpiro @sarahkliff Small employers are subject to EHB (and these other provisions). They generally have to use the EHB definition in their state.
+@sangerkatz @jkornack @TopherSpiro @sarahkliff Note that large employer plans are NOT required to actually cover EHB, but if they do, services considered EHB can't have these limits.
+@sangerkatz @jkornack @TopherSpiro @sarahkliff Today, large employer plans can choose any state's definition of essential health benefits for the purposes of annual/lifetime limit/MOOP.
+@sangerkatz @sarahkliff Though I'd argue it's pretty likely it wld given the current regulatory approach &amp; the Administration's general deregulatory zeal.
+RT @Health_Affairs: .@Michael_Chernew @barbeych @JMichaelMcW: We need a plausible counterfactual to measure the actual impact of  ACOs http…
+RT @cynthiaccox: ICYMI Oliver Wyman expects up to two thirds of 2018 premium increases will be due to political uncertainty https://t.co/vj…
+@caitlinnowens Probably not a huge effect on how many lose coverage. But big effects on who loses coverage/pays more.
+@caitlinnowens The "for modeling purposes" phrase at the beginning of the prior paragraph suggests the assumption may have been made to simplify modeling.
+RT @DLeonhardt: Nearly all major health-care groups oppose the GOP bill. But they're being far too timid about their opposition. https://t.…
+@larry_levitt Which is a very low bar...Also puzzling: would bet IA's proposed shift of subsidies toward higher-income people actually damages pool.
+@xpostfactoid No. The preventive services requirement is distinct from EHB and should not be affected by MacArthur waivers.
+@sarahkliff @larry_levitt “Fall through the cracks" suggests only problem is missing some uninsured. But erroneously enrolling the insured a big, costly problem too.
+RT @bobjherman: The five Blues companies that are the only ACA plans in their states are even turning profits. https://t.co/ZJQu8neb06
+@bjdickmayhew @sangerkatz @asacarny @rebeccastob @GottliebEcon Though the tweet by @zackcooperYale elsewhere on this thread wld cut against this second supposition...
+@bjdickmayhew @sangerkatz @asacarny @rebeccastob @GottliebEcon That said, seems like Medicare rates must play some role in the bargaining process even for non-DRG majority: https://t.co/1L4DRxAOAs
+@bjdickmayhew @sangerkatz @asacarny @rebeccastob @GottliebEcon I suspect (but don't know) that many DRG-based payments are Medicare + X. For non-DRG payments, presumably not.
+@sangerkatz @asacarny @bjdickmayhew @rebeccastob @GottliebEcon The little work I'm aware of suggests Medicare-like payment is less common for hospitals. See, e.g., Table 2 here: https://t.co/Zksp9iOlyZ
+@xpostfactoid @bjdickmayhew Prob higher given risk of attracting even costlier hemophiliacs. Bet only sustainable price is effectively infinite (i.e., de facto denial)
+New piece w/ Henry Aaron, @LorenAdler, and Paul Ginsburg argues the AHCA takes health care in the wrong direction: https://t.co/Y39B7m90YI https://t.co/vF9jUZQstP
+@sangerkatz @philipaklein @THAToneil @ZTracer @dylanlscott Yes, so that wouldn't hold in 2018, but it would hold in the long run.
+@philipaklein @sangerkatz @THAToneil @ZTracer @dylanlscott So if CBO is overestimating the effect of mandate repeal, it's probably underestimating the effect of rolling back expansion.
+@philipaklein @sangerkatz @THAToneil @ZTracer @dylanlscott Remember that many of the people CBO thinks take up Medicaid due to the mandate are eligible for Medicaid because of expansion.
+@asacarny @emma_sandoe @JDVance1 Bottom line is that to understand effect of Medicaid on physical health, we need to turn to evidence other than the OHIE.
+@asacarny @emma_sandoe @JDVance1 Here's visualization of this point from work I did at CEA. OHIE confidence intervals extremely wide, cannot exclude huge benefits or harm. https://t.co/CbgK7SYHlX
+@MikeBertaut Agree CBO missed on sources of coverage gain (e.g., exchange vs. other). My point is they missed only slightly on total change in uninsured.
+@LorenAdler @jbarro Indeed. If goal is pre-ex protection + lower premiums for high-income healthy, subsidies above 400% FPL or reinsurance are simpler path.
+Important point. Also v. important to note that CBO did pretty well on overall SIZE of coverage gains, just not SOURCES. https://t.co/1dSEl2n1mf
+RT @ShannonCBPP: Right Q on CBO score isn’t how  latest House bill compares to old one; it’s how House bill compares to current law	https:/…
+RT @Nico_Lewine: Help! Im from the northeast &amp; constantly witness friends fight abt what qualifies as Midwest. Decided to settle it..have I…
+@amitabhchandra2 @RahulRajkumar11 On #4, agree FFS rates often wrong.  But total payment under retro is (base target price) + (quality adjustment), just like prospective.
+@amitabhchandra2 @RahulRajkumar11 On 1/2/3, hard to see why these factors wld undermines incentives for productive efficiency, which is what TDABC theoretically enables.
+@amitabhchandra2 What's your reasoning?Retrospective/prospective generate same overall incentives. Has to be behavioral or bargaining frictions story.
+@EricSchillinge3 Have not looked at this in detail myself. CBO concluded individual mandate repeal reduces ESI enrollment 2 million: https://t.co/yD8IdeSLo5
+@EricSchillinge3 Agree HHS cld try to stop healthy from opting for underwriting, as piece discusses. But doubt Administration wld want to + would be v. messy
+And potential effects go beyond ppl w/ coverage gaps. States cld use waivers to eliminate community rating for all: https://t.co/rrXbny5mWX https://t.co/zzWCdp3nwZ
+@C_Garthwaite @bjdickmayhew @nicholas_bagley Plans' tenacious lobbying to keep CMS from properly accounting for MA upcoding in MA rates strikes me as main problem, not coding itself
+@agoodmanbacon @andersen_hecon @LorenAdler @TimGDC @saynikpay Thanks. Both helpful.
+@andersen_hecon @LorenAdler @TimGDC Interesting. Any recommendations of good research on that era?
+@bjdickmayhew Tho not much evidence higher rates drive dramatic unsubsidized attrition. Here's Δ premiums v. Δ compliant enrollment in 2015 from 2Rs data: https://t.co/DixR2myRg2
+Medicaid waiver activity has flown below the radar, but Trump Administration on track to break new ground. Troubling long-term implications. https://t.co/pBdMzsP3v9
+Final note: Many thanks to @KaiserFamFound team for publishing processed Medicaid spending &amp; enrollment data that made our analysis possible
+Policy wld have caused large cuts even if growth in caps EXACTLY matched national trends due to wide variation in growth across states. /6 https://t.co/1vdZKYtItR
+Cuts wld have been larger if spending growth higher. Cuts smaller if spending growth lower, but to a lesser degree. Asymmetric effects. /5 https://t.co/a5xFGKbMGq
+86% of cuts wld have come from states starting w/ low costs. Reflects “mean reversion” in per enrollee spending. Pattern hard to defend. /4 https://t.co/bQrODf9EYK
+States can never get more money than under current law, so no states “win.” Important difference vs block grant or capitation proposals. /3 https://t.co/4MBgyvjc6N
+If implemented in the 2000s, AHCA per capita cap wld have substantially reduced federal Medicaid funding w/ wide variation across states. /2 https://t.co/5fo12CckOX
+New report w/ @LorenAdler &amp; @TimGDC re-runs history to understand effects of AHCA’s Medicaid per capita cap: https://t.co/BixenrSleI /1
+@bradlerner Correct. For large employers, no requirement to cover EHB, but no lifetime/annual limits on EHB they do cover.
+In light of the House vote, re-upping this thread on the big picture on the AHCA's effects. https://t.co/i46lx0dwTb
+In any case, setting up a reinsurance program does not require big cuts to Medicaid &amp; tax credits, repealing indiv. mandate, etc.
+On (b), reinsurance-like system already in place for 2018 via risk adjustment program. Could be made more generous easily w/ admin action.
+On (a), AHCA hurts due to immediate repeal of individual mandate, and other changes. Not to mention ongoing CSR uncertainty.
+Re IA: Notable remaining issuer--Medica--had 2 requests: (a) stable policy for '18; and (b) reinsurance (or similar) for high cost cases.
+RT @RESachs: This. Insurers are pricing for 2018 NOW. How will they know what the rules of the marketplace are? https://t.co/Nle8AzOQwj
+RT @Tierney_Megan: How one state waiving out out EHBSs under AHCA could bring back annual &amp; lifetime caps to employer plans EVERYWHERE http…
+RT @sangerkatz: Have been wondering about this too. What’s the policy rationale for waiving community rating then (theoretically) backfilli…
+@sangerkatz @dznyc @StephArmour1 Yep. 2 diff things. Lack of catastrophic protection not uncommon, in play here. Outside small grp, benefit package (below caps) not affected
+@C_Garthwaite w/ a robust individual mkt, lots to recommend non-employer system. Tho I'm a bit "small-c" conservative here; transition wld be hard, messy.
+@C_Garthwaite @DylanNelson Interestingly, per KFF/HRET, 59% of enrolled workers w/ lifetime limits in 2009. 19% lacked a MOOP. Not universal, but not that rare either
+@C_Garthwaite Workers might be undervaluing (e.g, inattention to rare events) or extreme tail risk might create some selection pressures even in grp plans
+@C_Garthwaite Agree with this view in general. But hard to believe lifetime limits/lack of MOOPs are labor mkt striking an efficient wage-benefit tradeoff
+RT @StephArmour1: Little-Noted Provision of GOP Health Bill Could Alter Employer Plans - WSJ https://t.co/JkcSGcW34Q
+@nicholas_bagley It's here: https://t.co/uksyaZIa5f.
+@Comanchegyrl See here: https://t.co/xvR7uav97w
+@joshschultzdc Trump Admin could elect not to allow choice w/ MacArthur Amendment in place, but I am doubtful they would do so for reasons noted in piece
+@joshschultzdc Statute is silent about what EHB def'n applies to large employer plans. Current regs/guidance allows them to pick among state def'ns.
+@sangerkatz @philipaklein @NoamLevey Also, base $100b was already committed to other purposes. Using it to stem community rating fallout means base bill was worse than it looked
+@justinRmcc But trends certainly a reminder that life expectancy has many determinants, and insurance coverage policy is only one of them
+@justinRmcc On life expectancy, wouldn't draw conclusions about effect of coverage on mortality from aggregate trends given other factors (e.g. opioids)
+@justinRmcc Spending growth has been much slower post-ACA, and evidence suggests the ACA contributed to that. But clearly much more to do on costs. https://t.co/w2nz03GSWf
+Bottom line is House faces a crucial choice: (a) preserve a system that has enabled historic gains; or (b) pass AHCA &amp; undo it all. /END https://t.co/KzCKuv2fEc
+In fact, individual mkt margins are improving, as shown by @larry_levitt et al. Mkt poised for stability w/ stable policy environment. /11 https://t.co/5x8B0RiQjC
+To top it off, key pro-AHCA talking point--that individual market is in a “death spiral”--is demonstrably false: https://t.co/jrRdc0X0Py /10 https://t.co/CSQW0V9F63
+There is one group of big winners. High income Americans get big tax cuts, as shown by @UrbanInstitute team: https://t.co/i3A8h7bGeh /9 https://t.co/CVmwU2HadM
+And since AHCA tax credits do not track local costs, it’s even worse in high-cost areas, as shown by @AvivaAronDine and Tara Straw. /8 https://t.co/rvSpjsbu6S
+That’s without subsidies. Even worse with subsidies, as older and low-income people face gargantuan increases, according to CBO. /7 https://t.co/FPeximR5Oa
+Meanwhile, far from cutting premiums, work with @LorenAdler shows AHCA raises them 13% on apples-to-apples basis: https://t.co/BAiB1f6NVe /6 https://t.co/PP2RJKHdAi
+Also means reversing improvements in financial security &amp; well-being plus undoing declines in uncompensated care: https://t.co/7H69iDM1Ts /5 https://t.co/OU9qEmdK1P
+Reversing ACA coverage gains means major reversing improvements in access to care, like those I documented w/ @JasonFurman at CEA. /4 https://t.co/nD0Wxk9lp8
+No mystery why. AHCA cuts $1T from insurance coverage programs, as shown by great @CitizenCohn chart, plus drops individual mandate. /3 https://t.co/UyLlPTtZCx
+CBO estimates base AHCA would reduce coverage by 24 million, reversing all of ACA’s coverage gains, as illustrated by @CenterOnBudget. /2 https://t.co/GXpOG6qNv1
+In scramble to see if this week’s AHCA amendment fixes problems created by last week’s amendment (nope!), don’t lose sight of base bill. /1
+RT @CitizenCohn: Reminder: AHCA takes $1T out of health programs 		Adding $8B to hi-risk pools -- per @byrdinator -- won't do squat		https:…
+@amitabhchandra2 Yep. I think my list is: (1) worker inattention; (2) selection concerns; and (3) reinsurance market failure. #3 less relevant to MOOP, tho.
+@maryhearing That is for the "Section 1332" process that exists under ACA. MacArthur Amendment creates different waiver process w/ very weak standards.
+@amitabhchandra2 Worth thinking abt. But find agency story less compelling when agent has to go out of its way to screw up product (like here).
+@amitabhchandra2 I would love to someday understand why this was the equilibrium. Various candidate theories, and I'm really unsure which is right.
+@ketchman @johngraves9 @amitabhchandra2 Agree some plans wld offer w/o requirement. But some wldn't. Generally happy to defer to mkt outcome, but hard to argue this one efficient.
+@amitabhchandra2 And, sorry was 59%, not 60%.  (Memory failed me!)
+@amitabhchandra2 KFF/HRET employer survey.  See Exhibit 13.11 here: https://t.co/aYfWGWwXkI.  (Out-of-pocket max number is also KFF/HRET.)
+@johngraves9 @max_fletcher @amitabhchandra2 Agree. And, in any case, spillover to large employers I'm worried about regards treatment of catastrophic costs, not services covered.
+@johngraves9 @max_fletcher @amitabhchandra2 My memory: many of these stories were abt firms trying to meet employer mandate on the cheap, not employers dropping EHB already offered.
+@amitabhchandra2 Not arguing it completely unravels, just that we go back to pre-ACA status quo in out-of-pocket max and lifetime limits. That wld be bad.
+@amitabhchandra2 @johngraves9 60% of group enrollees had lifetime limits in 2009. About 18% had no out-of-pocket max. Not that rare. https://t.co/wVuquQku5l
+@amitabhchandra2 But 60% of group enrollees had lifetime limits. About 18% had no out-of-pocket max. Group was not working well on this dimension.
+@johngraves9 @amitabhchandra2 But lots of plans did have lifetime limits &amp; lack out-of-pocket max pre-ACA. Labor mkt incentives not enough. Hard to believe was efficient.
+@amitabhchandra2 Right. Story is either workers undervalue true catastrophic protection  or employers want to avoid v. sick workers. Both seem plausible.
+@amitabhchandra2 Find it very hard to believe that pre-ACA existence of lifetime/annual limits &amp; lack of MOOP was the outcome of an efficient labor market.
+@amitabhchandra2 Yes, but either worker inattention to very rare bad outcomes and/or selection concerns by employer cld lead to inefficient outcome.
+@amitabhchandra2 But large employers can choose any state EHB def'n they want for these purposes under current rules. Hence, waiver in one state spills over.
+@amitabhchandra2 Issue is that EHB determines scope of ban on annual/lifetime limits and requirement for out-of-pocket caps.
+Effects of EHB waivers could cross state lines, undermining key protections in large employer plans everywhere: https://t.co/xvR7uav97w
+@LorenAdler @onceuponA @YFeyman @xpostfactoid I think that's the key point. Just like some Freedom Caucus members want  full end to community rating, some states probably will too.
+@jayhancock1 @SimonFHaeder @TopherSpiro No, base AHCA left lifetime/annual limit and MOOP requirements fully in place.
+@jbarro Likely even worse than this. If healthy ppl can opt to be underwritten, sick ppl w/o coverage gaps get hit too:	https://t.co/rrXbny5mWX
+@joseazar @martincschmalz Thanks for flagging. Will give it a read.
+.@martincschmalz @joseazar Focus of that work was product markets (see https://t.co/uiGjjIfBc6), but one could tell a similar story for labor markets as well.
+Interesting to think about this thru lens of recent work on common ownership &amp; market power by @martincschmalz, @joseazar, and Isabel Tecu. https://t.co/wJbM9S2vOi
+@acasethchandler As I discuss in the post, actually trying to directly block people w/ continuous coverage from underwritten pool v. hard.
+@acasethchandler State could remove incentive for separation (if it wanted) by only allowing rate-ups (not rate-downs) in underwritten pool.
+@larry_levitt Likely worse than this in practice. Healthy could opt to be underwritten, undermining community-rated pool: https://t.co/rrXbny5mWX
+Not the only place amendment’s reach longer than it seems. EHB waivers wld weaken protections in employer plans: https://t.co/NQ4LOWG7w2 /3
+Logic: Healthy ppl w/o a coverage gap could “opt in” to underwritten pool to get lower premium, making community-rated pool unaffordable /2
+MacArthur amendment effectively permits full elimination of community rating, not just for ppl w/ coverage gaps. https://t.co/rrXbny5mWX /1
+@TopherSpiro @sangerkatz See Q10 here: https://t.co/xMMNqpY60U. Large group/self-insured employers can choose any defn "authorized" by HHS. MOOP is same deal.
+@TopherSpiro @sangerkatz May go even farther. Current guidance arguably allows large employers to choose any state definition they want, even a state they're not in!
+RT @afrakt: Yes. Have believed this for decades. Would read a book-length treatment of the way math *notation* pushes thought/science forwa…
+Impact on large employer plans particularly significant if they can choose which state's std applies. More here: https://t.co/NQ4LOWG7w2 https://t.co/GdDnsensRi
+As authors note, this is a lower bound. People getting less generous CSRs likely leave silver tier, so silver premium + PTC rise even more. https://t.co/VI9ChSn8p3
+RT @KaiserFamFound: NEW: Insurer financial measures suggest individual market showed signs of stabilizing in 3rd yr of #ACA marketplaces ht…
+RT @EdwinCBPP: Some initial thoughts on this Meadows-MacArthur amendment to the House health bill (#AHCA) 1/10 https://t.co/ctk029r5Ro
+RT @sangerkatz: This does not seem like it would be a tough waiver to get. https://t.co/apCGn2mOqG
+RT @larry_levitt: That's almost exactly what insurance was like before the ACA. https://t.co/KULWgC8qDl
+@TopherSpiro @C_Garthwaite @johngraves9 @sangerkatz @philipaklein More generally, issuer decisions to drop PPOs, etc makes me question hypothesis that RA charges issuers with healthy books too much, on net.
+@TopherSpiro @C_Garthwaite @johngraves9 @sangerkatz @philipaklein But predictive ratios can't answer policy question. May be good to overcharge for observably healthy if unobservably healthy buy same plans.
+@TopherSpiro @C_Garthwaite @johngraves9 @sangerkatz @philipaklein Yes, sorry, 2018.  CMS considered implementing for 2017 as well, but did not.
+@TopherSpiro @C_Garthwaite @johngraves9 @sangerkatz @philipaklein Note: Balance here is v. hard to strike. If there is selection on unobserved characteristics, may actually want to “overdo” RA on observed.
+@TopherSpiro @C_Garthwaite @johngraves9 @sangerkatz @philipaklein To address issue, Obama Admin announced 14% haircut to RA “state average premium” starting in 2017. See p. 94099: https://t.co/ARy266v9qv
+@TopherSpiro @C_Garthwaite @johngraves9 @sangerkatz @philipaklein More detail: RA formula scales transfers by state avg premium. Since premium includes admin, not just claims, transfers arguably "too large"
+RT @asacarny: this thread + @C_Garthwaite &amp; @johngraves9 in @NEJM tell a pretty clear story of ACA marketplaces evolving toward sustainabil…
+RT @EdwinCBPP: Our new report shows that ACA marketplaces poised for greater stability &amp; competition but vulnerable to sabotage: https://t.…
+RT @onceuponA: The end of the new open enrollment period—Dec 15 instead of Jan 31—is going to coincide with the most financially insecure t…
+If Administration wants to improve markets: commit to making CSR payments/enforcing mandate &amp; rule out disruptive legislative changes. /9
+Final note: In light of recent events, first word that comes to mind when Administration talks about market stabilization is “chutzpah.” /8
+Also good reason to think other policies in final rule, incl. shorter open enrollment &amp; binder payment changes go in wrong direction. /7
+CMS declines to even retain control group to evaluate pre-verification.  Very hard to justify given the risk of unintended consequences. /6
+Higher hassle costs could drive away healthy eligible, hurting enrollment/risk pool. Pilot was better approach: https://t.co/x10fqCj1K6 /5
+CMS also finalizes special enrollment period pre-verification for all enrollees. Very real risk policy will backfire in practice. /4
+(Sidenote: CMS claim that decrease in PTC will be fully offset by increase in CSR is wrong. My estimate nets out higher CSR.) /3
+CMS finalizes wider actuarial value “de minimis” range, cutting assistance to consumers up to $381 million/year. https://t.co/gcjbyWMNH5 /2
+CMS final “market stabilization” rule (https://t.co/KchK8fvO6m) fails to fix major problems of proposed rule. /1
+Best path to widely deploying bundled payment runs thru mandatory tests. Thoughts w/ @TimGDC, @LorenAdler, @kavitapmd, &amp; Paul Ginsburg here: https://t.co/ucRId2ovFp
+@LorenAdler @ZTracer @PeterSullivan4 As @adamcancryn noted, earlier draft required providers to accept Medicare rates (https://t.co/djbj7v37SV). Final draft stripped language.
+@Farzad_MD Applying Medicare rates to all claims &gt; $10k would save plenty. Notable that leg language released this AM said nothing of the sort.
+RT @larry_levitt: If ACA cost-sharing subsidy payments end, insurers would have to raise marketplace premiums for silver plans by 19%.	http…
+@asacarny Text only allows payment for "eligible individuals" id'd upfront based on health status/issuer opt-in. Odd to then make all eligible.
+1st: Leaves insurers with tail risk for non-“eligible” high-cost cases. 	2nd: Need to determine eligibility increases admin costs.
+Applying "invisible risk sharing program" only to prospectively-identified "eligible individuals” has two downsides vs. true reinsurance.
+.@sangerkatz OOP cap &amp; annual/lifetime limit rules would change for large firms, not just nongroup/small group, poss. even in states rejecting waiver /5
+.@sangerkatz Weakening EHB would also undermine out-of-pocket caps &amp; ban on annual/lifetime limits, which are linked to EHBs https://t.co/NQ4LOWG7w2 /4
+.@sangerkatz That would undermine the insurance market’s ability to achieve key objectives: providing financial protection &amp; ensuring access to care. /3
+w/o EHB, coverage valued by people w/ major health needs would be v. costly/unavailable. See, e.g., @sangerkatz’s https://t.co/rCWnWvNq4z /2
+Rumored community rating changes rightly getting most attn, but worth re-upping why weakening essential health benefits v. damaging too /1
+RT @MEPFuller: Let @CitizenCohn explain how eliminating community ratings is really eliminating pre-existing condition protections. https:/…
+More general point: w/ stable/predictable policy environment, existing market structure can drive real competition (at least in most areas)
+Some truth here on 1-issuer markets. But 1 issuer often not an equilibrium. 1 issuer =&gt; profits for incumbent =&gt; strong incentive for entry. https://t.co/PsXvHLIy7w
+RT @jasonfurman: You don’t need a diff-in-diff to show what caused the historic decline in the uninsured—less than 10 percent for the first…
+@jvstatus @LorenAdler Key to reducing overall costs is making underlying delivery of care more efficient, e.g. by changing payment systems.
+Both the requirement that plans cap out-of-pocket spending and the ban on annual/lifetime limits could be weakened or effectively eliminated
+Letting states set essential health benefits cld gut protections against catastrophic costs, incl in job-based plans https://t.co/NQ4LOWG7w2
+RT @jasonfurman: Happy bday ACA! Uninsured&lt;10% first time ever, health price growth slowest in 50+ yrs, quality up &amp; deficit down. Pretty g…
+That means if essential health benefits are reduced to an empty shell, the ban on annual &amp; lifetime limits is too. (3/3)
+The ACA's ban on annual &amp; lifetime limits applies to care considered essential health benefits. https://t.co/5WA6QntRca (2/3)
+One underappreciated consequence of gutting essential health benefits: the return of annual &amp; lifetime limits. (1/3)
+RT @larry_levitt: With no benefit requirements, insurance policies could get quite skimpy. No insurer wants to be the one most attractive t…
+RT @MattAFiedler: @LorenAdler and I examine how AHCA changes will affect CBO coverage estimates. Bottom line: Won’t get much better, could…
+Key q: do states take work requirement &amp; block grant options? If CBO thinks many do, more coverage loss likely. https://t.co/L1fSHpnPOs
+@LorenAdler and I examine how AHCA changes will affect CBO coverage estimates. Bottom line: Won’t get much better, could get worse. https://t.co/DOsNM7aHXR
+Even adjusted only for age mix, not plan generosity, pre-subsidy premiums up 4% under AHCA. (4/4)
+Adjusted for changes in age mix/plan generosity, average pre-subsidy premiums up 13% under AHCA. https://t.co/TmwZW2Apke  (3/4) https://t.co/oGVvV8GJdZ
+As noted by @sangerkatz, @jasonfurman, @CenterOnBudget, &amp; others, changes in age mix/plan generosity mask true premium change w/ AHCA. (2/4)
+In a new piece, @LorenAdler &amp; I show that CBO’s estimate that the AHCA reduces pre-subsidy premiums by 10% is not what it appears. (1/4)

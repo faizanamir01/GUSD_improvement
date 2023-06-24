@@ -1,0 +1,2402 @@
+$22,115,526,445,599.07 (+) #NationalDebt
+$22,074,317,868,857.95 (-) #NationalDebt
+$22,089,959,800,922.00 (+) #NationalDebt
+$22,067,095,964,458.39 (+) #NationalDebt
+$22,063,557,299,600.16 (+) #NationalDebt
+$22,039,289,882,625.87 (-) #NationalDebt
+$22,039,763,197,239.24 (-) #NationalDebt
+$22,040,666,955,080.47 (+) #NationalDebt
+$22,025,547,947,478.37 (+) #NationalDebt
+$22,020,113,259,723.01 (-) #NationalDebt
+$22,035,768,149,459.89 (+) #NationalDebt
+$22,012,840,891,685.32 (+) #NationalDebt
+$21,957,707,162,297.58 (+) #NationalDebt
+$21,955,061,924,930.72 (-) #NationalDebt
+$21,957,560,953,101.45 (+) #NationalDebt
+$21,957,295,730,198.83 (+) #NationalDebt
+$21,933,491,166,604.77 (+) #NationalDebt
+$21,921,630,334,906.20 (-) #NationalDebt
+$21,982,423,036,475.23 (+) #NationalDebt
+$21,968,157,827,920.13 (-) #NationalDebt
+$21,973,331,001,422.70 (+) #NationalDebt
+$21,955,074,791,078.53 (+) #NationalDebt
+$21,950,249,913,408.50 (+) #NationalDebt
+$21,941,258,881,102.69 (-) #NationalDebt
+$21,947,795,866,492.78 (-) #NationalDebt
+$21,953,160,110,078.25 (-) #NationalDebt
+$21,954,898,759,285.36 (+) #NationalDebt
+$21,960,411,284,948.15 (-) #NationalDebt
+$21,969,969,573,018.07 (+) #NationalDebt
+$21,919,993,773,556.77 (+) #NationalDebt
+$21,917,159,310,974.58 (-) #NationalDebt
+$21,917,603,881,288.34 (-) #NationalDebt
+$21,930,194,582,386.14 (-) #NationalDebt
+$21,941,436,879,693.69 (+) #NationalDebt
+$21,935,478,484,527.11 (+) #NationalDebt
+$21,931,966,199,373.94 (+) #NationalDebt
+21,929,258,046,653.58 (-) #NationalDebt
+$21,943,897,507,129.68 (-) #NationalDebt
+$21,974,095,705,790.55 (+) #NationalDebt
+$21,863,635,176,724.12 (-) #NationalDebt
+$21,873,194,423,164.45 (-) #NationalDebt
+$21,885,501,490,485.79 (+) #NationalDebt
+$21,876,674,953,142.67 (+) #NationalDebt
+$21,820,936,961,476.66 (-) #NationalDebt
+$21,823,094,510,705.58 (-) #NationalDebt
+$21,836,655,970,708.04 (-) #NationalDebt
+$21,849,744,563,858.24 (-) #NationalDebt
+$21,850,844,847,464.58 (-) #NationalDebt
+$21,851,519,415,475.75 (+) #NationalDebt
+$21,839,046,215,674.56 (+) #NationalDebt
+$21,836,687,236,972.05 (+) #NationalDebt
+$21,824,097,352,309.98 (-) #NationalDebt
+$21,850,093,880,675.80 (+) #NationalDebt
+$21,818,103,811,690.47 (+) #NationalDebt
+$21,801,924,124,576.84 (-) #NationalDebt
+$21,816,375,589,157.53 (+) #NationalDebt
+$21,811,396,160,621.93 (+) #NationalDebt
+$21,802,839,722,859.62 (+) #NationalDebt
+$21,772,154,155,056.20 (+) #NationalDebt
+$21,766,361,664,768.69 (+) #NationalDebt
+$21,763,815,767,800.21 (+) #NationalDebt
+$21,725,713,263,679.99 (-) #NationalDebt
+$21,734,201,829,935.66 (+) #NationalDebt
+$21,732,569,650,931.19 (-) #NationalDebt
+$21,733,425,227,728.46 (+) #NationalDebt
+$21,690,440,697,756.73 (-) #NationalDebt
+$21,691,245,489,008.61 (+) #NationalDebt
+$21,682,375,718,173.25 (+) #NationalDebt
+$21,676,608,763,810.66 (-) #NationalDebt
+$21,683,971,652,591.44 (-) #NationalDebt
+$21,702,369,768,174.47 (+) #NationalDebt
+$21,699,981,385,978.17 (+) #NationalDebt
+$21,697,502,722,082.55 (+) #NationalDebt
+$21,694,906,926,249.19 (-) #NationalDebt
+$21,695,750,095,091.45 (+) #NationalDebt
+$21,671,062,290,012.80 (-) #NationalDebt
+$21,682,446,587,870.73 (+) #NationalDebt
+$21,674,683,713,625.99 (+) #NationalDebt
+$21,671,476,474,549.22 (-) #NationalDebt
+$21,672,453,590,238.12 (+) #NationalDebt
+$21,653,793,061,650.80 (-) #NationalDebt
+$21,661,717,322,449.45 (+) #NationalDebt
+$21,654,150,409,486.39 (+) #NationalDebt
+21,597,941,304,882.14 (+) #NationalDebt
+$21,590,013,434,727.39 (-) #NationalDebt
+$21,594,438,319,301.65 (-) #NationalDebt
+$21,602,285,916,278.38 (+) #NationalDebt
+$21,599,293,061,786.97 (-) #NationalDebt
+$21,605,363,414,469.16 (-) #NationalDebt
+$21,618,812,057,150.71 (+) #NationalDebt
+$21,606,948,383,546.28 (+) #NationalDebt
+$21,516,058,183,180.23 (+) #NationalDebt
+$21,431,887,134,696.46 (-) #NationalDebt
+$21,471,059,693,409.20 (-) #NationalDebt
+$21,482,774,907,893.49 (+) #NationalDebt
+$21,475,519,434,473.53 (+) #NationalDebt
+$21,466,736,176,134.46 (-) #NationalDebt
+$21,467,468,522,886.37 (-) #NationalDebt
+$21,494,298,981,877.34 (-) #NationalDebt
+$21,499,171,612,329.23 (+) #NationalDebt
+$21,490,885,696,294.14 (+) #NationalDebt
+21,432,243,515,559.68 (-) #NationalDebt
+$21,432,542,252,109.45 (-) #NationalDebt
+21,450,777,638,517.61 (-) #NationalDebt
+21,466,240,223,764.98 (+) #NationalDebt
+21,459,790,397,306.67 (+) #NationalDebt
+$21,456,483,108,262.84 (+) #NationalDebt
+$21,454,589,882,352.10 (-) #NationalDebt
+$21,471,068,566,864.17 (+) #NationalDebt
+$21,455,349,744,287.30 (-) #NationalDebt
+$21,458,849,674,105.03 (+) #NationalDebt
+$21,442,467,655,114.31 (+) #NationalDebt
+$21,439,418,968,321.48 (-) #NationalDebt
+$21,441,778,054,853.24 (+) #NationalDebt
+$21,434,509,795,753.30 (+) #NationalDebt
+$21,427,964,691,382.19 (+) #NationalDebt
+$21,406,769,129,269.27 (-) #NationalDebt
+$21,419,489,702,413.26 (+) #NationalDebt
+$21,413,596,733,315.34 (+) #NationalDebt
+$21,411,381,995,917.67 (+) #NationalDebt
+$21,407,198,924,328.46 (+) #NationalDebt
+$21,372,335,862,718.26 (+) #NationalDebt
+$21,351,570,155,673.96 (+) #NationalDebt
+$21,345,092,516,711.61 (+) #NationalDebt
+$21,340,305,860,713.26 (-) #NationalDebt
+$21,298,611,652,099.77 (-) #NationalDebt
+$21,309,935,887,061.00 (+) #NationalDebt
+$21,305,396,357,131.22 (+) #NationalDebt
+$21,299,885,021,440.17 (-) #NationalDebt
+$21,264,843,695,121.88 (-) #NationalDebt
+$21,313,061,060,202.36 (+) #NationalDebt
+$21,298,529,758,160.39 (-) #NationalDebt
+$21,265,465,085,278.12 (-) #NationalDebt
+$21,271,247,800,540.01 (+) #NationalDebt
+$21,263,807,944,392.77 (+) #NationalDebt
+$21,260,651,850,117.75 (+) #NationalDebt
+$21,259,998,398,094.92 (+) #NationalDebt
+$21,240,863,782,088.95 (-) #NationalDebt
+$21,255,414,486,483.41 (+) #NationalDebt
+$21,243,372,844,071.82 (+) #NationalDebt
+$21,210,749,709,985.38 (-) #NationalDebt
+$21,216,401,150,637.29 (+) #NationalDebt
+$21,208,118,414,223.52 (+) #NationalDebt
+$21,205,959,245,607.94 (+) #NationalDebt
+$21,200,946,191,836.57 (-) #NationalDebt
+$21,206,269,833,983.27 (+) #NationalDebt
+$21,195,069,635,322.81 (+) #NationalDebt
+$21,132,466,998,348.70 (-) #NationalDebt
+$21,149,679,487,479.03 (+) #NationalDebt
+$21,140,053,677,467.79 (+) #NationalDebt
+$21,130,600,883,846.19 (+) #NationalDebt
+$21,134,210,723,405.84 (-) #NationalDebt
+$21,145,776,248,815.35 (+) #NationalDebt
+$21,131,552,165,121.66 (+) #NationalDebt
+$21,123,860,003,777.00 (+) #NationalDebt
+$21,086,796,728,063.70 (-) #NationalDebt
+$21,099,489,928,692.23 (+) #NationalDebt
+$21,089,120,186,022.95 (-) #NationalDebt
+$21,102,352,873,994.41 (+) #NationalDebt
+$21,101,359,553,390.92 (+) #NationalDebt
+$21,090,788,185,039.90 (+) #NationalDebt
+$21,083,101,841,090.82 (-) #NationalDebt
+$21,105,716,687,008.42 (+) #NationalDebt
+$21,103,081,230,154.62 (+) #NationalDebt
+$21,100,147,496,907.13 (+) #NationalDebt
+$21,082,960,914,217.14 (-) #NationalDebt
+$21,094,646,382,036.53 (+) #NationalDebt
+$21,085,944,732,707.85 (+) #NationalDebt
+$21,080,657,571,615.85 (-) #NationalDebt
+$21,080,911,541,301.81 (+) #NationalDebt
+$21,073,973,527,665.04 (-) #NationalDebt
+$21,085,763,264,509.00 (+) #NationalDebt
+$21,054,333,351,581.17 (+) #NationalDebt
+$21,050,639,712,224.13 (-) #NationalDebt
+$21,050,822,593,901.63 (+) #NationalDebt
+$21,044,166,639,576.73 (+) #NationalDebt
+$21,037,962,909,322.34 (-) #NationalDebt
+$21,045,329,035,471.85 (+) #NationalDebt
+$21,030,629,980,055.97 (-) #NationalDebt
+$21,068,200,197,433.39 (+) #NationalDebt
+$21,053,362,097,750.15 (-) #NationalDebt
+$21,059,600,102,296.72 (+) #NationalDebt
+$21,043,317,739,890.61 (+) #NationalDebt
+$21,038,689,089,288.52 (-) #NationalDebt
+$21,079,825,622,461.71 (+) #NationalDebt
+$21,078,301,250,985.42 (+) #NationalDebt
+$21,070,966,420,897.65 (+) #NationalDebt
+$21,063,430,153,271.02 (+) #NationalDebt
+$21,062,482,347,576.05 (-) #NationalDebt
+$21,121,833,941,447.86 (-) #NationalDebt
+$21,134,791,585,045.75 (+) #NationalDebt
+$21,126,975,459,212.66 (+) #NationalDebt
+$21,120,516,214,632.52 (+) #NationalDebt
+$21,118,181,678,650.67 (+) #NationalDebt
+$21,117,036,563,374.48 (-) #NationalDebt
+$21,119,428,167,134.32 (+) #NationalDebt
+$21,089,642,954,195.85 (-) #NationalDebt
+$21,113,576,555,836.45 (+) #NationalDebt
+$21,071,123,981,792.35 (-) #NationalDebt
+$21,078,004,295,231.99 (+) #NationalDebt
+$21,068,911,163,715.00 (+) #NationalDebt
+$21,065,155,853,968.88 (+) #NationalDebt
+$21,031,067,004,766.25 (+) #NationalDebt
+$20,958,230,936,189.63 (-) #NationalDebt
+$20,972,809,767,485.34 (+) #NationalDebt
+$20,962,217,016,816.16 (+) #NationalDebt
+$20,957,037,099,272.42 (-) #NationalDebt
+$20,957,314,831,621.48 (+) #NationalDebt
+$20,879,868,237,922.03 (+) #NationalDebt
+$20,878,815,095,126.54 (+) #NationalDebt
+$20,872,756,577,561.62 (+) #NationalDebt
+$20,867,726,890,754.58 (-) #NationalDebt
+$20,874,435,529,527.56 (+) #NationalDebt
+$20,855,671,542,905.95 (+) #NationalDebt
+$20,838,188,918,432.14 (+) #NationalDebt
+$20,828,957,756,485.62 (+) #NationalDebt
+$20,820,865,274,109.09 (+) #NationalDebt
+$20,804,998,625,487.55 (+) #NationalDebt
+$20,763,473,664,583.21 (-) #NationalDebt
+$20,769,498,460,581.94 (+) #NationalDebt
+$20,760,158,076,330.68 (+) #NationalDebt
+$20,669,606,301,184.90 (-) #NationalDebt
+$20,681,825,802,445.42 (+) #NationalDebt
+$20,673,916,370,594.86 (+) #NationalDebt
+$20,669,079,408,408.12 (+) #NationalDebt
+$20,494,637,976,880.62 (+) #NationalDebt
+$20,494,084,701,228.73 (-) #NationalDebt
+$20,494,165,051,604.50 (-) #NationalDebt
+$20,494,245,400,584.32 (-) #NationalDebt
+$20,494,486,445,042.85 (-) #NationalDebt
+$20,494,566,890,206.07 (+) #NationalDebt
+$20,493,027,951,424.22 (-) #NationalDebt
+$20,493,107,046,026.84 (-) #NationalDebt
+$20,493,344,333,189.55 (-) #NationalDebt
+$20,493,423,423,807.19 (+) #NationalDebt
+$20,492,951,837,215.06 (-) #NationalDebt
+$20,493,029,991,624.76 (-) #NationalDebt
+$20,493,108,144,643.13 (-) #NationalDebt
+$20,493,342,622,878.63 (-) #NationalDebt
+$20,493,420,765,319.99 (+) #NationalDebt
+$20,492,939,320,324.04 (-) #NationalDebt
+$20,493,016,378,414.12 (-) #NationalDebt
+$20,493,324,536,905.96 (+) #NationalDebt
+$20,492,919,204,874.46 (-) #NationalDebt
+$20,492,994,543,246.08 (-) #NationalDebt
+$20,493,069,880,245.37 (-) #NationalDebt
+$20,493,371,220,438.59 (+) #NationalDebt
+$20,492,598,761,860.61 (+)
+$20,492,523,558,087.55 (-) #NationalDebt
+$20,492,594,576,868.17 (-) #NationalDebt
+$20,492,665,673,399.91 (-) #NationalDebt
+$20,492,878,719,927.31 (-) #NationalDebt
+$20,487,502,503,616.26 (-) #NationalDebt
+$20,590,391,942,312.26 (+) #NationalDebt
+$20,567,936,964,198.06 (+) #NationalDebt
+$20,563,678,566,454.32 (+) #NationalDebt
+$20,538,363,384,975.76 (+) #NationalDebt
+$20,534,019,362,990.57 (+) #NationalDebt
+$20,529,210,216,668.85 (+) #NationalDebt
+$20,507,345,683,038.68 (+) #NationalDebt
+$20,503,586,293,308.37 (+) #NationalDebt
+$20,496,092,622,812.53 (+) #NationalDebt
+$20,474,850,038,554.54 (+) #NationalDebt
+$20,469,010,197,347.9 (+) #NationalDebt
+$20,453,288,033,638.83 (+) #NationalDebt
+$20,439,686,602,058.66 (-) #NationalDebt
+$20,443,455,421,241.51 (+) #NationalDebt
+$20,435,639,346,821.03 (+) #NationalDebt
+$20,432,034,265,111.78 (-) #NationalDebt
+$20,433,416,014,983.44 (+) #NationalDebt
+$20,423,370,425,348.89 (-) #NationalDebt
+$20,433,393,699,689.36 (+) #NationalDebt
+$20,422,972,363,114.29 (+) #NationalDebt
+$20,384,194,022,196.04 (+) #NationalDebt
+$20,382,178,657,059.56 (+) #NationalDebt
+$20,383,171,480,978.80 (+) #NationalDebt
+$20,373,231,412,162.96 (+) #NationalDebt
+$20,343,751,188,107.81 (-) #NationalDebt
+$20,347,802,336,477.80 (+) #NationalDebt
+$20,203,668,853,807.76 (+) #NationalDebt
+$20,188,949,439,233.63 (-) #NationalDebt
+$20,200,728,540,248.27 (+) #NationalDebt
+$20,190,193,324,915.90 (+) #NationalDebt
+$20,181,984,148,961.74 (+) #NationalDebt
+$20,164,808,111,509.90 (-) #NationalDebt
+$20,173,203,847,678.44 (+) #NationalDebt
+$20,160,428,995,120.04 (+) #NationalDebt
+$20,153,567,885,894.27 (-) #NationalDebt
+$20,165,466,677,134.71 (+) #NationalDebt
+$20,160,009,329,677.81 (-) #NationalDebt
+$20,173,505,864,062.25 (+) #NationalDebt
+$20,165,692,741,989.91 (+) #NationalDebt
+$20,162,176,797,904.13 (+) #NationalDebt
+$19,844,332,397,358.53 (-) #NationalDebt
+$19,844,390,249,115.46 (-) #NationalDebt
+$19,844,621,643,528.62 (+) #NationalDebt
+$19,844,533,441,924.39 (-) #NationalDebt
+$19,844,760,368,365.93 (-) #NationalDebt
+$19,844,817,037,769.13 (-) #NationalDebt
+$19,844,873,705,820.43 (-) #NationalDebt
+$19,845,043,703,943.83 (-) #NationalDebt
+$19,845,100,367,124.09 (+) #NationalDebt
+$19,844,849,384,667.36 (-) #NationalDebt
+$19,844,905,899,360.43 (-) #NationalDebt
+$19,845,188,460,166.77 (+) #NationalDebt
+$19,844,683,929,063.46 (-) #NationalDebt
+$19,844,739,708,017.17 (-) #NationalDebt
+$19,844,796,046,741.63 (-) #NationalDebt
+$19,844,965,149,781.95 (-) #NationalDebt
+$19,845,021,514,944.16 (+) #NationalDebt
+$19,844,749,791,238.21 (-) #NationalDebt
+$19,844,805,263,383.88 (-) #NationalDebt
+$19,844,860,734,174.09 (-) #NationalDebt
+$19,845,027,138,435.45 (-) #NationalDebt
+$19,845,082,603,862.30 (+) #NationalDebt
+$19,844,808,432,656.75 (-) #NationalDebt
+$19,844,862,920,005.44 (-) #NationalDebt
+$19,844,908,989,217.09 (+) #NationalDebt
+$19,844,652,509,086.92 (-) #NationalDebt
+$19,844,705,230,729.01 (-) #NationalDebt
+$19,844,757,951,019.01 (-) #NationalDebt
+$19,844,916,127,427.14 (+) #NationalDebt
+$19,844,458,207,438.56 (-) #NationalDebt
+$19,844,509,405,451.25 (-) #NationalDebt
+$19,844,560,602,117.52 (-) #NationalDebt
+$19,844,714,185,141.61 (+) #NationalDebt
+$19,844,495,864,166.16 (-) #NationalDebt
+$19,844,546,086,266.82 (-) #NationalDebt
+$19,844,746,961,071.55 #NationalDebt
+$19,844,525,346,312.34 (-) #NationalDebt
+$19,844,623,881,256.94 (-) #NationalDebt
+$19,846,080,045,627.47 (-) #NationalDebt
+$19,846,128,623,122.51 (-) #NationalDebt
+$19,846,177,199,258.34 (-) #NationalDebt
+$19,846,322,940,480.63 (-) #NationalDebt
+$19,846,371,512,623.16 (+) #NationalDebt
+$19,845,863,940,842.30 (-) #NationalDebt
+$19,845,911,645,535.41 (-) #NationalDebt
+$19,845,959,348,871.12 (-) #NationalDebt
+$19,846,102,452,852.32 (-) #NationalDebt
+$19,846,150,150,843.92 (+) #NationalDebt
+$19,845,892,557,867.52 (-) #NationalDebt
+$19,845,940,165,818.31 (-) #NationalDebt
+$19,845,987,843,632.60 (-) #NationalDebt
+$19,846,130,655,338.92 (-) #NationalDebt
+$19,846,178,256,583.33 (+) #NationalDebt
+$19,845,923,800,152.57 (-) #NationalDebt
+$19,845,970,606,481.70 (-) #NationalDebt
+$19,846,017,411,457.19 (-) #NationalDebt
+$19,846,157,819,438.37 (-) #NationalDebt
+$19,846,204,620,702.34 (+) #NationalDebt
+$19,845,941,916,894.67 (-) #NationalDebt
+$19,846,204,744,568.52 (-) #NationalDebt
+$19,846,386,043,286.45 (-) #NationalDebt
+$19,846,431,364,938.70 (+) #NationalDebt
+$19,845,945,811,714.33 (-) #NationalDebt
+$19,845,990,076,683.19 (-) #NationalDebt
+$19,846,211,384,209.15 (+) #NationalDebt
+$19,846,053,011,381.80 (-) #NationalDebt
+$19,846,183,719,855.51 (-) #NationalDebt
+$19,846,227,292,251.07 (+) #NationalDebt
+$19,845,981,649,507.99 (-) #NationalDebt
+$19,846,024,425,839.24 (-) #NationalDebt
+$19,846,067,200,822.73 (-) #NationalDebt
+$19,846,195,521,326.19 (-) #NationalDebt
+$19,846,238,291,542.59 (+) #NationalDebt
+$19,846,003,311,535.71 (-) #NationalDebt
+$19,846,045,309,192.19 (-) #NationalDebt
+$19,846,087,305,498.20 (-) #NationalDebt
+$19,846,491,745,845.94 (+) #NationalDebt
+$19,846,044,436,483.65 (-) #NationalDebt
+$19,846,085,978,995.66(-) #NationalDebt
+$19,846,127,520,117.48 (-) #NationalDebt
+$19,846,252,141,589.26 (-) #NationalDebt
+$19,846,293,677,437.80 (+) #NationalDebt
+$19,846,064,686,422.90 (-) #NationalDebt
+$19,846,106,186,190.44 (-) #NationalDebt
+$19,846,147,684,611.12 (-) #NationalDebt
+$19,846,272,172,776.67 #NationalDebt
+$19,846,082,091,559.77 (-) #NationalDebt
+$19,846,122,820,560.47 (-) #NationalDebt
+$19,846,163,529,210.99 (-) #NationalDebt
+$19,846,285,707,214.17 #NationalDebt
+$19,846,142,407,188.85 (-) #NationalDebt
+$19,846,423,785,551.51 (+) #NationalDebt
+$19,846,420,062,676.87 (+) #NationalDebt
+$19,846,255,248,406.68 (+) #NationalDebt
+$19,845,825,513,137.10 (-) #NationalDebt
+$19,845,862,796,665.15 (-) #NationalDebt
+$19,845,900,078,837.07 #NationalDebt
+$19,845,865,829,114.05 (-) #NationalDebt
+$19,845,901,777,612.08 (-) #NationalDebt
+$19,846,009,616,285.34 (-) #NationalDebt
+$19,846,045,559,411.81 (+) #NationalDebt
+$19,845,811,298,014.03 (-) #NationalDebt
+$19,902,604,401,637.92 (+) #NationalDebt
+$19,853,618,720,466.05 (-) #NationalDebt
+$19,855,676,540,211.34 (-) #NationalDebt
+$19,879,149,018,877.55 (-) #NationalDebt
+$19,889,862,451,192.35 (+) #NationalDebt
+$19,883,012,984,069.89 (+) #NationalDebt
+$19,878,476,676,904.64 (-) #NationalDebt
+$19,894,958,569,032.98 (+) #NationalDebt
+$19,920,418,771,289.27 (-) #NationalDebt
+$19,959,593,604,841.58 (+) #NationalDebt
+$19,931,228,821,002.78 (+) #NationalDebt
+$19,930,147,891,686.72 (+) #NationalDebt
+$19,913,901,120,188.15 (-) #NationalDebt
+$19,935,880,851,981.06 (+) #NationalDebt
+$19,935,316,186,835.78 (+) #NationalDebt
+$19,932,504,874,101.46 (-) #NationalDebt
+$19,937,364,595,503.01 (+) #NationalDebt
+$19,932,679,233,716.16 (+) #NationalDebt
+$19,924,218,517,074.52 (+) #NationalDebt
+$19,921,065,289,061.68 (-) #NationalDebt
+$19,922,335,630,306.69 (+) #NationalDebt
+$19,884,606,221,456.19 (-) #NationalDebt
+$19,895,763,669,170.06 (+) #NationalDebt
+$19,890,330,215,216.52 (+) #NationalDebt
+$19,885,875,150,544.45 (-) #NationalDebt
+$19,902,827,463,569.10 (+) #NationalDebt
+$19,900,037,472,787.26 (-) #NationalDebt
+$19,937,261,314,503.29 (-) #NationalDebt
+$19,939,760,263,983.42 (+) #NationalDebt
+$19,939,019,834,828.89 (-) #NationalDebt
+$19,939,908,790,870.48 (-) #NationalDebt
+$19,950,603,242,667.53 (-) #NationalDebt
+$19,958,089,555,359.83 (+) #NationalDebt
+$19,949,678,366,998.00 (+) #NationalDebt
+$19,947,304,555,212.49 (+) #NationalDebt
+$19,944,429,217,106.77 (-) #NationalDebt
+$19,961,467,137,973.64 (+) #NationalDebt
+$19,959,954,817,351.65 (+) #NationalDebt
+$19,940,614,376,504.40 (-) #NationalDebt
+$19,941,807,383,847.05 (-) #NationalDebt
+$19,951,756,200,280.98 (-) #NationalDebt
+$19,964,268,875,957.61 (+) #NationalDebt
+$19,955,343,885,377.73 (+) #NationalDebt
+$19,952,808,638,850.59 (+) #NationalDebt
+$19,952,414,234,340.71 (+) #nationaldebt
+$19,935,025,589,392.85 (-) #nationaldebt
+$19,976,826,951,047.80 (+) #nationaldebt
+$19,879,151,754,933.53 (-) #nationaldebt
+$19,879,389,298,528.93 (-) #nationaldebt
+$19,890,699,605,286.53 (+) #NationalDebt
+$19,887,188,017,177.11 (+) #NationalDebt
+$19,877,449,679,259.48 (-) #NationalDebt
+$19,878,280,893,331.72 (-) #NationalDebt
+$19,889,592,850,494.74 (+) #NationalDebt
+$19,882,663,760,136.69 (+) #NationalDebt
+$19,875,320,486,024.59 (+) #nationaldebt
+$19,871,457,952,087.79 (-) #nationaldebt
+$19,884,323,271,403.23 (+) #nationaldebt
+$19,878,727,122,829.69 (+) #nationaldebt
+$19,876,373,398,959.37 (-) #nationaldebt
+$19,877,418,396,481.66 (-) #nationaldebt
+$19,891,173,384,830.04 (-) #nationaldebt
+$19,892,366,528,061.22 (+) #nationaldebt
+$19,885,572,935,868.37 (+) #nationaldebt
+$19,901,545,151,126.51 (-) #nationaldebt
+$19,948,064,697,245.75 (+) #nationaldebt
+$19,930,698,649,977.45 (+) #nationaldebt
+$19,929,184,161,352.13 (+) #nationaldebt
+$19,928,118,193,162.55 (+) #nationaldebt
+$19,897,994,347,700.50 (-) #nationaldebt
+$19,907,540,739,514.52 (+) #nationaldebt
+$19,895,970,356,079.03 (-) #nationaldebt
+$19,897,150,970,886.87 (+) #nationaldebt
+$19,857,827,860,685.61 (-) #nationaldebt
+$19,867,119,032,053.28 (+) #nationaldebt
+$19,842,173,949,869.58 (+) #nationaldebt
+$19,840,574,291,147.01 (+) #nationaldebt
+$19,793,697,162,303.82 (-) #nationaldebt
+$19,806,239,858,606.04 (+) #nationaldebt
+$19,796,589,500,776.08 (+) #nationaldebt
+$19,790,767,232,311.94 (+) #nationaldebt
+$19,790,136,330,003.19 (+) #nationaldebt
+$19,769,621,678,552.72 (+) #nationaldebt
+$19,760,054,127,045.83 (-) #nationaldebt
+$19,805,715,214,641.75 (-) #nationaldebt
+$19,820,509,238,591.49 (-) #nationaldebt
+$19,824,868,242,412.09 (+) #nationaldebt
+$19,795,497,461,281.62 (-) #nationaldebt
+$19,808,504,852,207.21 (+) #nationaldebt
+$19,788,020,688,520.53 (+) #nationaldebt
+$19,786,440,755,303.80 (+) #nationaldebt
+$19,785,585,189,878.12 (+) #nationaldebt
+$19,754,257,061,882.16 (-) #nationaldebt
+$19,766,580,028,249.41 (+) #nationaldebt
+$19,755,564,017,152.97 (+) #nationaldebt
+$19,721,618,557,803.77 (+) #nationaldebt
+$19,720,830,822,303.49 (+) #nationaldebt
+$19,688,681,856,198.07 (-) #nationaldebt
+$19,694,316,597,212.14 (+) #nationaldebt
+$19,687,424,480,959.14 (+) #nationaldebt
+$19,663,411,497,797.40 (+) #nationaldebt
+$19,659,460,647,160.83 (+) #nationaldebt
+$19,642,949,742,561.51 (+) #nationaldebt
+$19,573,444,713,936.79 (+) #nationaldebt
+$19,532,890,233,853.17 (+) #nationaldebt
+$19,519,932,367,847.28 (-) #nationaldebt
+$19,536,854,516,281.71 (+) #nationaldebt
+$19,524,762,977,719.62 (+) #nationaldebt
+$19,519,471,076,568.72 (+) #nationaldebt
+$19,517,456,954,252.41 (+) #NationalDebt
+$19,524,335,895,543.03 (+) #nationaldebt
+$19,518,125,575,008.41 (+) #nationaldebt
+$19,510,910,825,630.70 (+) #nationaldebt
+$19,508,241,572,025.55 (+) #nationaldebt
+$19,493,291,113,807.77 (+) #nationaldebt
+$19,484,660,626,765.52 (+) #nationaldebt
+$19,482,694,389,006.50 (+) #nationaldebt
+$19,482,086,271,333.82 (+) #nationaldebt
+$19,482,086,271,333.82 (+) #NationalDebt
+$19,479,491,484,659.13 (+) #nationaldebt
+$19,473,941,446,098.32 (+) #nationaldebt
+$19,470,383,603,813.73 (-) #nationaldebt
+$19,510,296,242,765.66 (+) #nationaldebt
+$19,492,084,009,780.39 (+) #nationaldebt
+$19,486,203,862,406.11 (+) #nationaldebt
+$19,483,788,594,328.27 (+) #nationaldebt
+$19,442,913,162,409.14 (-) #nationaldebt
+$19,454,944,368,305.99 (+) #nationaldebt
+$19,446,002,493,012.82 (+) #nationaldebt
+$19,443,266,164,413.41 (-) #NationalDebt
+$19,421,791,184,792.65 (-) #nationaldebt
+$19,428,079,384,183.27 (+) #nationaldebt
+$19,420,158,030,582.00 (+) #nationaldebt
+$19,403,004,579,982.84 (-) #nationaldebt
+$19,377,642,119,796.72 (-) #nationaldebt
+$19,390,746,423,154.18 (+) #nationaldebt
+19,385,571,696,962.50 (+) #NationalDebt
+19,380,142,516,035.42 (+) #NationalDebt
+$19,359,342,005,838.40 (-) #NationalDebt
+$19,358,707,115,589.00 (-) #nationaldebt
+$19,427,694,579,786.64 (+) #nationaldebt
+$19,402,906,386,524.25 (-) #nationaldebt
+$19,415,128,807,132.94 (+) #nationaldebt
+$19,407,186,678,584.22 (+) #nationaldebt
+$19,400,333,651,023.48 (-) #nationaldebt
+$19,391,704,027,667.12 (-) #nationaldebt
+$19,402,361,890,929.46 (+) #nationaldebt
+$19,391,094,247,028.26 (+) #nationaldebt
+$19,386,059,979,169.78 (+) #nationaldebt
+$19,361,289,088,131.56 (-) #nationaldebt
+$19,372,930,080,447.35 (+) #nationaldebt
+$19,366,974,554,360.50 (+) #nationaldebt
+$19,362,032,846,861.90 (+) #NationalDebt
+$19,343,541,768,823.97 (+) #nationaldebt
+$19,327,746,021,669.98 (+) #nationaldebt
+$19,316,931,693,227.11 (-) #nationaldebt
+$19,381,591,140,792.22 (+) #nationaldebt
+$19,283,325,598,353.52 (-) #nationaldebt
+$19,284,399,792,310.79 (+) #nationaldebt
+$19,279,322,871,098.41 (+) #nationaldebt
+$19,277,937,823,462.93 (+) #nationaldebt
+$19,252,431,295,170.04 (-) #nationaldebt
+$19,265,744,770,778.65 (+) #nationaldebt
+$19,256,656,157,468.52 (+) #nationaldebt
+$19,252,984,535,317.64 (+) #nationaldebt
+$19,245,574,495,391.72 (+) #nationaldebt
+$19,230,063,635,793.43 (+) #nationaldebt
+$19,222,275,711,902.53 (+) #nationaldebt
+$19,218,850,296,387.20 (-) #nationaldebt
+$19,230,270,048,404.99 (+) #nationaldebt
+$19,228,398,127,636.98 (+) #nationaldebt
+$19,220,484,557,364.60 (+) #nationaldebt
+$19,214,514,064,181.20 (-) #nationaldebt
+$19,230,634,229,069.55 (-) #nationaldebt
+$19,265,451,572,330.71 (+) #nationaldebt
+$19,226,417,790,338.55 (+) #NationalDebt
+$19,214,128,824,849.92 (-) #NationalDebt
+$19,223,047,535,897.31 (+) #nationaldebt
+$19,212,492,715,543.24 (+) #NationalDebt
+$19,209,816,164,726.68 (-) #NationalDebt
+$19,212,451,626,242.62 (+) #nationaldebt
+$19,206,517,044,303.54 (-) #nationaldebt
+$19,218,044,952,594.27 (+) #nationaldebt
+$19,206,980,431,910.03 (+) #nationaldebt
+$19,199,894,125,074.04 (-) #nationaldebt
+$19,200,169,433,825.24 (+) #nationaldebt
+$19,193,401,105,901.94 (-) #nationaldebt
+$19,204,514,007,221.38 (+) #nationaldebt
+$19,197,497,243,132.16 (+) #nationaldebt
+$19,190,059,553,782.20 (+) #nationaldebt
+$19,188,102,413,248.81 (+) #nationaldebt
+$19,186,655,441,721.69 (+) #nationaldebt
+$19,171,815,928,698.82 (+) #nationaldebt
+$19,170,001,895,674.07 (-) #nationaldebt
+$19,187,387,483,983.37 (+) #nationaldebt
+$19,186,207,744,589.55 (-) #nationaldebt
+$19,209,405,161,325.67 (-) #nationaldebt
+$19,218,673,186,359.42 (+) #nationaldebt
+$19,210,345,265,252.22 (+) #nationaldebt
+$19,198,172,774,532.79 (+) #nationaldebt
+$19,196,769,313,019.68 (-) #nationaldebt
+$19,215,679,607,589.41 (-) #nationaldebt
+$19,221,832,717,891.35 (+) #nationaldebt
+$19,208,277,938,656.01 (+) #nationaldebt
+$19,203,643,099,493.25 (+) #nationaldebt
+$19,203,187,186,595.43 (-) #nationaldebt
+$19,221,297,840,432.89 (-) #nationaldebt
+$19,234,006,195,713.79 (+) #nationaldebt
+$19,226,226,489,207.18 (+) #nationaldebt
+$19,223,197,501,336.14 (+) #nationaldebt
+$19,221,206,331,589.08 (-) #nationaldebt
+$19,238,908,031,871.91 (+) #nationaldebt
+$19,237,067,126,145.04 (+) #nationaldebt
+$19,228,044,093,705.08 (+) #nationaldebt
+$19,218,516,838,306.52 (-) #nationaldebt
+$19,264,938,619,643.07 (+) #nationaldebt
+$19,232,950,841,710.63 (-) #nationaldebt
+$19,235,698,467,028.83 (+) #nationaldebt
+$19,230,095,073,592.91 (+) #nationaldebt
+$19,214,929,969,878.51 (+) #nationaldebt
+$19,211,664,593,324.31 (+) #nationaldebt
+$19,200,599,665,938.77 (-) #nationaldebt
+$19,211,342,727,724.78 (+) #nationaldebt
+$19,205,597,413,856.96 (+) #nationaldebt
+$19,202,994,410,080.31 (+) #nationaldebt
+$19,188,228,962,810.34 (+) #nationaldebt
+$19,151,399,412,549.77 (-) #nationaldebt
+$19,161,874,528,616.47 (+) #nationaldebt
+$19,128,719,568,343.76 (+) #nationaldebt
+$19,124,286,688,944.60 (-) #nationaldebt
+$19,125,325,175,994.32 (+) #nationaldebt
+$19,100,184,217,930.48 (-) #nationaldebt
+$19,112,876,896,495.00 (+) #nationaldebt
+$19,097,825,627,603.00 (+) #nationaldebt
+$19,093,496,023,754.46 (+) #nationaldebt
+$19,093,150,844,906.08 (-) #nationaldebt
+$19,097,521,671,148.84 (+) #nationaldebt
+$19,090,880,799,021.63 (-) #nationaldebt
+$19,125,455,057,425.80 (+) #nationaldebt
+$19,080,123,823,020.74 (+) #nationaldebt
+$19,070,657,293,114.53 (+) #nationaldebt
+$19,054,164,528,762.98 (-) #nationaldebt
+$19,064,879,099,682.52 (+) #nationaldebt
+$19,053,381,143,534.21 (+) #nationaldebt
+$19,052,403,868,282.85 (+) #nationaldebt
+$19,047,126,605,778.92 (+) #nationaldebt
+$19,028,997,194,318.47 (-) #nationaldebt
+$19,030,024,473,090.85 (+) #nationaldebt
+$19,016,524,950,018.52 (+) #nationaldebt
+$19,016,261,934,962.89 (+) #nationaldebt
+$18,991,325,677,268.42 (-) #nationaldebt
+$19,005,359,240,744.60 (+) #nationaldebt
+$19,000,235,912,585.65 (+) #nationaldebt
+$18,996,371,521,571.14 (-) #nationaldebt
+$18,996,686,873,180.04 (+) #nationaldebt
+$18,975,193,925,522.52 (-) #nationaldebt
+$18,992,299,007,716.94 (+) #nationaldebt
+$18,975,719,827,131.21 (-) #nationaldebt
+$19,012,827,698,417.93 (+) #nationaldebt
+$18,989,803,014,663.70 (+) #nationaldebt
+$18,962,589,775,045.41 (-) #nationaldebt
+$18,968,344,511,857.01 (+) #nationaldebt
+$18,961,968,091,511.19 (+) #nationaldebt
+$18,961,637,973,066.42 (+) #nationaldebt
+$18,958,837,318,233.62 (+) #nationaldebt
+$18,941,406,899,252.15 (+) #nationaldebt
+$18,940,640,177,236.59 (+) #nationaldebt
+$18,934,589,767,234.96 (+) #nationaldebt
+$18,923,558,492,862.95 (-) #nationaldebt
+$18,955,778,615,041.19 (+) #nationaldebt
+$18,897,682,225,587.89 (+) #nationaldebt
+$18,891,869,602,125.16 (+) #nationaldebt
+$18,888,640,000,429.69 (+) #nationaldebt
+$18,887,876,761,105.13 (-) #nationaldebt
+$18,918,380,217,573.17 (-) #nationaldebt
+$18,918,445,650,584.70 (+) #nationaldebt
+$18,900,932,690,017.04 (-) #nationaldebt
+$18,922,179,009,420.89 (+) #nationaldebt
+$18,825,061,664,535.94 (+) #nationaldebt
+$18,824,106,833,961.88 (+) #nationaldebt
+$18,818,691,266,108.11 (+) #nationaldebt
+$18,802,880,491,536.00 (+) #nationaldebt
+$18,795,265,446,286.58 (-) #nationaldebt
+$18,807,362,192,458.66 (+) #nationaldebt
+$18,798,201,511,452.04 (+) #nationaldebt
+$18,795,033,928,275.59 (-) #nationaldebt
+$18,796,279,678,290.28 (+) #nationaldebt
+$18,788,138,221,346.49 (-) #nationaldebt
+$18,798,211,680,628.12 (+) #nationaldebt
+$18,767,636,190,409.94 (+) #nationaldebt
+$18,764,921,984,881.44 (+) #nationaldebt
+$18,762,069,058,578.88 (-) #nationaldebt
+$18,775,084,981,439.86 (-) #nationaldebt
+$18,789,064,366,804.18 (-) #nationaldebt
+$18,789,199,596,566.93 (+) #nationaldebt
+$18,786,830,545,682.60 (-) #nationaldebt
+$18,787,992,446,946.88 (-) #nationaldebt
+$18,802,739,156,430.97 (+) #nationaldebt
+$18,797,839,523,342.27 (-) #nationaldebt
+$18,827,322,966,908.80 (+) #nationaldebt
+$18,782,451,267,806.04 (+) #nationaldebt
+$18,719,613,274,893.51 (-) #nationaldebt
+$18,730,245,227,214.29 (+) #nationaldebt
+$18,722,746,583,118.03 (+) #nationaldebt
+$18,720,800,091,471.32 (+) #nationaldebt
+$18,718,208,593,840.77 (+) #nationaldebt
+$18,658,332,270,181.33 (-) #nationaldebt
+$18,670,014,021,513.75 (+) #nationaldebt
+$18,660,490,153,278.25 (+) #nationaldebt
+$18,653,507,360,573.44 (+) #nationaldebt
+$18,649,024,795,838.78 (+) #nationaldebt
+$18,605,392,428,942.18 (-) #nationaldebt
+$18,614,769,216,712.84 (+) #nationaldebt
+$18,609,854,385,435.22 (+) #nationaldebt
+$18,609,800,070,328.73 (+) #nationaldebt
+$18,532,854,382,821.74 (+) #nationaldebt
+$18,532,338,091,711.48 (+) #nationaldebt
+$18,492,091,120,833.99 (+) #nationaldebt
+$18,152,981,685,747.52 (+) #nationaldebt
+$18,152,590,112,385.69 (+) #nationaldebt
+$18,152,580,145,845.23 (-) #nationaldebt
+$18,152,591,905,989.84 (-) #nationaldebt
+$18,152,603,664,891.43 (-) #nationaldebt
+$18,152,638,934,294.38 (-) #nationaldebt
+$18,152,650,688,229.10 (+) #nationaldebt
+$18,152,646,499,693.22 (-) #nationaldebt
+$18,152,658,224,184.62 (-) #nationaldebt
+$18,152,669,947,434.69 (-) #nationaldebt
+$18,152,705,110,034.31 (-) #nationaldebt
+$18,152,716,828,322.01 (+) #nationaldebt
+$18,150,469,856,492.42 (-) #nationaldebt
+$18,150,481,620,363.39 (-) #nationaldebt
+$18,150,528,663,452.99 (-) #nationaldebt
+$18,150,540,421,127.53 (-) #nationaldebt
+$18,150,545,316,215.04 (-) #nationaldebt
+$18,150,557,110,995.00 (-) #nationaldebt
+$18,150,568,904,537.03 (-) #nationaldebt
+$18,150,604,277,750.63 (-) #nationaldebt
+$18,150,616,066,342.53 (-) #nationaldebt
+$18,150,617,666,484.33 (-) #nationaldebt
+$18,151,013,867,116.33 (-) #nationaldebt
+$18,151,025,702,418.99 (-) #nationaldebt
+$18,151,061,200,913.26 (-) #nationaldebt
+$18,151,073,031,331.50 (-) #nationaldebt
+$18,151,073,040,341.31 (-) #nationaldebt
+$18,151,084,928,227.59 (-) #nationaldebt
+$18,151,096,814,879.09 (-) #nationaldebt
+$18,151,132,467,967.52 (-) #nationaldebt
+$18,151,144,349,685.38 (+) #nationaldebt
+$18,151,038,086,972.10 (-) #nationaldebt
+$18,151,049,785,935.02 (-) #nationaldebt
+$18,151,061,535,754.50 (-) #nationaldebt
+$18,151,096,777,894.92 (-) #nationaldebt
+$18,151,108,522,784.29 (+) #nationaldebt
+$18,151,085,083,623.06 (-) #nationaldebt
+$18,151,096,731,763.19 (-) #nationaldebt
+$18,151,143,313,299.53 (-) #nationaldebt
+$18,151,154,955,297.86 (+) #nationaldebt
+$18,151,127,937,093.02 (-) #nationaldebt
+$18,151,139,449,629.01 (-) #nationaldebt
+$18,151,150,179,588.05 (-) #nationaldebt
+$18,151,237,646,318.35 (-) #nationaldebt
+$18,151,249,152,738.76 (+) #nationaldebt
+$18,151,231,820,725.70 (-) #nationaldebt
+$18,151,243,220,485.43 (-) #nationaldebt
+$18,151,254,619,016.77 (-) #nationaldebt
+$18,151,288,807,268.17 (-) #nationaldebt
+$18,151,300,217,506.79 (+) #nationaldebt
+$18,151,182,796,107.65 (-) #nationaldebt
+$18,151,193,827,731.52 (-) #nationaldebt
+$18,151,204,858,128.58 (-) #nationaldebt
+$18,151,237,942,000.82 (-) #nationaldebt
+$18,151,248,999,672.85 (+) #nationaldebt
+$18,151,220,988,961.42 (-) #nationaldebt
+$18,151,230,800,098.70 (-) #nationaldebt
+$18,151,241,599,502.70 (-) #nationaldebt
+$18,151,273,990,514.80 (-) #nationaldebt
+$18,151,284,784,984.56 (+) #nationaldebt
+$18,151,269,311,050.42 (-) #nationaldebt
+$18,151,279,961,119.70 (-) #nationaldebt
+$18,151,290,609,956.23 (-) #nationaldebt
+$18,151,322,549,156.91 (-) #nationaldebt
+$18,151,852,256,637.31 (+) #nationaldebt
+$18,151,840,607,288.77 (-) #nationaldebt
+$18,151,851,139,012.51 (-) #nationaldebt
+$18,151,861,669,505.08 (-) #nationaldebt
+$18,151,893,254,765.19 (-) #nationaldebt
+$18,151,903,780,340.35 (+) #nationaldebt
+$18,151,811,363,890.79 (-) #nationaldebt
+$18,151,821,652,004.79 (-) #nationaldebt
+$18,151,831,938,889.04 (-) #nationaldebt
+$18,151,862,792,175.02 (-) #nationaldebt
+$18,151,873,074,142.99 (+) #nationaldebt
+$18,151,869,674,750.53 (-) #nationaldebt
+$18,151,879,901,274.20 (-) #nationaldebt
+$18,151,890,180,391.62 (-) #nationaldebt
+$18,151,921,010,337.51 (-) #nationaldebt
+$18,151,931,284,495.35 (+) #nationaldebt
+$18,151,929,875,352.39 (-) #nationaldebt
+$18,151,940,155,226.04 (-) #nationaldebt
+$18,151,950,433,860.76 (-) #nationaldebt
+$18,151,981,262,337.43 (-) #nationaldebt
+$18,151,991,536,019.17 (+) #nationaldebt
+$18,151,987,220,640.45 (-) #nationaldebt
+$18,151,997,510,872.44 (-) #nationaldebt
+$18,152,670,293,644.04 (-) #nationaldebt
+$18,152,701,159,226.79 (-) #nationaldebt
+$18,152,711,443,291.54 (+) #nationaldebt
+$18,152,638,051,615.33 (-) #nationaldebt
+$18,152,648,277,344.06 (-) #nationaldebt
+$18,152,658,501,837.30 (-) #nationaldebt
+$18,152,689,167,905.61 (-) #nationaldebt
+$18,152,699,387,458.77 (+) #nationaldebt
+$18,152,696,919,060.40 (-) #nationaldebt
+$18,152,707,189,859.83 (-) #nationaldebt
+$18,152,717,537,302.13 (-) #nationaldebt
+$18,152,748,464,829.10 (-) #nationaldebt
+$18,152,758,771,144.62 (+) #nationaldebt
+$18,152,758,342,047.24 (-) #nationaldebt
+$18,152,768,664,619.57 (-) #nationaldebt
+$18,152,778,985,959.44 (-) #nationaldebt
+$18,152,809,942,589.13 (-) #nationaldebt
+$18,152,820,259,005.52 (-) #nationaldebt
+$18,152,821,344,452.95 (-) #nationaldebt
+$18,152,831,123,420.51 (-) #nationaldebt
+$18,152,841,401,259.20 (-) #nationaldebt
+$18,152,851,678,150.27 (+) #nationaldebt
+$18,152,383,244,725.26 (+) #nationaldebt
+$18,152,317,304,208.14 (-) #nationaldebt
+$18,152,327,453,268.84 (-) #nationaldebt
+$18,152,368,037,290.20 (-) #nationaldebt
+$18,152,378,180,209.21 (+) #nationaldebt
+$18,152,377,261,644.63 (-) #nationaldebt
+$18,152,387,397,784.08 (-) #nationaldebt
+$18,152,397,532,696.23 (-) #nationaldebt
+$18,152,427,930,102.27 (-) #nationaldebt
+$18,152,438,060,107.24 (+) #nationaldebt
+$18,152,436,458,301.62 (-) #nationaldebt
+$18,152,446,693,102.28 (-) #nationaldebt
+$18,152,456,926,656.13 (-) #nationaldebt
+$18,152,487,619,906.99 (-) #nationaldebt
+$18,152,497,848,547.71 (-) #nationaldebt
+$18,152,498,688,867.48 (-) #nationaldebt
+$18,152,508,931,605.44 (-) #nationaldebt
+$18,152,519,173,098.52 (-) #nationaldebt
+$18,152,549,890,270.99 (-) #nationaldebt
+$18,152,560,126,787.71 (+) #nationaldebt
+$18,151,888,501,207.83 (-) #nationaldebt
+$18,151,898,676,069.23 (-) #nationaldebt
+$18,151,908,849,687.15 (-) #nationaldebt
+$18,151,939,363,157.16 (-) #nationaldebt
+$18,151,949,531,837.77 (+) #nationaldebt
+$18,151,946,904,041.66 (-) #nationaldebt
+$18,151,957,061,585.57 (-) #nationaldebt
+$18,151,967,217,887.84 (-) #nationaldebt
+$18,151,997,679,396.05 (-) #nationaldebt
+$18,152,007,830,734.07 (+) #nationaldebt
+$18,152,003,466,281.43 (-) #nationaldebt
+$18,152,013,569,439.51 (-) #nationaldebt
+$18,152,023,729,666.57 (-) #nationaldebt
+$18,152,054,202,954.52 (-) #nationaldebt
+$18,152,064,358,207.58 (+) #nationaldebt
+$18,152,061,396,456.98 (-) #nationaldebt
+$18,152,071,523,374.83 (-) #nationaldebt
+$18,152,081,649,050.21 (-) #nationaldebt
+$18,152,112,019,695.11 (-) #nationaldebt
+$18,152,122,140,432.21 (+) #nationaldebt
+$18,152,046,284,380.77 (-) #nationaldebt
+$18,152,056,197,489.27 (-) #nationaldebt
+$18,152,327,875,384.93 (-) #nationaldebt
+$18,152,357,604,289.34 (-) #nationaldebt
+$18,152,367,511,357.61 (+) #nationaldebt
+$18,152,362,814,977.42 (-) #nationaldebt
+$18,152,372,692,901.05 (-) #nationaldebt
+$18,152,382,569,585.32 (-) #nationaldebt
+$18,152,412,192,314.93 (-) #nationaldebt
+$18,152,422,064,045.46 (+) #nationaldebt
+$18,152,408,635,055.51 (-) #nationaldebt
+$18,152,418,378,331.44 (-) #nationaldebt
+$18,152,428,120,668.55 (-) #nationaldebt
+$18,152,457,339,107.97 (-) #nationaldebt
+$18,153,816,304,576.28 (+) #nationaldebt
+$18,148,968,934,412.10 (-) #nationaldebt
+$18,155,726,801,056.46 (+) #nationaldebt
+$18,150,077,808,750.34 (+) #nationaldebt
+$18,146,997,769,289.23 (-) #nationaldebt
+$18,147,256,483,854.60 (-) #nationaldebt
+$18,149,661,959,194.69 (-) #nationaldebt
+$18,149,954,531,765.07 (-) #nationaldebt
+$18,153,537,817,364.77 (-) #nationaldebt
+$18,155,853,840,783.67 (+) #nationaldebt
+$18,149,752,816,959.60 (+) #nationaldebt
+$18,133,356,358,144.49 (-) #nationaldebt
+$18,148,105,006,223.08 (+) #nationaldebt
+$18,141,409,083,212.36 (+) #nationaldebt
+$18,140,525,203,303.60 (+) #nationaldebt
+$18,138,459,241,907.59 (+) #nationaldebt
+$18,122,881,555,570.98 (+) #nationaldebt
+$18,122,443,088,634.22 (-) #nationaldebt
+$18,136,847,747,421.82 (-) #nationaldebt
+$18,136,906,268,079.51 (+) #nationaldebt
+$18,120,851,078,035.52 (-) #nationaldebt
+$18,132,368,869,938.98 (+) #nationaldebt
+$18,128,511,342,681.14 (+) #nationaldebt
+$18,124,962,972,729.90 (-) #nationaldebt
+$18,125,876,697,430.99 (+) #nationaldebt
+$18,099,980,277,424.32 (+) #nationaldebt
+$18,098,502,229,899.76 (-) #nationaldebt
+$18,099,042,237,253.89 (+) #nationaldebt
+$18,082,294,157,510.20 (-) #nationaldebt
+$18,085,063,837,781.82 (+) #nationaldebt
+$18,082,591,078,060.27 (-) #nationaldebt
+$18,095,120,088,870.92 (+) #nationaldebt
+$18,087,727,352,703.72 (+) #nationaldebt
+$18,086,335,602,055.12 (-) #nationaldebt
+$18,087,425,445,178.53 (+) #nationaldebt
+$18,083,464,106,854.21 (-) #nationaldebt
+$18,086,048,044,499.39 (+) #nationaldebt
+$18,080,794,482,225.47 (+) #nationaldebt
+$18,079,608,395,519.69 (-) #nationaldebt
+$18,081,478,613,745.94 (-) #nationaldebt
+$18,092,170,790,087.37 (+) #nationaldebt
+$18,086,946,763,085.79 (+) #nationaldebt
+$18,085,826,074,241.57 (+) #nationaldebt
+$18,084,817,920,825.53 (-) #nationaldebt
+$18,098,260,560,760.27 (+) #nationaldebt
+$18,097,814,959,110.13 (+) #nationaldebt
+$18,091,316,381,602.62 (+) #nationaldebt
+$18,080,612,655,244.26 (-) #nationaldebt
+$18,141,444,135,563.30 (+) #nationaldebt
+$18,043,862,247,389.05 (+) #nationaldebt
+$18,039,456,080,782.95 (+) #nationaldebt
+$18,030,113,356,076.05 (-) #nationaldebt
+$18,032,267,753,648.54 (-) #nationaldebt
+$18,044,495,047,811.88 (+) #nationaldebt
+$18,031,021,541,347.52 (+) #nationaldebt
+$18,027,956,621,353.29 (-) #nationaldebt
+$18,029,014,745,208.99 (+) #nationaldebt
+$18,027,975,066,340.95 (-) #nationaldebt
+$18,033,285,352,731.29 (+) #nationaldebt
+$18,026,487,992,142.56 (+) #nationaldebt
+$17,998,480,987,314.10 (-) #nationaldebt
+$17,999,196,518,791.71 (+) #nationaldebt
+$17,985,409,515,198.76 (-) #nationaldebt
+$17,997,912,502,715.74 (+) #nationaldebt
+$17,993,213,058,619.35 (+) #nationaldebt
+$17,991,068,498,107.32 (-) #nationaldebt
+$17,993,726,181,400.08 (+) #nationaldebt
+$17,976,896,374,080.00 (-) #nationaldebt
+$17,994,739,178,153.43 (+) #nationaldebt
+$17,988,139,701,976.27 (-) #nationaldebt
+$18,005,549,328,561.45 (+) #nationaldebt
+$17,963,753,617,957.26 (-) #nationaldebt
+$17,973,268,374,867.70 (+) #nationaldebt
+$17,969,341,202,862.68 (+) #nationaldebt
+$17,966,390,052,905.54 (+) #nationaldebt
+$17,955,861,759,790.12 (-) #nationaldebt
+$17,965,853,482,963.66 (+) #nationaldebt
+$17,955,187,358,115.74 (+) #nationaldebt
+$17,946,228,427,416.76 (+) #nationaldebt
+$17,941,406,575,143.38 (+) #nationaldebt
+$17,936,639,705,375.46 (-) #nationaldebt
+$17,942,478,973,674.58 (+) #nationaldebt
+$17,937,617,036,693.09 (-) #nationaldebt
+$17,938,161,633,953.07 (+) #nationaldebt
+$17,923,491,376,354.03 (+) #nationaldebt
+$17,922,328,250,690.00 (+) #nationaldebt
+$17,908,461,539,950.87 (-) #nationaldebt
+$17,937,160,394,872.60 (+) #nationaldebt
+$17,914,425,526,718.05 (+) #nationaldebt
+$17,904,999,710,062.18 (-) #nationaldebt
+$17,906,106,113,024.88 (+) #nationaldebt
+$17,899,703,054,992.38 (+) #nationaldebt
+$17,898,691,021,355.14 (-) #nationaldebt
+$17,899,001,165,157.98 (+) #nationaldebt
+$17,898,403,405,809.92 (-) #nationaldebt
+$17,909,673,864,034.65 (+) #nationaldebt
+$17,904,969,580,881.62 (+) #nationaldebt
+$17,903,370,294,898.82 (+) #nationaldebt
+$17,899,316,084,553.37 (+) #nationaldebt
+$17,886,964,853,466.85 (+) #nationaldebt
+$17,861,216,378,589.87 (+) #nationaldebt
+$17,858,480,029,490.28 (-) #nationaldebt
+$17,859,583,673,997.51 (-) #nationaldebt
+$17,859,802,042,524.65 (-) #nationaldebt
+$17,867,699,034,165.67 (+) #nationaldebt
+$17,863,004,998,073.03 (+) #nationaldebt
+$17,858,510,713,719.34 (-) #nationaldebt
+$17,872,947,693,176.67 (-) #nationaldebt
+$17,875,258,091,207.08 (+) #nationaldebt
+$17,824,071,380,733.82 (+) #nationaldebt
+$17,781,487,901,300.17 (-) #nationaldebt
+$17,787,535,095,914.11 (+) #nationaldebt
+$17,741,568,558,862.70 (-) #nationaldebt
+$17,752,790,683,108.81 (-) #nationaldebt
+$17,759,786,274,163.15 (+) #nationaldebt
+$17,752,082,587,972.00 (+) #nationaldebt
+$17,749,004,354,887.84 (-) #nationaldebt
+$17,749,820,713,747.83 (-) #nationaldebt
+$17,764,742,713,788.75 (-) #nationaldebt
+$17,770,878,224,353.80 (+) #nationaldebt
+$17,760,739,788,762.62 (+) #nationaldebt
+$17,741,170,643,844.86 (-) #nationaldebt
+$17,742,108,970,073.37 (-) #nationaldebt
+$17,753,539,449,528.81 (-) #nationaldebt
+$17,764,720,406,589.08 (+) #nationaldebt
+$17,757,884,048,448.05 (+) #nationaldebt
+$17,756,856,045,819.45 (+) #nationaldebt
+$17,754,467,569,229.71 (+) #nationaldebt
+$17,734,663,408,950.92 (-) #nationaldebt
+$17,741,639,147,858.18 (-) #nationaldebt
+$17,749,172,392,528.10 (+) #nationaldebt
+$17,721,613,306,706.18 (+) #nationaldebt
+$17,708,342,668,041.17 (-) #nationaldebt
+$17,719,515,195,854.42 (+) #nationaldebt
+$17,712,825,868,365.56 (+) #nationaldebt
+$17,710,260,573,782.84 (+) #nationaldebt
+$17,709,322,691,303.06 (+) #nationaldebt
+$17,690,033,596,105.56 (-) #nationaldebt
+$17,692,276,725,427.85 (+) #nationaldebt
+$17,682,532,332,244.68 (+) #nationaldebt
+$17,678,982,503,280.21 (+) #nationaldebt
+$17,671,687,900,979.84 (+) #nationaldebt
+$17,667,502,388,165.55 (-) #nationaldebt
+$17,680,354,243,586.48 (+) #nationaldebt
+$17,675,094,670,675.66 (+) #nationaldebt
+$17,672,734,489,595.15 (+) #nationaldebt
+$17,670,486,142,057.97 (+) #nationaldebt
+$17,651,845,933,132.44 (+) #nationaldebt
+$17,649,650,881,486.99 (+) #nationaldebt
+$17,640,751,157,460.11 (+) #nationaldebt
+$17,631,209,292,846.22 (-) #nationaldebt
+$17,687,136,723,410.59 (+) #nationaldebt
+$17,618,599,653,160.19 (-) #nationaldebt
+$17,621,751,199,943.72 (+) #nationaldebt
+$17,613,035,203,018.10 (+) #nationaldebt
+$17,611,454,807,678.76 (-) #nationaldebt
+$17,613,901,518,929.04 (+) #nationaldebt
+$17,599,231,161,990.50 (-) #nationaldebt
+$17,610,253,000,219.65 (+) #nationaldebt
+$17,602,846,009,056.50 (+) #nationaldebt
+$17,599,556,606,441.85 (-) #nationaldebt
+$17,600,503,637,303.33 (+) #nationaldebt
+$17,594,291,030,425.77 (-) #nationaldebt
+$17,603,731,782,433.70 (+) #nationaldebt
+$17,591,980,437,201.71 (+) #nationaldebt
+$17,589,434,621,637.93 (-) #nationaldebt
+$17,591,098,482,428.39 (+) #nationaldebt
+$17,586,759,896,863.97 (-) #nationaldebt
+$17,596,427,039,854.56 (+) #nationaldebt
+$17,588,757,555,596.18 (+) #nationaldebt
+$17,586,595,427,577.23 (-) #nationaldebt
+$17,609,721,841,195.62 (+) #nationaldebt
+$17,602,672,273,372.67 (-) #nationaldebt
+$17,632,606,234,365.92 (+) #nationaldebt
+$17,524,460,363,250.30 (+) #nationaldebt
+$17,512,592,730,101.96 (-) #nationaldebt
+$17,533,149,947,693.14 (-) #nationaldebt
+$17,545,861,055,228.61 (+) #nationaldebt
+$17,535,731,914,061.53 (+) #nationaldebt
+$17,529,945,473,040.66 (-) #nationaldebt
+$17,532,488,016,268.40 (-) #nationaldebt
+$17,571,991,775,280.00 (-) #nationaldebt
+$17,581,114,237,583.17 (+) #nationaldebt
+$17,569,041,604,920.91 (+) #nationaldebt
+$17,536,123,426,853.16 (-) #nationaldebt
+$17,536,614,238,239.15 (-) #nationaldebt
+$17,544,440,933,912.98 (-) #nationaldebt
+$17,555,165,805,212.27 (+) #nationaldebt
+$17,548,899,562,327.27 (+) #nationaldebt
+$17,543,976,854,111.74 (-) #nationaldebt
+$17,544,581,789,209.83 (+) #nationaldebt
+$17,518,074,536,326.36 (+) #nationaldebt
+$17,517,597,022,244.87 (-) #nationaldebt
+$17,524,872,541,725.16 (+) #nationaldebt
+$17,516,958,495,107.78 (+) #nationaldebt
+$17,502,870,380,161.92 (+) #nationaldebt
+$17,490,047,622,577.64 (-) #nationaldebt
+$17,494,957,564,945.49 (+) #nationaldebt
+$17,490,453,119,908.96 (+) #nationaldebt
+$17,488,395,174,401.72 (+) #nationaldebt
+$17,475,322,147,342.48 (-) #nationaldebt
+$17,485,062,209,497.43 (+) #nationaldebt
+$17,479,199,305,480.74 (+) #nationaldebt
+$17,473,133,162,652.10 (+) #nationaldebt
+$17,471,572,575,280.71 (+) #nationaldebt
+$17,466,359,022,192.19 (-) #nationaldebt
+$17,477,954,685,990.29 (+) #nationaldebt
+$17,472,131,682,925.49 (-) #nationaldebt
+$17,472,278,485,983.26 (+) #nationaldebt
+$17,472,051,696,926.14 (-) #nationaldebt
+$17,484,100,151,856.27 (-) #nationaldebt
+$17,484,285,711,524.06 (+) #nationaldebt
+$17,473,168,572,574.12 (+) #nationaldebt
+$17,468,093,940,076.33 (-) #nationaldebt
+$17,474,314,085,413.25 (-) #nationaldebt
+$17,508,437,127,661.62 (+) #nationaldebt
+$17,447,321,527,551.15 (+) #nationaldebt
+$17,440,764,612,875.85 (+) #nationaldebt
+$17,436,444,226,130.22 (-) #nationaldebt
+$17,437,874,260,412.18 (-) #nationaldebt
+$17,525,948,567,765.54 (-) #nationaldebt
+$17,528,980,978,730.90 (+) #nationaldebt
+$17,521,417,830,074.79 (+) #nationaldebt
+$17,516,581,643,567.18 (+) #nationaldebt
+$17,512,421,133,896.12 (-) #nationaldebt
+$17,571,837,454,552.98 (-) #nationaldebt
+$17,576,842,289,814.87 (+) #nationaldebt
+$17,541,896,989,433.73 (+) #nationaldebt
+$17,538,602,387,972.87 (-) #nationaldebt
+$17,539,023,466,494.92 (-) #nationaldebt
+$17,556,587,058,571.79 (-) #nationaldebt
+$17,567,074,702,635.03 (+) #nationaldebt
+$17,559,603,867,896.49 (+) #nationaldebt
+$17,555,437,713,940.26 (+) #nationaldebt
+$17,554,778,670,289.33 (-) #nationaldebt
+$17,585,625,829,197.83 (+) #nationaldebt
+$17,578,141,920,035.68 (-) #nationaldebt
+$17,601,227,291,213.89 (+) #nationaldebt
+$17,554,275,708,064.70 (+) #nationaldebt
+$17,533,579,816,074.13 (-) #nationaldebt
+$17,544,080,042,932.50 (-) #nationaldebt
+$17,555,984,029,917.02 (+) #nationaldebt
+$17,550,128,150,467.43 (+) #nationaldebt
+$17,548,206,894,037.06 (+) #nationaldebt
+$17,546,932,628,558.05 (-) #nationaldebt
+$17,549,497,313,923.60 (-) #nationaldebt
+$17,559,060,160,057.74 (+) #nationaldebt
+$17,546,814,482,078.90 (+) #nationaldebt
+$17,511,659,595,323.99 (+) #nationaldebt
+$17,511,461,705,211.85 (+) #nationaldebt
+$17,491,372,091,598.45 (-) #nationaldebt
+$17,501,576,037,738.02 (+) #nationaldebt
+$17,495,622,444,209.79 (+) #nationaldebt
+$17,491,079,219,453.82 (-) #nationaldebt
+$17,491,871,158,767.47 (+) #nationaldebt
+$17,467,541,352,870.06 (+) #nationaldebt
+$17,467,228,205,267.47 (+) #nationaldebt
+$17,444,385,246,890.50 (-) #nationaldebt
+$17,463,228,562,652.94 (+) #nationaldebt
+$17,426,891,428,702.45 (+) #nationaldebt
+$17,410,830,777,447.36 (-) #nationaldebt
+$17,419,220,117,766.69 (+) #nationaldebt
+$17,413,220,474,647.90 (+) #nationaldebt
+$17,411,178,036,656.28 (+) #nationaldebt
+$17,409,111,636,454.46 (+) #nationaldebt
+$17,385,409,685,452.00 (+) #nationaldebt
+$17,384,649,566,329.35 (+) #nationaldebt
+$17,258,795,000,703.07 (-) #nationaldebt
+$17,258,805,514,290.93 (+) #nationaldebt
+$17,258,782,272,265.19 (-) #nationaldebt
+$17,258,792,658,336.62 (-) #nationaldebt
+$17,258,793,918,103.22 (-) #nationaldebt
+$17,258,824,690,537.53 (-) #nationaldebt
+$17,281,222,665,378.63 (+) #nationaldebt
+$17,280,020,592,178.94 (+) #nationaldebt
+$17,263,040,455,036.20 (-) #nationaldebt
+$17,293,019,654,983.61 (+) #nationaldebt
+$17,249,265,796,405.00 (-) #nationaldebt
+$17,272,506,995,913.71 (+) #nationaldebt
+$17,271,931,802,733.26 (+) #nationaldebt
+$17,266,723,744,017.01 (+) #nationaldebt
+$17,263,279,883,739.66 (+) #nationaldebt
+$17,261,485,887,733.09 (-) #nationaldebt
+$17,273,488,616,875.18 (-) #nationaldebt
+$17,276,126,988,070.62 (+) #nationaldebt
+$17,273,683,713,523.05 (+) #nationaldebt
+$17,270,240,354,364.86 (-) #nationaldebt
+$17,286,874,322,095.94 (-) #nationaldebt
+$17,287,251,611,151.62 (+) #nationaldebt
+$17,282,527,565,175.09 (+) #nationaldebt
+$17,280,842,092,016.14 (-) #nationaldebt
+$17,281,164,714,573.43 (-) #nationaldebt
+$17,306,977,954,400.15 (-) #nationaldebt
+$17,315,227,613,858.79 (+) #nationaldebt
+$17,310,216,315,568.94 (+) #nationaldebt
+$17,308,849,523,342.94 (-) #nationaldebt
+$17,315,970,933,899.63 (-) #nationaldebt
+$17,351,970,784,950.15 (+) #nationaldebt
+$17,226,768,075,403.16 (+) #nationaldebt
+$17,226,267,273,544.34 (+) #nationaldebt
+$17,226,097,907,646.29 (-) #nationaldebt
+$17,248,088,481,989.88 (-) #nationaldebt
+$17,250,656,426,380.22 (+) #nationaldebt
+$17,250,434,606,977.38 (-) #nationaldebt
+$17,251,528,475,994.19 (-) #nationaldebt
+$17,258,809,832,599.01 (-) #nationaldebt
+$17,268,587,651,056.23 (+) #nationaldebt
+$17,259,029,055,459.14 (+) #nationaldebt
+$17,224,129,200,180.84 (-) #nationaldebt
+$17,226,015,851,914.45 (+) #nationaldebt
+$17,222,454,811,203.79 (-) #nationaldebt
+$17,234,005,998,603.93 (+) #nationaldebt
+$17,230,345,583,111.52 (+) #nationaldebt
+$17,227,010,669,351.91 (-) #nationaldebt
+$17,228,699,889,181.63 (+) #nationaldebt
+$17,222,092,499,153.62 (-) #nationaldebt
+$17,223,254,862,815.39 (-) #nationaldebt
+$17,235,032,379,905.81 (+) #nationaldebt
+$17,217,151,645,105.86 (+) #nationaldebt
+$17,203,336,836,345.12 (-) #nationaldebt
+$17,219,110,204,136.29 (+) #nationaldebt
+$17,211,829,040,346.01 (+) #nationaldebt
+$17,209,511,322,941.99 (+) #nationaldebt
+$17,208,963,804,203.72 (+) #nationaldebt
+$17,190,225,699,170.90 (-) #nationaldebt
+$17,200,725,370,597.56 (+) #nationaldebt
+$17,192,878,839,268.39 (+) #nationaldebt
+$17,189,547,404,790.46 (+) #nationaldebt
+$17,183,316,943,225.52 (+) #nationaldebt
+$17,149,193,429,752.16 (-) #nationaldebt
+$17,154,624,205,951.04 (+) #nationaldebt
+$17,151,627,467,959.50 (+) #nationaldebt
+$17,149,154,023,335.85 (+) #nationaldebt
+$17,121,570,995,931.69 (-) #nationaldebt
+$17,121,761,484,979.44 (+) #nationaldebt
+$17,116,705,114,727.92 (+) #nationaldebt
+$17,108,598,955,343.87 (-) #nationaldebt
+$17,156,117,102,204.49 (+) #nationaldebt
+$17,088,263,258,631.09 (-) #nationaldebt
+$17,090,753,527,402.48 (+) #nationaldebt
+$17,081,509,219,288.50 (+) #nationaldebt
+$17,076,507,741,269.44 (-) #nationaldebt
+$17,077,729,309,281.56 (+) #nationaldebt
+$17,067,881,125,283.87 (-) #nationaldebt
+$17,078,769,687,926.64 (+) #nationaldebt
+$17,075,230,597,788.39 (+) #nationaldebt
+$17,074,260,390,144.95 (-) #nationaldebt
+$17,075,590,107,963.57 (+) #nationaldebt
+$16,747,360,549,057.23 (-) #nationaldebt
+$16,747,370,534,090.62 (-) #nationaldebt
+$16,747,411,584,091.53 (-) #nationaldebt
+$16,747,421,858,503.24 (+) #nationaldebt
+$16,747,409,787,772.33 (-) #nationaldebt
+$16,747,419,536,935.48 (-) #nationaldebt
+$16,747,429,285,635.12 (-) #nationaldebt
+$16,747,458,528,953.05 (-) #nationaldebt
+$16,747,468,275,799.27 (-) #nationaldebt
+$16,747,468,940,509.72 (-) #nationaldebt
+$16,747,478,675,335.18 (+) #nationaldebt
+$16,738,183,526,697.32 (-) #nationaldebt
+$16,738,433,470,635.61 (-) #nationaldebt
+$16,738,443,175,473.97 (-) #nationaldebt
+$16,738,444,833,205.56 (-) #nationaldebt
+$16,738,454,664,319.38 (-) #nationaldebt
+$16,738,464,494,846.89 (-) #nationaldebt
+$16,738,493,983,660.09 (-) #nationaldebt
+$16,738,503,812,337.79 (+) #nationaldebt
+$16,738,482,606,783.04 (-) #nationaldebt
+$16,738,492,645,235.04 (-) #nationaldebt
+$16,738,502,722,145.90 (-) #nationaldebt
+$16,738,533,025,135.63 (-) #nationaldebt
+$16,738,543,125,208.38 (-) #nationaldebt
+$16,738,546,954,446.61 (-) #nationaldebt
+$16,738,557,190,345.35 (-) #nationaldebt
+$16,738,567,425,782.46 (-) #nationaldebt
+Want to look beyond the daily #NationalDebt? An interactive feature on America's long-term debt: http://t.co/HstpDpfWEQ #dataviz
+$16,738,598,129,329.05 (-) #nationaldebt
+$16,738,608,362,951.88 (-) #nationaldebt
+$16,738,608,435,751.29 (-) #nationaldebt
+$16,738,618,787,875.32 (-) #nationaldebt
+$16,738,649,841,392.70 (+) #nationaldebt
+$16,738,401,335,152.16 (+) #nationaldebt
+$16,738,398,535,315.91 (-) #nationaldebt
+$16,738,408,908,240.13 (-) #nationaldebt
+$16,738,419,280,739.58 (-) #nationaldebt
+$16,738,450,395,371.13 (-) #nationaldebt
+$16,738,460,765,994.01 (+) #nationaldebt
+$16,738,422,110,434.94 (-) #nationaldebt
+$16,738,432,533,607.02 (-) #nationaldebt
+$16,738,442,956,309.14 (-) #nationaldebt
+$16,738,474,221,654.92 (-) #nationaldebt
+$16,738,484,642,516.80 (+) #nationaldebt
+$16,738,478,559,738.19 (-) #nationaldebt
+$16,738,489,007,693.40 (-) #nationaldebt
+$16,738,499,455,164.95 (-) #nationaldebt
+$16,738,530,794,717.43 (-) #nationaldebt
+$16,738,541,240,281.19 (+) #nationaldebt
+$16,738,537,598,194.21 (-) #nationaldebt
+$16,738,548,043,209.68 (-) #nationaldebt
+$16,738,558,487,748.51 (-) #nationaldebt
+$16,738,589,818,505.99 (-) #nationaldebt
+$16,738,600,261,139.01 (+) #nationaldebt
+$16,738,599,194,294.87 (+) #nationaldebt
+$16,738,084,158,233.57 (-) #nationaldebt
+$16,738,094,608,381.03 (-) #nationaldebt
+$16,738,125,957,131.00 (-) #nationaldebt
+$16,738,136,405,384.69 (+) #nationaldebt
+$16,738,105,803,858.21 (-) #nationaldebt
+$16,738,116,336,111.15 (-) #nationaldebt
+$16,738,126,867,888.58 (-) #nationaldebt
+$16,738,158,460,368.61 (-) #nationaldebt
+$16,738,168,990,385.79 (+) #nationaldebt
+$16,738,167,165,761.57 (-) #nationaldebt
+$16,738,177,765,933.41 (-) #nationaldebt
+$16,738,188,365,630.03 (-) #nationaldebt
+$16,738,220,086,104.57 (-) #nationaldebt
+$16,738,230,684,008.83 (+) #nationaldebt
+$16,738,227,772,946.05 (-) #nationaldebt
+$16,738,238,434,108.96 (-) #nationaldebt
+$16,738,249,094,798.80 (-) #nationaldebt
+$16,738,281,074,058.77 (-) #nationaldebt
+$16,738,287,806,544.20 (-) #nationaldebt
+$16,738,298,556,333.25 (-) #nationaldebt
+$16,738,309,305,648.26 (-) #nationaldebt
+$16,738,320,054,489.27 (-) #nationaldebt
+$16,738,629,048,819.09 (+) #nationaldebt
+$16,738,580,905,836.39 (-) #nationaldebt
+$16,738,591,725,217.11 (-) #nationaldebt
+$16,738,602,543,527.17 (-) #nationaldebt
+$16,738,634,995,209.72 (-) #nationaldebt
+$16,738,645,811,490.40 (+) #nationaldebt
+$16,738,642,755,073.31 (-) #nationaldebt
+$16,738,653,639,711.53 (-) #nationaldebt
+$16,738,664,595,327.64 (-) #nationaldebt
+$16,738,697,370,019.81 (-) #nationaldebt
+$16,738,708,293,971.53 (+) #nationaldebt
+$16,738,704,836,178.59 (-) #nationaldebt
+$16,738,715,835,680.58 (-) #nationaldebt
+$16,738,726,834,732.35 (-) #nationaldebt
+$16,738,759,828,986.42 (-) #nationaldebt
+$16,738,770,826,158.59 (+) #nationaldebt
+$16,738,767,256,596.67 (-) #nationaldebt
+$16,738,778,336,691.59 (-) #nationaldebt
+$16,738,788,832,145.30 (-) #nationaldebt
+$16,738,821,943,986.12 (+) #nationaldebt
+$16,737,246,099,998.86 (+) #nationaldebt
+$16,737,208,536,433.83 (-) #nationaldebt
+$16,737,219,726,401.22 (+) #nationaldebt
+$16,735,424,271,257.87 (-) #nationaldebt
+$16,736,576,618,573.30 (+) #nationaldebt
+$16,734,032,974,210.27 (-) #nationaldebt
+$16,737,282,992,090.73 (-) #nationaldebt
+$16,737,294,304,715.52 (-) #nationaldebt
+$16,737,328,238,148.13 (+) #nationaldebt
+$16,734,808,644,648.07 (-) #nationaldebt
+$16,765,040,725,133.72 (+) #nationaldebt
+$16,760,961,851,934.60 (+) #nationaldebt
+$16,755,788,437,042.45 (+) #nationaldebt
+$16,753,992,575,790.14 (-) #nationaldebt
+$16,754,734,781,812.88 (-) #nationaldebt
+$16,784,106,881,842.76 (-) #nationaldebt
+$16,795,552,390,198.40 (+) #nationaldebt
+$16,788,427,184,539.43 (+) #nationaldebt
+$16,780,900,194,134.10 (-) #nationaldebt
+$16,794,979,173,216.61 (-) #nationaldebt
+$16,805,036,884,755.01 (-) #nationaldebt
+$16,828,845,497,183.90 (+) #nationaldebt
+$16,758,168,229,380.21 (+) #nationaldebt
+$16,756,644,393,707.05 (-) #nationaldebt
+$16,758,107,082,298.63 (-) #nationaldebt
+$16,794,349,827,897.30 (-) #nationaldebt
+$16,798,952,599,955.59 (+) #nationaldebt
+$16,787,451,118,147.32 (+) #nationaldebt
+$16,781,967,702,405.37 (+) #nationaldebt
+$16,779,469,574,292.68 (-) #nationaldebt
+$16,807,270,364,907.39 (-) #nationaldebt
+$16,812,065,609,373.24 (+) #nationaldebt
+$16,801,307,487,216.56 (-) #nationaldebt
+$16,808,240,386,273.51 (+) #nationaldebt
+$16,808,067,104,144.06 (+) #nationaldebt
+$16,798,984,234,792.33 (-) #nationaldebt
+$16,808,274,414,207.16 (+) #nationaldebt
+$16,802,515,751,907.61 (+) #nationaldebt
+$16,797,828,899,086.80 (-) #nationaldebt
+$16,798,051,589,934.68 (+) #nationaldebt
+$16,786,970,142,478.83 (-) #nationaldebt
+$16,804,876,955,116.78 (+) #nationaldebt
+$16,792,120,009,606.80 (+) #nationaldebt
+$16,771,379,006,760.38 (+) #nationaldebt
+$16,766,988,432,792.62 (+) #nationaldebt
+$16,749,482,454,905.89 (-) #nationaldebt
+$16,759,063,744,572.46 (+) #nationaldebt
+$16,753,443,064,898.87 (+) #nationaldebt
+$16,749,924,938,094.43 (-) #nationaldebt
+$16,750,130,322,121.01 (+) #nationaldebt
+$16,739,939,855,865.39 (-) #nationaldebt
+$16,749,269,587,407.53 (+) #nationaldebt
+$16,736,188,026,047.86 (+) #nationaldebt
+Why do you care about the #nationaldebt? Post a video to http://t.co/zXqewp8unh explaining why it matters to you and win $500! #ImReady
+$16,731,693,041,858.12 (+) #nationaldebt
+$16,708,225,460,175.14 (+) #nationaldebt
+$16,700,634,854,470.52 (-) #nationaldebt
+$16,709,976,214,794.44 (+) #nationaldebt
+$16,703,943,129,416.14 (+) #nationaldebt
+$16,701,846,937,879.74 (+) #nationaldebt
+$16,692,238,790,019.20 (+) #nationaldebt
+$16,663,709,478,521.02 (+) #nationaldebt
+$16,649,703,459,968.00 (+) #nationaldebt
+$16,640,135,316,625.33 (-) #nationaldebt
+$16,687,289,180,215.37 (+) #nationaldebt
+$16,607,216,503,950.75 (-) #nationaldebt
+$16,618,701,810,927.77 (+) #nationaldebt
+$16,610,557,777,904.98 (+) #nationaldebt
+$16,609,040,800,845.56 (+) #nationaldebt
+$16,608,318,357,376.54 (+) #nationaldebt
+$16,588,751,035,306.37 (+) #nationaldebt
+$16,552,819,142,207.40 (+) #nationaldebt
+[ANNOUNCEMENT] Make a video about the #NationalDebt &amp; win $500! The I’m Ready! Project wants you http://t.co/T1PYvtur
+$16,548,926,805,129.36 (+) #nationaldebt
+$16,540,800,290,147.46 (+) #nationaldebt
+$16,524,304,599,079.04 (+) #nationaldebt
+$16,494,367,339,423.66 (+) #nationaldebt
+$16,489,930,650,594.15 (+) #nationaldebt
+$16,488,908,847,828.25 (+) #nationaldebt
+$16,487,564,297,892.03 (+) #nationaldebt
+$16,479,954,658,103.57 (-) #nationaldebt
+$16,480,910,656,603.96 (+) #nationaldebt
+$16,475,048,398,165.79 (+) #nationaldebt
+$16,433,779,913,880.34 (-) #nationaldebt
+$16,433,791,850,294.04 (+) #nationaldebt
+$16,432,495,841,444.68 (-) #nationaldebt
+$16,432,507,858,820.45 (-) #nationaldebt
+$16,432,519,875,802.97 (-) #nationaldebt
+$16,432,555,923,758.99 (-) #nationaldebt
+$16,432,567,939,377.32 (+) #nationaldebt
+$16,432,559,091,945.94 (-) #nationaldebt
+$16,432,571,159,411.57 (-) #nationaldebt
+$16,432,619,424,703.06 (-) #nationaldebt
+$16,432,631,489,854.70 (+) #nationaldebt
+$16,432,620,067,491.45 (-) #nationaldebt
+$16,432,632,102,288.69 (-) #nationaldebt
+$16,432,643,996,680.64 (-) #nationaldebt
+$16,432,680,097,613.85 (-) #nationaldebt
+$16,432,692,129,510.84 (+) #nationaldebt
+$16,432,646,968,419.66 (-) #nationaldebt
+$16,432,659,028,067.50 (-) #nationaldebt
+$16,432,671,087,771.63 (-) #nationaldebt
+$16,432,707,263,449.56 (+) #nationaldebt
+$16,431,219,143,696.53 (-) #nationaldebt
+$16,432,705,914,255.48 (-) #nationaldebt
+$16,432,730,050,569.12 (+) #nationaldebt
+$16,336,461,552,606.35 (-) #nationaldebt
+$16,338,243,391,747.08 (+) #nationaldebt
+$16,337,860,200,635.06 (+) #nationaldebt
+$16,337,556,561,533.65 (+) #nationaldebt
+$16,336,217,360,826.47 (+) #nationaldebt
+$16,334,217,015,073.49 (-) #nationaldebt
+$16,352,043,784,079.65 (-) #nationaldebt
+$16,359,758,742,907.76 (+) #nationaldebt
+$16,351,193,522,286.93 (-) #nationaldebt
+$16,359,576,959,576.49 (-) #nationaldebt
+$16,369,984,159,473.81 (+) #nationaldebt
+$16,366,422,407,639.99 (-) #nationaldebt
+$16,375,874,429,255.52 (+) #nationaldebt
+$16,370,056,245,929.64 (+) #nationaldebt
+$16,365,370,575,377.43 (-) #nationaldebt
+$16,366,436,891,948.03 (+) #nationaldebt
+$16,337,928,777,944.15 (-) #nationaldebt
+$16,347,055,651,380.32 (+) #nationaldebt
+$16,338,092,943,716.61 (-) #nationaldebt
+$16,369,548,799,604.93 (+) #nationaldebt
+$16,323,083,449,604.98 (+) #nationaldebt
+$16,306,713,138,468.87 (-) #nationaldebt
+$16,317,681,766,441.44 (+) #nationaldebt
+$16,309,738,056,362.44 (+) #nationaldebt
+$16,307,488,943,564.23 (+) #nationaldebt
+$16,283,161,895,179.85 (-) #nationaldebt
+$16,292,689,481,349.84 (+) #nationaldebt
+$16,286,110,428,799.08 (+) #nationaldebt
+$16,281,329,916,599.63 (+) #nationaldebt
+$16,278,932,378,520.93 (+) #nationaldebt
+$16,244,384,093,831.92 (-) #nationaldebt
+$16,248,293,041,003.50 (+) #nationaldebt
+$16,244,708,707,467.25 (-) #nationaldebt
+$16,245,318,820,569.34 (+) #nationaldebt
+$16,213,982,129,207.31 (-) #nationaldebt
+$16,214,358,823,745.30 (+) #nationaldebt
+$16,209,959,246,534.15 (+) #nationaldebt
+$16,206,129,028,709.29 (-) #nationaldebt
+$16,221,685,381,838.28 (-) #nationaldebt
+$16,261,470,510,720.74 (+) #nationaldebt
+$16,204,061,671,104.83 (+) #nationaldebt
+$16,198,993,554,072.35 (+) #nationaldebt
+$16,197,815,714,310.70 (+) #nationaldebt
+$16,197,082,554,040.04 (+) #nationaldebt
+$16,194,791,826,674.89 (-) #nationaldebt
+$16,203,845,445,635.71 (+) #nationaldebt
+$16,198,677,971,774.43 (+) #nationaldebt
+$16,196,052,388,163.26 (-) #nationaldebt
+$16,198,174,452,215.24 (+) #nationaldebt
+$16,193,100,189,055.25 (-) #nationaldebt
+$16,199,574,839,671.31 (+) #nationaldebt
+$16,190,979,268,766.67 (+) #nationaldebt
+$16,157,542,962,383.12 (-) #nationaldebt
+$16,158,270,866,947.20 (+) #nationaldebt
+$16,157,753,419,211.18 (-) #nationaldebt
+$16,167,932,295,919.57 (+) #nationaldebt
+$16,161,866,671,342.08 (-) #nationaldebt
+$16,161,879,857,156.66 (+) #nationaldebt
+$16,153,318,273,015.07 (-) #nationaldebt
+$16,171,037,343,408.57 (+) #nationaldebt
+$16,159,487,013,300.35 (+) #nationaldebt
+$16,066,241,407,385.89 (+) #nationaldebt
+$16,015,131,024,562.54 (-) #nationaldebt
+$16,015,837,297,632.37 (-) #nationaldebt
+$16,022,742,650,424.36 (+) #nationaldebt
+$16,017,841,062,517.08 (+) #nationaldebt
+$16,016,101,949,370.06 (+) #nationaldebt
+$16,014,424,023,771.68 (+) #nationaldebt
+$16,012,971,761,294.54 (-) #nationaldebt
+$16,020,975,194,914.83 (+) #nationaldebt
+$16,008,938,323,880.98 (-) #nationaldebt
+$16,045,783,217,833.70 (+) #nationaldebt
+$16,045,678,692,730.63 (-) #nationaldebt
+$16,046,337,277,273.30 (-) #nationaldebt
+$16,054,953,743,219.13 (+) #nationaldebt
+$16,048,018,310,212.93 (+) #nationaldebt
+$16,046,680,286,836.39 (+) #nationaldebt
+$16,045,515,411,416.83 (+) #nationaldebt
+$16,020,684,444,134.58 (+) #nationaldebt
+$16,008,060,301,079.15 (-) #nationaldebt
+$16,015,769,788,215.80 (+) #nationaldebt
+$15,990,541,092,391.91 (+) #nationaldebt
+$15,978,184,771,159.29 (-) #nationaldebt
+$15,978,918,589,911.74 (+) #nationaldebt
+$15,975,222,200,557.28 (+) #nationaldebt
+$15,974,809,707,529.13 (-) #nationaldebt
+$15,976,519,029,144.14 (+) #nationaldebt
+$15,960,468,522,111.20 (-) #nationaldebt
+$15,970,134,937,605.00 (+) #nationaldebt
+$15,964,767,302,206.64 (+) #nationaldebt
+$15,962,054,850,397.97 (+) #nationaldebt
+$15,957,959,655,187.23 (+) #nationaldebt
+$15,944,869,685,894.92 (+) #nationaldebt
+$15,919,488,010,442.77 (+) #nationaldebt
+$15,915,547,390,139.92 (+) #nationaldebt
+$15,914,973,399,362.53 (-) #nationaldebt
+$15,915,814,457,919.46 (+) #nationaldebt
+$15,903,941,392,436.30 (-) #nationaldebt
+$15,912,062,243,224.76 (+) #nationaldebt
+$15,904,628,648,096.12 (-) #nationaldebt
+$15,920,591,039,091.86 (+) #nationaldebt
+$15,907,138,660,280.97 (-) #nationaldebt
+$15,933,234,637,493.55 (+) #nationaldebt
+$15,873,767,378,850.16 (-) #nationaldebt
+$15,878,374,495,398.42 (-) #nationaldebt
+$15,879,556,244,052.97 (+) #nationaldebt
+$15,874,859,322,768.40 (-) #nationaldebt
+$15,882,491,122,065.69 (+) #nationaldebt
+$15,877,234,078,986.00 (+) #nationaldebt
+$15,874,876,409,526.41 (+) #nationaldebt
+$15,874,365,457,260.40 (+) #nationaldebt
+$15,874,046,715,877.56 (-) #nationaldebt
+$15,884,155,929,632.05 (+) #nationaldebt
+$15,875,734,673,516.05 (+) #nationaldebt
+$15,871,166,712,270.85 (-) #nationaldebt
+$15,871,512,181,712.20 (-) #nationaldebt
+$15,876,457,645,132.66 (-) #nationaldebt
+$15,885,854,755,351.47 (+) #nationaldebt
+$15,879,266,313,073.20 (-) #nationaldebt
+$15,879,528,608,975.11 (+) #nationaldebt
+$15,876,652,312,551.29 (-) #nationaldebt
+$15,880,986,464,325.29 (-) #nationaldebt
+$15,888,741,858,820.66 (+) #nationaldebt
+$15,856,367,214,324.44 (+) #nationaldebt
+$15,780,999,920,520.17 (+) #nationaldebt
+$15,778,950,543,472.67 (-) #nationaldebt
+$15,789,104,033,603.79 (+) #nationaldebt
+$15,782,570,144,097.96 (+) #nationaldebt
+$15,778,438,599,568.28 (-) #nationaldebt
+$15,779,643,362,484.67 (+) #nationaldebt
+$15,777,954,587,181.97 (-) #nationaldebt
+$15,784,676,619,110.62 (+) #nationaldebt
+$15,776,139,241,010.39 (+) #nationaldebt
+$15,772,177,351,447.14 (+) #nationaldebt
+$15,736,971,094,472.17 (+) #nationaldebt
+$15,735,182,423,771.72 (-) #nationaldebt
+$15,744,360,700,064.85 (+) #nationaldebt
+$15,737,910,187,514.88 (+) #nationaldebt
+$15,735,363,673,245.83 (+) #nationaldebt
+$15,733,369,432,140.84 (-) #nationaldebt
+$15,734,596,578,458.59 (+) #nationaldebt
+$15,733,409,283,200.18 (+) #nationaldebt
+$15,728,112,402,859.92 (+) #nationaldebt
+$15,724,907,364,995.04 (-) #nationaldebt
+$15,770,685,085,364.14 (+) #nationaldebt
+$15,716,625,300,450.69 (+) #nationaldebt
+$15,713,655,602,953.23 (+) #nationaldebt
+$15,711,600,946,205.97 (-) #nationaldebt
+$15,712,446,368,243.65 (-) #nationaldebt
+$15,714,297,615,655.65 (-) #nationaldebt
+$15,721,218,607,447.09 (+) #nationaldebt
+$15,715,461,162,489.22 (+) #nationaldebt
+$15,712,206,657,211.05 (-) #nationaldebt
+$15,712,823,135,725.84 (+) #nationaldebt
+$15,708,753,671,767.64 (-) #nationaldebt
+$15,716,115,612,805.06 (+) #nationaldebt
+$15,676,996,273,860.82 (+) #nationaldebt
+$15,674,182,767,474.36 (-) #nationaldebt
+$15,674,689,177,258.55 (+) #nationaldebt
+$15,674,047,733,490.96 (-) #nationaldebt
+$15,685,726,985,716.47 (+) #nationaldebt
+$15,675,791,363,404.17 (+) #nationaldebt
+$15,671,916,356,611.36 (+) #nationaldebt
+$15,671,202,480,642.98 (-) #nationaldebt
+$15,680,495,896,140.50 (+) #nationaldebt
+$15,673,229,738,379.98 (-) #nationaldebt
+$15,692,368,067,305.23 (+) #nationaldebt
+$15,623,697,207,417.39 (-) #nationaldebt
+$15,624,347,610,476.87 (+) #nationaldebt
+$15,623,285,528,454.41 (+) #nationaldebt
+$15,620,174,049,560.23 (+) #nationaldebt
+$15,617,358,530,369.93 (+) #nationaldebt
+$15,615,590,975,022.37 (-) #nationaldebt
+$15,660,736,663,887.96 (-) #nationaldebt
+$15,661,574,232,598.82 (+) #nationaldebt
+$15,654,638,525,397.64 (+) #nationaldebt
+$15,615,726,037,322.66 (+) #nationaldebt
+$15,614,994,767,843.32 (-) #nationaldebt
+$15,618,088,043,505.63 (-) #nationaldebt
+$15,626,832,596,694.96 (+) #nationaldebt
+$15,621,445,734,132.83 (+) #nationaldebt
+$15,619,740,170,408.34 (+) #nationaldebt
+$15,617,722,544,078.95 (+) #nationaldebt
+$15,616,846,574,939.20 (-) #nationaldebt
+$15,620,325,998,403.96 (+) #nationaldebt
+$15,582,078,681,188.69 (+) #nationaldebt
+$15,579,852,946,457.64 (-) #nationaldebt
+$15,580,211,803,539.46 (-) #nationaldebt
+$15,589,407,415,161.70 (+) #nationaldebt
+$15,586,074,570,040.79 (+) #nationaldebt
+$15,585,576,040,333.70 (+) #nationaldebt
+$15,584,905,894,127.28 (+) #nationaldebt
+$15,574,428,564,198.34 (-) #nationaldebt
+$15,583,383,846,149.34 (+) #nationaldebt
+$15,566,570,829,745.94 (+) #nationaldebt
+$15,564,809,891,767.99 (+) #nationaldebt
+$15,516,449,945,583.73 (-) #nationaldebt
+$15,524,177,849,489.64 (+) #nationaldebt
+$15,519,140,875,930.82 (+) #nationaldebt
+$15,517,051,724,148.90 (-) #nationaldebt
+$15,517,794,642,311.25 (+) #nationaldebt
+$15,498,306,692,627.99 (-) #nationaldebt
+$15,499,023,629,682.44 (+) #nationaldebt
+$15,491,983,252,196.46 (+) #nationaldebt
+$15,489,873,651,597.46 (-) #nationaldebt
+$15,501,014,716,143.72 (+) #nationaldebt
+$15,488,891,296,248.02 (+) #nationaldebt
+$15,442,120,983,663.88 (+) #nationaldebt
+$15,438,518,062,690.37 (+) #nationaldebt
+$15,435,694,556,033.29 (+) #nationaldebt
+$15,416,323,644,046.76 (-) #nationaldebt
+$15,419,800,222,325.15 (+) #nationaldebt
+$15,416,593,980,013.04 (+) #nationaldebt
+$15,413,030,984,842.14 (+) #nationaldebt
+$15,391,735,627,010.18 (+) #nationaldebt
+$15,359,384,163,919.51 (+) #nationaldebt
+$15,355,198,335,393.66 (+) #nationaldebt
+$15,354,108,706,908.54 (-) #nationaldebt
+$15,355,838,921,022.16 (+) #nationaldebt
+$15,335,666,215,381.09 (-) #nationaldebt
+$15,343,504,866,785.66 (+) #nationaldebt
+$15,337,881,657,918.14 (+) #nationaldebt
+$15,335,108,283,338.57 (-) #nationaldebt
+$15,351,406,294,640.49 (+) #nationaldebt
+$15,330,778,119,850.60 (+) #nationaldebt
+$15,295,052,578,718.01 (+) #nationaldebt
+$15,236,222,907,480.69 (-) #nationaldebt
+$15,236,231,788,440.22 (+) #nationaldebt
+$15,236,227,594,419.33 (-) #nationaldebt
+$15,236,236,452,380.49 (-) #nationaldebt
+$15,236,245,309,869.69 (-) #nationaldebt
+$15,236,271,879,792.78 (-) #nationaldebt
+$15,236,280,735,687.76 (+) #nationaldebt
+$15,236,279,221,858.36 (-) #nationaldebt
+$15,236,288,061,558.65 (-) #nationaldebt
+$15,236,323,396,400.44 (-) #nationaldebt
+$15,236,332,233,848.35 (+) #nationaldebt
+$15,236,307,075,631.58 (-) #nationaldebt
+$15,236,497,198,899.72 (-) #nationaldebt
+$15,236,506,139,986.86 (-) #nationaldebt
+$15,236,532,960,597.70 (-) #nationaldebt
+$15,236,541,899,973.10 (-) #nationaldebt
+$15,236,542,247,490.89 (+) #nationaldebt
+$15,226,217,488,652.33 (+) #nationaldebt
+$15,222,940,045,451.09 (+) #nationaldebt
+$15,125,898,976,397.19 (+) #nationaldebt
+$15,123,841,039,390.36 (-) #nationaldebt
+$15,131,979,264,288.80 (+) #nationaldebt
+$15,104,054,667,691.48 (+) #nationaldebt
+$15,051,286,197,149.79 (-) #nationaldebt
+$15,060,274,082,298.88 (+) #nationaldebt
+$15,054,018,277,569.01 (+) #nationaldebt
+$15,052,444,423,722.81 (+) #nationaldebt
+$15,051,160,989,938.23 (+) #nationaldebt
+$15,046,397,725,405.16 (-) #nationaldebt
+$15,071,624,794,970.66 (+) #nationaldebt
+$15,068,133,903,969.13 (-) #nationaldebt
+$15,073,380,701,589.57 (-) #nationaldebt
+$15,088,441,787,407.62 (-) #nationaldebt
+$15,110,498,560,876.77 (+) #nationaldebt
+$15,054,163,621,371.29 (+) #nationaldebt
+$15,051,673,595,197.90 (+) #nationaldebt
+$15,048,875,933,765.92 (+) #nationaldebt
+$15,035,881,015,969.21 (-) #nationaldebt
+$15,042,288,403,018.43 (+) #nationaldebt
+$15,040,208,108,195.33 (+) #nationaldebt
+$15,039,350,324,589.25 (+) #nationaldebt
+$15,026,993,847,879.10 (-) #nationaldebt
+$15,033,607,255,920.32 (+) #nationaldebt
+$14,977,884,880,834.39 (-) #nationaldebt
+$14,979,610,349,742.69 (+) #nationaldebt
+$14,973,303,402,570.97 (-) #nationaldebt
+$14,982,443,553,379.44 (+) #nationaldebt
+$14,976,508,611,373.88 (+) #nationaldebt
+$14,972,665,280,820.90 (-) #nationaldebt
+$14,973,228,608,405.04 (-) #nationaldebt
+$14,977,962,674,363.87 (+) #nationaldebt
+$14,971,831,021,178.32 (-) #nationaldebt
+$14,993,709,044,140.78 (+) #nationaldebt
+$14,937,858,721,060.08 (-) #nationaldebt
+$14,939,575,648,588.50 (+) #nationaldebt
+$14,937,008,744,814.46 (-) #nationaldebt
+$14,943,613,298,774.71 (+) #nationaldebt
+$14,940,671,706,465.75 (+) #nationaldebt
+$14,939,232,547,985.08 (-) #nationaldebt
+$14,940,365,910,718.16 (+) #nationaldebt
+$14,931,296,186,933.22 (-) #nationaldebt
+$14,942,750,688,961.01 (+) #nationaldebt
+$14,936,592,327,091.37 (+) #nationaldebt
+$14,873,884,337,768.96 (+) #nationaldebt
+$14,858,050,692,069.51 (+) #nationaldebt
+$14,837,099,271,196.71 (+) #nationaldebt
+$14,695,102,108,238.02 (-) #nationaldebt
+$14,701,883,169,793.25 (-) #nationaldebt
+$14,707,406,820,591.87 (+) #nationaldebt
+$14,700,040,072,613.72 (-) #nationaldebt
+$14,726,790,407,953.74 (+) #nationaldebt
+$14,705,188,086,992.02 (-) #nationaldebt
+$14,711,870,126,618.47 (+) #nationaldebt
+$14,699,021,631,213.05 (+) #nationaldebt
+$14,696,963,569,782.73 (+) #nationaldebt
+$14,683,910,471,705.99 (-) #nationaldebt
+$14,688,259,374,281.24 (-) #nationaldebt
+$14,711,737,198,477.91 (+) #nationaldebt
+$14,685,550,385,913.19 (-) #nationaldebt
+$14,717,757,015,045.83 (+) #nationaldebt
+$14,698,625,550,307.37 (+) #nationaldebt
+$14,694,862,366,160.97 (+) #nationaldebt
+$14,624,792,689,793.86 (+) #nationaldebt
+$14,639,107,253,101.11 (+) #nationaldebt
+$14,612,435,498,338.62 (-) #nationaldebt
+$14,639,239,567,874.38 (+) #nationaldebt
+$14,613,193,161,764.37 (+) #nationaldebt
+$14,592,242,215,641.90 (+) #nationaldebt
+$14,581,957,381,309.78 (-) #nationaldebt
+$14,587,727,605,443.44 (+) #nationaldebt
+$14,584,500,839,325.86 (+) #nationaldebt
+$14,574,607,940,062.25 (+) #nationaldebt
+$14,342,358,440,969.10 (-) #nationaldebt
+$14,342,369,286,195.61 (-) #nationaldebt
+$14,342,865,885,306.46 (+) #nationaldebt
+$14,342,819,149,604.76 (-) #nationaldebt
+$14,342,830,116,551.28 (-) #nationaldebt
+$14,342,841,083,049.67 (-) #nationaldebt
+$14,342,873,980,042.91 (-) #nationaldebt
+$14,342,884,944,996.28 (-) #nationaldebt
+$14,342,887,364,361.82 (-) #nationaldebt
+$14,342,898,467,069.07 (-) #nationaldebt
+$14,342,909,569,328.74 (-) #nationaldebt
+$14,342,942,873,692.85 (-) #nationaldebt
+$14,342,953,885,641.98 (-) #nationaldebt
+$14,342,954,633,916.41 (-) #nationaldebt
+$14,342,965,850,128.20 (-) #nationaldebt
+$14,342,977,065,892.73 (+) #nationaldebt
+$14,343,010,710,537.58 (-) #nationaldebt
+$14,343,021,925,343.11 (+) #nationaldebt
+$14,343,021,848,987.23 (-) #nationaldebt
+$14,343,033,186,678.55 (-) #nationaldebt
+$14,343,087,640,008.40 (-) -$1,580,641,202.61 since June 1. #nationaldebt
+$14,344,433,700,892.41 (-) #nationaldebt
+$14,344,445,319,806.39 (-) #nationaldebt
+$14,344,456,938,174.19 (-) #nationaldebt
+$14,344,491,791,132.71 (-) #nationaldebt
+$14,344,503,407,708.93 (+) #nationaldebt
+$14,344,500,633,576.27 (-) #nationaldebt
+$14,344,512,410,044.14 (-) #nationaldebt
+$14,344,524,186,068.19 (-) #nationaldebt
+$14,344,559,511,924.92 (-) #nationaldebt
+$14,344,571,286,149.87 (+) #nationaldebt
+$14,344,566,636,826.26 (-) #nationaldebt
+$14,344,578,556,731.95 (-) #nationaldebt
+$14,344,590,476,192.34 (-) #nationaldebt
+$14,344,626,232,128.96 (-) #nationaldebt
+$14,344,638,149,810.46 (+) #nationaldebt
+$14,344,634,161,864.99 (+) #nationaldebt
+$14,344,646,208,741.83 (-) #nationaldebt
+$14,344,658,255,226.84 (-) #nationaldebt
+$14,344,694,392,217.24 (-) #nationaldebt
+$14,344,706,437,041.50 (+) #nationaldebt
+$14,344,655,966,314.35 (-) #nationaldebt
+$14,344,668,281,211.01 (-) #nationaldebt
+$14,345,428,204,844.19 (-) #nationaldebt
+$14,345,436,174,196.44 (-) #nationaldebt
+$14,345,448,620,741.80 (-) #nationaldebt
+$14,345,461,067,006.07 (-) #nationaldebt
+$14,345,498,402,738.78 (-) #nationaldebt
+$14,345,510,847,235.26 (-) #nationaldebt
+#nationaldebt $14,345,512,216,989.03 (-)
+$14,345,512,216,989.03 (-) #nationaldebt
+$14,345,524,862,360.08 (-) #nationaldebt
+$14,345,537,505,802.45 (+) #nationaldebt
+$14,308,385,181,650.10 (+) #nationaldebt
+$14,307,799,341,563.81 (-) #nationaldebt
+$14,322,057,756,517.13(-) #nationaldebt
+$14,331,522,797,881.61 (+) #nationaldebt
+$14,325,784,545,788.31 (+) #nationaldebt
+$14,321,667,187,751.55 (-) #nationaldebt
+$14,333,813,490,636.04 (+) #nationaldebt
+$14,331,792,440,897.76 (+) #nationaldebt
+$14,320,649,656,092.60 (+) +50535125292.22 since April 1. #nationaldebt
+$14,287,630,052,323.12 (+) #nationaldebt
+$14,282,598,097,540.75 (-) #nationaldebt
+$14,295,127,825,809.10 (-) #nationaldebt
+$14,304,410,507,726.10 (+) #nationaldebt
+$14,298,930,020,698.53 (+) #nationaldebt
+$14,293,242,770,354.82 (+) #nationaldebt
+$14,290,788,661,250.50 (-) #nationaldebt
+$14,314,796,837,035.76 (-) #nationaldebt
+$14,320,468,555,091.68 (+) #nationaldebt
+$14,309,159,097,877.65 (+) #nationaldebt
+$14,305,336,580,992.11 (-) #nationaldebt
+$14,270,792,119,184.89 (+) #nationaldebt
+$14,264,147,359,046.28 (-) #nationaldebt
+$14,272,993,603,617.44 (+) #nationaldebt
+$14,267,760,539,191.89 (+) #nationaldebt
+$14,265,383,134,019.53 (+) #nationaldebt
+$14,264,245,526,311.58 (+) #nationaldebt
+$14,259,761,986,879.66 (-) #nationaldebt
+$14,262,144,462,897.94 (+) #nationaldebt
+$14,243,931,564,216.57 (-) #nationaldebt
+$14,251,174,516,308.48 (-) #nationaldebt
+$14,270,114,530,800.38 (+) +75,350,191,337.74 since March 1. #nationaldebt
+$14,210,139,988,236.73 (-) #nationaldebt
+$14,215,744,197,688.26 (+) #nationaldebt
+$14,211,567,662,931.23 (+) #nationaldebt
+$14,211,533,551,640.97 (+) #nationaldebt
+$14,210,071,848,853.10 (-) #nationaldebt
+$14,224,998,096,211.71 (-) #nationaldebt
+$14,233,559,283,692.40 (+) #nationaldebt
+$14,228,193,126,138.72 (+) #nationaldebt
+$14,224,862,420,919.33 (+) #nationaldebt
+$14,223,730,274,180.80 (-) #nationaldebt
+$14,232,849,993,955.10 (-) #nationaldebt
+$14,237,952,276,898.69 (+) #nationaldebt
+$14,166,030,787,779.80 (+) #nationaldebt
+$14,164,360,361,278.85 (+) #nationaldebt
+$14,163,433,071,135.27 (-) #nationaldebt
+$14,182,663,848,364.00 (-) #nationaldebt
+$14,193,176,753,471.62 (+) #nationaldebt
+$14,186,168,803,680.47 (+) #nationaldebt
+$14,182,627,184,881.03 (+) #nationaldebt
+$14,182,086,199,057.01 (+) #nationaldebt
+$14,178,525,108,267.60 (+) #nationaldebt
+$14,172,957,589,856.62 (-) #nationaldebt
+$14,194,764,339,462.64 (+) +$63,713,283,451.80 since February 1 #nationaldebt
+$14,137,541,098,872.71 (+) #nationaldebt
+$14,119,807,822,019.49 (-) #nationaldebt
+$14,125,462,676,307.51 (-) #nationaldebt
+$14,128,556,647,662.68 (+) #nationaldebt
+$14,124,831,879,791.32 (+) #nationaldebt
+$14,123,589,307,190.53 (-) #nationaldebt
+$14,129,889,690,377.50 (-) #nationaldebt
+$14,138,085,000,000.00 (+) #nationaldebt
+$14,081,561,324,681.83 (-)#nationaldebt
+$14,082,712,722,334.93 (-) #nationaldebt
+$14,083,345,766,082.15 (-) #nationaldebt
+$14,098,789,113,781.32 (-) #nationaldebt
+$14,110,420,810,062.28 (+) #nationaldebt
+$14,104,021,737,251.53 (+) #nationaldebt
+$14,099,823,671,305.06 (-) #nationaldebt
+$14,100,427,020,880.94 (-) #nationaldebt (Today we hit 25k followers - that's $564,017,080.86 apiece. Thx for following & plz RT!)
+$14,116,512,433,408.69 (+) #nationaldebt
+$14,109,842,878,903.50 (-) #nationaldebt
+$14,131,051,056,010.84 (+) +$105,835,837,302.30 since January 1 #nationaldebt
+$14,056,512,363,629.35 (-) #nationaldebt
+$14,059,409,159,678.42 (-) #nationaldebt
+$14,060,011,229,556.38 (-) #nationaldebt
+$14,062,239,904,820.69 (+) #nationaldebt
+$14,060,136,959,466.51 (+) #nationaldebt
+$14,056,313,474,932.58 (+) #nationaldebt
+$14,053,512,150,448.45 (+) #nationaldebt
+$14,052,380,830,542.80 (+) #nationaldebt
+$14,007,943,536,871.15 (-) #nationaldebt
+$14,010,389,488,111.56 (-) #nationaldebt
+$14,019,559,567,587.86 (+) #nationaldebt
+$14,009,422,364,546.03(-) #nationaldebt
+$14,011,793,170,981.72 (+) #nationaldebt
+$14,011,526,727,895.85 (-) #nationaldebt
+$14,014,049,043,294.41(+) #nationaldebt
+$13,997,932,781,828.89 (-) +$137,159,022,810.46 since December 1 #nationaldebt
+$14,025,215,218,708.52 (+) - RT for $14T #nationaldebt
+$13,867,477,082,973.71 (-) #nationaldebt
+$13,868,461,288,845.81 (-) #nationaldebt
+$13,883,400,070,159.87 (+) #nationaldebt
+$13,879,785,054,580.12 (+) #nationaldebt
+$13,852,589,330,911.83(+) #nationaldebt
+$13,848,017,156,749.09 (+) #nationaldebt
+$13,846,685,751,077.18 (+) #nationaldebt
+$13,846,494,847,569.86 (-) #nationaldebt
+$13,847,884,133,109.61 (+) #nationaldebt
+$13,838,490,314,497.64 (+) #nationaldebt
+$13,834,824,737,060.60 (+) #nationaldebt
+$13,833,511,738,992.20 (+) #nationaldebt (P.S. - see @HughJidette for a fun new awareness campaign from the Peterson Foundation)
+$13,840,966,239,053.15 (+) #nationaldebt
+$13,834,918,581,977.03 (-) +$166,093,084,635.67 since November 1 #nationaldebt
+$13,860,773,759,018.43 (+) #nationaldebt
+$13,790,302,153,225.82 (-) #nationaldebt
+$13,794,243,004,364.88 (-) #nationaldebt
+$13,794,645,743,594.58 (+) #nationaldebt
+$13,789,699,194,529.33 (+) #nationaldebt
+$13,788,455,142,118.05 (-) #nationaldebt
+$13,789,278,919,702.62 (-) #nationaldebt
+$13,795,134,710,938.49 (+) #nationaldebt
+$13,789,013,561,493.72 (+) #nationaldebt
+$13,721,979,465,685.32 (+) #nationaldebt
+$13,719,547,683,746.49 (-) #nationaldebt
+$13,727,147,399,038.59 (+) #nationaldebt
+$13,727,147,399,038.59 (+) #nationaldebt
+$13,725,166,759,183.46 (+) #nationaldebt
+$13,723,330,060,510.52 (-) #nationaldebt
+$13,723,439,668,440.18 (+) #nationaldebt
+$13,718,711,829,904.32 (-) #nationaldebt
+$13,723,974,060,859.22 (+) #nationaldebt
+$13,713,087,906,377.36 (+) #nationaldebt
+$13,668,825,497,341.36 (+) +$107,202,466,449.57 since October 1 #nationaldebt
+$13,658,812,457,389.51 (-) #nationaldebt
+$13,663,891,267,223.32 (-) #nationaldebt
+$13,673,749,566,734.14 (+) #nationaldebt
+$13,669,359,903,495.66 (+) #nationaldebt
+$13,667,624,992,210.96 (-) #nationaldebt
+$13,667,983,325,978.31 (+) #nationaldebt
+$13,667,947,376,827.80 (-) #nationaldebt
+$13,668,894,473,093.42 (+) #nationaldebt
+$13,665,926,643,255.96 (+) #nationaldebt
+$13,606,947,094,101.90 (-) #nationaldebt
+$13,612,299,748,993.36 (-) #nationaldebt
+$13,612,664,732,574.96 (-) #nationaldebt
+$13,614,052,490,714.72 (-) #nationaldebt
+$13,615,674,949,267.91 (-) #nationaldebt
+$13,624,678,196,435.07 (+) #nationaldebt
+$13,624,352,674,172.79 (+) #nationaldebt
+$13,617,255,556,356.04 (+) #nationaldebt
+$13,610,847,585,810.09 (+) #nationaldebt
+$13,561,623,030,891.79 (+) +$111,970,493,856.74 since September 1 #nationaldebt
+$13,466,272,411,365.62 (-) #nationaldebt
+$13,472,761,083,757.88 (+) #nationaldebt
+$13,468,173,874,830.08 (+) #nationaldebt
+13,466,818,283,723.48 (+) #nationaldebt
+13,463,477,025,087.58 (-) #nationaldebt
+$13,471,094,170,316.20 (-) #nationaldebt
+$13,476,661,616,652.10 (+) #nationaldebt
+$13,469,342,458,134.17 (+) #nationaldebt
+$13,467,745,270,382.77 (+) #nationaldebt
+$13,464,896,653,374.11 (-) #nationaldebt
+$13,498,026,949,136.56 (+) #nationaldebt
+$13,440,225,498,627.42 (-) #nationaldebt
+$13,443,442,988,893.40 (+) #nationaldebt
+$13,441,762,397,157.23 (+) #nationaldebt
+$13,435,355,520,330.43 (-) #nationaldebt
+$13,438,770,879,030.74 (+) #nationaldebt
+$13,435,343,171,187.87 (-) #nationaldebt
+$13,442,057,367,029.28 (-) #nationaldebt
+$13,449,652,537,035.05 (+) +$152,825,877,645.52 since August 1 #nationaldebt
+$13,369,841,967,694.39 (-) #nationaldebt
+$13,375,222,710,985.08 (-) #nationaldebt
+$13,376,189,739,693.61 (+) #nationaldebt
+$13,361,354,442,247.95 (-) #nationaldebt
+$13,371,301,700,295.28 (+) #nationaldebt
+$13,363,278,285,831.30 (+) 20,000 followers! Spread the word - please RT, follow and list @nationaldebt #nationaldebt
+$13,361,739,911,386.51 (-) #nationaldebt
+$13,363,227,573,941.68 (+) #nationaldebt
+$13,353,801,011,553.95 (-) #nationaldebt
+$13,364,739,861,340.53 (+) #nationaldebt
+$13,356,994,188,341.44 (+) #nationaldebt
+$13,315,417,951,875.00 (-) #nationaldebt
+$13,317,048,837,517.12 (+) #nationaldebt
+$13,307,871,897,992.93 (-) #nationaldebt
+$$13,319,830,936,991.03 (+) #nationaldebt
+$13,310,114,269,532.31 (-) #nationaldebt
+$13,310,887,351,665.80 (+) #nationaldebt
+$13,296,826,659,389.53 (+) +$93,352,905,421.43 since July 1 #nationaldebt
+$13,246,508,860,572.07 (-) #nationaldebt
+$13,247,793,649,102.86 (-) #nationaldebt
+$13,258,280,104,675.66 (+) #nationaldebt
+$13,248,524,997,009.91 (-) #nationaldebt
+$13,249,153,625,870.38 (+) #nationaldebt
+$13,237,494,446,894.52 (-) #nationaldebt
+$13,245,998,461,216.30 (+) #nationaldebt
+$13,242,893,842,328.75 (+) #nationaldebt
+$13,239,903,754,450.73 (-) #nationaldebt
+$13,240,228,521,494.88 (+) #nationaldebt
+$13,189,505,566,215.83 (-) #nationaldebt
+$13,199,290,856,204.31 (+) #nationaldebt
+$13,194,523,014,378.23 (+) #nationaldebt
+$13,193,854,880,648.02 (+) #nationaldebt
+$13,192,234,850,314.21 (+) #nationaldebt
+$13,181,991,714,131.18 (+) #nationaldebt
+$13,177,644,774,581.63 (+) #nationaldebt
+$13,175,330,731,664.70 (-) #nationaldebt
+$13,203,473,753,968.10 (+) + $152,647,293,081.13 since June 1 #nationaldebt
+$13,037,542,715,703.81 (-) #nationaldebt
+$13,038,916,836,943.40 (+) #nationaldebt
+$13,038,305,786,811.25 (+) #nationaldebt
+$13,038,079,983,718.36 (-) #nationaldebt
+$13,041,849,923,645.94 (-) #nationaldebt
+$13,046,652,647,591.81 (+) #nationaldebt
+$13,040,053,515,762.18 (+) #nationaldebt
+$13,038,455,716,111.87 (-) #nationaldebt
+$13,038,877,263,966.78 (-) #nationaldebt
+$13,073,000,699,429.76 (-) #nationaldebt
+$13,078,420,280,010.67 (+) #nationaldebt
+$13,043,148,269,336.48 (+) #nationaldebt
+$13,041,208,520,697.17 (-) #nationaldebt
+$13,041,405,343,973.44 (-) #nationaldebt
+$13,046,148,615,770.79 (-) #nationaldebt
+$13,056,957,049,453.42 (+) #nationaldebt
+$13,052,204,878,286.76 (+) #nationaldebt
+$13,050,588,009,652.62 (-) #nationaldebt
+$13,058,289,851,171.50 (+), +$109,550,935,314.70 since May 1 #nationaldebt
+$13,050,826,460,886.97 (+) - RT for $13T #nationaldebt
+$12,987,916,782,708.55 (+) #nationaldebt
+$12,987,274,122,710.70 (-) #nationaldebt
+$12,995,779,490,444.52 (+) #nationaldebt
+$12,989,095,409,531.09 (+) #nationaldebt
+$12,987,796,841,336.51 (-) #nationaldebt
+$12,987,822,672,429.02 (+) #nationaldebt
+$12,975,292,327,567.97 (-) #nationaldebt
+$12,984,666,665,110.57 (+) #nationaldebt
+$12,974,895,930,216.56 (+) #nationaldebt
+$12,926,689,780,236.68 (-) #nationaldebt
+$12,927,411,267,929.24 (+) #nationaldebt
+$12,923,161,977,864.28 (-) #nationaldebt
+$12,931,157,737,293.42 (+) #nationaldebt
+$12,926,785,477,772.98 (-) #nationaldebt
+$12,928,941,224,629.55 (-) #nationaldebt
+$12,932,913,325,200.66 (-) #nationaldebt
+$12,943,495,066,136.13 (+) #nationaldebt
+$12,940,953,934,792.90 (+) #nationaldebt
+$12,927,020,546,327.13 (-) #nationaldebt
+$12,948,738,915,856.86 (+) #nationaldebt
+$12,853,100,126,888.44 (-) #nationaldebt
+$12,876,734,073,745.72 (-) #nationaldebt
+$12,880,364,008,405.96 (+) #nationaldebt
+$12,877,195,922,374.91 (+) #nationaldebt
+$12,872,601,270,864.44 (+) #nationaldebt
+$12,865,514,120,486.88 (-) #nationaldebt
+$12,871,255,665,556.84(+) #nationaldebt
+$12,863,049,415,216.38 (-) #nationaldebt
+$12,877,714,305,798.84 (+) #nationaldebt
+$12,874,618,766,079.29 (+) #nationaldebt
+$12,823,492,436,215.11 (-) #nationaldebt
+$12,831,193,383,690.69 (+) #nationaldebt
+$12,826,379,456,286.85 (+) #nationaldebt
+$12,825,687,391,205.70 (-) #nationaldebt
+$12,826,031,306,447.93 (+) #nationaldebt
+$12,791,874,548,454.16 (-) #nationaldebt
+$12,792,967,119,405.50 (+) #nationaldebt
+$12,786,559,060,352.58 (+) #nationaldebt
+$12,762,747,199,516.75 (-) #nationaldebt
+$12,764,878,911,618.18 (-) #nationaldebt
+$12,773,123,096,139.43 (+) RT for $12.7T #nationaldebt
+$12,684,570,896,780.80 (-), +$244,502,876,066.40 since March 1 #nationaldebt
+$12,686,249,797,715.01 (+) #nationaldebt
+$12,685,893,723,805.70 (-) #nationaldebt
+$12,687,570,153,023.93 (+) #nationaldebt
+$12,662,466,657,519.82 (-)
+$12,670,895,780,689.20 (+)
+$12,663,372,436,835.10 (+)
+$12,661,039,727,506.65 (-)
+$12,661,296,056,307.25 (+)
+$12,639,779,478,641.89 (-)
+$12,643,701,402,529.55 (+)
+$12,636,662,956,140.07 (+)
+$12,575,678,862,901.61 (+)
+$12,575,479,490,348.47 (+)
+$12,544,389,439,808.45 (-)
+$12,552,703,515,296.83 (+)
+$12,546,372,001,879.73 (+)
+$12,544,703,929,352.55 (-)
+$12,545,490,013,032.29 (+)
+$12,508,944,297,560.56 (-)
+$12,519,423,725,485.39 (+)
+$12,507,536,462,861.04 (+)
+$12,440,068,020,714.47 (+)
+$12,433,661,592,275.45 (+)
+$12,401,781,166,870.02 (-)
+$12,409,374,679,862.09 (+)
+$12,403,027,179,655.21 (+)
+$12,402,054,835,588.68 (+)
+$12,401,448,666,808.30 (+)
+$12,386,495,535,882.23 (+)
+$12,384,358,013,736.32 (-)
+$12,351,624,191,901.06 (+)
+$12,349,324,464,284.28 (+)
+$12,340,570,199,406.32 (-)
+$12,346,427,470,024.01 (-)
+$12,354,041,054,846.90 (-)
+$12,360,943,989,345.48 (+)
+$12,349,463,585,067.42 (+)
+$12,278,635,997,966.88 (+)
+$12,274,431,428,037.28 (-)
+$12,301,772,321,038.04 (-)
+$12,308,886,504,801.94 (+)
+$12,303,736,486,568.45 (+)
+$12,302,465,487,917.34 (+)
+$12,300,163,248,044.69 (-)
+$12,327,380,804,696.82 (+)
+$12,322,107,592,352.96 (+)
+$12,319,326,469,724.43 (+)
+$12,258,545,028,915.24 (-)
+$12,282,274,011,672.19 (-)
+$12,291,168,534,193.72 (+)
+$12,285,484,345,787.32 (+)
+$12,280,604,597,845.51 (-)
+$12,280,845,281,517.59 (-)
+$12,302,080,159,963.01 (-)
+$12,303,300,925,702.18 (+)
+$12,290,238,158,257.13 (-)
+$12,311,349,677,512.03 (+)
+$12,100,218,479,276.16 (-)
+$12,104,441,214,373.68 (+)
+$12,101,272,618,959.09 (+)
+$12,099,243,026,724.56 (+)
+$12,097,698,782,543.93 (-)
+$12,129,073,186,050.29 (-)
+$12,134,970,556,795.04 (+)
+$12,071,280,871,918.40 (-)
+$12,081,709,382,532.35 (-)
+$12,092,672,900,402.34 (+)
+$12,091,292,877,094.86 (+)
+$12,086,172,114,368.23 (-)
+$12,087,444,121,549.05 (+)
+$12,087,361,675,014.75 (-)
+$12,090,825,003,370.26 (+)
+$12,089,226,465,642.57 (-)
+$12,113,047,538,115.42 (+)
+$12,008,650,382,616.48 (-)
+$12,016,320,934,466.71 (+)
+$12,011,838,881,463.68 (+)
+$12,010,561,742,215.21 (-)
+$12,011,787,382,266.61 (-)
+$12,030,202,701,513.91 (-)
+$12,039,319,107,488.80 (+)
+$12,031,299,186,290.07 (+) - please RT for $12T
+$11,991,506,876,413.07 (+)
+$11,991,219,535,897.86 (+)
+$11,986,954,033,520.56 (-)
+$11,990,022,541,364.79 (+)
+$11,988,878,801,691.18 (-)
+$11,990,561,444,829.48 (+)
+$11,978,953,722,825.90 (+)
+$11,978,591,612,480.95 (+)
+$11,974,737,715,216.11 (+)
+$11,893,091,028,361.01 (+)
+$11,868,457,477,911.94 (-)
+$11,893,668,881,089.01 (-)
+$11,901,429,311,747.91 (+)
+$11,897,586,393,656.67 (+)
+$11,895,889,017,776.15 (-)
+$11,896,808,244,570.28 (-)
+$11,948,456,481,573.98 (-)
+$11,956,584,748,608.58 (+)
+$11,952,611,405,769.02 (+)
+$11,948,722,543,849.95 (+)
+$11,946,703,132,807.34 (+)
+$11,903,588,660,952.03 (-)
+$11,907,608,545,823.24 (+)
+$11,895,799,292,208.46 (-)
+$11,898,952,750,944.53 (-)
+$11,925,719,527,944.62
+$11,919,879,121,739.54
+$11,917,948,701,570.06
+$11,920,519,164,319.42
+$11,776,112,848,656.17
+$11,771,450,693,745.00
+$11,770,698,157,074.20
+$11,770,679,815,806.13
+$11,813,723,781,466.43
+$11,819,629,178,802.28
+$11,811,086,447,487.95
+$11,807,667,118,297.67
+$11,809,239,038,438.40
+$11,827,966,342,208.43
+$11,834,190,645,301.05
+$11,792,615,473,271.79
+$11,794,695,304,981.72
+$11,795,045,980,436.61
+$11,784,424,784,049.61
+$11,787,419,577,736.69
+$11,785,028,226,957.00
+$11,787,062,206,713.50
+$11,797,543,701,288.38
+$11,792,918,170,836.43
+$11,812,870,150,873.53
+$11,718,758,941,630.90
+$11,716,563,436,531.39
+$11,730,400,622,450.31
+$11,719,060,925,865.86
+$11,719,258,192,538.99
+$11,720,828,555,380.16
+$11,718,232,402,326.06
+$11,726,594,754,347.95
+$11,682,544,443,828.72
+11,669,783,083,275.80
+$11,662,830,881,880.07
+$11,658,192,962,449.83
+$11,666,485,985,007.89
+$11,661,947,544,315.89
+$11,658,212,708,636.47
+$11,659,077,874,250.31
+$11,659,644,290,011.89
+$11,648,548,144,569.76
+$11,669,251,349,504.65
+$11,581,201,791,282.14
+$11,611,217,335,101.06
+$11,612,707,445,497.10
+$11,607,787,344,879.74
+$11,606,528,598,129.77
+$11,605,521,079,842.13
+$11,595,495,788,840.05
+$11,604,364,019,085.61
+$11,601,270,694,948.64
+$11,600,488,226,683.25
+$11,598,417,943,168.15
+$11,579,428,713,952.53
+$11,528,990,866,940.74
+$11,525,392,902,001.60
+$11,524,606,290,165.04
+$11,526,304,058,825.54
+$11,515,064,224,509.82
+$11,523,843,053,689.95
+$11,490,988,069,885.84
+$11,518,472,742,288.00
+$11,545,275,346,431.39
+$11,358,401,131,131.46
+$11,362,480,417,393.35
+$11,363,514,364,365.21
+$11,365,652,939,856.33
+$11,407,973,761,151.02
+$11,400,656,567,952.60
+$11,397,711,606,020.00
+$11,399,258,796,766.10
+$11,402,770,228,073.98
+$11,406,012,959,882.55
+$11,400,723,732,452.21
+$11,374,952,729,568.32
+$11,375,626,420,309.63
+$11,383,987,605,139.01
+$11,391,459,255,428.95
+$11,390,254,109,727.10
+$11,388,997,387,553.01
+$11,374,265,930,605.76
+$11,382,737,715,925.23
+$11,379,966,189,575.05
+$11,321,599,905,356.40
+$11,311,681,705,086.14
+$11,301,114,877,848.38
+$11,305,594,490,199.65
+$11,301,675,926,828.94
+$11,305,673,498,034.18
+$11,285,462,042,449.61
+$11,293,355,611,258.51
+$11,286,593,315,851.04
+$11,284,110,407,424.51
+$11,270,547,397,564.64
+$11,255,959,564,418.43
+$11,263,799,743,425.98
+$11,260,454,652,131.26
+$11,258,693,795,457.10
+$11,256,266,640,050.20
+$11,226,807,485,330.04
+$11,227,464,371,841.48
+$11,219,969,983,013.69
+$11,208,076,192,300.55
+$11,238,592,141,958.64
+$11,152,922,414,388.28
+$11,194,339,423,305.97
+$11,189,456,636,736.21
+$11,185,300,192,981.20
+$11,184,922,662,862.85
+$11,191,057,364,056.82 (Play Debt Ski - http://DebtSki.com ... Financially	Responsible Procrastination)
+$11,193,459,542,379.92
+$11,189,382,518,232.75
+$11,185,715,978,983.38
+$11,183,899,252,728.00
+$11,218,863,034,278.70
+$11,172,298,738,031.41
+$11,169,978,555,115.48
+$11,169,725,647,724.50
+$11,169,466,380,008.32
+$11,145,352,700,191.57. Check out @owenandpayne to learn about the even bigger *future* debt.
+$11,152,772,833,835.89
+$11,149,346,771,082.81
+$11,146,566,832,297.33
+$11,124,519,301,253.21
+$11,110,654,357,209.33
+$11,126,941,485,713.37
+$11,043,588,980,678.90
+$11,045,554,110,788.92
+$11,046,247,657,049.48
+$11,037,916,881,157.83
+$11,046,928,257,010.20
+$11,041,711,544,305.34 (you can now follow and debate about the debt on Facebook: http://bit.ly/facedebt )
+$11,040,807,027,558.10
+$11,040,807,027,558.10
+$11,039,686,130,898.10
+$11,034,225,094,391.03
+$11,042,553,971,450.47
+$11,033,157,578,669.78
+$10,983,750,182,347.25
+$10,983,549,928,728.74
+$10,951,099,637,335.63
+$10,958,408,586,222.43
+$10,952,663,030,603.41
+$10,951,578,308,859.02
+$10,953,034,411,520.15
+$10,944,337,682,981.48
+$10,943,838,929,434.92
+$10,942,165,294,650.89
+$10,881,159,722,022.36
+$10,837,499,231,127.11
+$10,843,355,058,860.91
+$10,839,526,591,486.90
+$10,838,758,414,164.46
+$10,802,021,982,124.74
+$10,789,925,775,196.76
+$10,789,783,760,341.41
+$10,759,016,081,652.99
+$10,759,196,587,563.44
+$10,713,124,215,572.20
+$10,721,365,792,566.28
+$10,717,726,200,848.14
+$10,717,280,371,345.89
+$10,717,998,123,287.70
+$10,669,192,308,562.45
+$10,668,643,381,356.91
+$10,667,963,268,393.28
+$10,632,005,246,736.97
+$10,626,297,420,130.85
+$10,617,861,263,183.30
+$10,626,078,634,370.54
+$10,620,857,710,762.31
+$10,620,397,126,433.52
+$10,618,718,703,374.78
+$10,625,053,544,309.79
+$10,626,877,048,913.08
+$10,627,708,753,691.49
+$10,605,968,804,933.43
+$10,613,904,888,048.13
+$10,609,790,681,008.44
+$10,609,758,567,607.17
+$10,608,325,323,172.57
+$10,635,772,096,222.74
+$10,638,425,746,293.80
+$10,635,512,060,907.16
+$10,627,961,295,930.67
+$10,699,804,864,612.13
+$10,553,014,664,691.60
+$10,554,113,905,232.03
+$10,552,775,879,227.14
+$10,586,589,075,929.34
+$10,601,771,342,207.11
+$10,567,429,429,138.10
+$10,598,195,081,084.56
+$10,598,468,155,070.37
+$10,655,552,067,433.77
+$10,630,556,502,899.88
+$10,655,601,512,061.19
+$10,597,068,737,927.10
+$10,597,885,059,458.78
+$10,648,440,877,251.63
+$10,656,119,227,403.05
+$10,653,930,363,287.91
+$10,653,271,333,099.91
+$10,653,883,024,152.87
+$10,675,932,885,390.22
+$10,685,166,611,275.20
+$10,681,135,920,463.07
+$10,661,174,903,807.68
+$10,647,917,555,364.39
+$10,658,356,277,853.89
+$10,654,259,430,730.17
+$10,655,468,648,978.07
+$10,655,457,229,922.34
+$10,652,323,523,227.98
+$10,660,417,854,472.29
+$10,618,466,094,057.06
+$10,617,806,584,635.27
+$10,578,639,151,691.13
+$10,618,508,632,584.50
+$10,622,223,198,682.54
+$10,622,166,941,631.68
+$10,624,730,227,798.25
+$10,566,870,637,263.35
+$10,566,146,196,490.58
+$10,556,177,748,045.21
+$10,574,094,462,968.23
+$10,530,893,033,778.21
+$10,525,823,144,117.64
+$10,526,720,156,868.39
+$10,524,747,198,710.25
+$10,523,955,355,856.66
+$10,524,112,985,802.87
+$10,495,669,391,439.70
+$10,464,889,644,552.18

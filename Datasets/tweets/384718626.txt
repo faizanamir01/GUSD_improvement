@@ -1,0 +1,42 @@
+@SingStarHQ SingStar on PS4 keeps saying "There is no content. It might not be for sale yet, or might no longer be for sale." Any fix?
+@NokiaHelps in Oulu, Finland
+@NokiaHelps Did that. The problem didn't go away. I'm suspecting that it's a hardware issue.
+@NokiaHelps It started today after I unplugged my headphones (Sony XBA3ip). I reseted it just that way a couple of times actually. No effect
+@NokiaHelps My Lumia 920 constantly thinks that I've got headphones plugged in even if that's not the case. Even after I've done soft reset.
+@Netflixhelps Did that. Hopefully it helps.
+@Netflixhelps OK, I went through the steps provided and it seems that this issue is related to one TV-series: The Office (U.S. version).
+@Netflixhelps I recently did a whole reinstall of Windows and the problem is still present. There's no such problem in Mac OS X Mavericks.
+@Netflixhelps I've got a problem using Netflix with my late 2011 MacBook Pro running Windows 8.1 Pro. The video lags behind audio.
+@Pankaj55verma @NokiaHelps I solved the update issue by doing a hard reset. Of course that was not the ideal solution but at least it worked
+@NokiaHelps I have quite a similar situation as this one (also tried troubleshooting methods listed in the thread): http://t.co/FdocfIyUVO
+@NokiaHelps No, a retail unit. But I've installed the "Preview for Developers" app, which allows enthusiastic consumers try out GDR3 early.
+@NokiaHelps It might have something to do with GDR3 developer preview which I'm a part of. Link to similar issue: http://t.co/9EuVurB7BA
+@NokiaHelps Hard resetting the phone would probably help,but I'm not interested in losing all my personal data including app data.Any ideas?
+@NokiaHelps This has been going on for over a month now. I've tried soft resetting and restarting the phone to no avail.
+@NokiaHelps Every time I try to check updates on my Lumia 920, it gets stuck on the "checking for updates" screen.
+@NokiaHelps According to NokiaBetaLabs this issue could be caused by the names of some temp files. They said they're looking into this.
+@NokiaHelps I've already installed the latest version of Extras+Info and reinstalled the storage check beta.
+@NokiaHelps After relaunching the file storage application it shows me this message. I'm using the BETA2 version. http://t.co/WcPXPevvyT
+@NokiaHelps The wheel showing the share of files just keeps spinning with grey color and then gives me this error. http://t.co/G0GkBB7DUS
+@NokiaHelps I updated the FW on my L920 to v1308 but storage check and storage check BETA don't work, there's just an endless spinning wheel
+@NokiaHelps I'm using the latest version of Nokia Music v. 3.7.3.607 and the UK version of "Nokia Music+"-service
+@Peitso @NokiaHelps Others are having the same problem: http://t.co/1ch6Eooznq
+@NokiaHelps I understand the logic behind this, the problem is changing the setting has no effect on cellular stream quality.
+@Peitso @NokiaHelps So when there's no WLAN available or it's switched off the stream quality is only standard.
+@NokiaHelps I've already made a more formal request to look into this problem through your complaint system because this looks like a bug.
+@Peitso @NokiaHelps problem is that Nokia Music app streams HQ music only over WLAN even when stream and DL with HQ over cellular data is ON
+@NokiaHelps It is set to 4G and the data connection works otherwise as it should.
+@Peitso @NokiaHelps I think this is a SW problem with Nokia Music version 3.7.3.607 under latest version of WP8 and your latest firmware.
+@Peitso @NokiaHelps I've been encountering this problem using both my own L920 and my friend's L820.
+@Peitso @NokiaHelps Before updating to Portico soft reset used to do the trick this is no longer the case.
+@Peitso @NokiaHelps I have a UK "Music+"subscription and the HQ streaming works only over WLAN even when it's supposed to stream HQ over 4G.
+@NokiaHelps I've had this issue before but now it's persistent.After updating to Portico, Nokia Music can no longer stream with high quality
+@NokiaHelps Ok, after 2nd soft reset the high quality streaming works as it should. Thanks for the advice and swift response! :D
+@NokiaHelps Yes, I'm using Mix Radio software version is 3.7.3.607 I've soft reseted my L920 With no effect. Unlimited skipping etc. works.
+@Peitso @NokiaHelps I've been flipping the quality switch in the settings but the streams are still only "Standard Quality" over 3G and WLAN
+@NokiaHelps I'm running the latest version of NM. I've also reinstalled the app twice. Still can't change the quality everything else works.
+@NokiaHelps I can't stream or download songs with high quality using "Nokia Music+". I've tried changing the quality setting to no avail.
+I found the key to room 21. I hope it's my lucky number! http://t.co/VLKrUfDa
+@eldarmurtazin OK, thanks again!
+@eldarmurtazin so i take it that there will be a 64gb one available then? and thanx for the info!
+@eldarmurtazin you said that Nokia Searay will be similar to N9 in terms of specs, will there be 64gb and 16gb versions of SR or just 16gb?

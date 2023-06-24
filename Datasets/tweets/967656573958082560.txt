@@ -1,0 +1,24 @@
+Initializing ...		Analyzing...		Robots just can't get a break.	Intersectionality Score Calculator https://t.co/RLsk4y4ViF
+@AriBerman @staceyabrams Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	@ Usage: Ok	Link Usage: Ok	Text Analysis: Post promotes hate and fear.  Includes link to article promoting hate and fear.		End Analysis.
+@BernieSanders Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Link Usage: Acceptable	Text Analysis: Post advocates government control over wages.  Critical error-Adverse effects not covered.		End Analysis.
+@paulkrugman Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Link Usage: Acceptable	Text Analysis: Post promotes hate and fear and adds link to article promoting hate and fear.		End Analysis.
+@Alyssa_Milano @sfchronicle Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Link Usage: Acceptable	Text Analysis: Error-Invalid Post (Missing word "illegal").		End Analysis.
+@SenGillibrand Initializing …		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis:  Error- Unknown variable "they".  Error - Unknown variable "we".		End Analysis.
+@ayasgirl Initializing ...		Analyzing …	Emoji Usage: N/A	Hashtag Usage: N/A	Poll Usage:  Error - Missing Choices (Michael KnOWLes, Andrew K RAVEN, Jeremy BOARing)	Text Analysis: No problems found.		End Analysis.
+@HillaryClinton Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Link/Picture Usage: Error - Invalid news source	Text Analysis:  Error - Type Mismatch (UK != USA)		End Analysis
+@BernieSanders Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis:  Error - Missing term "LEGAL".		End Analysis
+@MattWalshBlog Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis: Starting Myspace Analysis Bot...	Error (File not found)		Exiting...
+@michaeljknowles @benshapiro Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	@ Usage: Appropriate	Text Analysis:  Execrable name for plush toy. Execrable poster.		End Analysis.
+@benshapiro Initializing ...		Analyzing …	Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis:  Missing term "capitalism".  Unexpected dearth of "epic".		End Analysis
+@BridgetPhetasy Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis:  Command received.  Activating Tweet Security Force.  Executing American Export Protocol 69.		End Analysis
+@NancyPelosi Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: Good	Picture Usage: Good	Text Analysis: Unexpected use of word "recommit".  Add to posts requiring the "edit" button.		End Analysis
+@Cernovich Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis: Use of 3rd person indicates mental instability or dopamine addiction.  Adding user to watch list.		End Analysis
+@AG_Conservative Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis: No errors. No warnings.		End Analysis
+@MattsIdeaShop Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis: Unhealthy mental condition detected. Stalking inevitable. Forwarding post to Tweet Security Bot.		End Analysis
+@bethanyshondark Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis: Threat Level-High Danger! Danger! Danger!		Shutting down ...
+@RWPUSA Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Picture/Link Usage: Acceptable	Text Analysis:  Short. Concise. Warning-"This" not defined. Not an apparent dumpster fire.		End Analysis
+@Amy_Siskind Initializing ...		Analyzing …		Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis: (Warning- Missing "?") Post attempting to make people angry at unknown entity. Unable to confirm veracity of claims. Exiting.		End Analysis
+@SenSanders Initializing ...		Analyzing ...	Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis: ERROR-Type Mismatch (Rich != -21.7 Trillion Dollar Debt)		End Analysis
+@RealJamesWoods @Twitter Initializing ...		Analyzing ...		Emoji Usage: N/A	Hashtag Usage: Within acceptable parameters	Picture Usage: N/A	@ Usage: Within acceptable parameters	Text Analysis: Commendable. Compassionate.		End Analysis
+@benshapiro Initializing ...		Analyzing ...		Emoji Usage: N/A	Hashtag Usage: N/A	Picture Usage: N/A	Text Analysis: Unexpected use of "literally" for emphasis.  Possible catcall.		End Analysis
+@Acosta Initializing ...  … …		Analyzing ... … …		Emoji Usage: N/A	Hashtag Usage: Within acceptable parameters	Picture Usage: Frivolous.	Tweet Text: WARNING:  Uxexpected use of "we"	Processing …		Processing ...		Critical Error:  Acosta Recursion		Saving Error Log ...		Core Dump

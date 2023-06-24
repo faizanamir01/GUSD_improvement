@@ -1,0 +1,148 @@
+@rainbow_jeremy_ @PredictIt Thank you. Of all the candidates and potentials, Biden is the most analogous to Clinton.
+@VP My economics professor explained that the US economy is ultimately made of freedom and hatred for anything different, especially things we don't understand.
+@AlexKingPI @PI_Challenge @PredictIt Well done!
+@ssupak @PredictIt Agreed. A darker gray would be fine, but that's very light.
+@PredictIt: I hate to be such a critic lately, but I'm not a fan of graying out half the order book. I often place my buy orders on the sell side, so that's primarily what I'm looking at. https://t.co/wRvo2E1Ei3
+@YouDownWithOCP @PoliticanPan @PredictIt I'm guessing it's to dissuade bots. But it's also dissuading humans.
+@YouDownWithOCP Yep. It was refreshing the tabs that was doing it. In my case, it was the four tweet markets.		@PredictIt: It would be really cool if you could fix this.
+Been logged in for 5 minutes now, but it logged me out three times before that. On their site, not the app.
+#PredictIt keeps logging me out. Is this happening to anyone else?
+@VPPressSec @VP World leaders needn't concern themselves with Saudi Arabia, though. That a US-approved dictatorship.
+@TWenseleers @RichardHardigan I'm sure you have evidence to back up your claims about the pro-Maduro protesters.
+@SenSchumer @realDonaldTrump Can I declare myself president now?
+@biblioklu That mentality didn't work last time. Why would it this time?		Maybe we need someone who inspires voters. https://t.co/sj7IPHK6GT
+@YouDownWithOCP To be fair, RDT can be hard to predict. Holding short term isn't a bad strategy.
+@pjhurray The more difficult math stuff (which uses insane amounts of RAM) effectively runs simulations using historical data at different levels of segmentation.
+@pjhurray Essentially, it's tailored historical data that gives a range of probabilities for the remaining time in a tweet market.
+@pjhurray Honestly, a lot of the math is over my head, so I pieced it together from forums. The main feature that sets this apart from prior models is a category system. For example, this filters out SOTU tweets among others. It can also filter in depending on upcoming events.
+@spinons It's flexible enough to work for all kinds of data, but in the meantime, it's for PI. The immediate financial incentive helps. ;)
+That's all real data. I'm not using a smoothing algorithm or anything to force it to fit a bell curve.
+The more I work on my model, the closer it gets to a normal distribution. Hopefully that means I'm doing something right. https://t.co/PZ9axMsGOM
+Reteaching myself how to play tweet markets with small amounts. I could have bought more B1N at 70c Sunday night and should have. https://t.co/8RwWQZWwrA
+@1nationUGod @NPR Fact checking is bad! Change the subject immediately!
+Great new app for following tweet markets on @PredictIt! https://t.co/3DcpmazQHO
+@realDonaldTrump I'm the president of the most powerful country on the planet, but I have no idea what the word "global" means!
+@creditspread23 Is there an anti-Bender conspiracy? Because we need to get to the bottom of this.
+@creditspread23 Why would anyone want you to go away?
+@VP @POTUS Thanks for creating so many minimum wage part time jobs! I have three of them and counting!
+@PoliticalKiwi The US prefers to install far-right dictators.
+@IAmKrishanPatel @PoliticalKiwi Source?		Just like with the previous election, there are claims of election fraud. However, "Venezuela's electoral body has confirmed the victory of President Nicolas Maduro in the April election, after carrying out an audit on millions of votes." 		https://t.co/stMPOUPgBf
+From what I'm reading, it appears to be a type of trimmed mean.		https://t.co/HquGpSoMDO
+@Pete_Monahan_JD Riiight
+@jipkin I noticed in your midterm models that you subtracted the largest and smallest numbers before calculating an average. What's that called? I presume it's a basic method to eliminate outliers.
+@creditspread23 @PredictIt @bntravis Good luck, bud.
+@creditspread23 @bntravis @PredictIt @AG123321GA @realCCCasper @DoctorCatPhD What not wrong comment do you think wasn't the reason you were banned? Which market were you in?
+@WhiteHouse Opium, which heroin is made from, comes from Afghanistan you fucking dolt.
+I'M GOING TO BE A DADDY!
+@jipkin @PIBacon1 I don't track these numbers yet. I imagine the ratio would be lower if you play more markets simultaneously with more capital. That is, more parallel as opposed to serial investing. Does that sound about right?
+@jipkin @PIBacon1 Does being fee conscious change how you wager? I don't see how.
+@realCCCasper @pjhurray_pi I don't think I'd call it a risk.
+@pjhurray_pi I hear ya, bud https://t.co/zqu44rV2YE
+@RepThomasMassie I bet you'd take issue with the right to breathe air if the corporations owned it all.
+@JakeSherman And they shouldn't. The people in charge should be experts in the field. The US Congressional system is a joke, and that's why their approval rating is always abysmal.
+@CNBC What? Private enterprise in a "communist" country?
+@JaySekulow @POTUSPress What do you think the Iron Dome does?		Has Isreal considered not colonizing Palestine?
+@EnergyPS @IEA Fuck clean sustainable energy! Destroy the biosphere!
+@renato_mariotti Meanwhile, Saudi Arabia's been murdering scores of civilians in Yemen and bringing the country to the brink of colossal famine. But that hasn't been newsworthy. Let's keep selling them arms. It's good business regardless of which party's in power.
+@KevDGrussing The number of votes left to count is smaller than the number Bourdeaux needs to win. Sorry.
+@rainbow_jeremy_ @mitchellvii &lt;-- Voted for Charlie Baker
+@rainbow_jeremy_ @mitchellvii Welcome to New England where we elect liberal republican governors.
+"This Market could not be located." https://t.co/tSLzIzKD68
+I placed an order over 2 minutes ago. Still nothing...
+I tweeted too soon. The site has now crashed. :(
+I'm getting about a 6-second lag on @PredictIt v2. Not bad at all.
+@Rowdman57 @ABCPolitics @conservatismtlk You need a dictionary, too. They don't want socialism. I wish they did.
+@Rowdman57 @ABCPolitics @conservatismtlk *they're		And no, they're not.
+How does @CookPolitical still have the NJ Senate race as a tossup? Are they that slow to update, or do they really think it's within 60/40?
+Senate R likelihood fell a bit... https://t.co/9KOXjqt0EW
+@rainbow_jeremy_ Those are the probabilities assuming the opposition turnout is high. It didn't make too much of a difference in the markets I'm watching except for Tester. He loses about 20 points if there's a high R turnout.
+@rainbow_jeremy_ Tee hee. That's from a super secret source that uses this methodology: https://t.co/qL8itRPxDW
+That should read SENATE R and HOUSE D.
+In case you're wondering how I approximated those probabilities, I pulled sample data from @FiveThirtyEight to create a scatter plot, then mapped a sigmoid function to it. The resulting equation was 1/(1+EXP(-0.26*(MARGIN-0.15))). https://t.co/RFAqGvumgL
+@rainbow_jeremy_ That's what I meant by my last comment. I originally thought you were referring to win probabilities. My bad.
+By the next major election, I expect to implement a weighting system and do what I can to automate data retrieval. Doing all this manually is a pain.
+@rainbow_jeremy_ Oh, you're talking about differences in value between model consensus and PredictIt. Gotcha.
+My first major election on @PredictIt and my first spreadsheet to track the markets I'm in or watching. They're in order of average probability according to model/poll consensus. Sorry not everything's up to date. https://t.co/f7ecdmLIXR
+@rainbow_jeremy_ Smith is even safer, with no model going below 89% and all models averaging 92%.		Manchin's a little trickier with a model consensus of 84%. That's dragged down because of 0ptimus' 66% probability.
+@rainbow_jeremy_ Only Cook has Menendez as a tossup. He's over 90% with every other model except 0ptimus, which has him at 88%. Weekly Standard has him at 99%.
+@Eco11C @pjhurray Haha. I've taken a break from them with the midterm markets. Elections are a much different game. I'm afraid when I return to tweet markets they'll feel foreign again. ;)
+@pjhurray I've been through this phase. Lost a lot in tweet markets, but eventually made it all back and then some. Good luck!
+@keendawgSSG @rainbow_jeremy_ @jipkin @Domahhhh Slipping a little in the models, but still in the low to mid-80's
+@keendawgSSG @rainbow_jeremy_ @jipkin @Domahhhh Tester's down to 60c, btw.
+@jipkin @keendawgSSG @Domahhhh Not even Stabenow? My model puts her at ~98%. I'm pretty comfortable. I have Menendez and Smith at around 91%.
+Had to reboot my phone to get the app working
+*S6
+#PredicitIt Last time I opened the app, I was finally able to use Disqus. I was automatically logged it. Great! Then this happened after hitting the back button on my Galaxy 6. It's just sitting there. https://t.co/MYd0YGPkEi
+@realDonaldTrump Greet them with citizenship applications, then.
+#PredictIt I can't log into Disqus at all through your app. Everything else is working now, though. No longer getting logged out, so thanks for the huge improvement!
+My wife bought me a stoat pin. https://t.co/9O8dE7otBy
+Also, hitting the back button while in Disqus.
+Two things always cause an unwanted logout: refreshing and tapping the home icon.
+Switching back to v1 doesn't solve the problem.
+@PredictIt Your mobile app is unusable. It keeps logging me out, sometimes only seconds later. I'm missing out on trades.
+@RealVinceJames @realDonaldTrump @DonaldJTrumpJr Now show videos of the Civil Rights Movement.
+@XXXHUNTER77XX @DonaldJTrumpJr @PhyllisSutherl8 @CNN Conservative democrats. They pretty much don't exist any more. MLK was a liberal. He was a registered Republican, but he also called himself a Social Democrat.		Sorry the facts ruined your bullshit point. Have a nice day!
+@Griffs1999 @MSan_AR @DonaldJTrumpJr @YouTube You realize that's a joke, right? Kavanaugh was promoted. He's fine. Obviously.
+Bonus Lindsey Graham https://t.co/Sligk4l1wG
+If this isn't the face of innocence, I don't know what is. https://t.co/8oy12tlW1P
+@chiefek2 @StopTrump2020 @realDonaldTrump No one's saying he should be convicted of a crime without evidence. You're making that up so you can whine and complain about a figment of your imagination.
+@StopTrump2020 @realDonaldTrump Twitter polls are the most accurate. Also, whether people are guilty should be determined by social media from now on.
+@WhiteHouse Oh, so CNN's only fake news when you want to push a different narrative.
+RT @business: Wages were supposed to rise after Trump's tax cuts. Instead, they’ve fallen https://t.co/LactYzTE7a via @bopinion https://t.c…
+RT @Jason_April: Remember when the 2000 presidential election was rigged and our response was to reelect Bush?
+"House Democrats are finally getting the chance to vote on a Democrat-sponsored immigration bill — and they're planning to vote against it."		https://t.co/uZOuiwbkbG
+The U.S. has undermined at least 81 elections, including one in Russia. Maybe we're setting a bad example.		https://t.co/u7B7jb4cKt
+He's a liberal, too, btw.
+@RepDarrenSoto @HispanicCaucus @USProgressives Meanwhile, we support other brutal dictatorships, like Saudi Arabia, and even arm them. We meddle in elections, including Russia's. But it's cool when we do it. We're setting a great example for the rest of the world.		https://t.co/u7B7jb4cKt
+@NextAdvisor I saved even more money by not borrowing money.
+One of the most disgusting comments I've seen in a while. From here: https://t.co/SytRkTHSwd https://t.co/pp6tKIQwdh
+This is about ensuring subsidies regardless of which party's in power, but enabling climate change deniers is a pretty shitty way to go about it.
+RT @jacobinmag: There are decades where nothing happens, and there are weeks where decades happen. https://t.co/ZFEeizNJOh
+:/ https://t.co/2bLCXPqLvG
+Can CRS sink any lower?		See https://t.co/SytRkTHSwd
+@mitchellvii You can bet actual money on this here: https://t.co/A79BjmxCT0
+@znvalentine @realDonaldTrump Yeah, North Korea is totally denuclearizing. Lol.
+@RepDonBacon But are you okay cutting welfare for the disabled, elderly, children, and disenfrachised?
+@jean__mueller Anti-Semite!		/s
+@joebennett4321 @Lutehenry1 @WilheminaFoxx @StateDept @POTUS https://t.co/JLS5WqqvaM
+@WilheminaFoxx @StateDept @POTUS Both require extreme paranoia.		Even Kim knows that any attack on the US or an ally, and we can wipe his country off the map. Never a threat, and you have zero evidence that NK was a threat. Nice chatting with you. Bye.
+@WilheminaFoxx @StateDept @POTUS A missile test is a show, not a threat. If I flex my muscles at you, am I threatening you?
+@joebennett4321 @Lutehenry1 @WilheminaFoxx @StateDept @POTUS Lol, what? The US military is overfunded to the point that they're dumping surplus on law enforcement. That's why police have military gear.
+RT @christinawilkie: Less than 24 hours and already there are two versions of what happened. In one, NK called the Chinese to tell them Tru…
+@Lutehenry1 @WilheminaFoxx @StateDept @POTUS Do you honestly believe our military is so weak that North Korea could manage to get missiles past the most advanced missile defense system in the world?
+@WilheminaFoxx @StateDept @POTUS 1. The US is not Japan.	2. That was for show.
+@StateDept @POTUS What propaganda. Literally nothing has changed. We were already at peace.
+@Scavino45 @WhiteHouse @AP @evanvucci Thumbs up to one of the most brutal dictators in the world!
+@realDonaldTrump We shouldn't trade at all. Other countries don't deserve our goods and services. And we're so strong that we don't need them!		#LiveInTheBubble
+@mayasthingsz @realDonaldTrump The door is next election.
+@PressSec There's still plenty of time for a recession. Also, more jobs doesn't mean less underemployment if those jobs aren't full-time.
+@foxandfriends @realDonaldTrump How many were full time? Three?
+@CollinRugg Are we at war with North Korea? Where are the casualties?		How can you create peace when there isn't any real conflict in the first place?
+@CollinRugg You mean the same peace we've had since we exited the Korean War? Unless NK denuclearizes, which they won't, nothing will have changed.
+@The_Trump_Train @realDonaldTrump Wow. Sparsely populated areas are red while high-density populations are blue. Thanks for this information.
+@_Makada_ War was never on the table. Do you actually believe NK can penetrate the most advanced missile defense system in the world?
+@RacismDog And sexists never marry women.
+@JohnCornyn @politico WOW! That's so much money! How much do we spend on failed military intervention each year? How about just the interest on our war debt?
+@ScottILA1459 @Akshaywritez @realDonaldTrump Oh, in that case it's fine that they're missing? It's cool that families seeking asylum are being deported, but the U.S. is keeping their children and tearing families apart? Way to completely miss the point.
+@rainbow_jeremy_ @WhiteHouse @PredictIt Bold
+@paul_kotowski lol, wut
+@0x_____________ @rainbow_jeremy_ It just came back for me.
+@WhiteHouse Meanwhile, civilians in Yemen are dying of starvation because Saudi Arabia targeted their food supplies, and we keep selling arms to Saudi Arabia. The U.S. supports terrorism.
+@VP Forcing people to do things is freedom!
+@VP @POTUS Meanwhile, Saudi Arabia is funding ISIS and slaughtering civilians in Yemen. But that's cool because they're our ally.
+@Pete_Monahan_JD @AG123321GA @PredictIt They went after people for using PredictIt extensions? I wouldn't call that scraping.
+@AG123321GA @PredictIt I doubt it's related. Seems to me that it would take a large number of users scraping data simultaneously and constantly to cause such significant lag.
+@RonaldKlain Did it occur to you that people of color DECLINED to show up because Trump's a racist POS? That raises the odds significantly.
+@realDonaldTrump Most people on food stamps work. There are fewer people on food stamps because you made it more difficult to qualify. Fuck you,
+@Hooplogic @williamlegate @PressSec Nothing short of both a world war and a civil war could distract from Trump's scandals. If you really want to understand the purpose of the strike, ask why Obama was bombing Syria, too.
+@SenMarkey @facebook I'm sure he'll explain exactly what data go to federal agencies like the NSA in a public hearing.
+@AG123321GA @PredictIt @POTUS I don't think it's too soon to call this an overwhelming consensus.
+@sethdmichaels @SeanTrende @databyler @DanRosenheck Like stock markets? Like forex markets? Like commodity markets? Please explain how prediction markets are special.
+@VP As a FREE nation, we don't have to respect anything we don't want to.
+@morelaugh @heshsson @williamlegate Not until Trump signs the bill.
+@VPPressSec @VP @realDonaldTrump Wow. There must be almost 20 people there.
+@AndrewBond3 LOL. As someone far left of progressives, they look pretty moderate to me.
+RT @IFLScience: Trump Administration Forced To Release Report That Confirms Humans Are Causing Climate Change	https://t.co/TXclEeMs55
+@realDonaldTrump Are these great numbers? https://t.co/PvY5QcQA6j
+@sahilkapur Trust is earned. The FBI, like the CIA and NSA, has a long history of scandals.
+@Domahhhh @rainbow_jeremy_ "The Disqus comment section is for informational purposes only..."

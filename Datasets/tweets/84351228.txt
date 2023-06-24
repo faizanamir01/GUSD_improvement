@@ -1,0 +1,946 @@
+RT @AliceBLee: Mike is one of the most thoughtful people I know and his writing is both rigorous and warm. 		Here’s me reflecting on my car…
+RT @samswey: #StephonClark was murdered in his grandmother’s backyard for holding a cell phone. The DA received $13,000 from police unions…
+@DMiliband Explain  the factors?
+@ger Maybe use the Canonical link system?
+RT @AliceBLee: "A lab co-op helps young faculty members to thrive" by Dr. Rebecca Heald 	https://t.co/gSAZLNN8FS
+On the day we celebrate the 50th of Doug Engelbart's	"Mother of All Demos", we make a "tribute demo", using Solid. Lots more to do, but very much shared goals. Intercreativity. [Includes a cover of Shopping List]  https://t.co/WD9BJBic1f #redecentralize https://t.co/dmK1Zuf3QH
+RT @webfoundation: In March 2019 the World Wide Web will be 30 years old.		Half of the world’s population will be online. Half will not.		T…
+Today’s revised @ITU figures show more than half the world is now online. This really is a 50/50 moment. Now more than ever, we need a contract #ForTheWeb to make sure everyone gets a web worth having. Let’s work together to make it happen! https://t.co/znWmbhcOuO @webfoundation https://t.co/Wnvy103349
+Yes. #Article50 is a broken design.   It should be changed to others don't get into this mess in future. https://t.co/Soeq9ZsoxJ
+The open web is #ForEveryone to exercise their freedom of expression. It is a creator’s ally. Let's make sure it stays that way. Join the campaign to #SaveYourInternet https://t.co/awSM1xqrZa
+The web gives anyone the power to speak without asking for permission. But, if we allow the #EU #CopyrightDirective to establish upload filters, this freedom will be threatened. Our right to free expression must not be subject to a flawed #CensorshipMachine. #SaveYourInternet
+The #CopyrightDirective would hurt small-scale creatives and startups who would be unable to comply with a regulatory model designed for the era of the printing press. #EU reps must stand up for our digital future #SaveYourInternet https://t.co/tGxpRoWmeB
+@inrupt @Preben_Frenning Thank you @pruben_frenning really appreciate it!!!
+@Preben_Frenning @inrupt Thank you!   Yes, very kind offer accepted with gratitude! We would love to have @inrupt.  Yes - good name we think too. How best to transfer it ..
+It is absolutely necessary to have a second referendum #secondreferendum https://t.co/SwBqc2hz7Q
+Join the @webfoundation’s campaign #ForTheWeb. 		Work for the web. 		March for the web. 		Fight for the web. 		Together we can build the web we want #ForEveryone. 		Get involved here: https://t.co/cw39fNEoxe #WebSummit
+I’ve just shared a new contract #ForTheWeb at #WebSummit. It’s going to take all of us - citizens, governments and companies - to solve the challenges that face our web today. Check out the starting principles and supporters: https://t.co/gM4bUiYQFS
+We’re at a 50/50 moment for the web. We’ve created something amazing together, but half the world is still not online, and our online rights and freedoms are at risk. The web has done so much for us, but now we need to stand up #ForTheWeb #WebSummit
+Looking forward to the #WebSummit! Tonight I’ll be speaking about making the web work #ForEveryone everywhere. Watch it here: https://t.co/nHrnfWfUob #backstage https://t.co/qNhixY6YIx
+@webfoundation @guardian Exclusive: dramatic slowdown in global growth of internet access ...  we had expected there to be &gt; 50% online by now
+RT @A4A_Internet: What are the costs of bringing connectivity to your device?		The 2018 #AffordabilityReport, released today, has insight:…
+RT @adrianlovett: My thoughts in the Telegraph as ⁦@A4A_Internet⁩ launches new report: Global growth in internet access is slowing sharply.…
+https://t.co/XL8e9Le0pG Amazon (Inc Wholefoods) min wage to $15  👍
+@MaxZiebell @inrupt_inc Ooop that bug still not fixed https://t.co/JhZZXiBsZi  Yes, clunky i many ways but putting together a whole new world. Help us make it less clunky!
+@MaxZiebell @inrupt_inc What were you trying to create?  Which site are you on?
+I just published “One Small Step for the Web…” https://t.co/oFXLZOzVzN
+Group ACLs are very useful and more or less the last missing part of the core Solid server functionally. Important step. https://t.co/MZdh58ikYM
+RT @melindagates: “Through her role in Black Panther, @letitiawright has sent a clear message to young women: Being a nerd is cool.” #Women…
+@sobri @facebook Do check out Solid - would be great to have Arc store stuff in a Solid!  Just tell Arc your current fav solid store and it and do HTTPs put, POST, PATCH, etc.. storing things in Solid folders by date.. chat:  https://t.co/wC3t9dGCTd
+@sobri @facebook Where does Arc app store your data?
+@sobri @facebook Excellent - thanks for the pointer ... I'll check it out. My Christmas list now includes an app which uses LocoKit and stores the data in my Sold server (a la https://t.co/wog7Mio7hI) ...
+"Thanks for using Moves As of July 31, 2018, you can no longer log in or use the Moves app. Thank you for your support over the years and for being a Moves user." -- https://t.co/37tBieGg8t So @facebook, as Moves' new owners, will you make the Moves app code #opensource ?
+RT @bblfish: Apple's #Touchbar understood as a 2nd screen, could have a part which is trusted and owned by the OS to display the party owni…
+RT @nnenna: Dear @A4A_Internet  and @SMARTAFRICA_ this is what life looks like for Africans who are frequent travelers.  This is why we nee…
+Thankfully this disaster averted for now... but we must lock in open by making sure people understand principles like the right to link  CC @webfoundation https://t.co/wf28vRcWvx
+@BlankSteve It is never too late.  Because the process of people picking up a new better way of doing things depends on the value it adds, but is actually independent of the huge number of people who do it the old way.
+RT @edent: I don't understand the blockchain hype.	A startup has certified my artwork &amp; placed their verification on the bitcoin blockchain…
+The concept of re-decentralizing the web is now mainstream ..  #redecentralize https://t.co/z2U368ml8m
+@BofA_Help Well, one thing you could do as at acknowledge that it impossible in online banking (or the iPhone app) to create or edit a recurring transfer to someone else at the bank.  Then you start an internal task to fix it. Let me know when you have, and any progress.
+RT @superwuster: The AT&amp;T takeover of TW is so Master Switch I feel like I need to put out a new edition
+With @BankofAmerica online banking:  "Only personal, not business, checking and savings accounts can be added"  Can't transfer money to a business? #fail #justbizarre . Also can't create scheduled transfers to same bank. #fail
+@charlote_o89 (a) I was looking for and asking for women with question but missed you ... Sorry! (b) Really good question.  Get them each to make their own web site with a raspberry Pi?  Get them each to get a domain name? Get them to bog?  Show them old B&amp;W movies of bloggers in their prime??
+I’m honoured to be giving an #ACMTuringAward lecture tomorrow. The livestream will be available at https://t.co/9Gx2AtlLYH. Tune in at 10am GMT+2. Thank you @TheOfficialACM! #webscience #websci18
+RT @demandprogress: THANK YOU #TeamInternet! 		In a historic vote, the Senate just voted 52-47 to save #NetNeutrality! 		The battle continu…
+RT @demandprogress: Demand Progress's statement on the Senate's historic passage of the CRA resolution to restore #NetNeutrality: https://t…
+Massive thank you to all who pushed for this in different ways! https://t.co/nwRsjDyoWj
+The Senate voted to protect #NetNeutrality. Thank you @SenMarkey , @SenJohnKennedy , @lisamurkowski , @SenatorCollins and everyone who stood up for an open web. All of us make the web what it is. I hope this bipartisan spirit is kept alive as this goes to the House!
+RT @webfoundation: Today, the Senate votes on whether or not to repeal net neutrality. 		A message for @lisamurkowski @SenJohnKennedy: The…
+RT @demandprogress: Reminder: The Senate votes *TODAY* on whether or not to save #NetNeutrality. This is not a drill -- contact your member…
+After inventing the web, when I came to the USA, its rules promoted the open internet as a space for innovation. I hope I can count on your support for the CRA to keep this spirit alive cc @SenJohnKennedy @SenDeanHeller @lisamurkowski #NetNeutrality
+I invented the web to create opportunities #ForEveryone, but dismantling #NetNeutrality will create advantages for the few who can pay for priority access. #RedAlert Join the fight to protect the web: https://t.co/eeajF4UwuL + https://t.co/RFPLhMZpLl
+So important https://t.co/8AXLNxV04X
+@AllizonAndOn Like cp is how I remember it — you can go down the road of “what you normally think but opposite ” but that way lies madness
+RT @webfoundation: What is #NetNeutrality and why are we on #RedAlert to protect it today?		Watch the video, and visit 👉🏽 https://t.co/lG88…
+Thanks to @SenMarkey and the senators who signed the CRA discharge petition, the Senate will be voting to save #NetNeutrality next week. Show your support for a free and open internet and call your senator today. #RedAlert
+I invented the web as an open, permissionless space #foreveryone. The FCC’s repeal of #NetNeutrality threatens to take that away. Tell the Senate they must protect net neutrality to keep the web open: https://t.co/B73BzfwMi0 #RedAlert cc @lisamurkowski @SenJohnKennedy @JeffFlake
+RT @safepress: Advocating personal ownership of data by combining @timberners_lee's Project @SolidMit with a distributed cloud (née #fog) m…
+Sigh Microsoft/Skype account recovery doesn't recognise emails with plus signs.   Though Skype allowed them at account creation.  #weak #rtfrfc
+RT @safepress: Helping make the #SAFEnetwork like the "Standard Web" (URIs, RESTful protocols etc.) plus:		- user ownership of data (#Solid…
+@safepress Well done bringing SAFE and Solid together!
+The zealots will sleepwalk us into Brexit if we let them https://t.co/JeF3XbbZhH
+Ban targeted advertising by or for political parties. https://t.co/Vb7DNGNHvk
+Keep up the good work @ODIHQ and @JeniT !  Huge thanks to @OmidyarNetwork for supporting important things! https://t.co/9ljxuZYDFk
+@BofA_Help You ARE experiencing issues.  Log on yourself, go to "Transfers..' to someone with a bank account at another bank" and you get a broken website. Just acknowledge you have an issue.  You have a broken web site. No I don't have time to go through your phone system. https://t.co/IhlgmofkUI
+@BankofAmerica When will your transfer online website be back up? #fail https://t.co/3yBBs3QyS9 "This page isn’t working If the problem continues, contact the site owner. HTTP #ERROR400"
+RT @twrling: More #NetNeutrality protests across the county; Ohio, Florida, Louisiana, Colorado, Utah, Alaska https://t.co/r6AEWW8c4P
+@bcnorange @johnbattelle @NewCo Don't slay the dragon.  Leave it. When you build something new small and viral, its growth is not a function of how big the dragon is.  A function of the value it offers, the excitement level of the first few who get it, and the spirit of the age.  https://t.co/wog7Mi6wqa
+I hope so https://t.co/Uj6TKUiPUQ
+RT @amyvdh: Boston #MarchForOurLives https://t.co/swM6slDlqp
+There's an interesting job ... https://t.co/xHYo7ZFUgD
+RT @DeSemWeb: Now more than ever, it’s time to re-decentralize the (Semantic) Web. Contributions welcome: https://t.co/2txbAs2Eko	Looking f…
+For more of my thoughts on how we get everyone connected, and make sure they have a web worth connecting to, check out the @webfoundation blog: https://t.co/BSQgYn0oOg 9/9
+And to every digital rights organisation large and small, to every journalist investigating the impact of data and the web on our world - thank you. Keep fighting for the web we want. The web will not realise its potential without you. #oneweb #foreveryone 8/9
+What can web users do? Get involved. Care about your data. It belongs to you. If we each take a little of the time we spend using the web to fight for the web, I think we’ll be ok. Tell companies and your government representatives that your data and the web matter. 7/9
+My message to all web users today is this: I may have invented the web, but you make it what it is. And it’s up to all of us to build a web that reflects our hopes &amp; fulfils our dreams more than it magnifies our fears &amp; deepens our divisions. 6/9
+If you have access to data for research purposes, it is REALLY IMPORTANT that you ONLY uses it for research purposes. So much important science and medicine depends on that data. 5/9
+General rules for us all: Any data about me, wherever it is, is mine and mine alone to control. If you are given the right to use data for one purpose, use it for that purpose alone. 4/9
+I would say to him: You can fix it. It won’t be easy but if companies work with governments, activists, academics and web users we can make sure platforms serve humanity. 3/9
+I can imagine Mark Zuckerberg is devastated that his creation has been abused and misused. (Some days I have the same feeling #justsaying) 2/9
+This is a serious moment for the web’s future. But I want us to remain hopeful. The problems we see today are bugs in the system. Bugs can cause damage, but bugs are created by people, and can be fixed by people. 1/9
+Yes there is more than one social network ... https://t.co/81ZoHu7yeI
+We have lost a colossal mind and a wonderful spirit. Rest in peace, Stephen Hawking. https://t.co/ectv7r4UIm
+Thanks for all of your #HappyBirthdayWWW wishes &amp; the overwhelming response to my letter. Let's work together to create the web we all want #ForEveryone! https://t.co/BSQgYn0oOg
+@British_Airways No, they are NOT allowed to do this.  Under great pressure a supervisor can, but IME normal checkin staff at GVA etc won't and say they can't.   Staff at LHR T5 have been told this a deliberate move by BA HQ to try to penalize those who find cheap fares. On website? URL?
+Love it when people really think about whether this is the web we really want --- like @cortico cc @webfoundation https://t.co/hNBucAp2Cb
+RT @stewartbrand: J. Baldwin WAS Soft Tech and Nomadics at the Whole Earth Catalog from the very start.  For many, he was the heart and sou…
+Seriously?  @British_Airways won't check bags on through LHR  if incoming and outgoing on separate reservations? Deliberately? #fail Deliberately doing something which decreases value may look like short term win but is long term #fail. 😠
+@OxfordshireCC Please 1) put the URL of your payment website on the parking ticket so I don't get phished googling it; 2) Make it a subdomain of https://t.co/vNnDtOGL3J so I trust it (not https://t.co/wIdrVfBdBR which I don't know from Adam) #basicwebsecurity Thanks!
+@w3c So thats at a frequency on average about 540nHz (nano Hertz)  Way to go W3C (aka 1/21 days)
+RT @w3c: What a milestone!  Since its start, October 1st 1994, W3C has published 400 Recommendations (and more are on the way!) https://t.c…
+Sweet.   Way to go Rob Bliss.  https://t.co/KUYpK1crkG #NetNeutrality
+RT @demandprogress: Senator Dean Heller of Nevada is one of the senators we believe can be convinced to become the 51st vote we need to res…
+.@SenJohnKennedy, help keep the internet a force for innovation, a platform for free speech and a source of great creativity! Please support the CRA vote to reverse the FCC's repeal of #NetNeutrality
+Our social networks  amplify negative more than the positive. Great article  https://t.co/q3hqovBgMR cc @webfoundation
+Well said. https://t.co/AsSYZf80Hi
+RT @MoveOn: #ProtectWorkingFamilies or we #VoteThemOut. CALL #FL's @RepCurbelo &amp; @HouseGOP &amp; demand they vote NO on this #TaxScamBill: 844-…
+Wealth inequality that is already the most extreme in any industrialized nation, with three men – Bill Gates, Jeff Bezos and Warren Buffet – owning as much as half of the entire American people. @FordFoundation #inequality https://t.co/mue6pjBJG5
+#shedissented Yeah https://t.co/TOeCOZsjFi
+The @FCC's proposal to undermine #NetNeutrality would be a disaster for the internet, for consumers &amp; for innovation. That's why I've joined internet pioneers calling for tomorrow's vote to be cancelled https://t.co/fbYfTRKMLr   	- Call your reps NOW -&gt;&gt;&gt; https://t.co/M4unzzpp0D
+#NetNeutrality allowed me to invent the web. If protections are scrapped, innovators will have to ask ISPs for permission to get their ideas out – a disaster for creativity. A disaster for the internet. Tell your Reps to stop the vote. https://t.co/WlTfbe9ZNg … @webfoundation
+Act Now!  https://t.co/WlTfbe9ZNg #Netneutrality = separate connectivity market and content market. As separate markets, both have flourished.  If the FCC returns us to the old cable TV model — The US will decline as the world’s chief digital innovator. And it will be so boring
+Well done https://t.co/91zpYzcCGD
+RT @AlanScottHolley: Seattle out here protesting on behalf of #NetNeutrality! #StoptheFCC #VerizonProtests @fightfortheftr https://t.co/kFb…
+RT @EFF: Wherever you are, speak out to defend net neutrality! https://t.co/KdzErtiifO
+RT @webfoundation: .@adrianlovett sees two major challenges to the web that currently connects almost 50% of the world:		- how to connect t…
+Github also calls for New Neutrality https://t.co/MQqM6NeeMF -- really important to make your voice heard.
+RT @webfoundation: What does it cost to purchase 1GB of broadband data in developing countries? @A4A_Internet published one-of-a-kind resea…
+RT @RubenVerborgh: FCC chairman Ajit Pai asks the government to “stop micromanaging the Internet”. A dishonest and misleading plea, since i…
+Woo-hoo!  Now you are talking ... https://t.co/EJV6HYGCLt
+😀😀😀 https://t.co/uy3p418B9Y
+@SirBogan @British_Airways @guardian I have asked, with no success. Once told it was some policy not to...
+So why do @British_Airways lounges never have the @guardian ? #asktheweb #justwondering https://t.co/EYgMBXvZ7g
+Thanks to @1776dc for having me today to talk about the importance of a free &amp; open web #foreveryone. I hope you'll all join me in the fight for #netneutrality and to keep the web a platform for permissionless innovation. Follow @webfoundation   Take action. Protest.
+RT @w3c: Past, future, wonders and worries: 'The Future of the Web' with Web inventor @timberners_lee, in conversation with @BradStone at t…
+RT @markweinstein: CREEPY ALERT FOR ANDROID USERS: "Activity Recognition" - Make a lot of noise about this - we've got to get a "disable" o…
+RT @namedgraph: Edge is the default browser on Windows 10, yet it doesn't support certificate management. Is that a joke @microsoft?	https:…
+@Jason @facebook Another silo? or a world where everyone controls their own data: @SolidMIT  https://t.co/wog7Mi6wqa https://t.co/p6HdVaIT8A
+Sweet https://t.co/FqUnEt4bRg
+RT @RubenVerborgh: “Let’s build a marketplace for Linked Data, since we cannot rely on ads or donations”	—Tobias Grubenmann #DeSemWeb2017 #…
+RT @heikopaulheim: #iswc2017 10 years award for the original @dbpedia paper. Congratulations! https://t.co/FPZFcLkdC2
+Oops @gogo prod sel #fails on chrome satelliteLib-4b3[...]b6.js:3 GET https://t.co/46PRdfLSqu.... /adframe.js net::ERR_BLOCKED_BY_CLIENT
+RT @hadleybeeman: It’s Ada Lovelace Day! Here’s to computing being driven by the clever, the creative and the persistent — regardless of ge…
+RT @ctznme: Or "why the safest person to own your data, is you".  (We're working to make that happen) https://t.co/I13bW3s2CA
+RT @AriBerman: 33,000 gun deaths a year in US		"Don't talk about guns"		31 cases of voter impersonation since 2000		"Voter fraud!"
+RT @PPFA: Birth control is NOT CONTROVERSIAL. The vast majority of women will use it in the course of their lifetimes. #HandsOffMyBC https:…
+@chrisdancy @MrAlanCooper 1) Targeted ads by political parties are undemocratic. see https://t.co/GWMF6bG4lB  2) That ads are the only business model is a myth.
+RT @Open_Data: #OpenData from the Large Hadron Collider sparks new discovery https://t.co/PqKJM3hW20 via @engadget
+Congratulations, @RubenVerborgh !!! https://t.co/nCLG07gzZf
+"Counteract fake news? SNS stop advertisers targeting users by political views, ... during election campaigns." https://t.co/fWYF6bnli2
+RT @webfoundation: "Access to information is like an access to life, information is life."- @nnenna 		Read more in @UNESCO: https://t.co/3S…
+We are very lucky and excited to have you on board, Adrian! https://t.co/qmljhKbVkG
+RT @webfoundation: We fight for digital equality #ForEveryone. Watch our new video to find out more. https://t.co/48oWNuupa2 https://t.co/N…
+RT @webfoundation: Welcome to the team, @adrianlovett! https://t.co/8L4nQWgYLj
+A huge welcome, Adrian!! https://t.co/pBzTk8FIGr
+“The case against the EU depends on avoiding a discussion of the alternative.” https://t.co/httd1c8ATD
+Why the #netneutrality protest matters https://t.co/kowOLDSMuX
+Indeed, totally. https://t.co/TPcyUxC02I
+RT @i_amthecode: Tech giants rally today in support of net neutrality https://t.co/ydDDpu5fKP #netneutrality
+RT @petersuber: Write to the @FCC about #NetNeutrality https://t.co/IkUzL7vSVE . See @gigibsohn tips for making it effective https://t.co/4…
+RT @YacineWF: ¿Qué tipo de web quieres? El inventor de la web @timberners_lee por qué debemos ser fuertes para #NetNeutrality https://t.co/…
+RT @arstechnica: How did the creator of the Web feel about #netneutrality back when all this modern debate started in 2006? https://t.co/F4…
+RT @Google: We support #NetNeutrality protections. An open internet allows everyone to express themselves, innovate and compete. https://t.…
+RT @webfoundation: What kind of web do you want? The web's inventor @timberners_lee on why we must stand strong for #NetNeutrality https://…
+#NetNeutrality allowed me to invent the web without having to ask for permission. Let's keep the internet open! https://t.co/EFahwkEBnS
+TODAY: Join the https://t.co/HLuFZOEWgq ! https://t.co/g40lavi485
+@webfoundation @adrianlovett Very excited -- Adrian will be a great CEO for @webfoundation
+RT @NeelieKroesEU: No more roaming charges. This week it is finally going to happen, thanks to the EU. https://t.co/uXDfxmNQnk
+RT @A4A_Internet: Check out this interactive map of the proportion of people in every country with access to the internet: https://t.co/g42…
+RT @ShahakShapira: I PHOTOSHOPPED SARUMAN INTO TRUMP'S ORB PICTURE AND IT'S NOT EVEN WEIRD https://t.co/cVJFGP5NPG
+RT @A4A_Internet: How do African countries rank in our 2017 Affordability Report? https://t.co/7BN8QcANwI #TAS2017 #SmartAfrica #AR17 https…
+RT @AnnCavoukian: Very cool! Privacy AND data utility: win/win! https://t.co/hcRVrwLWL6
+RT @A4A_Internet: "While the internet needs energy, energy can benefit from the internet too"| Read @TetraTechIntDev's @nilminirubin: https…
+RT @csarven: 🚀 https://t.co/fzhFcxvO8e is a @W3C Recommendation w @SocialWebWG  Let's continue to build an exciting ecosystem of #LinkedDat…
+Reading some manifesto? Does it have these #opendata points? https://t.co/C0dnbiRpbI
+Don't say "Account recovery email sent to x", say "Account recovery email sent to x FROM y with SUBJECT z"  to help me find it.... #uitips
+@csarven You could keep the http: but make sure the server provides Upgrade Insecure Requests (UIR) so that it can be connected to securely.
+RT @w3c: Celebrating the 2nd anniversary of @thew3cx with a new JS course &amp; Front-End Web Developer Professional Certificate! https://t.co/…
+RT @jimmy_wales: I am making something new.  I hope you like it. https://t.co/BYCWDkydBU #wikitribune
+RT @tom_watson: Let’s celebrate St George’s Day,	The dragon in repose;	The brilliant lark ascending,	The yew, the oak, the rose https://t.c…
+RT @A4A_Internet: Have a look at how some countries have made Internet access more affordable, accessible, and universal #AR17 https://t.co…
+And now a class action suit about just this https://t.co/l2etdKgCsK https://t.co/EtX5IsQb5p
+Interesting https://t.co/icf3G07bqA
+RT @JeniT: It remains completely ridiculous that it isn't easy to accurately geolocate addresses in the UK. https://t.co/VNf1eQ7gtF
+@harryhalpin	Harry I think a profuse written email  apology to Amy would be appropriate to for that one.  And a retraction on twitter.
+RT @A4A_Internet: More than 30 million people to be given access to free internet in the Indian state of Kerala https://t.co/gMl4xOA63B
+RT @BobMorris_ii: @AjitPaiFCC It is truly most beautiful when the dewdrops on the web sparkle and shine in the sunlight of #NetNeutrality #…
+RT @SenSanders: Our job: transform our energy system to protect the planet and also grow our economy in a sustainable way.	https://t.co/9vS…
+RT @bertails: What is Structured Data with respect to SEO? Instead of describing a webpage (e.g. title), you describe Things on a webpage (…
+RT @zittrain: A fog-clearing post by @normative on @just_security on the President's tweets that Trump Tower's phones were tapped: https://…
+RT @RBReich: Trump is either dangerously paranoid, dangerously relies on right-wing talk radio for facts, or, if he was tapped, likely comm…
+.@nickstenning Context: Upgrade Insecure Requests is better than changing all the URIs to httpS: as that breaks all the links.
+@nickstenning Exactly.... including a lot of links burned into all kinds of devices. Upgrade Insecure Requests saves this.
+@nickstenning Context: Upgrade HTTP :to be secure -- or break every single link on the web?  That was the tech discussion behind that.
+Nothing like #opendata to expose the actual truth.  https://t.co/KQxZmIHaDp
+RT @WikiLovesWomen: But ... only 16% of the biographies on English Wikipedia are about women. And issues like child brides, FGM, etc. are u…
+The authoritarianism tip of the fascist iceberg. Agree.  So how? https://t.co/PLC1saeBRq
+The ability to mess with copy/paste should need site-wide user permissions, like accessing the camera.  URL injection -&gt;  security threat. https://t.co/wpIknypAFi
+RT @AnnCavoukian: Don't get sucked up by the allure of Echo or Alexa: take heed of the warnings regarding loss of privacy and sensitive per…
+RT @charles_gaba: Since this thread has gotten some attention, here (again) is a breakout of how many people could lose coverage if the #AC…
+RT @w3c: Three recommendations to enable Annotations on the Web https://t.co/ckEJY5u3Gg
+RT @SenSanders: How does it happen that we live in a world in which 6 people own more wealth than the bottom half of the planet?
+The time to #fightback is now. https://t.co/HwpXvcybq9
+RT @jimmy_wales: I am at Parliament Square for #1DayWithoutUs https://t.co/u5NloqRWXz
+RT @Evan_McMullin: .@ruthbenghiat: 'Trump, Bannon will shock and disrupt society and government to allow their consolidation of power.' htt…
+RT @SenWarren: .@EPA nominee Scott Pruitt wouldn't provide his office's records of dealings with Big Oil, so a court ruled he must release…
+RT @SenSanders: It's important to remember that we not only have massive wealth and income inequality, but a power structure which protects…
+RT @slashdeiu: Marching for science in #Boston. https://t.co/7bF5NFN2au
+RT @SenSanders: The real “fake news" is Trump’s claims of mass voter fraud, which is virtually nonexistent and based on zero pieces of evid…
+YES! A global calendar of protests and events. Check https://t.co/cU1TqjI3ao for upcoming actions. EVERYWHERE.
+Suddenly we have to protect basic human privacy rights again ... https://t.co/m7rQS2HerG
+Mark's manifesto: https://t.co/MX117noVZQ @webfoundation
+That used to be the default reasonable argument.   In 2017 it is no longer, we have to much more sensitive to lies. https://t.co/hHzWIijtYZ
+Not often I retweet a promoted tweet ... https://t.co/h07cwtheSb
+RT @MayorofLondon: There has been a shocking increase in reported hate crimes since Brexit. Hate crime is completely unacceptable. We must…
+RT @ggreenwald: Let Flynn's resignation create a new rule that any government official who gets caught lying to the public is forced out.
+RT @SenSanders: The American people did not vote to pollute the environment. We should not be dismantling protections that ensure clean air…
+RT @SenSanders: Surprise, surprise. Many of Trump's major financial appointments come directly from Wall Street – architects of the rigged…
+RT @SenWarren: Congress must pull its head out of the sand and launch a real, bipartisan, transparent inquiry into Russia. Our natl securit…
+RT @SenSanders: Michael Flynn leaving the administration isn't enough to clear up questions that many of us have about the Trump team’s tie…
+“The Immigration Ban is a Headfake, and We’re Falling For It” by @jakefuentes https://t.co/fKiYYgExXA
+@HansRosling what a wonderful person, funny, convincing, inspiring ultra creative.  A great loss!  @OlaRosling KUTGW!
+@HansRosling What a wonderful person! inspiring, funny, so creative showing people things using data. Great loss. @OlaRosling KUTGW
+RT @w3c: W3C expresses concerns on visa suspension that may hurt our worldwide collaboration, by Coralie Mercier https://t.co/cJDdX4Ady2
+RT @SusaneWong: So called President is #NotMyPresident https://t.co/oTfP53i6J2
+#socalledpresident https://t.co/xYq7PvAywP
+So @Bose SoundTouch speakers report listening habits to Bose HQ?! #privacy #fail #seriously	https://t.co/FehNsuctsA https://t.co/BWwlwnugBN
+Well said https://t.co/yzPW1tLJnU
+Avaaz - Join the "World to Trump" Open Letter https://t.co/0hBFEihayY
+Here's what the protest of Trump's refugee ban looked like at Boston's Logan Airport https://t.co/FFB94N2LXJ
+@csarven  https://t.co/sFfrMBn79h  was first website; later, URIs with user state encoded became huge, but cute URLS  short =&gt; divergence
+RT @gregjames: This is so brilliant. 		#WomensMarch https://t.co/d0Ox7qJiqG
+RT @larryryckman: People chanting: "Love not hate, makes America great." #WomensMarchdenver https://t.co/Fukn4pYq1k
+RT @sherrifflucy: Trafalgar Square right now. London, you beauty #WomensMarch #womensmarchlondon https://t.co/tvmbThRNWV
+RT @webfoundation: Defend your digital rights &amp; say no to bulk gvnt #surveillance by supporting @libertyhq's challenge to the #IPAct: https…
+RT @AngstromHoot: being violent and drunk in Japan sounds amazing https://t.co/mfTETfjQwj
+New @Bose speakers.. they now record what you stream and tell Bose!?! https://t.co/wYeACch4tY  #privacy #seriously #MyData
+@WLTaskForce https://t.co/E6I6YxZmOJ @kevincollier Same objective  @Number10gov 's    https://t.co/CMgGRpKOwx to understand your enemy ...
+RT @FLOTUS: "You see, our glorious diversity of faiths, colors and creeds is not a threat to who we are – it makes us who we are.” –The Fir…
+Especially on an iPhone when there is no "show typing" button #justsayin https://t.co/vWaFlPrNsy
+RT @ndw: Who started the anti-pattern that you can't paste into a password field? I have a few angry words to share ...
+RT @elonmusk: How do we know this story isn't fake? Unfortunately, it is probably true. https://t.co/YzyP4kG63R
+RT @JPBarlow: If Trump actually *is* suffering certifiable mental illnesses, as seems increasingly obvious, what are we to do? Impeach &amp; co…
+as opposed to "This site is designed for the new 800x600 monitors. Please adjust your resolution"!     #deviceindependence well done CSS https://t.co/zepQSck4SK
+RT @pewinternet: Smartphones help those without broadband get online, but don’t necessarily bridge the digital divide https://t.co/eBsFzecL…
+10 years with Web Science as a thing .. needed now as much as ever to analyze how humanity is benefitting or not from the web https://t.co/NBzgmrzBb3
+Interested to help keep the web open &amp; ensure it's #foreveryone? Unique #policy role to work w/ me &amp; @webfoundation https://t.co/9kYnV8aAcX
+RT @firefox: Keep gift ideas under wraps with automatic private browsing in Firefox Focus. Finally, an un-spoiled surprise: https://t.co/ms…
+RT @benadida: We know what’s going on, and we know what to do – my thoughts on Trump. https://t.co/SuXQP5Dc8M
+RT @w3c: W3C Staff is #thankful for our families and those of our collaborators who put up with long telcos, travels + meetings on public h…
+RT @w3c: W3C staff is #thankful to our Chairs - and Editors and WG/IG/BG/CG participants https://t.co/6xx3OAT6Zh
+RT @w3c: W3C staff is #thankful for the opportunity to work with people around the world to improve the Web for all
+RT @w3c: With caveat that we're global + other countries give thanks on different days, we use this opportunity to say W3C staff is #thankf…
+RT @UK_CAGE: Snooper's Charter is set to become law: how the Investigatory Powers Bill will affect you		https://t.co/rvQUJEyvNg
+RT @ArsTechnicaUK: Why the Investigatory Powers Act is a privacy disaster waiting to happen https://t.co/U7aTlFauBY by @glynmoody
+Dark, dark days. https://t.co/AP5UCdUhnb
+RT @nancyjosales: Donald Trump's Twitter account should be suspended for spreading fake news
+RT @kurteichenwald: Can u imagine how many zillions of GOP congress hearings there would've been if Clinton or Obama settled a case chargin…
+RT @mcspocky: #CrookedDonald pays 25 million to settle Trump University lawsuit.	#NotMyPresidentElect #ctl #p2 #TopProg #UniteBlue #Crimina…
+No, @POTUS DO NOT NORMALIZE but rage, rage against the dying of the light! #NOTOK #pathalogical #worstever #climatechange #science #reason https://t.co/GpYMaKAgVS
+RT @TechCrunch: Grace Hopper and Margaret Hamilton awarded Presidential Medal of Freedom for computing advances https://t.co/DCo2esaukw
+RT @bcrypt: 26.4% of eligible voters in the US voted for Trump	26.5% voted for Clinton	44.4% didn't vote		:(
+L O V E             S T R O N G
+RT @swin24: "In the coming days, commentators will attempt to normalize this event." https://t.co/huOlK05Yx4
+RT @Pinboard: Techies in the US, we have two months now to think about what kind of data we’re collecting and storing on people, and do the…
+RT @GeorgeMonbiot: The biggest security and surveillance apparatus any state has ever devised is now in the hands of Donald Trump. Ponder t…
+RT @benadida: To the women, PoC, LGBTQ people in my life, no matter what happens tonight, I will stand by you and support you in every way…
+RT @mathewi: So all the fact-checking of Trump's lies, all the investigative journalism about his failures, even the tapes -- none of it me…
+RT @slightlylate: Sudden clarity about why @elonmusk wants a multi-planetary society. Just a little unsure if it should be populated with h…
+RT @RubenVerborgh: So @Facebook, when are you getting that “show me posts I disagree with” option? Because it would help a lot of people un…
+RT @JPBarlow: For the first time ever,I am truly ashamed of my country. I thought of Americans as kind, decent, generous, fair, rational...…
+RT @djweitzner: Such great contributions to privacy and humane innovation all around the world! https://t.co/e62AY0Yvph
+RT @MikeBloomberg: .@Bloomberg's HQ is lighting up the New York City skyline tonight in honor of the #ParisAgreement going into force. http…
+RT @DavidAgus: Impressive! Mayor @MikeBloomberg donates $18M to two CA ballot initiatives to tax sugary drinks #HealthLeadership https://t.…
+Opinion | Is There Life After Trump? - The New York Times https://t.co/UMaIlVHxTw
+RT @ZephyrTeachout: I'll fight for renewable energy and against fracking. I'm running against a lobbyist for payday lenders and pipeline co…
+RT @bcrypt: i refuse to observe daylight savings time
+RT @timoreilly: I see many positive reasons to vote for @HillaryClinton, but if you don’t, conservative @davidfrum explains why to vote for…
+RT @jasleengumber: Hahahaha.. damn that's the Royal buzzer 🙈😂🙊 #pitchatpalace https://t.co/Po6YFuFRWw
+RT @scoutu: @MobilePowerLtd great pitch - come talk to us @Raspberry_Pi - we'd love to help #pitchatpalace jack@raspberry phi.irg
+RT @scoutu: Honoured to bring #svc2uk10  to #pitchatpalace and excited to think about the problems that will be solved in next ten years #t…
+First #pitchatpalace of 2016 https://t.co/FWRr494qpn
+Victory for the Exegetes Amateurs! French Surveillance Overturned by Constitutional Council | La Quadrature du Net https://t.co/YgixnPA35A
+RT @cynthia_lardner: #trumpgoingdown 	#VeteransAgainstTrump		@OVVeterans	@FelixNater	@CrowdHitter	@_North_Carolina	@JOE_1122	@Stallion_Team…
+@realDonaldTrump's world collapsing around him. His bullshit about rigged election? dangerious lies of a bad loser #trumpGoingDOWN https://t.co/pg0JmoTJRx
+#trumpGoingDown https://t.co/VYG1Zc3JKN
+#trumpgoingdown https://t.co/jrl9bVxPe1
+RT @BlumsLaw: Trump's voter fraud claims knocked down by Philly officials https://t.co/CPkIdU0VNt
+RT @BlumsLaw: Going full Mussolini: Trump's beef with SNL is no laughing matter @CNN https://t.co/2CsLPub2Nh
+RT @brianstelter: Donald Trump's biggest lie is about the election itself. Here's what I said on @ReliableSources https://t.co/Wt2dlOdczw
+RT @philarcher1: .@DameWendyDBE opening #w3catsoton event. @w3c has a new UK &amp; Ireland office! https://t.co/OcCd27Yc4J
+Value people no matter what kind! *Timely* &amp; timeless kids book "Barefoot Book of Children" https://t.co/VwwBgkd7Ce Well done Nancy T &amp;co! https://t.co/ZBq3ducdhG
+RT @Marthalanefox: I agree. Sadly. https://t.co/15uiqLi8Yx
+RT @Grady_Booch: From the wonderful mind of David Sedaris. https://t.co/Dz1E68g663
+RT @HillaryClinton: Three pages of Trump's tax returns confirm he's a business failure who's gotten rich at your expense. Imagine what he’s…
+RT @hitRECordJoe: The other night, I had the chance to meet @Snowden's mother and father. -- https://t.co/jS2uKn1VwW https://t.co/fA7kZEZktH
+#PardonSnowden  background: https://t.co/m0KnxJB0IO action: https://t.co/AcOFaq2Mdh
+RT @webfoundation: We're off track for global goal of connectivity for all. Time for a more ambitious affordability target! @UNBBCom https:…
+RT @webfoundation: Thank you to everyone who submitted their comments &amp; stood up for #netneutrality! #BERECpublic https://t.co/9nS54GjMFn
+@sschuermann @txreto No. To generate a header dynamically IS too hard/complex, just to say "this is REALLY public"?!  Why not ACAO: *** etc
+@txreto @sschuermann CORS is hard and broken: have to end up disabling caching across origins for very public resource.
+Who on earth made up August 23?  #getitright https://t.co/k76dhmjlNF
+Join me and @vanschewick and @lessig and speak up for #netneutrality in Europe. https://t.co/RtsMH56BLi #SaveTheInternet @webfoundation
+RT @webfoundation: Join our founder @timberners_lee and speak up for #NetNeutrality in Europe https://t.co/81n2lVj7JK #SaveTheInternet http…
+RT @nnenna: These 20 teams have worked for 2 months.. Whoever wins tonight.. Félicitations to all. #TechMousso https://t.co/wpoAjjNiTs
+RT @webfoundation: Congratulations to the #TechMousso winning team &amp; idea of using data to monitor maternal health #datarevolution https://…
+RT @webfoundation: BREAKING: UN #HRC32 passes important resolution affirming that "the same rights that people have offline must also be pr…
+@DrDanielASmith @Fly_Norwegian @MIT_CSAIL do come visit!! ...or are you a #brexitrefugee in which case there may be a quota ... Or a wall...
+RT @prototypo: #Brexit https://t.co/IZzcqAdZ63
+RT @JohnLeesCareers: Keep circulating - this is the image and promise Boris would like us to quietly forget  #BorisJohnson https://t.co/q2F…
+RT @nadderley: What are the odds on David Miliband winning the next General Election now ? #BorisJohnson #corbyn
+"UK markets lost more money in one day than the country paid into the EU over 15 years .." https://t.co/ptX31C8sMg
+https://t.co/kQqlvKzOEC #NetNeutrality Another step in defining important values for our society
+RT @demandprogress: To every person who took action demanding strong #NetNeutrality – signing petitions, tweeting, and making phone calls:…
+Verifying that +timblee is my blockchain ID. https://t.co/guOp0wLf4y
+@dangillmor "We had a 25th anniversary of *PGP* and no one noticed" I think was the quote
+Ilaria Liccardi  MIT/CSAIL privacy research https://t.co/ayzFzUGh1F with Oxford -- Guessing home address from tweet scatter
+RT @webwewant: Africa needs Internet that is FAST – Fast, Affordable, Safe, Transparent. 	RT if you agree! #FASTAfrica https://t.co/YfmdcbF…
+Interested in how #opendata could benefit everyone? Read the @webfoundation 2016 #ODBarometer, out today. https://t.co/Ya5TxsLWx4
+@AuCanada @Monmontreal @MTL_Ville @www2016ca Trés heureux d'être encore à MTL .. 🇨🇦 près à mon ❤️ grâce à ma femme 🇨🇦canadienne!!
+World to miss Internet access targets 'by a mile' at current pace - @FortuneMagazine @a4ai_internet @webfoundation  https://t.co/icN0V6FSru
+Websites, if you ask "Did you know....? [Find out more]" always allow the answer [yes actually I did] &amp; remember answer! #ux101 #webdesign
+Say no to back doors in software  https://t.co/py11NUeeAw @webfoundation
+Changing the way a SN site works can improve its effect on the world e.g. Randi Harper on Twitter  https://t.co/lbLMtyXomU
+Researcher illegally shares millions of science papers free online to spread knowledge https://t.co/yZTEh7T2Lq #via @ScienceAlert
+RT @RichardDawkins: Why in the world is BBC hiring a young earth creationist to host BBC Breakfast? Why not someone who accepts reality? ht…
+Well done India! passes strong #netneutrality rules, stands up for open Web. See @webfoundation -&gt; https://t.co/CvahcQYNtd #savetheinternet
+RT @RichardDawkins: Thousands of charter &amp; private schools in America teach Creationism &amp; are fully or partially funded by tax money. https…
+RT @w3c_systeam: Upgrade the web, Implement CSP upgrade-insecure-requests directive  =&gt; CC: yourself https://t.co/xvbARy3tLN #safari #upgra…
+@iainthomson It's also alas often more or less what an error alert actually says! Unhelpful error messages train users to disrespect them.
+Delighted to work w/ Afsaneh Beschloss, chair @webfoundation to advance Web as public good &amp; basic right globally https://t.co/jfXWd1meZE
+Thank you #Wikipedia15 for a fantastic resource plus a shining example of global collaboration! 15 years https://t.co/bQQt3XK8ax
+https://t.co/xVt0nuYX8M
+IETF approves HTTP error code 451 for Internet censorship https://t.co/wez2H66ft1
+RT @MarietjeSchaake: Sad and worrying #internet #freedom  https://t.co/aw6ZMgRYzV
+RT @webfoundation: We're proud to join @accessnow @PINigeria in saying #NoToSocialMediaBill. Read the letter: https://t.co/SHwtCJe6gK https…
+RT @johnlsheridan: So friends and colleagues know, I'm very pleased to announce my appointment as @UkNatArchives Digital Director on a perm…
+RT @josderoo: Semibackward reasoning is backward reasoning for EYE components i.e.	rules using &lt;= in N3 and forward reasoning for rules usi…
+RT @guardianeco: Paris agreement is offcially adopted https://t.co/13nBQHC0EH #COP21
+RT @guardianeco: Paris climate deal: nearly 200 nations sign in end of fossil fuel era https://t.co/txi0gfJvSe
+RT @UNFCCC: Unbridled joy as the #ParisAgreement is adopted at #COP21 in Paris!	https://t.co/fHq89g050p
+RT @markweinstein: If you halt or weaken encryption, you hurt the good guys. Bad guys know where to go. Encryption Is Not The Problem https…
+RT @astorije: Dear annoying websites,	No, adding `onpaste="return false"` to your inputs does NOT improve security. It does cause frustrati…
+Want to radically change the Web, resulting in true data ownership as well as improved privacy? Come work with us! https://t.co/1Ah4BYtuwH
+RT @mikeysmith: Some examples of the difference between Internet Connection Records (no warrant) and browsing history (warrant) https://t.c…
+RT @Snowden: 5 days ago, I warned UK govt sought to ban strong encryption, despite public denials. https://t.co/jV7uW7tTiO Today: https://t…
+RT @wseltzer: Chilling Effects becomes Lumen @lumendatabase, broadening scope to illuminate the online world for the next decade+! https://…
+RT @martintisne: Since 2013, 1/3rd of #OGP countries have proposed new legislation restricting civil society. This is unacceptable. #OGP15 …
+RT @webfoundation: Our latest #opendata in developing countries research is available here: @od4_d https://t.co/n1qDzpm2My #OGP15
+RT @webfoundation: Happy #AdaLovelaceDay! Check out our blog series on #WomensRightsOnline around the world: http://t.co/KRjAZrVYwy http://…
+http://t.co/5nAHlczqYj
+RT @elfpavlik: http://t.co/UMBZntNs94 @CrosscloudOrg Pls RT! @unhosted @MyCozyCloud @redecentralize @fossjobs_net @ownCloud @withknown @ind…
+@sleevi_ @mikewest Come to the TAG f2f and say that
+Idea1: Every talk you give, make one new graphic. Idea2: Every app you make, make one fresh widget.
+"Georgia claims that publishing its state laws for free online is 'terrorism'" http://t.co/O7LsSqmnXu
+RT @webfoundation: Italy 1st European country to introduce Internet #BillofRights. Our statement: http://t.co/wjrh3yyXSh @avilarenata http:…
+How I can I se the internal compile commands which fail in a “go get” installation? http://t.co/puqV9qYGGv
+@johnabbe yes
+Excellent  https://t.co/OBNXUzm3EZ
+RT @W3C_DevTools: Here's a glimpse of the next @w3c Mobile Checker. Stay tuned! http://t.co/JgasmFtSBB
+@ChaseSupport Please fix your download Activity.QFX format: DTSTART and DTEND should be start &amp; end of statement NOT today's date!
+RT @BernHyland: .@GeoHealthUS is in top 10 companies #crowdfunding but needs your support TODAY please contribute https://t.co/ZrHjaQXD4o #…
+@ferrouswheel well p2p interesting but a social net company committed to never  use/sell data  is a massive improvement over others
+@mhausenblas yes disclaimer I am advisor to MeWe.
+Mewe -- privacy-respecting Social Network --  is on WebFunder -- https://t.co/5QPwqWSiSF
+@timoreilly @pahlkadot Congratulations to both and have a great honeymoon
+RT @w3c: We strongly oppose pervasive surveillance, and are very concerned by France's intelligence bill. http://t.co/7XCe3tTWB8 #NiPigeons…
+Congratulations to you both! @timoreilly @pahlkadot
+RT @webfoundation: The Web turns 26 today! Here are 10 big moments for the Web over the past year. Which moments would you include? http://…
+my @reddit AMA is live now. http://t.co/CZFGzDfF64  AMA!
+Join me on http://t.co/3QMtrGqWJL at 18:00Z to talk about the future  of Tech For Humanity  #maketechhuman http://t.co/DmvGAZ1tl6
+RT @narroyo: Linked Data Platform 1.0 is a W3C Recommendation http://t.co/CWT5fW0v4e
+Talking about #opendata and @ODIHQ for #smartcities at #GREATShanghai2015 intro by #HRHDukeOfCambridge http://t.co/6fpVOQ0ChQ
+RT @NobukoMiyairi: Without a license, the data can't be reused @Nigel_Shadbolt #innovationisGREAT http://t.co/IxsECF2vyt
+RT @demandprogress: We just won the biggest victory in the history of the Internet. #NetNeutrality wins! https://t.co/BL4V9L4PUt http://t.c…
+RT @anildash: One year ago, every person I know who understands the FCC or internet policy considered net neutrality dead. But the people w…
+RT @WIRED: In light of the FCC approving net neutrality, here's Tom Wheeler on how the FCC will ensure Internet openness: http://t.co/UfGTN…
+RT @Newsweek: “The internet is simply too important to allow broadband providers to be the ones making the rules” --FCC chairman http://t.c…
+RT @firefox: The FCC’s vote on #netneutrality today is victory for the world’s largest public resource: the Web.	https://t.co/ozk7WSir3L
+RT @timoreilly: Here's @barackobama’s surprise video intro to @dpatil’s keynote at #StrataHadoop yesterday http://t.co/ruvul5yyMY
+RT @macfound: Filmmaker &amp; #MacFellow Laura Poitras on @citizenfour's pivotal moments: http://t.co/H8jZqTj1hy via @NewsHour http://t.co/jQIm…
+RT @firefox: An open internet shouldn’t be stuck behind a loading bar. Sign our #NetNeutrality petition: http://t.co/xlTds8FrH0 http://t.co…
+RT @webfoundation: Remember when @nnenna rocked #NETmundial? Look back at her speech again here: https://t.co/nd0ABxBZFl http://t.co/nC4YCU…
+RT @webfoundation: Say YES to #NetNeutrality http://t.co/klbK90XvWS
+RT @ryanmerkley: So proud of @FordFoundation for requiring @creativecommons CC BY on all grant-funded projects http://t.co/QG6Ab04go6
+RT @creativecommons: Ford Foundation to require CC BY for all grant-funded projects http://t.co/fjpu8wR0Zz #OpenPolicy cc @FordFoundation
+#Davos x Twitter: which mainstream sources influences the influencers? See @FT interactive  #WEF2015 http://t.co/3gYaf62oVl #opendata #viz
+RT @marcfmath: Most Consumers Want to Own the Personal Data Collected from their Smart Devices http://t.co/N7G8FpbD4U #personaldata
+RT @guardian: Everyday images of climate change from around the world http://t.co/8Yno33cs6U http://t.co/uHciAEnOo4
+RT @webfoundation: The 2nd edition of our #OpenDataBarometer is now out! Read the report &amp; explore the data- http://t.co/T0CZdIkY3u http://…
+RT @stephenfry: Gosh. @ElliottGSpencer and I go into a room as two people, sign a book and leave as one. Amazing. http://t.co/bPDQD5WQoB
+@JAlanBird  An unwelcome start to the new year! Our thoughts are with you and your family, Alan.
+RT @mashable: World Wide Web inventor says Internet should be 'human right' http://t.co/CdLUS6YVDe
+RT @webfoundation: Got a question for @timberners_lee on the state of the web in 2014? Tweet it using #webindex and he will answer a few fr…
+@danfowler @webfoundation  HTTP is stateless and the WWW non-national: pragmatic/ironic that policy controls its values is nation based.
+RT @webfoundation: Is your country spying on, censoring or restricting #Web use? Find out in our #WebIndex - http://t.co/LlbkguA842 http://…
+RT @webfoundation: How is the #Web impacting social, economic &amp; political progress? Find out in the 2014-15 #WebIndex, out DECEMBER 11- htt…
+What is the #WebWeWant? Join the debate on @State http://t.co/pxdywLTKrN http://t.co/V0HQfHjLxs
+RT @JPBarlow: I just gave a hundred bucks to #Wikipedia. It would still be a bargain if I did that every week. https://t.co/hsBfSS1kbP
+RT @TrustLayers: Could this Cambridge startup have helped avoid #Ubergate privacy scandal? - @bosbizdavid http://t.co/B5dJ1YzolX  #unblocky…
+RT @libbymiller: For Mike Dean, "Donations may be made to the WikiMedia Foundation or the World Wide Web Foundation." http://t.co/BwqVurj3Ex
+RT @demandprogress: Huge victory! President Obama comes out in support of strong #NetNeutrality &amp; Title II reclassification. Great work: ht…
+RT @webfoundation: The @whitehouse has issued a statement in support of Net Neutrality. Bravo! Readi it here: http://t.co/G9t22nTYmi cc @ti…
+RT @WhiteHouse: I'm urging the @FCC to keep the internet open and free. Here's my plan to protect #NetNeutrality for everyone: http://t.co/…
+UK  agencies spying on lawyer-client communications in sensitive security cases http://t.co/jVu5DaXIhd #netrights #web25 #webwewant sheeshh
+In stage at #ODISummit Amy Mather codes in Python http://t.co/86FgdoCtsV
+RT @webfoundation: Italy's draft Declaration of Internet Rights is now open for public consultation. Learn more via @pdmteam| http://t.co/I…
+RT @poulpita: [better web] HTML5 is a @W3C Recommendation http://t.co/xpYB8YsHTl, congrat' to the heros who made that happening ... \o/
+RT @w3c: #HTML5 is a W3C Recommendation http://t.co/El1jgeO5Ue
+Di-Ann Eisnor @dianneisnor takes us beyond crowdsourcing toward mass participation at #w3c20 29 Oct http://t.co/M0rkPCF9fm #jointimbl
+Anders Wahlquist @handors will share how stories empower, and how to power stories at #w3c20 29 Oct http://t.co/M0rkPCF9fm #joinTimBL
+RT @SarahBrownUK: Great day for children's rights and education with Kailash Satyarthi &amp; Malala Yousafzai winning @NobelPrize - both @aworl…
+David-Michel @dmdlikes of @TheWebbyAwards to tell surprising tale of the Beautiful Web at #w3c20 29 Oct http://t.co/qXpssmUNog #joinTimBL
+RT @w3c: Updated #w3c20 program speaker topics http://t.co/gfDNOW8P9R Join us on 29 October!
+Fadi @icann_president, Jun @shimshamshimmy, and Darren @darrenwalker envision #internet governance at #w3c20 29 Oct http://t.co/M0rkPCF9fm
+Lee Rainie @lrainie will share @pewresearch on #web &amp; moderate “Future of the Web” panel at #w3c20 29 Oct http://t.co/qXpssmUNog #joinTimBL
+RT @Inteliot: As cars become more intelligent, data specification is needed. See what @W3C is doing to spearhead this effort. http://t.co/A…
+RT @codemiller: I code because it's challenging, creative, powerful, captivating, fun, and potentially world-changing. #WhyWomenCode http:/…
+RT @dillonmann: 1 year ago, I was in Abuja, helping to launch @A4A_Internet. Here's what we've done in a year!  http://t.co/Mu6tmccpb8 #aff…
+Looking forward to keynoting #IPEXPOEurope tomorrow in London @IPEXPO http://t.co/66180gb29d  #CyberSec14 #DataCentre14
+Just about to go onstage with @richardsusskind at #southbank #webwewantfest #livestreamed
+Warming up for #WebWeWantFest at @southbankcentre #webwewant #netrights #southbank
+RT @philarcher1: I love this. @shepazu enthusing a bunch of people, including @w3c DWBP WG's Bernadette Loscio, about SVG &amp; RDF https://t.c…
+Looking forward to @SuePGardner on large-scale #collaboration and #future #web at #w3c20 29 Oct http://t.co/M0rkPCF9fm #joinTimBL
+@jtauber welcome back!
+Imagine with Moh @MohHghighat power of #web driven by full hardware access at #w3c20 29 Oct http://t.co/M0rkPCF9fm #joinTimBL
+Hear from @alex_pentland on creating a sustainable digital ecology at #w3c20 29 Oct http://t.co/M0rkPCF9fm #joinTimBL
+Vint Cerf @vgcerf explores digital vellum and long term #web preservation at #w3c20 29 Oct http://t.co/M0rkPCF9fm #joinTimBL
+RT @NewsRevo: London 1000's fill Trafalgar Sq for #March4NHS against privatization of National Health System http://t.co/6UvtuTKuq8 http://…
+RT @NeelieKroesEU: Sad to learn of 51,000 websites currently blocked in #Turkey - not just Twitter, YouTube and sexual sites - and no trans…
+RT @globalvoices: #Israel Moves to Make its Biggest Land Grab in 30 Years, in #Palestine's West Bank http://t.co/72bOxzbJho http://t.co/Lyc…
+Silicon Valley get tix now for #w3c20 Anniversary Symposium, 29 Oct http://t.co/M0rkPCF9fm #web25 #vision #dinner #joinme
+http://t.co/D9pwMXuZOa recently passed a billion websites by their count....
+Ad injection?!  http://t.co/Esu1HM8JEN  #unbelievable #violation #netneutrality #netrights #concast #fail not#webwewant
+The USA is in a battle for the open internet.  http://t.co/Wc3KEavLyZ #InternetSlowdown http://t.co/Wa1VDYIp6S #USA
+@stefanwild You can't expect users always to do the right thing, but consistently training them to do the wrong thing can't help!
+Ooops https://t.co/zIbHrXl4M2 uses an invalid security certificate. Only valid for: {mobile,www}.bankofamerica.com #fail #boa #baml
+RT @PacificStand: What articles aren't telling you when something is "just as addictive" as cocaine: Addiction is a learning disorder: http…
+"We've signed you out because ... outdated version of @Skype. Download the latest ... now" Only when on @gogoinflight #irony #fail
+RT @shelleypowers: FCC Inundated With Net Neutrality Comments  http://t.co/t7Snhtj9vP via @CourthouseNews
+RT @kraykray: Love this article about nostalgia. tl;dr: scientists say wallow, it's totally cool. http://t.co/0Ig2oCwSsv
+Cable's trying to end #netneutrality &amp; break the Internet for profit. 36 hours left to stop em http://t.co/YMvYzOqU7L http://t.co/53Y4c7qQZX
+RT @MITEECS: Mourning tragic loss of Prof. Seth Teller, 1964-2014. Devoted to building machines that help people. http://t.co/5ZkCI4rh0V
+@maggied HOW? Why?  timbl
+Money has corrupted our democracy. Can we fix it? Act now, join #MAYDAYUS -- let's try something new: http://t.co/Zohl0FmfMZ
+#Inequality deniers; #climatechange deniers : deja vu -- incompetence or  malice? read @darrenwalker 's http://t.co/PqYgrNtBo1
+Forbes India: #InfiniteAnalytics: Small Company, Big Data, Bigger Ambition http://t.co/twr1FVcYqY proud: our MIT #linkeddata students
+@mounirlamouri E g when someone invites me to share a doc using my normal email address it now fails. Must use the http://t.co/chaOdxIKbi
+Google: "You must get a gmail account, but u can still use your normal email to log in".  BUT NOT AS YOUR ID ON GDRIVE ETC ETC  #fail
+Solar Freakin' Roadways ... https://t.co/eq3fXmhXS9
+Pls RT: FCC can and must reclassify and restore Net Neutrality. @TomWheelerFCC  http://t.co/0VmSa9IxUT via @demandprogress
+RT @swin24: Why the FCC is ditching net neutrality: http://t.co/QRPK111hkI http://t.co/FspkeepI6X
+RT @JesselynRadack: .@DanielEllsberg: "There should be a #Pulitzer Prize for sources because they're part of #press process."
+Awesome contribution to #webwewant  https://t.co/liXE6BJg0k #web25 @webfoundation  Thankyou @firefox  #mozilla #notadatapoint #netrights
+USA: "The court that created the patent troll mess is screwing up copyright too" http://t.co/Xa1ofJalPj
+RT @zahnster: The WHO has a vision of the future, and it's not fun.		http://t.co/k9NoPU6FCq
+RT @TimKarr: Ooof! @FCC Chairman Tom Wheeler makes a cameo appearance in a NY Times cartoon http://t.co/OcEFib6b9r #NetNeutrality
+RT @laurenonizzle: It's time to launch the largest protest the FCC has ever seen: http://t.co/2mwtxYdQN3 #NetNeutrality #PleaseRead
+RT @glynmoody: Internet Blocking Protests Force #Mexico Government Retreat - http://t.co/qSxdSzz0UD good news, assuming it happens
+RT @webwewant: "@gilbertogil Com o criador do www, Tim Berners-Lee, aqui no #ArenaNETMundial debate ao vivo:  http://t.co/ghIYHT9tFY http:/…
+RT @JeanneHolm: Huge increase in journal readership in India when access is made open #ciardgodan http://t.co/NBEft7qXhT (via @LizCarolan) …
+Great speech by and chat with @dilmabr at #netmundial2014 after she signed #marcocivildainternet into law. #netrights #web25 #webwewant
+RT @dilmabr: O nosso modelo de #MarcoCivil poderá influenciar o debate mundial na busca do caminho p/ garantia de direitos reais no mundo v…
+Dilma Rousseff Pres of Brazil after just signing the Marco Civil da Internet. http://t.co/dA4HNQkIsG
+RT @YourAnonNews: In defense of Freedom of Speech and Internet Freedom in México: http://t.co/TCY4eRB1HS #DefenderInternet
+RT @deaneckles: RT @onurvarol Digital divide by education and age in Turkey #www2014 http://t.co/QGM1htgKLW [Compared w other countries, ed…
+Minister says gov should move to open standards not insist on ActiveX on its web sites #www2014 Korea
+RT @GirlsNotBrides: #Endchildmarriage is not a lost cause: we are seeing progress for girls in India, blogs @Landesa_Global http://t.co/0pE…
+Well done:  European Parliament passes strong net neutrality law, along with major roaming reforms #netrights  http://t.co/BQgNU2xXeJ
+RT @policy: We welcome this Constitutional Court ruling, and hope to have Twitter access restored in Turkey soon. http://t.co/MfynTaB1tk
+RT @torgo: #TAGselfie! http://t.co/KRueLu2ZbX
+I just demanded real-time disclosure of US political donations. Join me.  http://t.co/P3RnyGimf3  Join #rootstrikers #UScorruption
+RT @EFF: Let's put a stop to patent trolls. Tell the Senate we need strong reform to take on these baddies: https://t.co/rgfduAwOzC #fixpat…
+@binarybits @pmarca Board responsibilities of non profit.  Tight rules in general maybe.
+RT @YourAnonNews: MAP: Here Are the Countries That Block Facebook, Twitter, and YouTube http://t.co/eeATKo2HUD http://t.co/ETLYfQbrBf via @…
+RT @webfoundation: "We congratulate Brazil’s leaders for their courage and vision". Blog on Marco Civil: http://t.co/JPeaLIfDa4 cc @AFJelle…
+RT @Rosental: MT @marcocivil: Historic photo: Brazilian Congress celebrates approval of #MarcoCivil, the Internet law http://t.co/XOZznNcCCT
+RT @Rosental: Brazil becomes a world leader in net neutrality: Brazilian House passes Internet bill #MarcoCivil http://t.co/U8k6Or1Avz
+RT @BoingBoing: Days after Turkey banned Twitter by tweaking national DNS settings, it orders ISPs to block Twitter's IPs. http://t.co/yx3U…
+RT @webfoundation: #marcocivil may be voted on in Brazil this week. Read @timberners_lee statement of support here http://t.co/aOmhdv20NB #…
+@robinberjon @karlpro "My tabs are list of things to read in future.  I want them in order I found them =&gt; put new ones on the end."
+RT @efetuncay: @jimmy_wales Turkish ISP blocked Google DNS ip addresses this morning to stop people circumvent #TwitterBaninTurkey http://t…
+RT @YourAnonNews: What people in #Turkey are seeing when they try to go to Twitter - http://t.co/4GDWwqbfUx
+Massive thanks to all working at/with @w3c and @webfoundation for making the #web25 anniversary day such a success.  Very grateful  KUTGW
+RT @RubenVerborgh: URIs given by a server should be usable during its entire lifetime—either as resource or 404, both using hypermedia. htt…
+@jobsworth Oops I lied that was G-CIVG  https://t.co/vj6ssfyKo1
+@jobsworth Dude, isn't G-CIVB the one doing the wifi trial?  Possibly the only wifi-equipped BA 747?
+RT @Web25: Just one of the exciting events happening this year - @WebWeWant festival with @southbankcentre from September to May 14. cc @we…
+RT @webfoundation: Today is a happy day but let’s keep in mind that the web is under threat.What is the web YOU want? Join us #web25 http:/…
+RT @philljenkins: Happy B-day #web25.  Glad @IBMAccess was an original sponsor of @w3c_wai http://t.co/Aax2yMUJ30  let's celebrate #csun14
+http://t.co/YAzhTIJoBL Did AMA -- have to stop now -- all continue discussion #web25 http://t.co/5SnJGhokav gtg
+I invented the WWW 25 years ago and I am concerned and excited about its future. Reddit AMA at 3pm Eastern. http://t.co/YAzhTIJoBL
+“C.I.A.’s search may also have violated 4th Amend't, CFAA, as well as Exec Order 12333" http://t.co/M1vC7No2Wh
+@SandraRimetz Thank you so much for the letter.  Yes, a 25yo person and a 25yo web need independence, have rights -- and responsibilities.
+RT @markbriggs: $120 billion was spent on content last year. Less than 5% went to the creators. "That f#@king blows." - @emilybest #SXSW
+http://t.co/kkBvzepowo #web25 My upcoming AMA on @reddit on 2014-03-12T20:00:00Z
+RT @enrobemoi: @Harvard_Law @impossible @lilycole @timberners_lee @zittrain @ugasser @judithd @rosemaryleith Go Lily - enjoy beautiful Harv…
+Check out newest coolest #socialmedia platform @state just launched, opinions and discussion  http://t.co/jyJzqhYFqF #EscapeFromLikeButton
+If you have stuff on MYOPERA get it out: it is CLOSING Mar 3: http://t.co/x7wa4Qk0Ry #persistence #netrot Will @internetarchive get it all?
+RT @danstuckey: Sorry #Venezuela, turning off the Internet won't stop the protest: http://t.co/L1CslDrccu http://t.co/WnETKllGrj
+Listening to Matt Wheeler live on http://t.co/cD9ffeZ1s2 #longtailoflive
+RT @FordFoundation: Dear Internet, today is #thedaywefightback against online surveillance. Learn more about @daywefightback campaign: http…
+RT @FordFoundation: "We have not managed to deal effectively with the wealth gap and the #inequality issue, particularly for women" -Yvonne…
+RT @FordFoundation: On #SouthAfrica today: former @FordFoundation president Franklin Thomas w Moeletsi Mbeki &amp; Yvonne Mokgoro #FordSA20 htt…
+RT @tom_watson: Don't Spy on Us! A new campaign against mass surveillance. Take action now to reform UK spying law. http://t.co/GVz1WUO0zB
+Today I took a stand against mass surveillance. Will you join me? https://t.co/ZrOMRolOKq #stopspying
+RT @philarcher1: Sick and tried of @BBCr4today saying 'if it's true.' Please stop pandering to climate change deniers (creationists, anti-v…
+RT @YourAnonNews: World's largest DDoS strikes US, Europe http://t.co/eoM8VvbbHn via @OxbloodRuffin
+RT @kgotswemach: Speaking on true transformation: "the trick to change is getting the behaviour right" says @AdHabb #FordSA20
+RT @greenpeaceusa: We are proud to join the @DayWeFightBack protest to end mass surveillance tomorrow #StopTheNSA http://t.co/8iIOSuig9Q
+RT @SAHRCommission: #FordSA20 The symposium brings together reps from govt, NGOs, academics for conversations around social justice issues.…
+RT @demandprogress: PLZ RT TO #STOPTHENSA - TODAY is The Day We Fight Back https://t.co/Jmvd7jDD6z #NSA #Snowden
+Joining The Day we fight back global protest for #netrights http://t.co/Aklq0BoqMp  @webfoundation @eff #tdwfb14
+RT @EFF: The Day We Fight Back has begun on the U.S. east coast. Today the Internet stands together to #StoptheNSA. Join us. https://t.co/B…
+RT @webfoundation: Over 4,000 websites have now signed up to take part in #TheDayWeFightBack against mass surveillance on the 11th! https:/…
+RT @nnenna: All the @A4A_Internet team are heading to Accra, #Ghana for the first ever multistakholder forum on #AffordableInternet ff @web…
+RT @OpenQRS: As the Web's 25th anniv approaches- do you remember when you first started using it? http://t.co/peT664r9Nd @Web25 @w3c ↬@webf…
+RT @RWanjohi: Web Inventor Tim Berners-Lee: We need to re-decentralise the Web http://t.co/aYnBUtFsoT via @timberners_lee &amp; WiredUK
+Turkey ramps up internet censorship despite protests http://t.co/b6HCepbMsM  @webfoundation http://t.co/ol8yQQPOB9 #netrights#NetNeutrality
+RT @glynmoody: NSA Reform:  What Could Have Been And What We've Got - https://t.co/KCJnZYUqj5 useful rundown
+RT @iand: A worker being replaced by a machine should be seen as an act of liberation but wage economy inverts it into a threat.
+RT @sarahlance: #inequality  #fairness RT @parneetg: Hmmmm...Investment Manager Explains Why 99.5% Of Americans Can Never Win http://t.co/R…
+RT @codinghorror: I love phone apps for websites because it is just so much fun to learn two totally different and incompatible UIs for doi…
+RT @YourAnonNews: DOJ says company that vetted Snowden faked 665,000 background checks http://t.co/pcpTdoE90y
+http://t.co/ghW9Aj6I2l Nice cartoon #personaldata shown at #wef
+Noting parallels between http://t.co/hf0wQ1lpCJ and new BCG report https://t.co/13aXrLPov7 @webfoundation #wef
+"There are two economies -- those online and the rest. ... The average UK person eg saved £1000 by buying online" BCG at #wef
+"Facebook's click-through policy statement is longer than Shakespeare's Romeo and Juliet" -- Gadiesh at #WEF
+"Trust without transparency is a frail thing" -- Gadiesh at #WEF
+Just recorded a "Presidential Briefing" video w Marta Chiergo at #WEF #wef14 (will be 6 mins when edited..)
+RT @YourAnonNews: One year later, web legends honor Aaron Swartz: http://t.co/SwWx4VCMZr
+MT @dckc "G: `Your profile eligible 4a custom URL. Terms: may b revoked...&amp; G may start charging any time.' No tx! got myown DN (u can 2!)"
+RT @ServiceSphere: Why IT struggles. http://t.co/hiljcg0M9E
+@avilarenata link?
+@jnovogratz at the #WinterSolstice no less. Appropriate... Celebrate the darkness and the light to come :-)
+@therealmaxf: honored I am! "this is you: "El Inventor" (From a kid's drawing contest in Ecuador, iirc.) http://t.co/UMCM2Q2pMu”
+@prototypo which printer did you use?
+RT @james_clark: No need to specify semantics #FiveWordTechHorrors
+RT @SFDoug: Sad RT @LibyaLiberty @clarissaward There are no words. Winter in #Homs #Syria - once a great city, now a wasteland http://t.co/…
+Think of examples of discrimination against #atheism #atheist in #UK? #lasyweb #asktheweb
+RT @RubenVerborgh: Latest node-n3 fully compatible with updated #W3C #Turtle spec: https://t.co/3VivhrWgA0	Thx @netlabsorg for bug tracking…
+@SteveMurrayM4 @British_Airways Yes, but would be nice to be able to type-chat even w/o video/audio.  Mind you youtube runs at 1.7mbps
+First transatlantic wifi for me on @British_Airways on 747 G-CIVG well done BA (Skype seems blocked :-( but HTTP, IRC OK) #trial #YMMV
+RT @UN: See what @timberners_lee said about the #webwewant at a special #humanrightsday event  in Geneva http://t.co/MPCWagRbh1 #UNRightsat…
+RT @tomgara: What is the  specific je ne sais quoi factor that made everyone care about Tahrir and nobody care about Ukraine?
+http://t.co/ITqy9xZYBP
+RT @maira: Australian Senate orders #TPP text to be made public before the agreement is signed. // Great win for transparency! http://t.co/…
+RT @tommyh: @johnlsheridan seeing as your DDMM of birth is already in the public domain, I'll join the others in wishing you a happy birthd…
+Here at #UNRightsAt20 to launch  @webfoundation 's http://t.co/ol8yQQPOB9 campaign for 2014
+NSA files decoded: Edward Snowden's surveillance revelations explained http://t.co/1h6SC40oSB via @guardian (with #wizardpictures!)
+RT @edcrooks: How the Dutch got their cycle paths. A mass die-in outside the Amsterdam’s Rijksmuseum in the 70's. http://t.co/hjbkFTjHIz
+@binarybits Serious nerds instinctively color their diagrams by resistor color code for the relevant ISO layer numbers :-)
+RT @lilycole: @jimmy_wales 		".. Now they're worth like, eleventy billion"		#webindex
+RT @webfoundation: At 10am GMT we will launch the #webindex 2013. @timberners_lee @lilycole &amp; @jimmy_wales will discuss results. http://t.c…
+The Global Open Data Initiative Needs Your Input http://t.co/xrADlEw4hK @theodi  @webfoundation  et al
+Hearing about http://t.co/XTlExgOaYu at @FF_forgood big data event in Oxford http://t.co/Vim4X85wA8
+RT @AnonyOps: We need greater, stronger, firmer committments to protect whistleblowers, not just in the USA, but everywhere else.
+UK Conservative Party [erases] 10 years of speeches	http://t.co/mokNHiljGt #accountability #opengoverment #anyonegotacopy?
+@deanlandolt Interesting point. Or can we sandbox the DRM code/device so it has no access to private data or the net? See www-tag list
+RT @odysseus_nz: BBC Radio 4 finally has Greenwald on, gives him grilling, followed by former GCHQ head who's given free ride. Sad day for …
+RT @webfoundation: Today, @timberners_lee &amp; @webfoundation on front page of @guardian on spying. Read the piece here: http://t.co/VuP2QRQxN…
+RT @TimKarr: ISPs have already begun to build a post #NetNeutrality Internet: "Orange Bans YouTube, Skype and BitTorrent" http://t.co/BKYjN…
+RT @TimKarr: Writes @ammori: We're about to lose #NetNeutrality — and the Internet as we know it http://t.co/2dDpw9GLOx
+@er0tikka I use a star sometimes to flag something which needs a reply, not necessarily I agree w it. Have you thought what alternatives?
+RT @webfoundation: .@timberners_lee mentions CSO statement re #surveillance - here it is. http://t.co/cDrMkBeeca - add your name!
+Cisco offers #opensource H.264 codec, aborbs licensing fees to make it free #webrtc #rtcweb 	http://t.co/vPMIkzcbFw
+RT @UKODI: @320x200 Our pleasure! cc @misslake @agentGav @timberners_lee
+RT @timdavies: Big message from @timberners_lee: explore the report, but also the data - and help us improve how to measure open data
+RT @JeniT: #ogp13 @timberners_lee announces the Open Data Barometer, metrics for open data readiness, implementation &amp; impact http://t.co/9…
+RT @webfoundation: Brazilian lawmakers may vote on #marcocivil today - a 'constitution for the Internet'. We'll be following closely. http:…
+Well done Gavin @JeniT and all at @UKODI: ODI announces new global network http://t.co/BtGP9Ekn1T”#opendata
+“@der42: Lovely day to be travelling to #odisummit - though some of those fields look a bit soggy” see you there!
+Excellent! ... @LocatableUK: "@LandRegGov @timberners_lee @DataGovUK ... we're building our business around your data!!”
+RT @LandRegGov: Land Registry data achieves 5 stars at http://t.co/oOf9xc6qxu http://t.co/tU2cSISgCn @DataGovUK
+"Journalism is the act of informing the public and every one of us is under an obligation to do it" --  Yochai Benkler #FifthEstate
+RT @A4A_Internet: "The majority of the world’s people are still not online, usually because they can’t afford to be"- @timberners_lee on #a…
+@Wikisteff @glynmoody @iand Could we allow small movie houses to participate on a level playing field somehow?
+@iand @mmu_man @glynmoody The value of that page is indeed limited.
+@mmu_man @iand @glynmoody See argument tree http://t.co/v9zD6nUdlo - Yes, it will but also legal rather than tech impediment. Yes re fairuse
+@MikeTaylor @w3c a) web universal, must serve all publishers.  b) why can't a new DRM serve anyone posting a movie
+@iand @glynmoody Because only movies have the massive outlay which suggests protecting them, and DRM is a pain for everyone..
+@glynmoody How do you mean, exactly? I was just pointing out many diff meanings of the word. Warped?
+RT @w3c: On Encrypted Video and the Open Web, by Tim Berners-Lee http://t.co/NA9l8lRs0a
+Please sign petition against McCutcheon  http://t.co/MjtU3f3v6d via @representdotus  Oppose unlimited bribery #electroralreform #corruption
+RT @CHedegaardEU: What would you do if your doctor was 95% sure you had a serious illness? http://t.co/OPGcgr7lyc #IPCC #climate
+Who will guard the guards themselves? Only the whistleblowers.   http://t.co/qXSgOraLAY
+Via @YourAnonNews: Sudan internet cut off as protests erupt against government  &amp; spread  http://t.co/fMlcy8nqec #SudanRevolts #netrights
+RT @nongenderous: @stephenfry Wish I could see you again in "Twelfth Night", but I was lucky to see you at The Globe last year. Such a bril…
+To link is a right without which democracy rots. http://t.co/MEzoPon8GI #netrights #freespeech #righttolink @webfoundation
+http://t.co/8ICV7zPXHA
+Spacey "give people what they want... at a reasonable price, and they'll more likely pay for it than steal it". http://t.co/trMZy3Iehk
+RT @stephenfry: Oh heavens, David Frost dead? No!! I only spoke to him on Friday and he sounded so well. Excited about a house move, full o…
+Finding incoming Skype contact request spam bothersome, and no way to block all new contact requests. #skypespam #fail
+@ne0crypt what shall we do about it?
+@jamonholmgren No I don't , Yes it is outdated .. sorry that's what there is for now
+@CopeandDalton you just managed to put your finger on just how I feel .. :-)
+@ndw There is a credit union which can do one, ask @noahmendelsohn IIRC
+@ndw @timbray Not just what data, but what used FOR.  Eg calendar - Add useful entry vs. rip entire calendar as dump of my life.
+"Once you start conflating terrorism and journalism, as a country I think you're in some trouble" - Rusbridger http://t.co/b15XFqzUKN
+RT @mathewi: from me last night: "Still wondering why we need a stateless media entity like WikiLeaks? This is why" http://t.co/PIJhNBK6o4
+How to get all you big sister's passwords http://t.co/CpytKWH9aT and a disappointing reply from Chrome team.
+RT @arstechnica: The Web’s longest nightmare ends: Eolas patents are dead on appeal http://t.co/7U6Xrso0iC by @joemullin
+http://t.co/L1rLPycYyY #linkeddata #readwriteweb thank you Melvin Carvalho
+Doug Englebart RIP wanted to augment human intellect, thru collaboration in shared space. We are not there yet.  http://t.co/SHvG14YoKg
+RT @tom_watson: In praise of ambivalence. I'm often "frozen in the no-man’s land between armies of true believers" these days: http://t.co/…
+Join me in calling on the NSA and the US government to @stopwatchingus.  Sign this now: https://t.co/KVGCa6ys3p @webfoundation #netrights
+@scrawford Well, I scan receipts, link them to bank statement transaction and/or the trip using #linkeddata &amp; Tabulator's Attachment pane.
+http://t.co/GMmWBtiVQF #aaronsw
+Congrats @jahendler! RPI announces $60M Institute for Data Exploration &amp; Apps - http://t.co/DCt9qOFehN … - #bigdata #opendata &amp; more
+RT @ACLU_Mass: Wow. Google confirms the numbers in its transparency report do *not* include #NSA surveillance https://t.co/EVzYnlFG9E
+Bruce Schneier on #PRISM etc http://t.co/J3P9PQqgJm #netrights
+RT @YourAnonNews: Many tweeps reporting that #Ankara is under heavy tear gas at the moment -  http://t.co/tUxoWjvbPn #Turkey #YAN
+RT @piawaugh: Congrats to the NSW team! MT @maxious Another Aus CKAN installation! Welcome to Data.NSW! http://t.co/8lNuwX1GXE #gov2au #ope…
+So now #tweetdeck forces you to have a tweetdeck a/c?! #fail #givemeAppswhichWorkonMYbehalfasMYagentNoOneElses
+A person blazing a trail through a network of documents vs a document blazing a trail through a network of people    Kleinberg #www2013
+It doesn't matter how many neurons we connect to, just how many. Error as log N. Miguel Nicolelis at #www2013 on #brainmachineinterface
+RT @fabien_gandon: if 1 million Spanish speakers were to learn English on http://t.co/zvpds4f7Cr they'd translate Wikipedia in 80 hours @Lu…
+RT @YourAnonNews: Syria cut off from global Internet http://t.co/SEHqDs8WkR
+RT @mattmay: You would not BELIEVE how many Flash designers are sitting in labs learning HTML this week. It's a beautiful thing.
+RT @djweitzner: @psd Thx @Differance1 for reminder that 10 years later, W3C required that *ALL* Web standards be Royalty-Free. http://t.co/…
+RT @marin_dim: 4th Int'l Workshop on Consuming #LinkedData at #ISWC2013, Oct 21, Sydney|Australia. Submission till Jul 12 http://t.co/aJG2I…
+"http://t.co/c1KKuD5fVx Launches Opinion Network Where You Don't Need Followers To Be Heard" 	http://t.co/onAfUxrhnN
+#data #getitright via @ToddGregory  @PacificStand Revisit Iraq sanctions myth, everyone still getting it wrong! http://t.co/gTHFicOfz5
+#opendata #muskoka #flooding Bala water level story: http://t.co/GSXjuhcy18
+Time to vote for the Webbies -- everyone can -- http://t.co/YGcA0wVRrd
+@doctorow just go into any pub and ask for IPA
+RT @ForeignPolicy: Julius Genachowski and Lee Bollinger on dictators' sneaky new ploy to block Internet freedom http://t.co/9kYKBjIVmH
+RT @YourAnonNews: Google rolls out Person Finder for those affected by #BostonMarathon explosions http://t.co/WaaVSye54M #YAN
+Reddit now  http://t.co/cIm86vcm7u  #cfaa #netrights #aaronsw
+Pls RT Next week: Join Internet Defense League action to fix the #CFAA. Justice for #aaronswartz  http://t.co/WP1DpMgRJo via @demandprogress
+RT @lessig: Watch (plz) if you can: 	http://t.co/Vl5JqWXWwI		And then join #rootstrikers if you do: 	http://t.co/ZxNMb8WoXw		Mvmts get b ...
+RT @hiveminded: France Considers #NetNeutrality Law http://t.co/DowimeRRHV #netrights
+RT @DrBobBarr: URGENT If you don't want to be charged 4 UK addresses and postcodes forever don't let PAF monopoly be privatised. #OpenPAFnow
+Very honoured  w Louis, Vint, Bob &amp; Marc  be awarded 1st #QEPrize for #engineering -- credit to coders, standards geeks @w3c
+RT @djweitzner @ColinCrowell: Big thanks to @AlecJRoss for his service to the nation -  be grateful for his work on #InternetFreedom
+Danny Weitzner honored with 2013 IAPP Privacy Leadership Aaward  http://t.co/gyC203oetc    #waytogodanny  #csail #privacy
+Will #f2c  be livestreamed?  #netfreedom over #broadband #isocny
+"Broadband, Encouragement, Collaboration" Rosemary Leith's Reimagine ... Education re Sugata Mitra http://t.co/lzcuTHoUo8 #ted2013
+Al Gore launches http://t.co/J3wzegaOkW at #reality breakfast at #TED2013  --  help spread information and counter disinformation!
+Pls RT: #CISPA is back. Tell Congress &amp; @BarackObama to protect your privacy. http://t.co/rLIlICAHjV via @demandprogress
+@DavidLandriault  see e.g. RT @meyerweb 's thoughts and feelings about Opera/WebKit  http://t.co/0MHTSBM4  on monocultures.
+RT @zseward: The bane of most news sites http://t.co/bSoJU6By      -- Make WebApps not native apps! #openwebplatform @w3c #webapps
+RT @LeaVerou: If you think a WebKit monoculture is good for web developers or the Web, you’re incredibly short-sighted (and likely inexp ...
+In some parts of the world, access to internet is equal to monthly income. Hillary Clinton on tech and @webfoundation: http://t.co/CHADiUtH
+RT @chowandchatter: Road sign humor  RT @smebulok: RT @bmgallagherjr: Only in New England.  #bosnow #nemo http://t.co/afYgrquu
+RT @mnot: Has anyone put together a configuration management tool (a la @CFEngine, Chef, @Puppetlabs, Ansible) using RDF/turtle?
+RT @judyshapiro: So awesome. "27 Science Fictions That Became Science Facts In 2012" http://t.co/PxHeVUHC @novaspivack @nycsf @AdTheoren ...
+@piawaugh @jan190 Thank you for organizing an amazing tour, and for all the hard work it involved before and during!!
+RT @YourAnonNews: Aaron Swartz, Bradley Manning murals in Greenpoint, Brooklyn http://t.co/ATStxtBL
+Bit about #aaronswartz at about 10m30s  #davos http://t.co/r9ndnsNz
+Ooops I mean  .... did outside(brrr!)  general BBC world interview http://t.co/3Br6A7Oz earlier in #davos
+and more recently did a 30min 1:1 with Adrian Monck  at #davos http://t.co/r9ndnsNz
+Did outside(brrr!)  general BBC world interview http://t.co/KifgiKxo earlier in #davos
+RT @timoreilly: The text of @carlmalamud's passionate defense of Aaron Swartz: https://t.co/NdcSVdta Video up soon. #aaronsw
+Web Developers  - Join us at W3Conf 21-22 February in San Francisco. Use the code w3c to get $100 off! @w3c #w3Conf
+RT @Breeve12: @timberners_lee Very moving, thank you.
+Aaron dead.	World wanderers, we have lost a wise elder.	Hackers for right, we are one down.	Parents all, we have lost a child. Let us weep.
+@whitespacers @Yesterday_Today    Nonsense.   Who started that myth? I was not working on Christmas day.   WWW worked before then...
+RE http://t.co/T3ejosme@Historyandlife  -- Thank you!  Do you have a date, any other photos, or higher resolution?
+RT @robinberjon: The HTML specification tests are now on GitHub: https://t.co/SxLReKfD Contributions are very welcome. Save the Web, Wri ...
+RT @sandhawke: Now this is no hoax.   This is exactly what Google used to be like, in the good old days:  http://t.co/ulY4tB6O
+@UKODI celebrating #odilaunch remotely .. Well done everyone .. #opendata
+RT @UKODI: . @Nigel_Shadbolt introduces a message from @timberners_lee #ODILaunch #opendata
+Whups ... Power out for all #MIT. So that's what that big switch does ...
+RT @manusporny: Objection to Microdata being published as a W3C REC-track spec: http://t.co/vqRUYyk9 #rdfa #microdata #html5
+Yes @odugUK PAF should be open! http://t.co/KUAMam33 #opendata
+Thanks to @bcs for hosting @w3c #TAGf2f in #london. Good to connect with  @theodi folks last night too.  #opendata #silconroundabout
+Brazil delays #netrights bill -- keep pushing for #netrights! http://t.co/ykZ3jtDv #MarcoCivil  #MarcoCivilJa
+Me too! “@Nigel_Shadbolt: Totally thrilled to have @agentGav and @JeniT joining the @UKODI as CEO and CTO,  ...#opendata”
+The Web Index launched just now http://t.co/CyJH7gRb @webfoundation well done! #opendata #oneweb
+This is for everyone #london2012 #oneweb #openingceremony @webfoundation @w3c
+Opening ceremony 8 mins to go live #london2012
+RT @jahendler: A loss for the White House, but great to have @djweitzner returning to academe - we've missed him!!  http://t.co/RVomKwyu
+Read it all.  http://t.co/XjqwzTbo via @JeniT @jdkunesh
+#congratulations @stefanjdecker #semanticweb  Fujitsu to invest in research programme http://t.co/uvnCd2SA via @IrishTimes
+@ChaseSupport  Serious #fail in your QFX files: Start, end dates are equal &amp; wrong a la: &lt;BANKTRANLIST&gt;	&lt;DTSTART&gt;20120718120000[0:GMT]
+@josschuurmans I have no reason to believe it was the first photo. on the web.
+@abrahamjoseph: If you mean on motherboard, I did leave a comment. Re: Still haven't heard from @timberners_lee ..comment ...
+@LeaVerou The honour is mine :-)
+/me figures out #dcif is Dublin Conference on Internet Freedom #netrights http://t.co/kz0pYLhv - (no home page for hashtags).
+@derivadow Yes, or even /com/nature/pubs/whatever where the browser searches for where the domain stops and the path starts.
+RT @hadleybeeman: The @UKODI opens search for senior roles: CEO, Commercial Director, Tech Dir &amp; Dir of #OpenData Training. Close 9  ...
+RT @SunFoundation: Does information about legislation belong to Congress or to the People? http://t.co/nGZRDJUJ #FreeTHOMAS #opengov
+Congratulations, Your Majesty!  http://t.co/xxLe4Sfl River Pageant #diamondjubilee  An incredible party
+EFF on Dutch Net Neutrality legislation https://t.co/92WaiKl7 #netrights #excellent
+RT @Nigel_Shadbolt: Exciting ODI meeting today at No10 with lots of business leaders   #opendata  plan due out after Purdah ...
+Welcome @webfoundation new CEO Anne Jellema, from  May 5 http://t.co/hvzWvwyf
+Welcome @webfoundation new CEO Anne Jellema, who will lead the foundation's next phase beginning May 5.http://webfoundation.org
+http://t.co/B87ZnOJw #netrights Sergey Brin on Web Freedom
+"CISPA Is A Really Bad Bill, And Here's Why" http://t.co/1vKgYT7h
+http://t.co/9G5go8o6 #opendata #linkeddata
+RT @angharadbyrne: #Opendata comes to France: every public building mapped http://t.co/AiHkXvgs via @guardian
+Tell Congress: Overturn #CitizensUnited and end corporate personhood. http://t.co/gjOnJh3P #p2
+RT @carlmalamud: There are 18,942 gif files in the Code of Federal Regulations. http://t.co/oXUiZr8v What if these were all svg files?
+Texas jury agreed Eolas 906 patent invalid. Good thing too!
+@fritchiei  give fish/teach to fish/teach to build, say,  #MobileOK web-based local-language online fish market... @webfoundation
+RT @fritchiei: If your plan is for a year plant rice, for a decade plant trees, but if your plan is for a lifetime, educate children. 	C ...
+Web accessibility on BBC radio 4 -- companies sued for inaccessible web sites. #w3cwai
+@SteffanLongdon I invented the WWW, NOT the Internet - I have no favorite web site :-)
+RT @Mlsif: Hanging out in advance of @rmack's talk on Consernt of the Networked at MIT. #netrights #metoo
+h@leec85 you have it upside-down: in @W3C big companies pay more dues , but SAME CLOUT AS LITTLE ONES.   In W3C you count ideas, not votes.
+"You can say a lot more in 120 Chinese chars!" -- chan yeng ying #wef
+Ok, so is the hashtag #wef or #davos? #asktheweb
+Overbroad and arbitrary web takedowns by #usgov or by #anonymous -- no way to run a world
+RT @doctorow: Round of applause to the 13 million people who stood up -#SOPA #PIPA are tabled 4 now #13millioncheers http://t.co/vYhwBwYq
+@HISTORYmag What is your source for that information? Clearly not  http://t.co/QhtI9Pkl
+RT @openstreetmap: "The detail that a community adds is way beyond a commercial provider". Wired on OpenStreetMap: http://t.co/ldOjHBvc
+Pls RT: @senatorreid @chuckschumer @mcconnellpress We need u to stand w the Internet and kill #PIPA http://t.co/o5PyZOFM via @demandprogress
+RT @epsiplatform: OSM obtains 5GB of Dutch geodata following policy change Jan 1st. http://t.co/j7yIHcfa #opendata #openstreetmap #geodata
+RT @DirDigEng: RT @Nigel_Shadbolt: Times #OpenData article by @timberners_lee et moi available http://t.co/4irpufXp &lt; no need to register !
+Stop American Censorship http://t.co/XO1zh3nA #netrights #usa #humanrights
+EU #opendata press release http://t.co/x5gRCe1O
+Excellent! RT @NeelieKroesEU: Unlocking the goldmine : NK  on new #opendata proposals http://t.co/ngi8g7RZ
+EU #opendata press release http://t.co/W7C8Eqcy
+Excellent! RT @NeelieKroesEU: Unlocking the goldmine : NK  on new #opendata proposals http://t.co/DJFdfJphttp://ow.ly/7WlKG
+Iconic photo http://t.co/JQWx35GD
+Iconic photo http://t.co/RJtM9ECJ
+U.S. DoD  to use Sem Web .to improve how data is shared, analyzed, and reported ... #linkeddata http://t.co/3EceBgVK
+http://t.co/V3LC55jV #opendata
+Stop US Government Censoring the Web: http://t.co/7lBgduYG
+#hbw11 Starting .... In #roma
+Reminder: Consultation deadline midnight BST http://t.co/sgkswbNs #opendata
+RT  Google: "We received a request from US law enforcement to remove YouTube videos of police brutality." http://t.co/EeHFNFzj #netrights
+RT @carlmalamud: now versions of title 24 with svg graphics embedded instead of .jpg files. http://t.co/nT9GDIpT
+RT @w3c: @danbri thank you, and welcome @cgueret
+Steve Jobs and the actually usable computer http://t.co/qiLlTovW
+@unhosted We should talk... can you support RW #linkedData a la http://t.co/Rse5GaP ?
+Looking forward to Campus Party Mexico #cpmx3 tomorrow ... starts  in a few minutes
+KUTGW Sandro - RT @bniemannsr: Best intro to W3C I have seen: http://www.w3.org/2011/Talks/0628-gld-sandro/talk.html
+Dutch to have net neutrality law http://bit.ly/jNZKBx   #netneutrality #netrights #humanrights
+@fromonesrc A right does not force someone to use the net. But does bring scrutiny onto govts which e.g. filter net for political reasons
+@fromonesrc in what sense?
+@fromonesrc Human rights are not self-evident, they are things we decide on. We decide we prefer a world in which web access is a right.
+@orlabarrozo yes but when the UN says something it changes the atmosphere in some places, can lead to action and change.
+RT @webfoundation: UN report:  "... universal access to the Internet should be a priority for all states"  http://tinyurl.com/UN-Net-Right
+http://latimesblogs.latimes.com/technology/2011/06/united-nations-report-internet-access-is-a-human-right.html @webfoundation #netrights
+http://www.beet.tv/2011/05/the-semantic-web-is-coming-to-newsrooms-this-summer-hearsts-cto-michael-dunn.html #linkeddata #rdfa
+@mryall  Then, hypertext folks used "Dexter model" which used "anchor" for either end, and the link for the connections. Still makes sense.
+@vamsmack  You mean you don't have net neutrality then, and you need it. You have discrimination.
+RT Canada New Democratic Party promises nat. broadband and net neutrality http://www.boingboing.net/2011/04/10/canadas-new-democrat-1.html
+@danbri  Sorry, I didn't use slides. at www2011
+Sign at http://sunlightfoundation.com/savethedata/  and retweet please
+RT @jahendler: some good news -  China ibrings up Hong Kong data sharing site  -- http://bit.ly/ikgyQo #opengov #opendata
+RT @mortenf: Future of the web? 20th WWW conf. using native mobile apps, not web apps: http://www.www2011india.com/mobile_apps.html
+@PeterVogel   Maybe just for the 110v side of the shaver socket, in case a US buzzy razor works needs  60Hz ? Sounds like too much  trouble.
+@micronauta Right - in fact ClearTune app says 60Hz  and 120 Hz - but 120Hz is not  a harmonic of 50Hz.  I think it is is a distorted 60Hz.
+@PeterVogel  yes TV set would indeed scan at 60hz on some channels. but wouldn't be that loud.
+@peteofrepublic  for hotel users? or some 60Hz equipment like a fan on the roof, but must be expensive to convert that much power
+/me wonders idly why the loud hum around his hotel room is 120 Hz when mains electricity in India is 50Hz at #www2011 Hyderabad
+Proposed  [US ]Congressional Budgets Slash Funding for Data Transparency #opendata #data.gov  threat to #transparency
+RT @DirDigEng: Gov of Canada data site open http://data.gc.ca/ #opendata #gov20 &lt;- 782 datasets, bespoke but open licence, well done Canada
+RT @DirDigEng @bethnoveck Finland commits in principle to make public data available #opendata #gov20  http://bit.ly/egUPEE
+RT @Nigel_Shadbolt some great work  @cgutteridge - Southampton Uni #opendata and #linkeddata http://data.southampton.ac.uk/ #opensoton
+Click to add title http://www.google.com/search?q=click+to+add+title #random
+RT @mit100k: Great webcast on potential for Linked Data. Feb 22 @12PM EST  w @tomtague and @jaymyers. Big announcement http://bit.ly/dZTk9w
+RT @f3rdito: RT @google: Good news: Internet access being restored in Egypt.
+#netrights Alex Pasternak's http://www.motherboard.tv/2011/1/30/egypt-net-neutrality-and-the-ethics-of-internet-suicide
+@ndw @hunterhacker  FYI: I hacked together a python script to overlay track data on #OpenStreetMap for my running.
+Please turn the Internet back on in Egypt now, President Mubarak. #netrights
+[UK] Government to rethink Digital Economy Act's web blocks @bbc #netrights #internetrights
+http://isoc.org/wp/newsletter/?p=3091   #netrights  ISOC on #Egypt
+http://bit.ly/fIeTDY @linkedData #opendata RDF/a data grows by  factor  &gt; 3  annually #rdfa #microdata
+RT @carlosiglesias:  #OpenData seriously RT: @alwalji World Bank is looking to add an Open Data Evangelist to our Team http://bit.ly/e5lXGH
+Lots of good stiff happening at Campus Party Brazil #cpbr4 . . . On stage with Al Gore!
+@marjoleink but the form asks you to fill in server, path and  username, or username and API separately
+@vinzv Thanks - nice.
+/me thinks status.net twitter etc accounts should be defined by a single URI
+@karlpro Ok, thanks - this sent from Adium.    — but I can't connect it to twitter now.
+@karlpro So how do I point Adium at identi.ca?
+@marjoleink Yes, I don't hang out here - I do on irc://irc.freenode.net/swig -- (Tweetdeck/mac doesn't support identi.ca - what does?)
+Wise words from Michael Copps. Better some rules than no rules. #netneutrality FCC meeting. Much still work to do.
+#LODVentutes  #linkeddata ventures class at MIT finale: student teams compete for best use of #linked  #opendata , business plan at #mit
+RT @jahendler: RDF versions of some NY State #opendata - http://bit.ly/dUezp1 -  & stuff to use with it - http://bit.ly/ehJ7bx -#linkeddata
+Sales support @w3c -- here:    http://www.cafepress.com/+shirt,480756337 RT @jindrichmynarz: /me wants 5 linked data stars t-shirt.
+@manusporny Sure
+Brilliant Potlach2 + RT @tim_waters: BOOM!! Microsoft bing's imagery now can be used to trace over for OpenStreetMap. http://bit.ly/i6OBrB
+Happy Blue Beanie Day -- Support Web Standards!  #w3c #bbd4 KUTGW everyone  Thanks  Jeffrey Zeldman for starting it
+@martinskopal    (@srtimbernerslee is fake, full of ads)  @timbl I always was  and am on identi.ca and @timberners_lee is the one I use.
+#comcast #fail http://bit.ly/gm2qu9   #netneutrality
+@jwildeboer No, is I understand your q, #w3c work is #royaltyfree. That is *not*  FRAND, as FRAND-0 can still require you get some license.
+"Linked Open Data doubled every 10 mo since 2007" http://www.computing.co.uk/ctg/news/1900701/linked-cloud-takes-shape#LOD  #opendata
+@schestowitz  in #W3C participants commit to #royaltyfree standards http://www.w3.org/Consortium/Patent-Policy, avoid #swpats
+If they use CKAN, why not expose CKAN-style API?  @DougSalz: #Canadian fed http://datadotgc.ca/ #opendata (or have I missed it?)
+Big Thank You to everyone who volunteers making web standards!
+http://blog.okfn.org/2010/11/23/milestone-for-open-bibliographic-data-british-library-release-3-million-records/ #opendata #linkeddata
+RT @AlbertoNardelli: @edvaizey Great to read your clarification on net-neutrality.
+http://www.telegraph.co.uk/technology/internet/8147661/Ed-Vaizey-My-overriding-priority-is-an-open-internet.html
+@rakirdoyoz Actually See http://www.w3.org/History.html  FIRST proposal was March 1989   http://www.w3.org/History/1989/proposal.html
+RT @kraykray: ...If you live in VT,WI,AL,CA,UT,IA,PA,AZ,NY,IL,SC,TX,OK,MD,MN,RI, or DE your senator voted for it http://bit.ly/9B3HXQ
+@KarimBakhtiar No, all users and all content providers already pay for net bandwidth and QoS of choice. That funds net.
+@KarimBakhtiar  Yes.  -- sometimes makes sense to prioritise time-sensitive traffic.
+@karimbakhtiar #NetNeutrality doesn't stop you throttling bandwidth hogs, and in general doing good network management.
+Peter Gabriel too backing #netneurality  http://www.guardian.co.uk/technology/blog/2010/nov/18/peter-gabriel-net-neutrality-backing
+@mikekelly85 You realize that each document has its own vocabulary. There is no universal glossary there.  You mentally translate.
+@hummingbird604 Thanks, looked around e.g.  http://www.economia.gob.mx/, found PDF reports with tables, no CSV or XML so far.
+@ehedgehog "info about" document could in theory include all content - the library card include the whole book, but not convenient.
+@hummingbird604  E-Gobierni URL?
+@der42 Take the concept of you, or foaf:Person. The RDF about a concept is not "content of", it is "info about".
+Yes @mikekelly85   "Resource" confusing.   Personally prefer "document" where  includes movie, CSV, etc. and "thing" includes everything.
+No @der42, don't think or #IR/NIR - Think "contents of" vs. "info about" .  HTTP 200 body -&gt; contents of, not info about. That's all.
+What's the #opendata situation in #mexico?   http://www.portaldetransparencia.gob.mx/ - seems mostly documents - any data?
+@mnot duh -- I had missed it. Presumably when @DirDigEng types .gov his fingers add .uk! ;-)    http://data.australia.gov.au/
+@mnot Eh?
+RT @DirDigEng: data.australia.gov.uk v2 will be based on MIT #Dspace and run on Amazon cloud #opendata
+RT @dfflanders: ordance survey as linkeddata :)  http://data.ordnancesurvey.co.uk/   excellent: 4 star maybe 5 #opendata
+Yay! Local Gov #opendata http://ur1.ca/25owz
+RT @liotier: @timbl URL shorteners are not just a rights problem - but an infrastructure problem too : http://j.mp/alCGjo
+When you get use a .ly URL you are sending your link through Libyan airspace.  Your choice? Try to avoid using #urlshorteners
+http://www.huffingtonpost.com/2010/10/06/ly-domains-in-trouble-as-_n_752528.html The perils of link shorteners #netrights
+@issyl0 Well done on govspark.gov.uk
+RT @DirDigEng: Blog post by @ruskin147: 16 yr old helps rewire government, save energy & show it's cool to be a geek http://bbc.in/dgF31 ...
+Yes! RT @Nigel_Shadbolt: The Royal Soci Mtgs on Web Science in London and Kavli   http://bit.ly/9u27q0  great - thank you all #RSWebSci
+RT @DirDigEng: UK gov releases Open Government Licence interoperable with CC-BY for use across public sector http://bit.ly/bwgTL5 #opendata
+flotsam and jetsam, on the web - dotsam and netsam :) first time I'd heard it #rswebsci
+Please sign: Stop the Internet Blacklist - http://demandprogress.org/blacklist/
+No person or org'n shall be deprived of their ability to connect to others without due process of law, with presumption of innocence.
+RT @laurelatoreilly: I could listen to @scrawford all day: "we need an  'nconvenient Truth' for internet policy"  #stppICTconf #gov20
+Listening to Steve Wolak (Vodafone) talk about  Vodafone @WebFoundation project in Ghana at #overtheair #ota10
+Google now indexes SVG http://googlewebmastercentral.blogspot.com/2010/08/google-now-indexes-svg.html #SVG #W3C @W3C
+Gnu #social looking for skin designs http://www.reddit.com/r/libredesign/comments/cv9c2/gnu_social_theme_design_contest/
+/me notes #DanFest winding up in BOS ... see you around @dckc ... best to all at MCI,  SEA, LHR  etc ...
+RT @jahendler: ..  thank @dckc for all he's taught me about the Web - but  hoisting one here in CA- Good luck Dan!
+Oh, b4 u go -- should we do RIF in N3 or N3 in RIF or both or make N4 with [,,,] for  lists a la js and py for the ajax devs?? , .. #danfest
+Have fun,  Don't be a stranger and don't take any wooden nickels ^H^H^H^H^H^H^H^H antipatterns #DanFest @dckc
+"OMG - are we the quintessential nerds" - EricP at #DanFest
+@dkdc #danfest Had you on audio and video for a minute then froze ...  glad you aren't in orbit w a problem ... Cheers!  To Dan Connolly!!!
+The person who gave the most sanity and context and continuity on the tech arch group. @dckc #danfest
+Already missing hacking sem web stuff with you @dckc #danfest
+@iand  Your "Those are so marginal" refers to what?  Tweets don't have decent threading.
+@cygri     Need for subject as literal?  {3 :monthName "March".}  {"foo" a Teststring}  #rdfn
+When you have N3, you get namedgraphs for free.  Why reinvent them? #rdfn #n3
+Way to go Jim! RT @bsletten: Hey, @timberners_lee,  @jahendler just had the #semtech crowd cheering "Raw Data Now".  #opendata #linkeddata
+RT @Thayer: [UK] Treasury's *free* COINS seminar &gt; http://tinyurl.com/33qnaor sign up fast if you want a place! pls RT :)
+RT @ajslaghu: The UK’s public data tsunami gathers speed http://bit.ly/cen6hC #opendata #hackdeoverheid
+@sirobertson Find the group who should do it and email them your idea. Don't just tweet - collaborate  :-)
+Tabulator http://dig.csail.mit.edu/2007/tab/ actually framework for non-ugly Sem Web user interfaces http://slidesha.re/d1bkSK   #semtech
+@thomas_quinlan The irony is that the email they have on file for me has a "+" in it, but now I can't log in with it.
+Actually, gap.com, a plus sign *IS* a valid character in an email address.   #fail #plusSignInEmailFail   #RTFS
+RT @titticimmino: #LinkedData by @sandhawke from most recent cambridge #semweb meetup: http://bit.ly/9foo12
+Congrats to all! RT @BBCDigRev:  #bbcrevolution  We, and I mean WE, won a bafta. New media. #baftas http://yfrog.com/0e6jzj
+RT @Nigel_Shadbolt: Congrats to the Guardian team  http://bit.ly/b8XQGB - its  a hard mother lode to mine - but great start #opendata #f ...
+RT @DirDigEng: UK Cabinet Office Minister opens up corridors of power http://bit.ly/dcBhTq @timberners_lee @nigel_shadbolt on Transparen ...
+RT @timoreilly: About time others joined us in this: Amazon Vs. Apple Be Damned: Publishers Pine For A Universal E-Book Format http://bi ...
+RT @Nigel_Shadbolt: Note on Web Sci and Open Data in UK  http://bit.ly/9yFKzR #LinkedData #opendata #webscience
+Guardian's Simon Rogers  "Information is power" http://www.guardian.co.uk/media/2010/may/24/data-journalism #opendata
+RT @in_stock: Out today at Amazon! How Bad Are Bananas?: The carbon footprint of everything by Mike Berners-Lee £5.39 http://omani.ac/q4f
+Mike's talk on #howbadarebananas at #rsa just starting - carbon footprint of everything #climatechange
+"People [in social networking] have switched from controlling access to their data to relying on anonymity"  - Kieron O'Hara at #websci10
+"Copyright law is like an onion - it has many layers, and it will make you cry" - Caroline Wilson at #websci10
+RT @A_T_J: YaaaaY RT @w3c: W3C Invites Comments on First Drafts of RDFa Core 1.1, XHTML+RDFa 1.1 http://bit.ly/am9o3T
+@webr3 #LinkedData is data about anything.  Metadata, data about data,  forms a small part of the world of data.
+RT @edverillo: RT @thornet: UK University Researchers Must Make Data Available. And so it should be... http://bit.ly/bt177Z #opendata
+biking without lights?and the driver who kills you?so unfair on them                                                           #worriedhaiku
+#worldbank #opendata  http://data.worldbank.org/   Everybody's doing it!
+#prtd pointer to stream, agenda?
+Bring it on, JH!! :-)  RT @jahendler: Good meeting  w/V Kundra re data.gov --I plan to ...give Brits some #linkeddata competition :-)
+Aye, we will. RT @dckc: We'll miss you, Bill. http://is.gd/bknsV http://is.gd/bknx6 William Loughborough #w3c
+@innov8tor3 No, actually ARPA and Vint Cerf and Bob Kahn etc -- 40 years ago -- compare - WWW was 20 years ago
+@NovakKevin Got a URI for it? new #opengov initiative fact
+From #opendata to display hardware http://bit.ly/crd6lU
+@nebulon82  Always been against snooping on net e.g. http://www.w3.org/DesignIssues/NoSnooping.html  so #debill is major threat
+@robbydesigns Then install the #W3C validator software and run it yourself. It is #opensource.
+RT @Rchards: Having a look at the mashups of #osopendata already up on http://bit.ly/ax88Yd - quick work! #opendata
+RT @Nigel_Shadbolt: And the prize to come is the vector  25K maps with their overlays - May 1st #osopendata #os #data #arcgis #opendata
+RT ...  @OrdnanceSurvey: Working v hard to get #osopendata back up and running. Please bear with us and sorry for the delay!
+RT @Rchards: Good day : OS #opendata http://bit.ly/8Y1q4L HMIC and @mypolice http://bit.ly/7AwzXo still only lunchtime ...
+RT @elliothartley: OS website woes getting you down? http://bit.ly/9oQjH3 #osopendata #os #data #arcgis Thanks @osbornec @mapperz #opendata
+Looking forward to Mike's  http://www.thersa.org/events/our-events/the-carbon-footprint-of-everything #rsafootprint #carbon #climatechange
+Gordon Brown promises @timberners_lee and @Nigel_Shadbolt £30M  "Institute of Web Science" http://bit.ly/aAJ4ds via @newscientist
+@stevesilberman Yup, s'me. :)
+@stevesilberman: Tim Berners-Lee will remain at W3C, and MIT as well involved with new Institute of Web Science. http://nyti.ms/cm4Ztd
+RT @petef: Congrats to @Marthalanefox "Martha Lane Fox to lead establishment of new digital public services unit" #bbdf /via @CabinetOffice
+Ivan Herman at #W3C AC gives #BBC #linkeddata and use of #opendata as excellent example #KUTGW
+RT @DirDigEng: RT @Traveline NaPTAN, bus stop locations in Britain  downloadable at  data.gov.uk http://bit.ly/aQ9G5q #opendata #bbdf
+@janl Like HTTP reverting to p2p under stress/outage etc?
+RT @janl: Apple: “Preparing Your Web Content for iPad: … 2. Use W3C standard web technologies.” — http://jan.io/68cv (via @paul_irish) #w3c
+@jschneider  WIT has not run for years. Still good idea though! http://www.w3.org/WIT/User/Overview.html
+Welcome, Jeff! RT @w3c: We are delighted to introduce Dr. Jeffrey Jaffe, W3C CEO  http://www.w3.org/People/Jaffe/
+http://blog.seattlepi.com/seattlepolitics/archives/195820.asp http://web1.seattle.gov/MNM/ Seattle city #opendata
+RT @m1ke_ellis: King Canute badly maligned as always. He was ~telling~ his subjects he _couldn't_ stop the tide, not trying.. #TED
+Sigh.. WEF Davos Social work session full, live stream on the web full too #fail
+@tlgm yes, love gapminder too -- I am looking for #datastories since last Feb to show how it has grown. #opendata
+Looking for stories/videos/slides: best uses of #opendata, for upcoming talk.  Pls tag your favourites #datastories
+@EricWarnke  Places like http://www.ckan.net/ are meta-repositories.   Also country and city master lists.
+Excellent . RT  ...  @ushahidi Just added  #openstreetmap to http://haiti.ushahidi.com (click the + sign in the map to toggle it) #haiti
+@TEDchris, govts and releif groups  should use #openstreetmap, #ushahidi, #sahana, etc and put their operations and findings in.
+via @NicoToub: #Haiti #OpenStreetMap Response: http://www.opengeodata.org/2010/01/14/haiti-openstreetmap-response/
+RT @mikel: @earthoutreach great. can we use that @GeoEye imagery for tracing in @openstreetmap?
+NYC MTA RT @EllnMllr: RT @mikemathieu: Open Data milestone http://bit.ly/5mlkfV #opendata #opengov #transit #citycamp #gov20
+@davewiner ad pops up on your map? Funny, doesn't happen for me :-)  try #openstreetmap
+Mapping helps underprivileged by exposing discrimination  http://bit.ly/81Nqej   #opendata #openstreetmap via @smalljones, @timoreilly
+@Elkziz Thank you for translating it!
+yay Mass! RT @jdarrah: Massachusetts Open Data Initiative: http://bit.ly/8LOA8U #opendata #opengov
+Boxing Day hike? Take a GPS and make sure your local trails are on http://www.openstreetmap.org #openstreetmap #running #hiking
+Wow ...  Energy linked data portal: http://en.openei.org/ #opendata #linkeddata (via titticimmino@twitter.com)
+Bit by bit, globally, through great effort, democracy, openness and justice inch ahead. #MerryChristmas
+Celebrating light but that battle rages back and forth: tweets cry hope and despair alternately;
+@ariherzog In Boston just now. (As Marty says, "Work in London and Boston, live on British Airways")
+RT @stephenfry: Wrapping presents to the sounds of King's College carols.  Me too, relayed via newly public WCRB Boston
+In fact, Awesome! RT @docstuart: 300 years of global temperatures now mapped http://geo.me/climate thanks to #opendata #climatechange #egov
+RT @docstuart: 300 years of global temperatures now mapped http://geo.me/climate thanks to #opendata
+@jeffreypriebe No, NOT me -- "Timothy B Lee" is not me! #wedheavy:  The Case against  ...   http://ow.ly/M0jg
+@der42 agree. Best a dataset as abstract thing. If ∃ document with all dataset's data in, that is diff thing.
+@asklike (wrote the first memo in March 1989 - see http://www.w3.org/History.html )
+"When we try to pick out anything by itself, we find it hitched to everything else in the universe." -- John Muir #semanticweb
+@adrielhampton Well, will your proposed open source software generate linked data?
+Made my donation to @webfoundation http://www.webfoundation.org/get-involved/donate/ #UStaxDeductable
+Ooo got  a ptr to Vancouver gov data? RT @2Paths: Tonight Vancouver Hackathon - 5 pm  City Archives #opendata http://ow.ly/KkEH
+@VicHoon Sure, it needs cleaning anyway.
+RT @stephenfry: Yay!  little film is being shown at #Cop15 http://tinyurl.com/ydz6a57 #weforest Reforestation ...
+RT @johnlsheridan: @NovakKevin @timberners_lee  Global movement towards open government data. This week  ... proof!
+Australian gov task force on #opendata: http://gov2.net.au/about/draftreport/#rec6
+UK #opendata  announcement:  http://www.hmg.gov.uk/frontlinefirst/action1/transparency.aspx
+US #opendata announcement: http://www.whitehouse.gov/blog/2009/12/08/promoting-transparency-government
+Progress! RT @DirDigEng:  access  and re-use of UK public transport data inc. NAPTAN by 2010-04 http://bit.ly/67otOn #smartergov #opendata
+Settling into 1st of a 3-day W3C Technical Architecture Group mtg.. reviewing security developments ...http://www.w3.org/2001/tag/
+RT @acarvin: Cool: @timberners_lee visits my friend Lawrence Zikusoka at his telecentre in Uganda's Bwindi Forest. http://is.gd/5fVCr
+Power out at #ugandalug during discussion of power issues in the field
+On sanyu fm radio in Kampala this am  with Fatboy and Melanie  about @webfoundation   http://pic.gd/7d626a
+Stephane Boyera presenting @webfoundation to the #UgandaLUG
+Session starting at Linux User Group in Kampala #ugandalug
+@digiphile  (for some value of "abroad"  ;-)
+Well done @Nigel_Shadbolt @DirDigEng @rchards  @johnlsheridan and everyone who is helping #opendata in UK
+RT @Nigel_Shadbolt: Sometimes you have a good day - sometimes a great day http://bit.ly/1pwa9w #opendata
+Hereby officially launching the #WebFoundation, at IGF in Egypt. Podiumtweet to identi.ca
+At #campusparty Mexico many worried  about broadband deployment and possible taxes.
+Finished keynote to with it young crowd at at CampusParty mexico, + local press and TV.
+@carlmalamud   .. gifts include sheet-feed scanner for EFF?
+Will skip last #webscience day... early start for Mexico tomorow.
+RT @jahendler: RT @DameWendyDBE: Web Science is growing up. At MIT announcing the Web Science Trust http://www.webscience.org
+Me too RT @AndrewCurioso:   (Cambridge Semantic Web Meetup) http://vbo.bz/lOL #sementicweb #w3c #csail
+@patriceleroux: @timbernerslee or @timberners_lee ?  ... and the timbernerslee profile says use timberners_lee.
+@patriceleroux re verfied  My WebID http://bit.ly/18N6Mn points this account.
+Missed you #tpac09 RT @bblfish: Back in London after 1 week tour of SF jail. Took 6 days to see judge, 30 secs for case to be dismissed.
+RT @DirDigEng: @glynmoody http://bit.ly/2AorP6 the most amazing site/mashup you'll see this week/month;  gobsmacked #opendata
+@jsalsman  Camera, microphone? Device APIs See http://www.w3.org/2009/05/DeviceAPICharter  -- want to help? :) #w3c #webapps
+RT @benthompson: I just nominated @webfoundation to be featured @TwitCause. Help me by voting at http://bit.ly/twitcause.
+@AbilityNet  It is designed for mobile .. what would you do differently?
+@JeniT Well, in CWM builins  http://www.w3.org/2000/10/swap/doc/CwmBuiltins    list:in  ... works in cwm rules.
+"I think actually HTML5 defines IPv7" _ Ian Jacobs at #tpac09  :-)))
+RT @Rchards: Congratulations to NZ colleagues on http://bit.ly/2qcMA7 #opendata
+IRC channel for #W3C #tpac09  is irc://irc.w3.org:6665/tpac
+@jive Because otherwise it wouldn't work with IE6  - w3c web designers live in the real world too.
+@sitepointdotcom: "New W3C site Goes Live "  was 3 weeks ago -- see  note on CSS  http://bit.ly/HNB9V
+@CameronC_Wilson  re "Hello. Try using Seesmic ... handles multiple accounts." including accounts at identi.ca etc?
+Tweetdeck off for presentation -- or  it un-minimizes  when tweets come  (must be a way to turn that off..)  at #w3c #tpc09 ..
+@rdfQuery @olin http://dig.csail.mit.edu/2005/ajar/ajaw/js/rdf/ tabulator library has RDF, turtle/n3 parser and serializers. #rdf #turtle
+@torgo you chair great.. just wanted to be in on exciting new area. No judgement :) (Phoning done, heading. back to w3c social web xg now)
+RT @NovakKevin: RT @gwynnek: RT @Mlsif @jeffjarvis Toronto opens up its data: http://www.toronto.ca/open/ #w3cegov #opendata
+RT [from 34,000 ft] @knowbility: is looking forward to a week of geek at the W3C Tech Plenary in Santa Clara CA. #tpac09.
+@JeniT Don't you hate those 404 errors.
+@john_avery App cloud + Public #linkeddata cloud + Access-controlled personal  #linkeddata cloud + Standards = killerapp
+Datasets exploding and many more powerful tools  this #iswc - #semanticweb #rdf #uri #linkedopendata #linkeddata  No pipe dream!
+RT @juansequeda: Apps built live in 3 days at #iswc2009 on the Linked Open Data web - check out http://www.linkeddata-a-thon.com #ldthon
+Andreas Harth at #iswc2009 "...group called the Pedantic Web which break down doors and tell people to improve their data quality :-)"
+#iswc conf center wasn't on #openstreetmap -- is now  http://bit.ly/1U3pVS -- feel free to improve.
+RT jahendler #iswc2009 Pat's solution looks a lot like the scoping in N3 (N3logic) - wonder if these become the same - would be nice
+RT @DirDigEng: Stephen Timms reports progress on Making Public Data Public http://bit.ly/yQDRC #opendata
+At "Terra Cognita" workshop at #iswc. Lynn Usery USGS on the US National Map. All public domain. New viewer due dec 3
+"Collaborative Construction  ... of Structured Knowledge" workshop at #iswc but diff. choice
+Early start to DC for #ISWC ... After LHR AMS SFO BOS last week, nice to have a few days in one city.
+@forteller "Tweetie works with Id too"? Not obvious how
+#w3cdev http://www.w3.org/2009/11/TPAC/DevMeeting Public Developer Gathering, Part of W3C Technical Plenary Week.  Remember the 5th November
+Back at #mit after redeye from #w2s ... fun ...  back w coast soon:  #W3C 's #tpac09 is Nov 2-6, includes open developer meeting #w3cdev
+Ok, so connected by existing http://identi.ca/ up to a new twitter and an existing facebook.
+Just about to go on stage on #w2s ... Following the teens :-/
+Ooops confusing user interfxce.   And no phones on on stage with radiomikes.

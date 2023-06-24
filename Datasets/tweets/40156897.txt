@@ -1,0 +1,488 @@
+RT @AppInt4All: Hortonworks driving #digitaltransformation at #Emirates https://t.co/A5d3BNAYOR
+RT @saumitra_bg: Data Science and Engineering Platform in HDP 3.0.x!  #spark #tensorflow #docker #deeplearning #gpu https://t.co/KtuZFHUa3q
+RT @Jboll56: New on the blog today! @AppInt4All gives a quick checklist for a #Kafka developer/admin! We will be attending #KafkaSummit in…
+RT @hortonworks: New on the Blog! Introducing Apache Hadoop Ozone: An Object Store for Apache Hadoop https://t.co/eXBEr00yXE
+Navigating @ApacheKafka operations can be daunting because of a lack of visibility into essential runtime metrics. No longer! Watch this @Hortonworks Premier CoE "Inside Out" webinar with the PM @AppInt4All that delivered @Hortonwo…https://t.co/rU8KpS8seF https://t.co/mKbFREafDB
+@ChaunceyHitch Teach this class, perhaps
+RT @mjackson: Just cut a new release of React Router, v4.4.0-beta.0		- Better compatibility with React 16 🎉	- Uses the new context API unde…
+RT @hortonworks: Upgrade your #clusters and #workloads from #Hadoop2 to #Hadoop3!! Find out how in our latest blog - https://t.co/zI14asWfoc
+RT @hortonworks: Comprehensive end-to-end visibility into your @apachekafka clusters with Hortonworks Streams Messaging Manager. Download t…
+RT @hortonworks: Announcing the General Availability of Data Analytics Studio (DAS)!! What is it? DAS improves the productivity of business…
+RT @itmdata: Truly the missing link in supporting @apachekafka in an enterprise. https://t.co/xJX3zBJnvW
+RT @acmurthy: Heck of a summer w/ HDP-3.0, HDF-3.2, DPS-1.2 w/ DPS apps: DLM-1.1, DSS-1.2, SMM-1.0, DAS-1.0... all going GA!	Icing being th…
+RT @neayrs: Announcing the General Availability of Data Analytics Studio https://t.co/iU0YnmtGKU
+RT @kdinerman: Congratulations to @Hortonworks very own @cmaike76 and https://t.co/AKDzHsgdnz on being named @CoriniumGlobal Top 100 Innova…
+"Get data in front of people and they get excited. But building cool experiments or imposing tools top-down doesn’t cut it. To create a competitive advantage, stimulate demand for data from the grass roots." https://t.co/5TaqEOeOal
+RT @HDPartnerworks: Watch how Rogers Communications is using HDP &amp; HDF to build a 360 view of its customers and real-time analytics to impr…
+RT @hortonworks: Learn how Hortonworks Streams Messaging Manager is solving the needs of #DevOps and #Developers https://t.co/DgHoTePmad
+RT @DynamicWebPaige: who is responsible for this / I love you		https://t.co/yC3vy4pvIa https://t.co/AK1L5C8L6N
+RT @gvetticaden: If you are a DevOps/App Dev user who has struggled monitoring and troubleshooting apps built around @apachekafka , the sec…
+RT @hortonworks: Last week we Introduced Streams Messaging Manager for end-to-end visibility of #ApacheKafka. Want to know why it matters?…
+RT @hortonworks: Streams Messaging Manager (SMM) is a brand new open source component that aims to cure #KafkaBlindness by providing a sing…
+RT @PaaSDev: IoT Example with HDF 3.2 and HDP 3.0 https://t.co/d9RijVWZkR
+RT @tdp_hortonworks: HDF and HDP can now be run in the same ecosystem!! Learn more about what's new in HDF 3.2 in this blog --  https://t.c…
+RT @acmurthy: All of @Hortonworks DataPlane and it’s Services are open source... as is every product we ship.	Recently announced SMM for ma…
+Another great @Hortonworks Premier "Inside Out" has wrapped up. This one has the juicy details on #containerization in @apachehadoop's #YARN. View the recording at https://t.co/Vd6oGDkcfo
+RT @ApacheCon: Naganarasimha: 'YARN 3.1 and Beyond'. Next month at ApacheCon Montreal. Register today at https://t.co/asiNgb8nKH #ApacheCon…
+RT @gvetticaden: https://t.co/JdamHcbbUR
+Learn how @JohnsHopkins leverages @Hortonworks #HDF and @apachenifi https://t.co/uAk8M5IGNu
+Get ready for #ApacheHive 3! https://t.co/BFTN1phlDf https://t.co/uCfyYZfHQN
+RT @stevenloewy: Have you checked out our latest blog series? Distributed Pricing Engine using Dockerized #Spark on #YARN w/ #HDP 3.0  http…
+RT @rmfergy: The beauty of a great @hortonworks &amp; @Azure partnership. https://t.co/P4j4LkTEwW
+RT @Tshooter: There’s scale and there’s @Microsoft level scale! @raghurwi On how Microsoft drives exabyte analytics on the world’s largest…
+RT @tmccuch: How To: Use Swagger with Ambari (Explore Ambari REST API): https://t.co/BYdMMSz6yT &lt;-- Ambari 2.7 has a cool new feature where…
+RT @gwenshap: PSA: If you use @apachekafka with Log Compaction, make sure you monitor kafka.log:type=LogCleanerManager,name=time-since-last…
+@StevenTDennis Sprinkle some nutritional yeast on it for flavor
+RT @Jaraxal: Check out this very cool article from one of my coworkers.  Twitter + Solr + NiFi for sentiment analysis.  https://t.co/LglKz8…
+Got an email from Red Cross saying where my blood went. Giving blood saves lives. Join me. https://t.co/0E0nkfJe8R #RedCrossOnTheWay
+RT @tmccuch: Druid Kafka Ingestion from Hive in HDP 3: https://t.co/whaMpBffPo &lt;-- new Hive 3 integration with the Druid Kafka Indexing Ser…
+Great Hortonworks HCC article by Amol Thacker: "Distributed Pricing Engine using Dockerized Spark on YARN w/ HDP 3.0" @ https://t.co/b2TSj4hBA8
+Franz Kafka said, "Start with what is right rather than what is acceptable." And that is what Houshang Livian and his #UX design team at Hortonworks has done to help elevate operational intelligence for Apache Kafka. #apachekafka  #operationalintelligence…https://t.co/tbSHOVFVPS
+RT @kevdoran: I gave a talk on automated SDLC for @apachenifi data flows at #DWS18. If that's something you're interested in, the recording…
+RT @hortonworks: In the past year, the YARN community has been working hard to build first-class support for long running services on YARN.…
+RT @tdp_hortonworks: Get the latest scoop on HDP 3.0 - see how it enables faster deployment and insights https://t.co/sWxI65hSNL https://t.…
+RT @o_guest: This is so cool. Automatically create a @Docker from your @github repo and create a @ProjectJupyter notebook too! Great idea t…
+Great milestone for Hortonworks! HDP 3 brings Containerized Services on Apache YARN, support for GPU pooling and isolation on Apache YARN, Erasure Coding for Cold Data, NameNode Federation, real-time DB with Hive 3, and many improvements to improve the us…https://t.co/XM6UfixLE9
+RT @MichelleLazzar: THIS 👏 IS 👏 A 👏 HUGE 👏 RELEASE: real time database w/ Hive 3.0, containers, deep learning, erasure coding, namenode fed…
+RT @hortonworks: Announcing the General Availability of Hortonworks Data Platform 3.0.0, Ambari 2.7.0 and SmartSense 1.5.0!  https://t.co/B…
+RT @markussand: Get the latest scoop on HDP 3.0 - see how it enables faster deployment and insights https://t.co/AdAOrRSJnA https://t.co/h9…
+Great work @pjeliazk! https://t.co/tvODsbBvfK
+RT @HDPartnerworks: Get the scoop on HDP 3.0 with @Tshooter @saumitra_bg &amp; @Roni_Fontaine on July 18. Register now! https://t.co/sQdbXK3FTu…
+RT @HDPartnerworks: .@insideBigData asks Jamie Engesser, our VP of Product Mangement for an update on Hortonworks' direction and his sense…
+RT @Ritmonegro: “Setup a Data Science Environment on your Personal Computer” by @GalarnykMichael https://t.co/2HBELp8z4F
+RT @merv: For Hadoop implementations to be successful, data &amp;analytics leaders must lead an effort  across IT, data mgt, analytics, applica…
+RT @HDPartnerworks: Using #AI in healthcare can help overworked physicians spot patients' existing problems and predict future ones. Here's…
+RT @krmarko: I look at the implications of #BigData on business models and how data analytics, particularly predictive #MachineLearning, en…
+RT @merv: What’s important in HDP3? Agility, scale, deep learning and GPU support, governance and security, really-time, EDW, ISV strategy.…
+RT @neayrs: Hortonworks Data Platform 3.0 Enables Containerization and Deep Learning Workloads  https://t.co/0kUQbLDoVO https://t.co/FZmpwT…
+RT @DynamicWebPaige: 🌎 I heard y'all like space math!		So I've built a collection of a few hundred of these @ProjectJupyter Notebooks - but…
+.@Hortonworks "#HDP makes it so easy to visualize data in a readable table format that it gives our users instantaneous access to data originally hidden in ERP solutions or legacy data stores" https://t.co/wwuyMFqple https://t.co/bEpxV6tcEV
+RT @duketip: We're looking for current TIPsters or recent alums involved in Big Data or a related field (computer science, data science, so…
+RT @MarkLochbihler: Amazing job by Ali and the entire Hortonworks team!  Learn how to leverage Data Stewart Studio to implement GDPR compli…
+RT @tmccuch: Machine Learning Trading Bots: https://t.co/eTBGPQlyWO &lt;-- Analysis, which used to take hours or days, can now be done in seco…
+RT @domhalps: . @Gatwick_Airport just completed an 18 month future-proofing of their entire IT infrastructure, allowing them to embrace #Io…
+RT @hortonworks: Get the latest update on the Hortonworks + @IBM partnership. Hear about the joint path for the future with HDP 3.0, HDF 3.…
+RT @MRaineyHW: "We chose Hortonworks because of their flexibility and openness, and because the offered the right sort of training and supp…
+"This is where the real power of using #docker-ized apps side-by-side with the rest of the applications comes in – being able to rationalize resource management &amp; scheduling exactly the same way irrespective of the type of containerization" - Hortonworks …https://t.co/OdngYupaFR
+RT @Datafloq: 10 Things to Consider Before Diving Into the Hadoop Data Lake - by @cslukasi https://t.co/4SGcFkKKRq #BigData
+RT @hortonworks: What's a self-driving car got to do with #DataLake 3.0? https://t.co/DFqWtXK1rr #Innovation
+RT @random_forests: Real-time pose estimation, in @TensorFlow.js! Tried the demo, works great.		Blog: https://t.co/OMZ9MKCbVK 		Code + demo…
+#Twitter for dogs w/ #RaspberryPi with (some #AI help)  https://t.co/MGEpdLTy6B
+HDP &amp; HDF from @Hortonworks is helping 4 of the 5 top auto manufacturers with their modern data architecture and "connected car" journey https://t.co/x2J3XdTxDp https://t.co/MVpTHTdjqB
+"To manage data effectively, your organization must know where it’s held, whether in the internal data center, the public cloud, or both, which is most likely. It is in this complex environment where the Hortonworks DataPlane Service (DPS) excels." https://t.co/r2gYVCCaJJ
+RT @TensorFlow: You can use TFLite to deploy trained ML models natively on iOS, performing classification and regression without roundtrips…
+RT @hortonworks: Join @Scott_Gnau and @maslett as they discuss the challenges and considerations of managing #BigData on a global scale. Li…
+RT @PaaSDev: Streaming ETL Lookups With Apache NiFi and Apache HBase - DZone Big Data https://t.co/Sxuf2HjFAe https://t.co/5OdNkQjKdS
+RT @hortonworks: The impact of #BigData is spreading rapidly throughout many companies and becoming a part of their DNA. The danger, howeve…
+Learn about the new @hortonworks Support Portal in this webinar: https://t.co/dndYRplvKL
+RT @datameer: How the Mariners used #BigData to successfully move Dee Gordon from the infield to the outfield -  https://t.co/bLAt2CaJgR
+"...we can show up to solve this thing and it’s very demonstrable and measurable and time constrained"... @hortonworks plans more packaged solutions for data science and IoT ... https://t.co/AWIfOXEF7f
+@mckaycoppins @wowintheworld @AbsolutelyMindy She'll be asleep before we really know
+@mckaycoppins @wowintheworld @AbsolutelyMindy  https://t.co/zn8xIiHFT0
+“Artificial Intelligence — The Revolution Hasn’t Happened Yet” by Michael Jordan https://t.co/D92obMex39
+RT @BrianRatte: Great overview of the new Hortonworks DSS and what it means for your company https://t.co/bzzeXRpXyl https://t.co/DArSRTXcjg
+RT @thiagoavadore: .@hortonworks #DataStewardStudio let you catalog sensitive data, do a forensic audit of who accessed what and much more…
+https://t.co/lSRCeprhRX https://t.co/i5kLVwD6se
+RT @hortonworks: [NEWS] Hortonworks Data Steward Studio Allows Enterprises to Find, Identify, Secure and Connect Data Across Cloud and On-P…
+RT @MRaineyHW: .@Hortonworks upgrades Data Plane Service with Data Steward Studio to help provide consistent governance and security across…
+RT @bernardholleman: .@Hortonworks announces Data Steward Studio! Check it out here:  https://t.co/BBkwCNL3Xj https://t.co/y1DPT02J7k
+"It seems many go right to artificial intelligence. As if AI is already on the shelf and ready to go. It’s not." Remember folks: IA comes before AI. Modern Information Architecture (IA), data governance, and compliance are foundational to building an #AI-…https://t.co/CARGfRKdLA
+@Namenode5 @RickKing16 @davidjkatz @KirkDBorne @dez_blanchfield @tipatat @markymetry @Sanemavcil @SkarredGhost @yonidayan_ Once all the butterflies have sensors strapped to them, then perhaps.
+RT @D_YanezPastor: Get an in-depth look at how @Nissan, is now able to store huge volumes of @data and deploy a variety of data cross-funct…
+I'll be a panelist at the State of Technology Conference” May 4 in Durham. Hosted by the NC Tech Association @NCTA, this year’s theme is Artificial Intelligence. Early bird pricing is available. Info at https://t.co/WJcttpTF9o #ArtificialIntelligence #MachineLearning  #BigData
+RT @hortonworks: Imagine you are a self-flying drone company, here's how you could take advantage of #Hadoop 3.1 for increased agility and…
+RT @dacort: Tried out @apachenifi for the first time. Wow. 🤯 This is an awesome tool for constructing/coordinating data flows.
+RT @hortonworks: Apache #Hadoop 3.x architecture enables various use cases: Agility, GPU pooling/isolation, Low total cost of ownership, et…
+RT @joewitt26: @tgchip @apachenifi Use @apachenifi when you want a data broker for flow management (routing, transformation, mediation) tha…
+RT @hortonworks: #Hadoop 3.1 is a giant leap for the #BigData ecosystem as it is a core enabling technology for the Fourth Industrial Revol…
+RT @BBende: Secure access to keytabs using the latest @apachenifi 1.6.0 release... https://t.co/Jc9rf0OoLh https://t.co/0ShZ2lhxuY
+RT @PaaSDev: Integrating Nifi to Druid with a custom processor - Hortonworks https://t.co/z0uvrIfT3w https://t.co/4p41IYy54a
+RT @_brohrer_: Kudos to @Microsoft for committing documentation to open source and GitHub. I forked the repo, fixed a broken link, submitte…
+Apache Livy - Simplified Apache Spark Integration https://t.co/Rck2kridTj
+RT @PaaSDev: Integration Apache OpenNLP 1.8.4 into Apache NiFi 1.5 For Real-Time Natural Language Processing of Live Data Streams - Hortonw…
+RT @apache_fortress: Because LDAP’s a barrier to the inexperienced, py-fortress ldap servers are running in a Docker container, allowing su…
+Operational Services from @hortonworks is a way to have THE de facto Hadoop experts monitoring, configuring and maintaining your enterprise's HDP #BigData platform. It is like having an F1 Pit Crew living in your garage. https://t.co/ymlAAUcmyH
+RT @Paxata: Congrats to Kim Prado of @RBC Capital Markets on her recognition as a  technology innovator. "As a champion of #analytics, her…
+RT @hortonworks: "At its heart, Hortonworks Operational Services is designed to reduce complexity when building, deploying and managing big…
+Hortonworks announces services to help boost data management https://t.co/9LLCTlysyv via @CBROnline.com
+@Hortonworks Operational Services Customers receive:	  - Around-the-clock monitoring and incident management	  - Weekly summary reports and review calls with dedicated Hortonworks team members	  - Ongoing capacity monitoring and reporting https://t.co/aQ1vyzNybz
+RT @josephrpark: Agile isn’t just for tech anymore. Top-down planning models are giving way to nimbler, user-driven methods that are better…
+RT @myoung: in the ~five years of running Digg Reader, we collected 12 billion pieces of content (~27TB of article content). that's prob mo…
+Happy π Day! The Most Beautiful Equation of Math: Euler's Identity https://t.co/HjOl0vuWjB via @science__4__all
+RT @steveloughran: Babar: YARN Java app profiler w/ focus on Hive &amp; Spark, from @CriteoLabs https://t.co/EmEhajSchk
+RT @KirkDBorne: J.P.Morgan’s Comprehensive 280-page Guide to #MachineLearning (including #Python code for some popular #ML #algorithms) htt…
+“Chaos was the law of nature; Order was the dream of man.”	― Henry Adams		@Hortonworks HDF+HDP help bring some order to the IoT world https://t.co/tz623BeY7J
+RT @neayrs: Due to MAMMOTH ;-) growth I'm looking for Engagement Managers, Architects and Consultants to join my team. If you want to be a…
+RT @MarTechSeries: @sudeepmisra Director, Demand Gen and Global Campaigns, @hortonworks shares insights about the best #webinar practices f…
+RT @hortonworks: Register for Part 2 of the Hortonworks DataFlow 3.1 deep-dive: https://t.co/PUOkoxF95c #Data https://t.co/oMJtPoo4hF
+Are your #HDF/@apachenifi flows versioned and managed? Watch a @hortonworks Premier webinar (starring @joewitt26) on #HDF’s latest features including Record Reader/Writer, WAL Provenance and SDLC features for making flows manageable: https://t.co/gonPsl7zok
+6 pivotal moments in open source history https://t.co/JcPq4SVNbV via @opensourceway by @nearyd
+Here's a nice example of Spark's Structured Streaming capabilities, built with help from @hortonworks #HDF: https://t.co/yqsiqOSmtw
+RT @YolandaMDavis: My first @Hortonworks blog for Women In Tech series: https://t.co/I2HmjkSdOw
+RT @markussand: Great blog by @YolandaMDavis  at @Hortonworks - So, how do you get more women involved in Tech? #WomeninSTEM #WomeninTech h…
+RT @Jaraxal: Hortonworks DataFlow (HDF) 3.1 Blog Series Part 4: Unit Testing and Continuous Integration  https://t.co/xdnQeqkLcG via @Horto…
+RT @hortonworks: Hadoop 2 vs Hadoop 3 - what's the difference? https://t.co/lqbrReKwqu #hadoop #BigData
+RT @ShafiAhmed5: Democratizing education and Disrupting clinical practice using technology. "The World's most watched surgeon" 		https://t.…
+https://t.co/i1C4eCxLqp
+RT @hortonworks: Tutorials, examples, and explanations - what makes Apache NiFi unique? https://t.co/a4SORJzgIo w/ @attunity
+RT @hortonworks: One of the key features of HDF 3.1 is the NiFi Registry. Learn more about it here: https://t.co/XRdtIzTlOO
+How Hadoop 3 Adds Value Over Hadoop 2 https://t.co/Bw64ms0HVc via @Hortonworks
+RT @mitsmr: Storytelling is now becoming a standard part of analytics training curricula https://t.co/vRTSOPbawO #storytelling
+RT @gdb: Deep learning is an accessible field — it's easy to learn (via online courses + books) and reach the cutting edge. What's harder i…
+RT @DataWorksSummit: The #DWS18 San Jose call for abstracts is open! Be sure to submit yours before the Feb 9 deadline: https://t.co/hjjddp…
+RT @hortonworks: "In our role, we are expected to understand our customers’ problems and in turn make them our own." #CustomerSuccess https…
+RT @acmurthy: @apachekafka @apachenifi Here is @BBende with more on @apachenifi Registry for flow SDLC:	https://t.co/pw8emIDPeG
+RT @acmurthy: Something in it for everyone... @apachekafka-1.0, @apachenifi-1.5 incl. NiFi Registry for flow SDLC, more SAM goodies, Apache…
+RT @chaffelson: If you're #DevOps interested in @apachenifi #Automation in #Python , then this release gives you a bunch of great new tools…
+RT @hortonworks: Check out the features of the newly release HDF 3.1! https://t.co/S0WXDCuQzz #Data #DataCenter #Cloud
+RT @hortonworks: [Announced Today] Newest Release of Hortonworks DataFlow Vastly Simplifies Management of Data in Motion https://t.co/gXbo0…
+Nice new feature in @hortonworks #HDF : #NiFi Registry "... functionality significantly improves the storage, control, and management of versioned flows, further shortening the software development life cycle and accelerating application deployment ..." @ https://t.co/8Pd9WspzZc
+RT @saptak: The HDFS Tiered Storage solution from DellEMC has been validated with Hortonworks to decouple growing storage capacity from com…
+RT @hortonworks: What is NiFi and when, how, and why should you use it? https://t.co/a4SORJzgIo @apachenifi
+RT @hortonworks: Determining how much to charge for a #hotel room is a #data-intensive task making it perfect for #BigData #analytics. http…
+RT @kevdoran: “FDLC: towards Flow Development Life Cycle with NiFi registries” by Abdelkrim Hadjidj https://t.co/T77Dz61e48
+HDFS Tiering with Isilon and ECS without tiering policies - Hortonworks https://t.co/ebKzJu0UKm via @Hortonworks
+RT @YvesMulkers: Kimbal Musk — Elon’s brother — predicts a movement of young workers fleeing desk jobs for farms	https://t.co/VXKszPtamF ht…
+RT @markussand: Hortonworks is providing key technology for the 2020 Census, the 1st census to be conducted primarily electronically https:…
+RT @hortonworks: Without enough skilled technologists to meet the demand of all the potential #BigData projects, who should you choose as a…
+With your #HDP deployment, you've got 10s, 100s or 1000s of machines strung together, acting as one mighty computer. Don't you want to make the most of those resources? Watch a @hortonworks Premier webinar on YARN Capacity Scheduler @ https://t.co/8Kn1Gr9Xta to learn how.
+RT @itmdata: In the DC/VA/MD Area -- stop what your doing and check out this Meetup: Huge steps for Apache NiFi - Talks on NiFi in Finance…
+RT @WebMD: Thinking of going vegetarian? Here are some ways a plant-based diet might improve your health: https://t.co/L5Ru9MMooE
+RT @acmurthy: Ad Serving: Real-time bidding/auction (ms latency) to help publishers manage ad space on website - super-charged with HDF for…
+RT @acmurthy: Clickstream Analysis: Analyze trail a user leaves behind while visiting a website across web-logs etc. by using HDF &amp; HDP for…
+RT @fchollet: The ML research community has long been driven by the need to publish, which results in a stark, sometimes ridiculous bias to…
+RT @neilkod: Using the strava R package, I plotted bike rides from 2017, along with their elevation profiles. 264k feet of elevation. The r…
+RT @java: What you need to know about #Java9 ! 		https://t.co/wfWyDaPPbO https://t.co/iu6CpWwvn7
+RT @ggenikus: Amazing project https://t.co/xjJ9iiqGPp you can do things like:		select * from listening_ports where port = 8080;	select * fr…
+RT @Bootstrapworld: .@DanthomanderT is the 1st teacher in the nation to be offering a Bootstrap: Algebra + Reactive course that is a requir…
+Chapter 1. Hortonworks DataFlow 3.0.3 Release Notes https://t.co/w7NUJyB4uf
+Understand how to get your cluster resource utilization to align with business priorities: YARN - The Capacity Scheduler - Hortonworks https://t.co/F8NE4cAUKB via @Hortonworks
+RT @ShradhaNayak: IBM Spectrum Scale on Hortonworks HDP Hadoop clusters : A Complete Big Data Solution - Storage Solutions #IBMStorage http…
+RT @hortonworks: Building a #bigdata team may seem overwhelming. These steps will help you be successful https://t.co/NxIeCrl57y via @jghas…
+RT @MRaineyHW: Learn how Hortonworks and IBM can help modernize your existing EDW platform. #savemoney #storemore #letstalk https://t.co/J8…
+RT @cabanes: QlikView integrated with Hortonworks Data Platform (HDP) running on IBM Power Systems https://t.co/6f2cqY7oRv via developerWor…
+RT @hortonworks: “Hadoop 3.0 is actually a building block, a foundation, for more exciting things to come in 3.1 and 3.2,” @Tshooter https:…
+RT @PaaSDev: How to Choose the Right Big Data Partner https://t.co/268lIMxsmM
+Hortonworks Empowers Real-Time Decision Making In Manufacturing Industry https://t.co/FH265ujiZZ
+RT @hortonworks: "Clearly, data can help dramatically improve the customer journey, but only for companies who are willing to be led where…
+RT @PaaSDev: HDF/NIFI Best practices for setting up a high performance NiFi installation. - Hortonworks https://t.co/apjLKZP43u
+RT @SenAngusKing: Today, @SenatorCollins and I called on the @FCC and @AjitPaiFCC to cancel the vote on repealing #netneutrality #mepolitic…
+RT @KamalaHarris: FCC wants to repeal net neutrality rules that protect our free &amp; open internet. We want 1 million names opposing it. http…
+RT @hortonworks: Here is a great reading list from our top blogs in 2017 https://t.co/hkMvUczlYt
+RT @bigdatasullivan: Top 11 Customer Stories from 2017 - It’s been an incredible year for Hortonworks, and it’s only been possible because…
+RT @tmccuch: Handling HL7 Records Part 1 - Ingest: https://t.co/4HxNDBi7fe &lt;-- step-by-step method for ingesting and converting HL7 records…
+Get Faster Insights From Streaming Data With Hortonworks DataFlow https://t.co/Vb49R7oWFq
+LLAP sizing and setup https://t.co/Op1h6zS5xD
+RT @tmccuch: LLAP Sizing and Setup: https://t.co/r4D3byBJqj &lt;-- describes LLAP setup for reasonable performance with a typical workload. Th…
+Ingesting RDBMS Data As New Tables Arrive - Automagically - into Hive https://t.co/8evRBdtngi
+Big SQL: SQL on Apache Hadoop Across the Enterprise - Hortonworks https://t.co/zazf5ljoFl
+RT @HortonworksGov: Student 360 -- collect, curate, and analyze massive amounts of #data to provide a next generation educational road map.…
+RT @KennethSmith99: Great write up on @Hortonworks! Come join us....we're hiring everywhere! https://t.co/tS7qad2v4g
+Enterprise Data Science at Scale @ Princeton, NJ 14-Nov-2017 https://t.co/85MUUleQOl
+Interesting analytics use case for Big Data analytics. Academic paper: https://t.co/GnoZXSKMQP. WaPo story: https://t.co/Es6WyV5AMZ
+NiFi in Healthcare - Ingesting HL7 Data in NiFi https://t.co/VADOjX8EsR
+IBM leads BigInsights for Hadoop out behind barn. Shots heard https://t.co/19ajg3OuKV
+RT @thomasdarimont: TIL that Java 9 supports sharing ServerSockets ports via the SO_REUSEPORT socket option :) Which allows multiple jvm in…
+RT @hortonworks: We are pleased to announce the certification of @​IBM Data Science Experience (DSX) with Hortonworks Data Platform (HDP) /…
+RT @DonCrenshaw: IBM Combines All-Flash and Storage Software Optimized for Hortonworks https://t.co/gk6zLSp2kY https://t.co/JTxY49qfDg
+Hortonworks Premier Coe Presents: Introducing Data Science Experience (Dsx) https://t.co/J6KHOn4xpe via @YouTube
+.@HDPartnerworks https://t.co/h7Xfp067A4
+Got an email from Red Cross saying where my blood went. Giving blood saves lives. Join me. https://t.co/0E0nkg0P0p #RedCrossOnTheWay
+Creating a Data-Driven Culture Is Crucial to Your Analytics Success https://t.co/tJOEReUG2s
+Streaming Analytics Manager explained in a @hortonworks Premier webinar, now on YouTube https://t.co/sK7RaNPivw
+Simplified Analytics Delivery with Streaming Analytics Manager. https://t.co/CPtpYP9fN6 (via #Hortonworks Premier CoE). #nifi #kafka #schem…
+RT @Lin_Manuel: F***, I hate even quote tweeting his bile. My timeline feels dirty. 	But these are not ordinary times. 	https://t.co/pxx7qv…
+RT @Tshooter: Engineering @Hortonworks Contd: Introducing YInception - A YARN container cloud &amp; how we certify Hadoop on Hadoop: https://t.…
+RT @hortonworks: Hear from @Scott_Gnau about the new Hortonworks DataPlane Service and why this is such a big deal for our industry https:/…
+RT @acmurthy: Introducing @Hortonworks Dataplane Service: A big, bold, step forward - for the enterprise, and for us! https://t.co/fURJO7X5…
+RT @jkup: Stop treating open source like a product you purchased and start treating it like a team you belong to.
+RT @IBMDataScience: Use machine learning to analyze banking churn w/ Data Science Experience &amp; @Hortonworks Data Platform: https://t.co/sS6…
+Better Together: NiFi, Schema Registry and Streaming Analytics Manager (Part 1. NiFi and Schema Registry) https://t.co/W2f4EeKodx
+RT @auburnguy: We are excited to announce the availability of Cloudbreak for Hortonworks Data Platform on Azure Marketplace https://t.co/vq…
+RT @IBMDataScience: Use machine learning to analyze banking churn w/ Data Science Experience &amp; data from @Hortonworks Data Platform: https:…
+Part 2 of Hortonworks Premier Support's HDP Security Inside Out... Part 1 is @ https://t.co/4tNj7iGVl1 https://t.co/YckUKHcLMj
+An Exciting Data Science Experience on HDP - Hortonworks https://t.co/UATZSvYXf9
+RT @racoss: Tune in on Aug 30 to this webinar with @IBM. Great @Hortonworks partner focused on AI in Retail! https://t.co/Z72G6Av11L
+How Does Life Compare: With and Without Hortonworks SmartSense? - Hortonworks https://t.co/xR1AaTZxNn via @Hortonworks
+RT @racoss: IBM debuts Elastic Storage Server that combines all-flash and storage software optimized for Hortonworks https://t.co/U253MCIhBq
+@hortonworks  Premier Support presents https://t.co/vdiu6McXX3 where you can find out what's up with #Hive LLAP. https://t.co/kQo9Tl3cyT
+RT @myfear: #Akka clusters: All about Cluster Aware Actors - by @mckeeh3 on @JAXenter https://t.co/fg2cxUVl4P https://t.co/JLaFvoeeuH
+RT @auburnguy: Proud of the Hortonworks team! Leaders in the Forrester Wave #BigData Warehouse report, get the scoop here: https://t.co/d36…
+RT @hortonworks: Your self-driving car -- How did it get so smart? https://t.co/vhM8h0OJVg #IoT #autotech
+RT @datanami: Hive/LLAP takes the crown in #Hadoop query smackdown https://t.co/GPDQ9s7s4Z @comcast  #Dataworks17 https://t.co/pCm8Wp1MUt
+RT @hortonworks: How does @Hortonworks help enterprises achieve #bigdata success? Learn why you need more than just #opensource: https://t.…
+Hortonworks - When You're Hot, You're Hot https://t.co/hOBBXT7FaT
+@JeffBezos Airdrop pre-loaded Kindles in war-torn countries w/ P lacking access 2 information. “Books are a uniquely portable magic.” -@StephenKing
+RT @hortonworks: Introducing Row/Column Level Access Control for #ApacheSpark https://t.co/4ArG2WsJ3j
+RT @HDPartnerworks: Today at #DWS17! Yarn GPU support, get started with TensorFlow, data science experience demo and more... https://t.co/3…
+RT @racoss: Explore the latest of Apache Hadoop YARN at Dataworks Summit San Jose 2017 - Hortonworks https://t.co/xs9HQjAaBT
+RT @DataWorksSummit: 5 Questions To Take Back To Your Business About How To Frame #BigData via @schmarzo #dws17 https://t.co/E3o18ZdTGA
+Watch #HDF #NiFi at #DWS17 now @ https://t.co/UC2AZq04oc
+RT @HortonworksGov: "HDP has helped democratize data in the DOD, enabling a much larger part of the organization to move our mission forwar…
+IBM, Hortonworks Expand Partnership to Help Businesses Accelerate Data-Driven Decision Making - Hortonworks https://t.co/wVDLXMXScq
+RT @eric_kavanagh: "Anybody can become a data scientist by using the Data Science Experience!"	Rob Thomas of @IBM = @Hortonworks	#DWS17	htt…
+RT @acmurthy: Set to launch @DataWorksSummit!	Live stream: https://t.co/y86EKxaLdi	Live tweetstream: @acmurthy	#DWS17 brought to you by @ho…
+RT @HDPartnerworks: Our new flex support subscription “follows you” as your workloads fluctuate over time and across infrastructure https:/…
+RT @PaaSDev: Life at @hortonworks @HortonWorksJobs is awesome!  Big thanks to my amazing peers. https://t.co/Fxl6PDJRP4
+RT @hortonworks: #BigData analytics acceleration in manufacturing - from @Hortonworks and @FuzzyLogix at @DataWorksSummit: https://t.co/n0E…
+RT @hortonworks: Part 6 of Data Lake 3.0: A Self-Diagnosing #DataLake https://t.co/MVzl3dSc0l #BigData
+RT @hortonworks: At @DataWorksSummit : Learn how @energyinsights, a Fortune 500 utility company, derives value from #bigdata https://t.co/W…
+RT @HDPartnerworks: Don't miss our #futureofdata meetup in Raleigh-Durham on Thursday: Real-time Data Processing with NiFi and Kafka https:…
+RT @hortonworks: What’s New in HDP 2.6 for Enterprise Data Governance and #Security? Part 1​ https://t.co/AabonczWjL
+RT @kwbroman: Elsa contemplating @_inundata. Rendered in minecraft with #rstats.  #runconf17 https://t.co/IOwp8UWp1t https://t.co/QuBk3flVD8
+RT @racoss: How to connect Tableau to Druid - Hortonworks https://t.co/YJqLwwKxq1
+RT @hortonworks: What’s New in HDP 2.6 for Enterprise Data Governance and #Security? Part 1​ https://t.co/AabonczWjL
+RT @hortonworks: Maximize Agility, Minimize Time-to-benefit – Get Started with Big Data in the Cloud ASAP! https://t.co/0JKOm2LU2z
+RT @hortonworks: Learn how @ClearsenseLLC maximizes its life-saving #healthcare value using @hortonworks #opensource platforms. https://t.c…
+RT @HDPartnerworks: Delivering realtime toll and traffic #analytics with @hortonworks #HDF &amp; #HDP https://t.co/fwYdy25E86 https://t.co/CVGL…
+RT @hortonworks: Benchmark: Sub-Second Analytics with #ApacheHive and #Druid https://t.co/l88Chkk5BR
+RT @hortonworks: #Hortonworks thoughts on building a successful streaming #analytics platform (Part 1): https://t.co/PqJdqaSQaA
+RT @hortonworks: Learn why @Nadeem_Gulzar of @DanskeBank_UK says that "data is mission critical" https://t.co/IcL0X8SqWn
+RT @hortonworks: A shared #schema registry: What is it and why is it important? Part 2 of #HDF blog series: https://t.co/FhYt5bhfts
+RT @hortonworks: Part 5 of Data Lake 3.0: YARN and containerization: Supporting Docker and Beyond https://t.co/qPmPpLh1DH
+RT @HortonworksGov: WOW - That is FAST! #hortonworks @ApacheHive #hadoop #opensource -  https://t.co/r9ZywhmjfC
+RT @Evan_McMullin: Republicans, it's time to move on. It doesn't get better from here. Time to drop Trump, recommit to our ideals, and buil…
+RT @hortonworks: Introducing Row/Column Level Access Control for #ApacheSpark https://t.co/4ArG2WsJ3j
+RT @hortonworks: Benchmark: Sub-Second Analytics with #ApacheHive and #Druid https://t.co/l88Chkk5BR
+RT @HDPartnerworks: Datalake 3.0 part 3: Distributed tensorflow assembly on #Apache #Hadoop Yarn https://t.co/PGgTA0W9o7
+RT @hortonworks: A shared #schema registry: What is it and why is it important? Part 2 of #HDF blog series: https://t.co/FhYt5bhfts
+RT @Trazlersgal: How #AI And Deep Learning Are Now Used To Diagnose Cancer via @forbes https://t.co/z8AdOktp7D #tech #BigData
+"Built atop Apache Storm, Apache HBase and Apache Kafka, Metron can ingest, transform and normalize any source of te…https://t.co/rxSFtNZKry
+RT @hortonworks: Part 5 of Data Lake 3.0: YARN and containerization: Supporting Docker and Beyond https://t.co/qPmPpLh1DH
+#MachineLearning https://t.co/dQSq2iLLN5
+"...Druid provides essentially an OLAP Index over data in Hive, providing pre-aggregation and fast access to the nee…https://t.co/cnpUTqkDxC
+RT @PHEMISystems: Part 5 of #CloudDataArchitect's #DataLake 3.0 series is now up. Read it at: https://t.co/x997lqix1g #Hadoop #BigData http…
+RT @gosubpl: Instead of polling... reactive async processing with #akka streams... @kpciesielski shows how to @apachekafka with @akkateam #…
+RT @Cherrera2001: Congrats to the @apachenifi  team on 1.2.0! Loving the new provenance repo design, and UI processor alignment keeps my OC…
+RT @m_deff: Our FMA dataset is online! 106,574 songs, 161 hierarchical genres, 917 GiB, 343 days of audio under #creativecommons https://t.…
+RT @hortonworks: Carolinas HealthCare: Using #BigData to Drive Point-of-Care Decision in #Oncology: https://t.co/dJFTv2ZwfY @MD_Recruitment…
+RT @auburnguy: Check out coming features in HDF 3.0 https://t.co/WW524zHIDs
+It is so easy to stream data/metrics/telemetry/whatevs from any device with #apachenifi. Stream, collect w/ HDP, get insights, drive success https://t.co/4vVQUsqs6S
+RT @justinamash: My staff and I are reviewing legislation to establish an independent commission on Russia. The second paragraph of this le…
+RT @racoss: Welcome #Superset to Apache: enterprise-ready web app for data exploration, data visualization and dash-boarding https://t.co/c…
+RT @RWPUSA: Rep.Labrador: “Nobody dies because they don’t have access to health care.”	Harv. Med: Before Obamacare it was 45K		https://t.co…
+RT @tedlieu: Dear Chris Collins: I read the bill. It sucks. Trumpcare lets insurers charge seniors 5 times more &amp; hurts people w/ pre-exist…
+RT @DanRetherford: @SpeakerRyan @realDonaldTrump @HouseGOP Hope you're proud of yourselves you soulless fucks. Children don't choose how th…
+RT @hortonworks: Did you know @exxonmobil uses HDP?! https://t.co/P5i9m2edqC https://t.co/YNcvlzbKDg
+RT @hortonworks: Livy: A rest interface for Apache Spark! https://t.co/Vk0TKb3fZ4 https://t.co/kzDL59dZqL
+RT @KirkDBorne: Learn the basics of the Gradient Descent #algorithm using Excel: https://t.co/Tg91oM3kkF #abdsc #BigData #DataScience #ML #…
+https://t.co/hKPpKZTDAH "..with Hortonworks’ support, our operation is very stable. I’m very satisfied with the quality they have delivered"
+What is machine learning? Here's a nice visual intro: https://t.co/sqbHo5Y3GT
+RT @hortonworks: HDP 2.6 takes a huge step forward toward true data management by introducing SQL-standard ACID Merge to Apache Hive https:…
+Nostalgic... Used #Perl for a small, ad-hoc script. Something to help you get a picture of @ApacheHive's usage: https://t.co/7zxZJXusda
+RT @PaaSDev: Spark Structured Streaming with NiFi and Kafka (using PySpark) - Hortonworks https://t.co/NrDNuS0hnl
+The goal "is to work with teams of experts to understand a truly difficult problem through data" https://t.co/dnfz54JKFw
+On Building a “Fake News” Classification Model | Open Data Science https://t.co/N5TJ9yNVi5
+“Modern data applications – assemblies – span across multiple tools and must be 100X easier to build, wire up, deplo…https://t.co/YYe9scpRSL
+RT @holgermu: IBM adds new API to quantum computing cloud service https://t.co/NSSUcXfc0J
+Nice example of why and how you might use a graph db https://t.co/xyYnwb3XCl
+RTP folks: Learn how to tell the difference between a cat and a dog @ https://t.co/zOWsQFjArc #deeplearning #machinelearning
+Cool #machinelearning project predicts probability of a Bill becoming Law https://t.co/vRvm8j0rSb @predictgov @SkoposLabs @DukeLawTechLab
+RT @funder: .Vid:Trump:"We know very little about our President"		EXACTLY-we need to know about ALL of your ties.		#resist #theresistance #…
+RT @Datafloq: Starting with a Data Lake? Use this Data Lake Checklist before you dive into it - by @cslukasi https://t.co/4SGcFkKKRq #BigDa…
+RT @mktgstella: Join @sangramvajre and @funnelholic  on Jan 19 for the inaugural @SiliconSlopes Tech Summit. Don’t miss it: https://t.co/O7…
+Playing with @apachenifi on a @Raspberry_Pi. Easy as pie to get flowing!
+Thanks @poolesdiner for recommending @GarlandRaleigh as a place for tasty veg dishes. Amazing flavors and presentation!
+RT @apachenifi: Apache MiNiFi 0.1.0 Java version released! https://t.co/qP07BhUSEl  That's Apache NiFi and Apache MiNiFi C++ and Java in th…
+RT @apachenifi: Apache NiFi 1.1.0 is here! https://t.co/5LReTYeR1H Over 250 features, improvements, and fixes. Visual back pressure, restri…
+RT @4everfusiongal: Hortonworks DataFlow 2.0, seven part webinar series now available on-demand. Check it out! #HDF #NiFi #Kafka #Storm htt…
+A great opportunity for my Hadoop friends to check out on the West coast (Seattle, San Fran or Sacramento)! https://t.co/9oYmSnruvl
+Digital Foundations - Why Customer 360 is the Foundational Digital Capability.. - Hortonworks https://t.co/TIpLFnHWZs
+RT @merv: Nice discussion of Apache Hive in-memory. Not too deep a dive so don’t be scared off. But good details. https://t.co/WWQn4tqYjr
+RT @mcarricano: Great use case: How @PepsiCo is leveraging @hortonworks @Trifacta and @tableau #datadiscovery #dataviz #BigData https://t.c…
+Hortonworks helping eBay manage approximately 1 billion live listings and 164 million active buyers daily. https://t.co/GWoguH6WGt
+RT @hortonworks: Learn about HDF &amp; how you can easily augment your existing data systems - Hadoop and otherwise! Webinar this week! https:/…
+RT @shaunconnolly: What’s New in SmartSense 1.3  https://t.co/8bSse8OEa4 via @Hortonworks
+Prescient Chooses Hortonworks to Make Travel Safer with Connected Data Platforms https://t.co/FQiivfMCcQ
+RT @tmccuch: How to Use Hortonworks Cloud to experiment with Hive LLAP by @CarolynDuby: https://t.co/hcXZ9jaQiL &lt;-- run queries in AWS with…
+RT @sacooperie: Atlas/Ranger integration - this is a game changer for data discovery... let's deploy!... @PaulAnkho @pvv30 #CIOCAP https://…
+RT @acmurthy: # Tag based authorization via Apache Atlas and @ApacheRanger 	# Spark 2, simultaneously with @ApacheSpark 1.6 via @ApacheAmba…
+RT @acmurthy: HDP-2.5 is out!	https://t.co/JaIRUGUV1n	Everyone has their favorites, mine follow...
+Hortonworks Community Connection https://t.co/LwiC9WssaR via @DZone
+RT @Datafloq: Starting with a Data Lake? Use this Data Lake Checklist before you dive into it - by @cslukasi https://t.co/QSHtsjCLgz #BigDa…
+RT @devinpinkston: Apache MiNiFi, subproject of #ApacheNifi focusing on the collection of data at the source of its creation: https://t.co/…
+Hiring 90+ great sales people now!  Join us and make a difference! https://t.co/mExGCdceBe
+RT @OReillyMedia: Refactor old Java code to use modern Java 8 features for better flexibility + code concision https://t.co/7rhWi88ScZ http…
+RT @saptak: RT wangwei2: #A or #B hard decisions.  joewitt26 pulled this amazing #ApacheNiFi demo off at #HS16SJ #HadoopSummit… https://t.c…
+RT @hortonworks: Do not miss your chance &amp; miss out on THE #futureofdata event-#hs16sj use this code 16hwxspon20 for 20% off https://t.co/N…
+Adios apt and yum? Ubuntu’s snap apps are coming to distros everywhere | Ars Technica https://t.co/ZH7NlkLLns
+RT @dflory: APACHE METRON USE CASE: FINDING THE NEEDLE IN THE HAYSTACK  #Hadoop #Hortonworks https://t.co/994eLrZqKG
+RT @auburnguy: Join @hortonworks and @GrantBodley in Detroit for TU Automotive! https://t.co/XpTMpi4uE6
+RT @hadoopsummit: 10 Years of Hadoop - 10 Years of Hadoop is a HUGE deal, which is why the party will be just as HUGE! #HS16SJ https://t.co…
+Twitter open-sources Heron for real-time stream analytics https://t.co/vCoVtlbph7 via @infoworld
+Erasure is music to my ears https://t.co/xX6Kb8DsOh
+RT @databricks: #ApacheSpark 2.0 Technical Preview Now Available on Databricks Community Edition. https://t.co/7rKGoiw7wE https://t.co/VoZR…
+RT @Datafloq: Apache Spark has recently set its sights on becoming the cluster-based execution engine - by @cslukasi https://t.co/uxFnUNu54…
+RT @simonlporter: Attend 'IoTinRetail' https://t.co/rhzeMohPXr to see how   @americanapparel has benefited from #IoT @LDNTechWeek https://t…
+RT @strataconf: Free report: Architecting Data Lakes https://t.co/8VrT4ogfb9 compliments @zaloni #bigdata https://t.co/lzFuqA394o
+Is @ApacheSpark @Hadoop's Friend or Foe? Register to join the discussion! https://t.co/qJY3yKCCep
+RT @zaloni: Did you miss our fireside chat webinar? Watch it on demand here: https://t.co/wewzNZ8kCl #datalake #bigdata https://t.co/Y73bZd…
+RT @zaloni: Learn how your company can save money in the #cloud with transient clusters for #bigdata. https://t.co/JPNeXqlWpI https://t.co/…
+RT @zaloni: Strata + Hadoop World San Jose is just around the corner. Stop by and see us at Booth #1335! https://t.co/ApG26Fi68w #StrataHad…
+RT @PredictivEra: “Automated Text Extraction from Medical Documents with Natural Language Processing: Rule Based.” by @sangha_deb https://t…
+RT @merv: IS Hadoop still a thing? For how long? See the main screens of 3 leading distros. It’s not mentioned anymore. https://t.co/LnyEZl…
+RT @zaloni: #Zaloni raises $7.5M to drive adoption of its #datalake management platforms. https://t.co/Cc3xt0YS9E #bigdata https://t.co/IVC…
+How to Create a Minimum Viable Architecture https://t.co/vJ0rKDhJRr via @DZone
+@ApacheKylin for #OLAP on #hadoop https://t.co/l3Az3ri3wV
+RT @kelly_schupp: Apache Kylin for OLAP on Hadoop https://t.co/exWNwHWFr4 @zaloni
+RT @strataconf: How to approach #bigdata from a business perspective - new podcast in collaboration w/@zaloni https://t.co/0Z6M4Rbssw @bena…
+RT @strataconf: Full house at the @OReillyMedia meetup with @zaloni @galvanize: 'Modern Data Architectures' https://t.co/utonBoHru8 https:/…
+da Vinci's notebook (Codex Leicester) sold for $30M in '94! Could be some value in @ApacheZeppelin notebooks too https://t.co/JW3dP2TqVe
+Lifting the Fog of Spark Adoption https://t.co/VZKcMXHaYv
+RT @zaloni: Getting ready for #StrataHadoop in San Jose? Save 20% with code Zaloni20	https://t.co/WLQsP3Y8Zj https://t.co/aHG642HDAA
+World of Open Source and It's Licenses https://t.co/orV7Y5cRwB
+10 Things to Consider Before Diving Into the Hadoop Data Lake by @cslukasi https://t.co/K2Mwm2xzgZ #BigData
+@ApacheSpark and notebooks (eg @ApacheZeppelin); why they're great companions: The Notebook, A Geek's Love Story  https://t.co/oS9igEd4on
+RT @zaloni: Don't miss this new article from @benatzaloni on managed data lakes #datalake #bigdata https://t.co/XW4u8pf0vg https://t.co/2wa…
+Get famililar with https://t.co/FpSqDczXog ; likely a top-level project very soon.
+https://t.co/Ghaf0b1emp streaming with late arriving data not mucking up the window calculations
+RT @zaloni: Discover Data Lake Governance Best Practices with experts Sunil Soares and Ben Sharma. Register today https://t.co/NcsRsDGkVF
+Why APIs Are Agents of Change for Digitalization https://t.co/OrmEyChQxB
+RT @zaloni: The Future of Big Data: How Data Lakes Open New Possibilities for Your Organization https://t.co/Gzj0fR2U32 #hadoop #data #data…
+RT @aneeshchopra: This is a terrific interview for those interested in healthcare's open API; learn more at https://t.co/kqMvpbU5j6 https:/…
+The 1 Personality Trait You Need to Be a Great Programmer https://t.co/0fi8F3usUY
+RT @noah_weiss: A/B testing is so 2009 	Multivariate so 2012	Personalization is 2015	Great seeing @Optimizely @dsiroker democratize https:/…
+RT @zaloni: Big Data Everywhere - A conference ​focused on #Hadoop​ ​&amp; surrounding technologies. Join us! http://t.co/PTPlNbkDr2 http://t.c…
+RT @strataconf: Managing the #DataLake: Creating Actionable Insights &amp; Value - free webcast tomorrow w/@bigdata &amp; @benatzaloni http://t.co/…
+'Uber eventually likes to use schema within its data pipeline because it forms a sort of “contract” between the prod…https://t.co/RKeVK9t7YB
+RT @strataconf: Learn to build the best Hadoop #DataLake from @bigdata &amp; @benatzaloni in this free webcast http://t.co/FsYkSmcXBY http://t.…
+RT @NCEducator: Cardinal Charter Academy in Cary, NC  has been awarded Cambridge International School Status. http://t.co/8PYWmocodz	@CSUSA…
+RT @Econlib: Do you remember Borders? What's the future for paper books? @EconTalker chats tech with @timoreilly http://t.co/T73yJqTdcY
+RT @zaloni: Download and learn why @Zaloni's Hadoop-based Bedrock ensures your data lake is clean http://t.co/quLuAMOE3j
+Programming Akka’s Finite State Machines in Scala | Adventures in HttpContext http://t.co/kZea3M7fAn
+RT @strataconf: Clean out your data the right way w/@zaloni’s free Ebook 'Managing the Data Lake' http://t.co/UhdZ2tXosq http://t.co/xbdVql…
+RT @kelly_schupp: Exclusive: Zaloni launches Mica to automate “data wrangling” process | #BigDataNYC http://t.co/bNVhTPdLEy via @siliconang…
+5 Big Data Apps with Effective Use Cases https://t.co/HjFgkI9WIO
+A Short History Of Big Data https://t.co/cFiLCReiC4
+Parallel computing made easy http://t.co/aBol6xKRA8
+RT @TriangleBIZJrnl: Triangle eatery on OpenTable's 'Top Vegetarian &amp; Vegan Friendly Restaurants' http://t.co/qemnbJg1TV
+What does it take to apply data science for social good? https://t.co/5Z39Al4oVN
+http://t.co/ISSavJbKr9
+RT @zaloni: Don't leave until you by @zaloni booth 434 for a free copy of @OReillyMedia "Managing the Data Lake"! #stratahadoop http://t.co…
+RT @zaloni: Companies that produce results are doing "continuous analytics" @MapR #strataconf #keynote
+RT @benatzaloni: 5 Big Data Apps with Effective Use Cases with @zaloni Bedrock http://t.co/MkkorqOiQi via @Datamation
+RT @ranadipa: #StrataHadoop @zaloni Haunted by Data Maciej Ceglowski. Think about aging data and not collect things you don't need http://t…
+RT @zaloni: Having a self-service platform like @zaloni's #Mica drives faster #bigdata insights #StrataHadoop #strataconf #hadoop
+RT @zaloni: How do mojitos, empanadas &amp; cuban sandwiches sound? Come by booth 434 &amp; enjoy delicious sips &amp; eats! #stratahadoop http://t.co/…
+RT @zaloni: @cslukasi talks about how things have changed since the 70's  #StrataConf #Hadoop http://t.co/nBkZMQtZzF
+RT @zaloni: Bedrock 4.0 is here! Stop by booth 434 at #strataconf and learn how #bedrock will keep your #datalake clean @zaloni http://t.co…
+RT @ranadipa: @zaloni @strataconf come visit us at 434 booth for product demo http://t.co/ntrFVo52Ai
+RT @zaloni: Have you met #Mica? Stop by @zaloni booth #434 at #strataconf and find out! #bigdata #hadoop #datamanagement #cloud http://t.co…
+RT @ranadipa: BBC earth how they used Big data to make smarter decisions. Key is to make it easy to use. @zaloni @strataconf http://t.co/BD…
+Snoop Dogg's love for Data Science described at #strataconf http://t.co/KEgMFIDHCm
+RT @zaloni: Are you getting the most from your #datalake? Stop by @zaloni booth 434 and we'll show you how you can! #StrataHadoop #bedrock …
+RT @strataconf: Explore why companies are moving to #Hadoop w/this free Ebook by @zaloni http://t.co/UhdZ2ueZR0 http://t.co/4exSrVs74B
+@zaloni @ #strataconf http://t.co/T55X8ZVGCq
+Thank you @cloudera #runthedash for keeping the rain in the clouds during the run!		-Team @zaloni http://t.co/4Zad95frMK
+@skytreehq may the force be with you http://t.co/CfqYuDND2z
+RT @zaloni: 'distribution agnostic, distros are our partners, we don't reinvent the wheel, we add value' .@benatzaloni @zaloni @theCUBE #st…
+RT @zaloni: Bedrock 4.0 is here! Stop by our booth #434 at Strata + Hadoop NY and check it out. #datamanagement #hadoop #bigdata http://t.c…
+RT @zaloni: What is Mica? Stop by booth 434 at #stratahadoop #NYC and find out! #bigdata #hadoop #cloud http://t.co/0rYhvlxYjP http://t.co/…
+RT @analyticbridge: 24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets http://t.co/lt9Scc3QTs
+Hadoop's a matter of innovation, not cost https://t.co/xJH19Neirb
+RT @zaloni: Are you building a #hadoop #datalake, and not a data swamp, with @zaloni and @PaulMiller http://t.co/537MOjEn5G http://t.co/8Re…
+RT @zaloni: What is Mica? Stop by our booth #434 at Strata + Hadoop NY and find out! #bigdata #hadoop #datamanagement #cloud
+"History, a guide for Data Lake architecture" by @cslukasi on @LinkedIn https://t.co/DFqhZGhYns #hadoop #spark #analytics #etl #bigdata
+Using Docker to Build an IPython-driven Spark Deployment - { lab41 } http://t.co/f5oATHAiCw
+What’s your top tip for building a Hadoop data lake architecture? Discuss http://t.co/LK89YkeUHT via @ITKE. @zaloni's Bedrock hits the mark
+Getting started with Hadoop is not that easy for developers. Read my blog post to find out why &amp; what options exist https://t.co/A73QGV02d6
+Ben Sharma talks about Business Impact of Hadoop on The  O’Reilly Podcast. http://t.co/TxBYJj8RGY
+Zaloni selected as Showcase presenter at CED Tech Venture Conference http://t.co/h4ilGwmOdf
+RT @zaloni: Tech Venture Conference Companies selects@Zaloni as one of the top presenters http://t.co/ZtVoDKLWdF #bigdata #tvd15 http://t.c…
+I scheduled a Red Cross blood donation. Join me to help save lives: Keystone Park Tech 7, Building 400 http://t.co/41WE3IrE9S
+Hadoop for business: Analytics across industries http://t.co/FhrZIFVgJv
+Saving Big Data from Big Mouths - Scientific American http://t.co/Yb9xpe3yLd
+RT @indizen_insight: Why is Splitting up the Data So Important? http://t.co/NkqdScf1rb #bigdata via @datanami
+Got Big Data? Check out my latest article at datanami https://t.co/ZH7apLB8DZ
+Be Heard with the Spark Survey http://t.co/7Q4ksQ4nc1
+RT @mktgstella: MapR is looking for Field Marketing Manager - West Region http://t.co/h50o0hA2QL #job
+https://t.co/hw6Mf1iZx0 https://t.co/TlQP7pboHg
+12 Major Mistake Companies Make With Big Data http://t.co/7KUpPXtQa0
+RT @koreabigdata: #Azure adopts #spark and #apachezeppelin http://t.co/5lZC8YRe1W	@jeffbarr when will #aws do the same?
+Big Data Discovery Is The Next Big Trend In Analytics https://t.co/v1uaEhf1PX
+RT @maslett: For @451Research clients: @zaloni offers Bedrock as the foundation for managed Hadoop data lakes http://t.co/7QkB0eM8bV
+RT @bigdata: .@ApacheSpark 1.4.0 release introduces several major visualization additions to the Spark UI https://t.co/ZJxlNr6euk http://t.…
+Nice article. This statement is a bit off though: "Spark will do better minus the load time from HDFS so long as the…https://t.co/tNTZnHcjhk
+RT @thoughtworks: Business requirements reinforce an order-taking approach that is flawed. @BarryOReilly -http://t.co/r1fQlrRqLw http://t.c…
+IBM's "belief is anyone using data in the future is going to be leveraging Spark. It allows universal access to data" http://t.co/gennoE4O8j
+@IBMcloud @jcmason DNA is "data", right? So I don't think you can say more data has been created in the last two yrs vs ever!
+MapR Targets Hadoop's Batch Constraints with 5.0 http://t.co/d3rCdjKK4j via @datanami
+RT @mktgstella: Does MapR Leave Cloudera and Hortonworks in the Dust? http://t.co/lB3J6TxmvE via @CMSWire
+"Here moves a thread that has no end" Led #zeppelin #hadoopsummit  https://t.co/oS9igEd4on
+Apache Spark makes tapping into multiple data sources (structured or not) easy. It wants to be the data scientist's…https://t.co/5zhumOzrPa
+RT @Datafloq: Spark Reaches for the Holy Grail: Federated Queries - by @cslukasi http://t.co/uxFnUNu54b #BigData #Spark
+RT @hortonworks: #hadoop and the #internetofthings go together like bread and butter. Find out more: http://t.co/qbd0do3QPv http://t.co/hmt…
+RT @WSJecon: How a bank will use 'big data' to study the U.S. economy http://t.co/wDwS2bqjZ6 http://t.co/FFFhZFUFCw
+I just asked NC lawmakers to support fair funding for ALL NC Public Schools. Click http://t.co/gXovYH3Mhd to do the same!  #fairfundsNC
+RT @zaloni: Why the right #DataManagement platform matters for production #Hadoop http://t.co/3rhymVwUuE #DataQuality #Metadata http://t.co…
+RT @NCEducator: Families deserve quality &amp; choice. #schoolchoice #ChartersChangeLives #edchat  https://t.co/l8z9bTPJZC
+RT @bigdata: Automated trading on Internet content - high-speed trading via web-reading bots http://t.co/tqMrqJEeIz
+RT @ApacheSpark: Apache Spark 1.3.1 and 1.2.2 are here! http://t.co/F4aDMvwcnv Download and upgrade today: http://t.co/lpdNhpJ7MX
+RT @benatzaloni: #PrecisionMedicine top priority of US #DataScience Chief DJ Patil @dpatil http://t.co/rT5nYwdMig via @sciam #bigdata
+"The Notebook, A Geek's Love Story " by @cslukasi on @LinkedIn https://t.co/ikMZjDODc0
+CenturyLinkVoice: Are Your Systems Ready For The Big Data Explosion? 3 Key Database Strategy... http://t.co/zRqnjFqqev
+RT @zaloni: "Thoughts from Ben, Zaloni CEO: Looking Ahead into 2015" http://t.co/cIiVKbvCIs by @zaloni #Hadoop #BigData #DataLake http://t.…
+In a webinar. QnA time. Presenter begins every answer with "great question." Makes it seem like this is the first time he's been questioned.
+RT @databricks: Announcing Spark 1.3 - DataFrames and loads of other features! Read more on our blog: http://t.co/k8InaopJzv @databricks @A…
+Watch Spark Summit East - Track A on @livestream: http://t.co/aOg81vTzsh
+RT @zaloni: Is Metadata Management really that hard in Hadoop? Not with Bedrock http://t.co/wYMiXapyBu http://t.co/MOT5LSdVks
+@zaloni is helping our clients reduce MIPS. https://t.co/8gIOeGWPHo
+RT @zaloni: "Why Schema and Metadata Matter in Hadoop Data Management" http://t.co/ETbrHxbxi9 #bigdata #hadoop #metadata #schema http://t.c…
+RT @analyticbridge: Big Data thinking - What makes Big Data different? http://t.co/u0GswxR0TC
+RT @benatzaloni: 2/ Big data must not be a separate store of data but part of the overall enterprise and data architecture  http://t.co/RCf…
+Outlaw Yoga: Tadasana Breakdown - Online Technique Workshops Class with Outlaw Yoga: http://t.co/fvEdgP4eGb
+RT @rxin: Spark "hall of fame": 8000+ nodes in a single cluster, 1PB+/day ingest, mapping the brain at scale, shuffling 1PB http://t.co/zBx…
+RT @CSUSAhq: Charlotte Observer #OpEd: Better way to assess a school	http://t.co/pxAGuDD7uA #ednews
+RT @zaloni: 80% of webinar attendees evaluating requirements, or experimenting with Data Lake #gigaomresearch #datalake #bigdata http://t.c…
+RT @Econlib: Why isn't Condorcet's paradox taught in #k12? Should it be? @mungowitz says yes. http://t.co/eBPadd1Fqj @EconTalker
+Data Management for Production Hadoop Data Lakes http://t.co/kVjKdGcP71
+RT @Forbes: Data is rapidly becoming the common currency within leading organizations: http://t.co/7oRjQd6k7U
+"Abraham Lincoln, an Agile and Big Data Advocate" by @cslukasi on @LinkedIn https://t.co/KQ6m4EpQyi
+Data Management for Production Hadoop Data Lakes http://t.co/V29y14ruph via @gigaomresearch
+A true master http://t.co/2lgzzp7j4L
+RT @TEDTalks: "Big data is going to transform how we live, how we work, and how we think." Here's how: http://t.co/qaV15mKY9z
+RT @DataScienceCtrl: 4 Ways Big Data Is Transforming Healthcare http://t.co/KEk2wzzn9W @BernardMarr
+RT @WRAL: New blog post: Google schedules press conference Tuesday with Gov. McCrory http://t.co/TuX28Nu8sY #wral
+RT @HiveData: A fifth of cars will have joined the IoT by 2020 - and kitchens will be next http://t.co/cyfXHL4ioZ #IoT #bigdata
+Andreessen Horowitz Reveals 16 Hot Tech Trends It's Watching http://t.co/iLHSyQHdYC via @forbes
+Leverage the power of Apache Spark in a Managed Data Pipeline. https://t.co/m2uP9msFvp http://t.co/fC79r7CM6x
+RT @benatzaloni: "Bedrock 3.1 is here!" #Hadoop Data Quality, Hadoop Inventory Dashboard, Managed Data Pipelines and more http://t.co/EDZDO…
+RT @databricks: Announcing Spark Packages - a portal to track the exploding number of community libraries for Spark! http://t.co/NEmdcwtR8w
+Why you'll be hearing 'Hadoop' a lot in 2015 http://t.co/0CPt6aQFPU
+RT @ForbesTech: Here are ten ways that big data is revolutionizing manufacturing: http://t.co/ebQlVlz8QM
+RT @HouseofKarls: What else can #BigData do? #houseofkarls http://t.co/waUnDubk7F
+RT @zaloni: "Databricks Launches Spark Certification Program for Systems Integrators" @Zaloni included http://t.co/vJfREN0Jrm by @YahooFina…
+RT @s8mb: A nematode worm's brain has been mapped, simulated in software &amp; put into a lego robot which now *acts like a worm* http://t.co/8…
+RT @KentBeck: as an engineer, you should constantly work to make your feedback loops shorter in time and/or wider in scope
+RT @newscientist: Some schools are teaching typing instead of handwriting &amp; it's changing the way our kids think http://t.co/xgGQQ9beBg htt…
+What happens when a NICU stops throwing out data https://t.co/bqUdssLEnx
+RT @gwenshap: If you want to be a big-data ETL expert, you can't avoid Spark, and we recommend you learn Scala. @TedMalaska #Strataconf
+Zaloni &amp; MapR Technologies helped IRI offload mainframe extraction to Hadoop, increasing throughput from 600K rec/se…http://t.co/GvzaOczk1A
+Waiting for Hadoop is like Waiting for Godot, says Gartner http://t.co/Rk28XkWcDZ
+Spark and women in tech https://t.co/3ju6phxcH1
+#Strataconf #playlist 2014: http://t.co/nhrIrsn8dD
+RT @mapr: Headed to #StrataConf and #HadoopWorld tomorrow? We've got 3 Wednesday sessions on tap for you: http://t.co/8m9632i6Rt
+RT @datanami: Off The Wire: @Zaloni Announces Partnership with @MapR http://t.co/3ACzICXajf #Hadoop #BigData
+Durham-based Zaloni is hiring, competing in SAS big-data arena http://t.co/NANQ9mOUfI
+RT @zaloni: We are hiring again!  US and India locations.  http://t.co/mOyp5eYxIU We can meet you at @hadoopworld @strataconf
+Career http://t.co/x6dySVY9s4
+Application Support Engineer http://t.co/QxPpF1taDV
+You can test-drive Lumify at https://t.co/5EtoOwx6o5 http://t.co/OrCvTzQ2r9
+Developers can forget Excel for graphs and charts https://t.co/FgBQhRgoUk
+RT @HarvardBiz: Millennials aren't that into golf -- they prefer running instead http://t.co/tI7MbUR5MK
+Help Save the Lake https://t.co/wN3DGJ1Zit
+Germany’s 12th Man at the World Cup: Big Data - The CIO Report - WSJ http://t.co/JjLsHuGwlQ via @WSJ
+@aprilsage This video is from the @hadoopsummit: https://t.co/f7mV9uqUgQ - interesting ways to use @hadoop and #machinelearning for security
+http://t.co/nNxaayKUju @Accenture / @Cloudera alliance underscores a desire for simplicity and clarity in a fast-evolving ecosystem. Smart?
+Great talk!  BI on Hadoop: How Hadoop and the New Interactive Query Engines Change the Game Forever #hadoopsummit http://t.co/G7YmJdRcvi
+RT @HarvardBiz: The Right Colors Make Data Easier To Read http://t.co/GGNLChLpPK
+"Big Data: ... better football managers? http://t.co/oN5y1SPnoU" I would love to see this system's analysis run on a toddler soccer team.
+RT @saxman7000: Agile Is Dead (Long Live Agility) - PragDave http://t.co/96dERPBSSD
+‘Za’ is a word, but ‘ok’ isn’t? Scrabble finally updating its official dictionary http://t.co/fCXyqsHsTt
+Termite-inspired robots, construction crews of the future?		http://t.co/okYC8TMzhS		We can start by building LegoLand II perhaps...
+RT @nytimeshealth: Doctors Who Profit From Radiation Prescribe It More Often, Study Finds http://t.co/xGWGan4qL8
+RT @DoctorKarl: Students, check out the NCSS Challenge: an online programming competition that teaches you to program http://t.co/fTLeKzYdS9
+RT @StephenAtHome: The Pope only has two days left in office. I bet he's got a serious case of Monsignoritis.
+RT @ThePunographer: If Hollywood found a way to make a 'Weekend At Bernie's 2' you can find a way to get through the day no matter how b ...
+RT @blackrock: The number of workers age 50+ is soaring—from 20% of the workforce in 1996 to 31% today http://t.co/cZVmc5hQ #DailyStat
+RT @runnersworld: STUDY: More is better for mid-marathon carbs (if your stomach can take them). http://t.co/oTZlrz92
